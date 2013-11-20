@@ -1,0 +1,73 @@
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+ contributor license agreements.  See the NOTICE file distributed with
+ this work for additional information regarding copyright ownership.
+ The ASF licenses this file to You under the Apache License, Version 2.0
+ (the "License"); you may not use this file except in compliance with
+ the License.  You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<add>
+<doc>
+  <field name="id">SP2514N</field>
+  <field name="name">Bill Gates</field>
+  <field name="caption">Gates in 2013</field>
+  <!-- Join -->
+  <field name="birthname">William Henry Gates III</field>
+  <field name="birthdate">1955-10-28T00:00:00Z</field>
+  <field name="birthplace">Seattle, Washington (state), US</field>
+  <field name="residence">Medina Washington, US</field>
+  <field name="almamater">Harvard University</field>
+  <field name="occupation">Chairman of Microsoft, Co-Chair of the Bill Melinda Gates Foundation, CEO of Cascade Investment, Chairman of Corbis</field>
+  <field name="yearsactive">1975–present</field>
+  <field name="first_wife">Melinda Gates</field>
+  <field name="first_children">Jennifer</field>
+  <field name="second_children">Rory</field>
+  <field name="third_children">Phoebe</field>
+  <field name="parents">William H. Gates Sr., Mary Maxwell Gates</field>
+  <field name="website">http://www.thegatesnotes.com|TheGatesNotes.com</field>
+</doc>
+<doc>
+  <field name="id">SP2515N</field>
+  <field name="name">Rajinikanth</field>
+  <field name="caption">Rajinikanth at the audio release of Enthiran in 2010</field>
+  <!-- Join -->
+  <field name="birthname">Shivaji Rao Gaikwad</field>
+  <field name="birthdate">1950-12-12T00:00:00Z</field>
+  <field name="birthplace">Bangalore, Mysore State, India</field>
+  <field name="residence">Chennai, Tamil Nadu, India</field>
+  <field name="almamater"></field>
+  <field name="occupation">Film actor, producer, screenwriter</field>
+  <field name="yearsactive">1975–present</field>
+  <field name="first_wife">Latha Rangachari</field>
+  <field name="first_children">Aishwarya Rajinikanth</field>
+  <field name="second_children">Soundarya Rajinikanth</field>
+  <field name="parents">William H. Gates Sr., Mary Maxwell Gates</field>
+  <field name="height">5.8</field>
+</doc>
+<doc>
+  <field name="id">SP2516N</field>
+  <field name="name">Pierce Brosnan</field>
+  <field name="caption">Brosnan at the 2002 Cannes Film Festival for the press conference of Die Another Day</field>
+  <!-- Join -->
+  <field name="birthname">Pierce Brendan Brosnan</field>
+  <field name="birthdate">1950-05-16T00:00:00Z</field>
+  <field name="birthplace">Drogheda, County Louth, Ireland</field>
+  <field name="residence">Navan, County Meath, Ireland</field>
+  <field name="religion">Catholic</field>
+  <field name="occupation">Actor, producer, environmentalist</field>
+  <field name="yearsactive">1975–present</field>
+  <field name="first_wife">Cassandra Harris</field>
+  <field name="second_wife">Keely Shaye Smith</field>
+  <field name="title">Pierce Brosnan talks about his deep Catholic faith</field>
+</doc>
+</add>
+
