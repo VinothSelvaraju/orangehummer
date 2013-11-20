@@ -10,3 +10,5 @@ Steps for executions for windows
 			
 Miscellaneous:
 	1) Logs will be written to $HOME\code\Solr\logs\solr.log . Keep monitoring.
+
+Test
