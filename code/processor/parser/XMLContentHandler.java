@@ -1,16 +1,23 @@
 
 import java.io.BufferedWriter;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.io.File;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
  
+
+
+
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.Document;
@@ -123,11 +130,6 @@ public class XMLContentHandler extends DefaultHandler {
 					doc.appendChild(rootElement); 			//and append it to the newly created document
 				}
 				
-				// root elements
-				//Document doc = docBuilder.newDocument();
-				//Element rootElement = doc.createElement("add");
-				//doc.appendChild(rootElement);
-		 
 				// document elements
 				Element document = doc.createElement("doc");
 				rootElement.appendChild(document);		
@@ -151,6 +153,7 @@ public class XMLContentHandler extends DefaultHandler {
 				// write the content into xml file
 				TransformerFactory transformerFactory = TransformerFactory.newInstance();
 				Transformer transformer = transformerFactory.newTransformer();
+				transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 				DOMSource source = new DOMSource(doc);
 				StreamResult result = new StreamResult(new File("D:\\Infoboxinxml.xml"));
 		 
@@ -304,8 +307,48 @@ public class XMLContentHandler extends DefaultHandler {
 				j++;
 			}
 			String rem1 = this.markupRemover(newStringBuf.toString());
-			//String markedupText = rem1.replace("|", "");
-			String [] entry = rem1.split(" \\| ");
+			
+			
+			String regex1 = "\\{\\{B(.*?)\\}\\}";
+			Pattern p2 = Pattern.compile(regex1, Pattern.CASE_INSENSITIVE);
+			Matcher m2 = p2.matcher(rem1);
+			String newString = null;
+			String workgroup1 = "";
+			String workgroup0 = "";
+			while(m2.find()){
+				workgroup0 = m2.group(0);
+				System.out.println(workgroup0);
+				workgroup1 = m2.group(1);
+				System.out.println(workgroup1);
+				 newString = workgroup1.replaceAll("[^0-9|]", "");
+				 newString = newString.replaceAll("\\|"," ");
+				 newString = newString.trim();
+				 newString = newString.replaceAll(" ", "-");
+				 
+				System.out.println(newString);
+				
+			}
+			rem1=rem1.replaceAll("\\{\\{B(.*?)\\}\\}", newString);
+			rem1=rem1.replaceAll("\\{\\{b(.*?)\\}\\}", newString);
+				/*String s3[] = workgroup1.split("\\|");
+				int itr;
+				for(itr=0;itr<=s3.length;itr++){
+					System.out.println(s3[itr]);
+					if(!s3[0].equals("and age")){
+						if(s3[3].equalsIgnoreCase("mf=y") || s3[3].equalsIgnoreCase("mf=yes")){
+							String date = s3[0]+s3[1]+s3[2];
+							System.out.println(date);
+						}
+						else if(s3[4].equalsIgnoreCase("df=y") || s3[4].equalsIgnoreCase("df=yes")){
+							String date = s3[1]+s3[3]+s3[2];
+							System.out.println(date);
+						}
+					}
+				}
+			}*/
+			
+			
+			String [] entry = rem1.split(" *\\| *");
 			HashMap<String,String> entryMap = new HashMap<String,String>();
 			
 			int itr = 0;
