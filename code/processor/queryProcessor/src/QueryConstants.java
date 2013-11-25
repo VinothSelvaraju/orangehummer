@@ -23,6 +23,7 @@ public class QueryConstants {
 	static String facetPersonFile = "facetPerson.json";
 	static String facetPlaceFile = "facetPlace.json";
 	static String facetFilmFile = "facetFilm.json";
+	static String facetQueryExpansion = "facetExpansion.json";
 	
 	static String queryMainTag = "name";
 	static String queryTypeTag = "type";

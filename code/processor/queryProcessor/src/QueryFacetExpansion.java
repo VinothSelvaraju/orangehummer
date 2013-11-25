@@ -1,26 +1,25 @@
 import java.util.Arrays;
 
-public class QueryFacet {
+public class QueryFacetExpansion {
 
-	public static Query queryMap(String type) {
+	public static Query queryMap(String[] facetStr) {
 		// QueryStr -> where was rajinikanth born
 
 		Query query = null;
 		String queryStr;
 		try {
-			if (type == null || type.equalsIgnoreCase(""))
+			if (facetStr.length == 0)
 
 				throw new Exception(
-						"Type not available. Query faceting not possible");
+						"Type not available. Query faceting expansion not possible");
 
 			try {
 				query = new Query();
-				queryStr = QueryConstants.queryAllFetch;
+				queryStr = QueryConstants.facettagger.get(facetStr[0].toLowerCase())+":\""+facetStr[1]+"\"";
 				query.setQueryStr(queryStr);
-				query.setFacet(true);
-				query.addFilterQuery(QueryConstants.queryTypeTag, type);
-				query.setFacetField(QueryConstants.facettagger.get(type
-						.toLowerCase()));
+				query.addField(QueryConstants.queryMainTag);
+				query.addField(QueryConstants.facettagger.get(facetStr[0].toLowerCase()));
+				query.addFilterQuery(QueryConstants.queryTypeTag, facetStr[0].toLowerCase());
 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
@@ -38,21 +37,20 @@ public class QueryFacet {
 
 		try {
 			if (args.length == 0) {
-				throw new Exception("Required Java args : FileDirec type");
+				throw new Exception("Required Java args : FileDirec type facetTerm");
 			}
 			System.out.println(Arrays.asList(args));
 			QueryConstants.UIDirc = args[0];
 			String[] queryStr = new String[args.length - 1];
 			for (int i = 1; i < args.length; i++)
 				queryStr[i - 1] = args[i];
-			Query query = QueryFacet.queryMap(queryStr[0]);
+			Query query = QueryFacetExpansion.queryMap(queryStr);
 
 			QuerySearch
 					.queryResults(
 							query,
 							QueryConstants.UIDirc
-									+ QueryConstants.facetFileTagger
-											.get(queryStr[0].toLowerCase()));
+									+ QueryConstants.facetQueryExpansion);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
