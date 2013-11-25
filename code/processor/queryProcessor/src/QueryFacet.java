@@ -18,7 +18,8 @@ public class QueryFacet {
 				queryStr = QueryConstants.queryAllFetch;
 				query.setQueryStr(queryStr);
 				query.setFacet(true);
-				query.setFacetField(QueryConstants.facettagger.get(type.toLowerCase()));
+				query.setFacetField(QueryConstants.facettagger.get(type
+						.toLowerCase()));
 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
@@ -31,19 +32,26 @@ public class QueryFacet {
 		}
 		return query;
 	}
-	
+
 	public static void main(String[] args) {
-		
+
 		try {
-		System.out.println(Arrays.asList(args));
-		if(args.length != 1) {
-			
-				throw new Exception ("Type not available. Query faceting not possible");
-			
-		}
-		Query query = QueryFacet.queryMap(args[0]);
-		
-		QuerySearch.queryResults(query,QueryConstants.UIDirc+QueryConstants.facetFileTagger.get(args[0].toLowerCase()));
+			if (args.length == 0) {
+				throw new Exception("Required Java args : FileDirec type");
+			}
+			System.out.println(Arrays.asList(args));
+			QueryConstants.UIDirc = args[0];
+			String[] queryStr = new String[args.length - 1];
+			for (int i = 1; i < args.length; i++)
+				queryStr[i - 1] = args[i];
+			Query query = QueryFacet.queryMap(queryStr[0]);
+
+			QuerySearch
+					.queryResults(
+							query,
+							QueryConstants.UIDirc
+									+ QueryConstants.facetFileTagger
+											.get(args[0].toLowerCase()));
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

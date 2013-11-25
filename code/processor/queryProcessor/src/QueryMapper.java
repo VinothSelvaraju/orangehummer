@@ -59,7 +59,7 @@ public class QueryMapper {
 //		}
 		
 		if(key != null) {
-			if(value != null && Arrays.asList(valueFields).contains(queryStrArr[0])) {
+			if(value != null && Arrays.asList(valueFields).contains(queryStrArr[1])) {
 				fields.add(number+key+value);
 			}
 		}
