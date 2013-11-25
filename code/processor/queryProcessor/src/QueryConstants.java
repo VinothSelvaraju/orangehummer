@@ -17,7 +17,7 @@ public class QueryConstants {
 	static boolean solrDoOutput = true;
 	static boolean solrIndent = true;
 
-	static String UIDirc = ".."+File.separator+"userInterface"+File.separator+"docs"+File.separator;
+	static String UIDirc = ".."+File.separator+".."+File.separator+"userInterface"+File.separator+"docs"+File.separator;
 	static String queryFile = "queryOutput.txt";
 	static String facetPersonFile = "facetPerson.txt";
 	static String facetPlaceFile = "facetPlace.txt";
