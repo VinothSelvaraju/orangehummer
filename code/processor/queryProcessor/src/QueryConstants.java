@@ -9,7 +9,7 @@ public class QueryConstants {
 	// "C:\\Pals\\Graduate_Course\\Subjects\\Information_Retrieval\\Project\\Project 2\\Downloads\\stanford-postagger-2013-06-20\\stanford-postagger-2013-06-20\\models\\english-left3words-distsim.tagger";
 	static String solrRequestMethod = "GET";
 	static String solrEncodeType = "UTF-8";
-	static String solrRequestFormat = "JSON";
+	static String solrRequestFormat = "json";
 	static String solrContentType = "application/x-www-form-urlencoded";
 	static String solrContentLanguage = "en-US";
 	static boolean solrCaches = false;
@@ -18,10 +18,10 @@ public class QueryConstants {
 	static boolean solrIndent = true;
 
 	static String UIDirc = ".."+File.separator+".."+File.separator+"userInterface"+File.separator+"docs"+File.separator;
-	static String queryFile = "queryOutput.txt";
-	static String facetPersonFile = "facetPerson.txt";
-	static String facetPlaceFile = "facetPlace.txt";
-	static String facetFilmFile = "facetFilm.txt";
+	static String queryFile = "queryOutput.json";
+	static String facetPersonFile = "facetPerson.json";
+	static String facetPlaceFile = "facetPlace.json";
+	static String facetFilmFile = "facetFilm.json";
 	
 	static String queryMainTag = "name";
 	static String queryAllFetch = "*:*";
