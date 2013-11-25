@@ -1,0 +1,57 @@
+<!-- Django Base Template -->
+<html>
+<head>
+<title>Orange Hummer Q&A System</title>
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="wrapper">
+		
+		<div id="header" class="navbar navbar-inverse navbar-static-top" role="navigation">
+		
+			<div class="navbar-header">
+		
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<i class="icon-menu"></i>
+				</button>
+				<a class="navbar-brand" href="/">Orange Hummer</a>
+		
+			</div>
+			<p class="navbar-text hidden-xs">
+				A smarter way to do Q&A
+			</p>
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+		
+				<ul class="nav navbar-nav navbar-right">
+		
+					<li class="about">
+						<a href="/about">About Us</a>
+					</li>
+					<li class="contact">
+						<a href="/contact.html">Contact Us</a>
+					</li>
+					<li class="howitworks">
+						<a href="/howitworks.html">How it works</a>
+					</li>
+		
+				</ul>
+		
+			</div>
+		
+        </div>
+        {% block content %}
+
+        {% endblock content %}
+
+        
+    </div>
+    {% block css %}
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    {% endblock css %}
+    {% block other_css %}
+    {% endblock other_css %}
+</body>
+</html>
+
