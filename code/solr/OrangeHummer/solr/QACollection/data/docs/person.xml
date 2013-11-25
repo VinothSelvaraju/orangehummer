@@ -26,7 +26,10 @@
   <field name="birthplace">Seattle, Washington (state), US</field>
   <field name="residence">Medina Washington, US</field>
   <field name="almamater">Harvard University</field>
-  <field name="occupation">Chairman of Microsoft, Co-Chair of the Bill Melinda Gates Foundation, CEO of Cascade Investment, Chairman of Corbis</field>
+  <field name="occupation">Chairman of Microsoft</field>
+  <field name="occupation">Co-Chair of the Bill Melinda Gates Foundation</field>
+  <field name="occupation">CEO of Cascade Investment</field>
+  <field name="occupation">Chairman of Corbis</field>
   <field name="yearsactive">1975–present</field>
   <field name="first_wife">Melinda Gates</field>
   <field name="first_children">Jennifer</field>
@@ -45,7 +48,9 @@
   <field name="birthplace">Bangalore, Mysore State, India</field>
   <field name="residence">Chennai, Tamil Nadu, India</field>
   <field name="almamater"></field>
-  <field name="occupation">Film actor, producer, screenwriter</field>
+  <field name="occupation">Film actor</field>
+  <field name="occupation">producer</field>
+  <field name="occupation">screenwriter</field>
   <field name="yearsactive">1975–present</field>
   <field name="first_wife">Latha Rangachari</field>
   <field name="first_children">Aishwarya Rajinikanth</field>
@@ -63,7 +68,9 @@
   <field name="birthplace">Drogheda, County Louth, Ireland</field>
   <field name="residence">Navan, County Meath, Ireland</field>
   <field name="religion">Catholic</field>
-  <field name="occupation">Actor, producer, environmentalist</field>
+  <field name="occupation">Actor</field>
+  <field name="occupation">producer</field>
+  <field name="occupation">environmentalist</field>
   <field name="yearsactive">1975–present</field>
   <field name="first_wife">Cassandra Harris</field>
   <field name="second_wife">Keely Shaye Smith</field>
