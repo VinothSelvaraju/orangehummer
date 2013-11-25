@@ -13,6 +13,8 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
 
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServer;
@@ -77,8 +79,8 @@ public class QuerySearch {
 	}
 
 	public static void responseToFile(StringBuffer response, String file) {
-		
-		System.out.println("File :: "+file);
+
+		System.out.println("File :: " + file);
 		BufferedWriter out;
 		try {
 			out = new BufferedWriter(new FileWriter(file));
@@ -130,6 +132,17 @@ public class QuerySearch {
 				urlParameters += "&facet.field="
 						+ URLEncoder.encode(query.getFacetField(),
 								QueryConstants.solrEncodeType);
+			if (!query.getFilterQuery().isEmpty()) {
+				for (Map.Entry<String, String> entry : query.getFilterQuery()
+						.entrySet()) {
+					urlParameters += "&fq="
+							+ URLEncoder.encode(
+									entry.getKey() + ":" + entry.getValue(),
+									QueryConstants.solrEncodeType);
+
+				}
+
+			}
 			urlParameters += "&wt="
 					+ URLEncoder.encode(QueryConstants.solrRequestFormat,
 							QueryConstants.solrEncodeType);

@@ -8,13 +8,20 @@ import org.apache.solr.client.solrj.SolrQuery;
 public class Query {
 
 	private String queryStr;
-	private ArrayList<String> filterQuery;
 	private ArrayList<String> field;
 	private Integer start;
 	private Map<String, ArrayList<String>> param;
 	private Boolean facet = false;
 	private String facetField;
 	private String facetQuery;
+	private Map<String,String> filterQuery;
+	
+	public Query() {
+		field = new ArrayList<String>();
+		start = new Integer(-1);
+		param = new HashMap<String, ArrayList<String>>();
+		filterQuery = new HashMap<String,String>();
+	}
 	
 	public Boolean getFacet() {
 		return facet;
@@ -40,13 +47,6 @@ public class Query {
 		this.facetQuery = facetQuery;
 	}
 
-	public Query() {
-		filterQuery = new ArrayList<String>();
-		field = new ArrayList<String>();
-		start = new Integer(-1);
-		param = new HashMap<String, ArrayList<String>>();
-	}
-	
 	public String getQueryStr() {
 		return queryStr;
 	}
@@ -55,12 +55,12 @@ public class Query {
 		this.queryStr = queryStr;
 	}
 
-	public ArrayList<String> getFilterQuery() {
+	public Map<String, String> getFilterQuery() {
 		return filterQuery;
 	}
 
-	public void setFilterQuery(String filterComponent) {
-		this.filterQuery.add(filterComponent);
+	public void addFilterQuery(String key, String value) {
+		this.filterQuery.put(key,value);
 	}
 
 	public ArrayList<String> getField() {

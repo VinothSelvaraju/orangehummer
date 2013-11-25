@@ -16,14 +16,16 @@ public class QueryConstants {
 	static boolean solrDoInput = true;
 	static boolean solrDoOutput = true;
 	static boolean solrIndent = true;
+	
 
-	static String UIDirc = ".."+File.separator+".."+File.separator+"userInterface"+File.separator+"docs"+File.separator;
+	static String UIDirc;
 	static String queryFile = "queryOutput.json";
 	static String facetPersonFile = "facetPerson.json";
 	static String facetPlaceFile = "facetPlace.json";
 	static String facetFilmFile = "facetFilm.json";
 	
 	static String queryMainTag = "name";
+	static String queryTypeTag = "type";
 	static String queryAllFetch = "*:*";
 
 	static Map<String, String> fieldtagger;

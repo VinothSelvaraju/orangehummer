@@ -18,6 +18,7 @@
 <add>
 <doc>
   <field name="id">SP2514N</field>
+  <field name="type">person</field>
   <field name="name">Bill Gates</field>
   <field name="caption">Gates in 2013</field>
   <!-- Join -->
@@ -40,6 +41,7 @@
 </doc>
 <doc>
   <field name="id">SP2515N</field>
+  <field name="type">person</field>
   <field name="name">Rajinikanth</field>
   <field name="caption">Rajinikanth at the audio release of Enthiran in 2010</field>
   <!-- Join -->
@@ -60,6 +62,7 @@
 </doc>
 <doc>
   <field name="id">SP2516N</field>
+  <field name="type">person</field>
   <field name="name">Pierce Brosnan</field>
   <field name="caption">Brosnan at the 2002 Cannes Film Festival for the press conference of Die Another Day</field>
   <!-- Join -->

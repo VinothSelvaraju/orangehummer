@@ -10,14 +10,15 @@ public class QueryMapper {
 		Query query = null;
 		String queryStr;
 		try {
-			if (queryStrArr.length < 4) {
+			if (queryStrArr.length < 5) {
 
 				throw new Exception("Query not sufficiently formed");
 
 			}
 			query = new Query();
-			queryStr = QueryConstants.queryMainTag+":"+queryStrArr[2];
+			queryStr = QueryConstants.queryMainTag+":"+queryStrArr[3];
 			query.setQueryStr(queryStr);
+			query.addFilterQuery(QueryConstants.queryTypeTag, queryStrArr[0]);
 			query.addField(QueryConstants.queryMainTag);
 			query.addFieldCollection(fieldMapper(queryStrArr));
 		} catch (Exception e) {
@@ -33,9 +34,9 @@ public class QueryMapper {
 		//Case to answer dynamic query
 		//first_ , second_
 		String number = ""; 
-		if(queryStrArr.length == 5) {
-			if(queryStrArr[4] != "") {
-				number = queryStrArr[4]+"_";
+		if(queryStrArr.length == 6) {
+			if(queryStrArr[5] != "") {
+				number = queryStrArr[5]+"_";
 			}
 		}
 			
@@ -46,8 +47,8 @@ public class QueryMapper {
 		//key will have born
 		//value will where, when
 		String[] valueFields = {"where","when"};
-		String key = QueryConstants.fieldtagger.get(queryStrArr[3]);
-		String value = QueryConstants.fieldtagger.get(queryStrArr[0]);
+		String key = QueryConstants.fieldtagger.get(queryStrArr[4]);
+		String value = QueryConstants.fieldtagger.get(queryStrArr[1]);
 		//System.out.println(key +" :: "+value);
 //		if(key == null) {
 //			key = queryStrArr[3];
@@ -69,7 +70,7 @@ public class QueryMapper {
 		//value not to be considered
 		if(fields.size() == 0) {
 			if(key == null) {
-				key = queryStrArr[3];
+				key = queryStrArr[4];
 			}
 			fields.add(number+key);
 		}
@@ -81,9 +82,19 @@ public class QueryMapper {
 	public static void main(String[] args) {
 		
 		//String queryStrArr[] = { "what", "was", "*bill gate*", "occupation"};
+		try {
+		if(args.length == 0) {
+			throw new Exception("Required Java args : FileDirec type what was rajini occupation");
+		}
 		System.out.println(Arrays.asList(args));
-		Query query = QueryMapper.queryMap(args);
+		QueryConstants.UIDirc = args[0];
+		String[] queryStr = new String[args.length-1];
+		for(int i = 1; i<args.length;i++)
+			queryStr[i-1] = args[i];
+		Query query = QueryMapper.queryMap(queryStr);
 		QuerySearch.queryResults(query,QueryConstants.UIDirc+QueryConstants.queryFile);
-
+		}catch(Exception e) {
+			
+		}
 	}
 }
