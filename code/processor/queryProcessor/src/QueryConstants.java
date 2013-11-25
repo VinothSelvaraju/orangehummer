@@ -1,3 +1,4 @@
+import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -16,6 +17,12 @@ public class QueryConstants {
 	static boolean solrDoOutput = true;
 	static boolean solrIndent = true;
 
+	static String UIDirc = ".."+File.separator+"userInterface"+File.separator+"docs"+File.separator;
+	static String queryFile = "queryOutput.txt";
+	static String facetPersonFile = "facetPerson.txt";
+	static String facetPlaceFile = "facetPlace.txt";
+	static String facetFilmFile = "facetFilm.txt";
+	
 	static String queryMainTag = "name";
 	static String queryAllFetch = "*:*";
 
@@ -34,6 +41,16 @@ public class QueryConstants {
 	static {
 		facettagger = new HashMap<String, String>();
 		facettagger.put("person", "occupation");
+
+	}
+	
+	static Map<String, String> facetFileTagger;
+
+	static {
+		facetFileTagger = new HashMap<String, String>();
+		facetFileTagger.put("person", facetPersonFile);
+		facetFileTagger.put("place", facetPlaceFile);
+		facetFileTagger.put("film", facetFilmFile);
 
 	}
 }

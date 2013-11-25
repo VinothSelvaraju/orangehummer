@@ -76,4 +76,14 @@ public class QueryMapper {
 		
 		return fields;
 	}
+	
+	
+	public static void main(String[] args) {
+		
+		//String queryStrArr[] = { "what", "was", "*bill gate*", "occupation"};
+		System.out.println(Arrays.asList(args));
+		Query query = QueryMapper.queryMap(args);
+		QuerySearch.queryResults(query,QueryConstants.UIDirc+QueryConstants.queryFile);
+
+	}
 }

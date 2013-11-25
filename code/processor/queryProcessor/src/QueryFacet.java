@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class QueryFacet {
 
 	public static Query queryMap(String type) {
@@ -16,7 +18,7 @@ public class QueryFacet {
 				queryStr = QueryConstants.queryAllFetch;
 				query.setQueryStr(queryStr);
 				query.setFacet(true);
-				query.setFacetField(QueryConstants.facettagger.get(type));
+				query.setFacetField(QueryConstants.facettagger.get(type.toLowerCase()));
 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
@@ -28,6 +30,24 @@ public class QueryFacet {
 			e1.printStackTrace();
 		}
 		return query;
+	}
+	
+	public static void main(String[] args) {
+		
+		try {
+		System.out.println(Arrays.asList(args));
+		if(args.length != 1) {
+			
+				throw new Exception ("Type not available. Query faceting not possible");
+			
+		}
+		Query query = QueryFacet.queryMap(args[0]);
+		
+		QuerySearch.queryResults(query,QueryConstants.UIDirc+QueryConstants.facetFileTagger.get(args[0].toLowerCase()));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 }

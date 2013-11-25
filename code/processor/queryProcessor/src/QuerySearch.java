@@ -1,5 +1,8 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.DataOutputStream;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -21,7 +24,7 @@ import org.noggit.JSONUtil;
 
 public class QuerySearch {
 
-	public static void queryResults(Query query) {
+	public static void queryResults(Query query, String file) {
 		URL url;
 		HttpURLConnection connection = null;
 		try {
@@ -58,7 +61,8 @@ public class QuerySearch {
 				response.append('\r');
 			}
 			rd.close();
-			responseToFile(response);
+			if (file != null && !file.equalsIgnoreCase(""))
+				responseToFile(response, file);
 			System.out.println(response);
 		} catch (Exception e) {
 
@@ -72,7 +76,19 @@ public class QuerySearch {
 		}
 	}
 
-	public static void responseToFile(StringBuffer response) {
+	public static void responseToFile(StringBuffer response, String file) {
+		
+		System.out.println("File :: "+file);
+		BufferedWriter out;
+		try {
+			out = new BufferedWriter(new FileWriter(file));
+			out.write(response.toString());
+			out.flush();
+			out.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 	}
 
@@ -108,10 +124,12 @@ public class QuerySearch {
 								QueryConstants.solrEncodeType);
 			if (query.getFacetQuery() != null)
 				urlParameters += "&facet.query="
-						+ URLEncoder.encode(query.getFacetQuery(),QueryConstants.solrEncodeType);
+						+ URLEncoder.encode(query.getFacetQuery(),
+								QueryConstants.solrEncodeType);
 			if (query.getFacetField() != null)
 				urlParameters += "&facet.field="
-						+ URLEncoder.encode(query.getFacetField(),QueryConstants.solrEncodeType);
+						+ URLEncoder.encode(query.getFacetField(),
+								QueryConstants.solrEncodeType);
 			urlParameters += "&wt="
 					+ URLEncoder.encode(QueryConstants.solrRequestFormat,
 							QueryConstants.solrEncodeType);
