@@ -8,9 +8,17 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Properties;
 
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+
 
 public class Runner {
 	public static void main(String [] args){
+		System.out.println("PROGRAM START - TIME: "+Long.toString(System.currentTimeMillis()));
+		File xmlFile = new File("D:\\Infoboxinxml.xml");
+		if (xmlFile.exists()){
+			xmlFile.delete();
+		}
 		Properties prop = new Properties();
 		File file = new File("D://properties.config");
 		FileReader reader;
