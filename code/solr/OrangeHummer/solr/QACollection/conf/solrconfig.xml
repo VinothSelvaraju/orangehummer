@@ -1284,14 +1284,14 @@
     </lst>
     
     <!-- a spellchecker that can break or combine words.  See "/spell" handler below for usage -->
-    <lst name="spellchecker">
+    <!-- <lst name="spellchecker">
       <str name="name">wordbreak</str>
       <str name="classname">solr.WordBreakSolrSpellChecker</str>      
       <str name="field">name</str>
       <str name="combineWords">true</str>
       <str name="breakWords">true</str>
       <int name="maxChanges">10</int>
-    </lst>
+    </lst> -->
 
     <!-- a spellchecker that uses a different distance measure -->
     <!--
@@ -1357,17 +1357,46 @@
       <str name="spellcheck">on</str>
       <str name="spellcheck.extendedResults">true</str>       
       <str name="spellcheck.count">5</str>
-      <str name="spellcheck.alternativeTermCount">5</str>
-      <str name="spellcheck.maxResultsForSuggest">5</str>       
+      <!-- <str name="spellcheck.alternativeTermCount">5</str> -->
+      <!-- <str name="spellcheck.maxResultsForSuggest">5</str>        -->
       <str name="spellcheck.collate">true</str>
       <str name="spellcheck.collateExtendedResults">true</str>  
-      <str name="spellcheck.maxCollationTries">10</str>
-      <str name="spellcheck.maxCollations">5</str>         
+      <!-- <str name="spellcheck.maxCollationTries">10</str> -->
+      <!-- <str name="spellcheck.maxCollations">5</str>          -->
     </lst>
     <arr name="last-components">
       <str>spellcheck</str>
     </arr>
   </requestHandler>
+  
+  <!--  Autosuggest feature -->
+  
+  <searchComponent class="solr.SpellCheckComponent" name="suggest">
+   <lst name="spellchecker">
+      <str name="name">suggest</str>
+      <str name="classname">org.apache.solr.spelling.suggest.Suggester</str>
+      <str name="lookupImpl">org.apache.solr.spelling.suggest.tst.TSTLookup</str>
+      <str name="field">name</str>  <!-- the indexed field to derive suggestions from -->
+      <float name="threshold">0.005</float>
+      <str name="buildOnCommit">true</str>
+<!--
+      <str name="sourceLocation">american-english</str>
+-->
+   </lst>
+</searchComponent>
+
+	<requestHandler class="org.apache.solr.handler.component.SearchHandler" name="/suggest">
+   <lst name="defaults">
+      <str name="spellcheck">true</str>
+      <str name="spellcheck.dictionary">suggest</str>
+      <str name="spellcheck.onlyMorePopular">true</str>
+      <str name="spellcheck.count">5</str>
+      <str name="spellcheck.collate">true</str>
+   </lst>
+   <arr name="last-components">
+      <str>suggest</str>
+   </arr>
+</requestHandler>
 
   <!-- Term Vector Component
 
