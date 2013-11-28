@@ -23,7 +23,7 @@
 <field name="type">person</field>
 <field name="occupation">Actor</field>
 <field name="birthdate">1962-06-12T00:00:00Z</field>
-<field name="award">BFM Film &amp; Television Awards</field>
+<field name="awards">BFM Film &amp; Television Awards</field>
 <field name="caption">Eamonn Walker in 2009.</field>
 <field name="yearsactive">1985–present</field>
 <field name="birthplace">London ,  England ,  UK</field>
