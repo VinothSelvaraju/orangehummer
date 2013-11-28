@@ -19,17 +19,21 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Map.Entry;
 import java.util.Set;
 import java.util.regex.Matcher;
@@ -96,14 +100,47 @@ public class XMLContentHandler extends DefaultHandler {
 		 */
 		return cleaned.toString();
 	}
+	
+	
+	public String synonymlookup(String input){
+		String str = "";
+		String modInput = input.replace(" ","_");
+		Properties prop = new Properties();
+		File file = new File("D://lookupProperties.config");
+		FileReader reader;
+		try {
+			reader = new FileReader(file);
+			prop.load(reader);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		if(prop.containsKey(modInput)){
+			System.out.println("INPUT VALUE TO LOOKUP"+ modInput);
+			str = prop.getProperty(modInput);
+			System.out.println("RETURN VALUE AFTER LOOKUP:"+ str);
+		}
+		else{
+			str = input;
+			System.out.println("FALSE");
+		}
+		return str;
+	}
 
 	public String unwantedTextRemoval(String text) {
 		String modifiedText = "";
+		
+		//parsing unwanted text
 		modifiedText = text.replaceAll("<ref.*</ref>", "");
 		modifiedText = modifiedText.replaceAll("<ref.*?>", "");
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{citation(.*?)\\}\\}","");
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{fact(.*?)\\}\\}","");
-		
+		modifiedText = modifiedText.replaceAll("<br />",",");
+		modifiedText = modifiedText.replaceAll("<br/>",",");
+		modifiedText = modifiedText.replaceAll("<br/ >",",");
+		modifiedText = modifiedText.replaceAll("<br>",",");
+		modifiedText = modifiedText.replaceAll("</ref>","");
 		
 		// parsing awards
 		modifiedText = modifiedText.replaceAll("\\{\\{awd\\|(.*?)\\|\\}\\}",
@@ -142,25 +179,6 @@ public class XMLContentHandler extends DefaultHandler {
 		 * System.out.println(subEntryArray[0].trim()+"===="+
 		 * subEntryArray[1].trim()); coll.add(awardMap); k++; } }
 		 */
-		/*
-		 * //parsing Birthdate String regex1 = "\\{\\{B(.*?)\\}\\}"; Pattern p2
-		 * = Pattern.compile(regex1, Pattern.CASE_INSENSITIVE); Matcher m2 =
-		 * p2.matcher(modifiedText); String newString = null; String workgroup1
-		 * = ""; while(m2.find()){ workgroup1 = m2.group(1);
-		 * System.out.println(workgroup1); newString =
-		 * workgroup1.replaceAll("[^0-9|]", ""); newString =
-		 * newString.replaceAll("\\|"," "); newString = newString.trim();
-		 * newString = newString.replaceAll(" ", "-"); newString =
-		 * newString.replaceAll("(age (.*))", ""); newString =
-		 * toUtcDate(newString); System.out.println("NEW DATE: "+newString); }
-		 * modifiedText=modifiedText.replaceAll("\\{\\{B(.*?)\\}\\}",
-		 * newString);
-		 * modifiedText=modifiedText.replaceAll("\\{\\{b(.*?)\\}\\}",
-		 * newString); //System.out.println("modified text :: " + modifiedText);
-		 * //modifiedText =modifiedText.replaceAll("\\| ?birth_date *=(.*)$",
-		 * "|birth_date ="+newString);
-		 * //System.out.println("TESTTTTTTTTTTTTTTTTTTTTT"+modifiedText);
-		 */
 
 		// parsing Birthdate
 		String regex1 = "\\{\\{B(.*?)\\}\\}";
@@ -183,10 +201,8 @@ public class XMLContentHandler extends DefaultHandler {
 				for(int m =0; m < monthss.length;m++){
 					if(s[k].toLowerCase().contains(monthss[m])){
 						flag = true;
-						//break;
 					}	
 				}
-				System.out.println(s[k] + " :: "+flag);
 				if ((s[k].matches("[0-9]+") || flag ==true) && j <= 2) {
 					flag = false;
 					if (j == 0) {
@@ -213,9 +229,6 @@ public class XMLContentHandler extends DefaultHandler {
 		String workgroup2 = "";
 		while (m3.find()) {
 			workgroup2 = m3.group(1);
-			//System.out.println("NEW MATCH 1:"+ workgroup2);
-			//System.out.println("TRUEEE");
-			
 			Pattern p5 = Pattern.compile("(\\(.*\\))", Pattern.CASE_INSENSITIVE);
 			Matcher m5 = p5.matcher(workgroup2);
 			String workgroup3 = "";
@@ -231,13 +244,10 @@ public class XMLContentHandler extends DefaultHandler {
 			String workgroup4 = "";
 			while (m6.find()) {
 				workgroup4 = m6.group();
-				//System.out.println("NEW MATCH 4:"+ workgroup4);
 				modifiedText = modifiedText.replace(workgroup2,workgroup4);
 				workgroup2 = workgroup2.replace(workgroup2, workgroup4);
 			}
-			//String latest = workgroup2.replace(workgroup2, workgroup4);
 			modifiedText = modifiedText.replace(workgroup2,toUtcDate(workgroup2.trim()));
-		
 		}
 		return modifiedText;
 	}
@@ -274,58 +284,80 @@ public class XMLContentHandler extends DefaultHandler {
 				if (xmlFile.exists()) {
 					try {
 						doc = docBuilder.parse(xmlFile);
-						rootElement = doc.getDocumentElement(); // gets the root
-																// element
+						rootElement = doc.getDocumentElement(); 
 						rootElement.normalize();
 					} catch (SAXException e) {
 						e.printStackTrace();
 					} catch (IOException e) {
 						e.printStackTrace();
-					} // creates the document based on an existing XML file
-						// //and normalizes it
+					}
 				} else {
-					doc = docBuilder.newDocument(); // creates an empty document
-					rootElement = doc.createElement("add"); // create the root
-															// element
-					doc.appendChild(rootElement); // and append it to the newly
-													// created document
+					doc = docBuilder.newDocument(); 
+					rootElement = doc.createElement("add");
+					doc.appendChild(rootElement);
 				}
 				Element document = doc.createElement("doc");
 				rootElement.appendChild(document);
 				Element field1 = doc.createElement("field");
-				field1.appendChild(doc.createTextNode(Integer.toString(page
-						.getId())));
+				field1.appendChild(doc.createTextNode(Integer.toString(page.getId())));
 				field1.setAttribute("name", "id");
 				document.appendChild(field1);
 				Element field2 = doc.createElement("field");
 				field2.appendChild(doc.createTextNode("person"));
 				field2.setAttribute("name", "type");
 				document.appendChild(field2);
-				Iterator<Entry<String, String>> itr1 = page.infobox.entrySet()
-						.iterator();
-				System.out
-						.println("-----------------Page start---------------------");
+				
+				Iterator<Entry<String, String>> itr1 = page.infobox.entrySet().iterator();
+				System.out.println("-----------------Page start---------------------");
 				while (itr1.hasNext()) {
 					Map.Entry pairs = (Map.Entry) itr1.next();
-					System.out.println(pairs.getKey() + "=== "
-							+ pairs.getValue());
-					Element field = doc.createElement("field");
-					field.appendChild(doc.createTextNode(pairs.getValue()
-							.toString()));
-					field.setAttribute("name", pairs.getKey().toString()
-							.replaceAll("_", ""));
-					document.appendChild(field);
+					if(pairs.getKey().toString().trim().equals("occupation")){
+						String input = pairs.getValue().toString().replaceAll(";|/", ",");
+						if(input.contains(",")){
+							String [] str= input.split(",");
+							for(int i = 0;i<str.length;i++){
+								Element field = doc.createElement("field");
+								field.appendChild(doc.createTextNode(str[i].trim()));
+								field.setAttribute("name", pairs.getKey().toString().trim().replaceAll("_", ""));
+								document.appendChild(field);
+								System.out.println(pairs.getKey().toString().trim().replaceAll("_", "")+"===="+str[i].trim());
+							}
+						}
+						else{
+							Element field = doc.createElement("field");
+							field.appendChild(doc.createTextNode(pairs.getValue().toString()));
+							field.setAttribute("name", pairs.getKey().toString().replaceAll("_", ""));
+							document.appendChild(field);
+							System.out.println(pairs.getKey().toString().replaceAll("_", "")+"===="+pairs.getValue().toString());
+						}
+					}
+					else{
+						Boolean flag = false;
+						String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorificsuffix",	"honorificprefix",	"hometown",	"signature",	"wrestling weight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eye color",	"hair color",	"natural bust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminalstatus",	"criminalpenalty",	"criminalcharge",	"publisher",	"image size",	"dead",	"age",	"alive","type"};
+						String tagName = pairs.getKey().toString().toLowerCase().trim().replaceAll("_"," ");
+						for(int k = 0; k<matchTypes.length;k++){
+							if(matchTypes[k].equals(tagName)){
+								flag = true;
+							}
+						}
+						if(flag!=true){
+							String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
+							inputKey = synonymlookup(inputKey);
+							Element field = doc.createElement("field");
+							field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
+							field.setAttribute("name", inputKey);
+							document.appendChild(field);
+							System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
+						}	
+					}
 				}
-				System.out
-						.println("-------------------Page stop------------------------");
+				System.out.println("-------------------Page stop------------------------");
 				// write the content into xml file
-				TransformerFactory transformerFactory = TransformerFactory
-						.newInstance();
+				TransformerFactory transformerFactory = TransformerFactory.newInstance();
 				Transformer transformer = transformerFactory.newTransformer();
 				transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 				DOMSource source = new DOMSource(doc);
-				StreamResult result = new StreamResult(new File(
-						"D:\\Infoboxinxml.xml"));
+				StreamResult result = new StreamResult(new File("D:\\Infoboxinxml.xml"));
 				// Output to console for testing
 				StreamResult result1 = new StreamResult(System.out);
 				transformer.transform(source, result);
