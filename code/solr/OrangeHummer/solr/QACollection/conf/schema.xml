@@ -115,18 +115,54 @@
    <field name="type" type="text_general" indexed="true" stored="true"/>
    <field name="name" type="text_general" indexed="true" stored="true"/>
    <field name="birthname" type="text_general" indexed="true" stored="true"/>
-   <field name="education" type="text_general" indexed="true" stored="true" omitNorms="true"/>
+   <field name="education" type="text_general" indexed="true" stored="true" multiValued="true" omitNorms="true"/>
    <field name="birthplace" type="string" indexed="true" stored="true" multiValued="true"/>
    <field name="deathplace" type="string" indexed="true" stored="true" multiValued="true"/>
    <field name="occupation" type="string" indexed="true" stored="true" multiValued="true"/>
    <field name="includes" type="text_general" indexed="true" stored="true" termVectors="true" termPositions="true" termOffsets="true" />
-
-   <field name="weight" type="float" indexed="true" stored="true"/>
-   <field name="height"  type="float" indexed="true" stored="true"/>
+   <field name="awards" type="string" indexed="true" stored="true" multiValued="true"/>
+   <field name="weight" type="text_general" indexed="true" stored="true"/>
+   <field name="height"  type="text_general" indexed="true" stored="true"/>
    <field name="religion" type="string" indexed="true" stored="true" />
-   <field name="parents" type="text_general" indexed="true" stored="true" />
-
+   <field name="parents" type="text_general" indexed="true" stored="true" multiValued="true"/>
+      <field name="caption" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <field name="deathdate" type="date" indexed="true" stored="true"/>
+   <field name="partner" type="text_general" indexed="true" stored="true"/>
+   <field name="title" type="text_general" indexed="true" stored="true"/>
+   <field name="spouse" type="text_general" indexed="true" stored="true"/>
+   <field name="deathcause" type="text_general" indexed="true" stored="true"/>
+   <field name="yearsactive" type="text_general" indexed="true" stored="true"/>
+   <field name="website" type="text_general" indexed="true" stored="true"/>
+   <field name="residence" type="text_general" indexed="true" stored="true"/>
+   <field name="knownfor" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <field name="nationality" type="string" indexed="true" stored="true" multiValued="true"/>
+   <field name="birthdate" type="date" indexed="true" stored="true"/>
+   <field name="links" type="string" indexed="true" stored="true" multiValued="true"/>
+	<field name="role" type="text_general" indexed="true" stored="true"/>
+	<field name="year" type="text_general" indexed="true" stored="true"/>
+	<field name="children" type="text_general" indexed="true" stored="true"/>
+	<field name="image" type="text_general" indexed="true" stored="true"/>
+	<field name="denomination" type="text_general" indexed="true" stored="true"/>
+	<field name="networth" type="text_general" indexed="true" stored="true"/>
+	<field name="credits" type="text_general" indexed="true" stored="true"/>
+	<field name="gender" type="text_general" indexed="true" stored="true"/>
    <field name="othernames" type="text_general" indexed="true" stored="true"/>
+   <field name="party" type="text_general" indexed="true" stored="true"/>
+   <field name="family" type="text_general" indexed="true" stored="true"/>
+   <field name="successor" type="text_general" indexed="true" stored="true"/>
+   <field name="predecessor" type="text_general" indexed="true" stored="true"/>
+   <field name="salary" type="text_general" indexed="true" stored="true"/>
+   <field name="alias" type="text_general" indexed="true" stored="true"/>
+   <field name="employer" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <field name="season" type="text_general" indexed="true" stored="true"/>
+   <field name="tribe" type="text_general" indexed="true" stored="true"/>
+   <field name="television" type="text_general" indexed="true" stored="true"/>
+   <field name="movement" type="text_general" indexed="true" stored="true"/>
+   <field name="status" type="text_general" indexed="true" stored="true"/>
+   <field name="ethnicity" type="text_general" indexed="true" stored="true"/>
+   <field name="siblings" type="text_general" indexed="true" stored="true"/>
+   <field name="imdbe" type="text_general" indexed="true" stored="true"/>
+   
 
    <!-- Common metadata fields, named specifically to match up with
      SolrCell metadata when parsing rich documents such as Word, PDF.
@@ -136,20 +172,7 @@
        "content_type": From the HTTP headers of incoming stream
        "resourcename": From SolrCell request param resource.name
    -->
-   <field name="caption" type="text_general" indexed="true" stored="true" multiValued="true"/>
-   <field name="deathdate" type="date" indexed="true" stored="true"/>
-   <field name="partner" type="text_general" indexed="true" stored="true"/>
-   <field name="title" type="text_general" indexed="true" stored="true"/>
-   <field name="almamater" type="text_general" indexed="true" stored="true"/>
-   <field name="deathcause" type="text_general" indexed="true" stored="true"/>
-   <field name="yearsactive" type="text_general" indexed="true" stored="true"/>
-   <field name="website" type="text_general" indexed="true" stored="true"/>
-   <field name="residence" type="text_general" indexed="true" stored="true"/>
-   <field name="knownfor" type="text_general" indexed="true" stored="true"/>
-   <field name="nationality" type="string" indexed="true" stored="true" multiValued="true"/>
-   <field name="birthdate" type="date" indexed="true" stored="true"/>
-   <field name="links" type="string" indexed="true" stored="true" multiValued="true"/>
-
+   
    <!-- Main body of document extracted by SolrCell.
         NOTE: This field is not indexed by default, since it is also copied to "text"
         using copyField below. This is to save space. Use this field for returning and
@@ -194,7 +217,7 @@
    
    <dynamicField name="*_i"  type="int"    indexed="true"  stored="true"/>
    <dynamicField name="*_is" type="int"    indexed="true"  stored="true"  multiValued="true"/>
-   <dynamicField name="*_wife"  type="string"  indexed="true"  stored="true" />
+   <dynamicField name="*_spouse" type="string"  indexed="true"  stored="true" />
    <dynamicField name="*_children" type="string"  indexed="true"  stored="true" multiValued="true"/>
    <dynamicField name="*_l"  type="long"   indexed="true"  stored="true"/>
    <dynamicField name="*_ls" type="long"   indexed="true"  stored="true"  multiValued="true"/>
