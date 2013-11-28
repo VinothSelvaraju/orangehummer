@@ -55,7 +55,7 @@
 <doc>
 <field name="id">1147903</field>
 <field name="type">person</field>
-<field name="alma mater">University of California, Los Angeles ,  Harvard Law School</field>
+<field name="education">University of California, Los Angeles ,  Harvard Law School</field>
 <field name="birthdate">1984-01-15T00:00:00Z</field>
 <field name="birthname">Benjamin Aaron Shapiro</field>
 <field name="name">Ben Shapiro</field>
@@ -130,7 +130,7 @@
 <field name="birthdate">1955-01-01T00:00:00Z</field>
 <field name="spouse">Paul Richter</field>
 <field name="name">Karen Tumulty</field>
-<field name="credits">The Washington Post ,  Time Magazine</field>
+<field name="knownfor">The Washington Post ,  Time Magazine</field>
 <field name="children">Nicholas, Jack</field>
 <field name="gender">female</field>
 <field name="birthplace">San Antonio, Texas</field>
@@ -172,7 +172,7 @@
 <field name="image">Sarfatti-Wolf.jpg</field>
 <field name="caption">Wolf (right) and  Jack Sarfatti  in Paris, 1973</field>
 <field name="education">PhD in  theoretical physics , 1963</field>
-<field name="almamater">University of California, Los Angeles</field>
+<field name="education">University of California, Los Angeles</field>
 </doc>
 <doc>
 <field name="id">1547579</field>
@@ -183,8 +183,8 @@
 <field name="image">KyraSedgwickJune09.jpg</field>
 <field name="caption">Sedgwick receiving a star at the  Hollywood Walk of Fame , June 2009</field>
 <field name="birthplace">New York City ,  New York , , United States</field>
-<field name="othername">Kiko</field>
-<field name="almamater">University of Southern California</field>
+<field name="othernames">Kiko</field>
+<field name="education">University of Southern California</field>
 <field name="religion">Judaism</field>
 <field name="spouse">Kevin Bacon</field>
 <field name="name">Kyra Sedgwick</field>
@@ -415,7 +415,7 @@
 <field name="birthplace">León ,  Guanajuato ,  Mexico</field>
 <field name="religion">Roman Catholic</field>
 <field name="predecessor">Anne Selph</field>
-<field name="relations">George H. W. Bush  (father-in-law)  George W. Bush  (brother-in-law)</field>
+<field name="family">George H. W. Bush  (father-in-law)  George W. Bush  (brother-in-law)</field>
 <field name="spouse">Jeb Bush</field>
 <field name="birthname">Columba Garnica Gallo</field>
 </doc>
@@ -438,7 +438,7 @@
 <field name="occupation">Journalist</field>
 <field name="occupation">anchor</field>
 <field name="birthdate">1937-02-25T00:00:00Z</field>
-<field name="credits">Face the Nation  moderator (1991–present) CBS Evening News  2005–2006 60 Minutes  1973–1996</field>
+<field name="knownfor">Face the Nation  moderator (1991–present) CBS Evening News  2005–2006 60 Minutes  1973–1996</field>
 <field name="image">Defense.gov photo essay 091205-D-7203C-019.jpg</field>
 <field name="children">2</field>
 <field name="caption">Schieffer with Defense Secretary  Robert M. Gates  and Secretary of State  Hillary Clinton  on  Face the Nation , Washington, D.C., Dec. 5, 2009</field>
@@ -448,8 +448,8 @@
 <field name="spouse">Patricia Penrose Schieffer</field>
 <field name="name">Bob Schieffer</field>
 <field name="gender">Male</field>
-<field name="URL">CBS News Bio</field>
-<field name="relatives">Tom Schieffer  (Brother)</field>
+<field name="url">CBS News Bio</field>
+<field name="family">Tom Schieffer  (Brother)</field>
 <field name="birthname">Bob Lloyd Schieffer</field>
 </doc>
 <doc>
@@ -465,7 +465,7 @@
 <field name="image">CES 2012 - House of Marley (Rohan Marley).jpg</field>
 <field name="othernames">The Rat</field>
 <field name="birthplace">Kingston, Jamaica</field>
-<field name="almamater">University of Miami</field>
+<field name="education">University of Miami</field>
 </doc>
 <doc>
 <field name="id">164088</field>
@@ -597,17 +597,17 @@
 <field name="type">person</field>
 <field name="occupation">Editor</field>
 <field name="birthdate">1953-12-29T00:00:00Z</field>
-<field name="credits">Editor of  The Guardian</field>
+<field name="knownfor">Editor of  The Guardian</field>
 <field name="image">Alan Rusbridger.jpg</field>
 <field name="children">2 daughters</field>
 <field name="caption">Alan Rusbridger in 2007</field>
 <field name="birthplace">Northern Rhodesia  (present-day  Zambia )</field>
-<field name="almamater">Magdalene College, Cambridge</field>
+<field name="education">Magdalene College, Cambridge</field>
 <field name="spouse">Lindsay Mackie</field>
 <field name="name">Alan Rusbridger</field>
 <field name="gender">Male</field>
 <field name="salary">£395,000</field>
-<field name="URL">http://www.theguardian.com/profile/alanrusbridger,https://twitter.com/arusbridger</field>
+<field name="url">http://www.theguardian.com/profile/alanrusbridger,https://twitter.com/arusbridger</field>
 <field name="birthname">Alan Charles Rusbridger</field>
 </doc>
 <doc>
@@ -650,7 +650,7 @@
 <field name="id">674131</field>
 <field name="type">person</field>
 <field name="religion">Orthodox Judaism</field>
-<field name="alma mater">Wharton School at the University of Pennsylvania</field>
+<field name="education">Wharton School at the University of Pennsylvania</field>
 <field name="occupation">Chairman  &amp;  CEO</field>
 <field name="occupation">MacAndrews &amp; Forbes</field>
 <field name="birthdate">1943-01-01T00:00:00Z</field>
@@ -667,7 +667,7 @@
 <doc>
 <field name="id">1709901</field>
 <field name="type">person</field>
-<field name="finish">10th Place (Palau) 9th Place (Guatemala)</field>
+<field name="awards">10th Place (Palau) 9th Place (Guatemala)</field>
 <field name="season">Palau Guatemala</field>
 <field name="birthdate">1977-05-10T00:00:00Z</field>
 <field name="tribe">Palau: {{survivor colorbox</field>
@@ -694,7 +694,7 @@
 <field name="children">Robert Aaron Eugenie Alexandra</field>
 <field name="education">B.A.  1966 M.L.S.  1970 J.D.  1976.</field>
 <field name="birthplace">Teaneck, New Jersey</field>
-<field name="almamater">Douglass College ,  Rutgers University ,  Cornell Law School (also  University of Michigan ,  New York University )</field>
+<field name="education">Douglass College ,  Rutgers University ,  Cornell Law School (also  University of Michigan ,  New York University )</field>
 <field name="predecessor">Albert V. Bryan Jr.</field>
 <field name="title">United States District Court Judge</field>
 <field name="nationality">{{flag</field>
@@ -714,7 +714,7 @@
 <doc>
 <field name="id">3279639</field>
 <field name="type">person</field>
-<field name="finish">6th Place (The Amazon)</field>
+<field name="awards">6th Place (The Amazon)</field>
 <field name="season">The Amazon</field>
 <field name="birthdate">1978-09-13T00:00:00Z</field>
 <field name="tribe">{{survivor colorbox</field>
@@ -724,7 +724,7 @@
 <doc>
 <field name="id">1644817</field>
 <field name="type">person</field>
-<field name="finish">Runner-up (The Australian Outback) 12th place (All Stars) 5th place (Heroes vs. Villains)</field>
+<field name="awards">Runner-up (The Australian Outback) 12th place (All Stars) 5th place (Heroes vs. Villains)</field>
 <field name="season">The Australian Outback All Stars Heroes vs. Villains</field>
 <field name="birthdate">1974-04-01T00:00:00Z</field>
 <field name="tribe">The Australian Outback:,{{survivor colorbox</field>
@@ -734,7 +734,7 @@
 <doc>
 <field name="id">655058</field>
 <field name="type">person</field>
-<field name="finish">6th Place</field>
+<field name="awards">6th Place</field>
 <field name="season">Borneo</field>
 <field name="birthdate">1976-12-06T00:00:00Z</field>
 <field name="tribe">{{survivor colorbox</field>
@@ -755,7 +755,7 @@
 <doc>
 <field name="id">1900148</field>
 <field name="type">person</field>
-<field name="finish">Runner Up</field>
+<field name="awards">Runner Up</field>
 <field name="season">Borneo</field>
 <field name="birthdate">1977-06-24T00:00:00Z</field>
 <field name="tribe">{{survivor colorbox</field>
@@ -804,7 +804,7 @@
 <field name="caption">Bowen at the New York Television Festival in September 2009.</field>
 <field name="yearsactive">1992–present</field>
 <field name="birthplace">Baltimore, Maryland , U.S.</field>
-<field name="almamater">Brown University</field>
+<field name="education">Brown University</field>
 </doc>
 <doc>
 <field name="id">73241</field>
@@ -841,10 +841,10 @@
 <field name="birthdate">1948-07-20T00:00:00Z</field>
 <field name="website">musewatson.com</field>
 <field name="image">Muse Watson.png</field>
-<field name="caaption">Muse Watson</field>
+<field name="caption">Muse Watson</field>
 <field name="yearsactive">1989–present</field>
 <field name="birthplace">Alexandria, Louisiana ,  U.S.</field>
-<field name="notablework">Prison Break</field>
+<field name="knownfor">Prison Break</field>
 </doc>
 <doc>
 <field name="id">1753032</field>
@@ -950,7 +950,7 @@
 <field name="birthname">Juliette Rose Goglia</field>
 <field name="name">Juliette Goglia</field>
 <field name="birthplace">Los Angeles ,  California , U.S.</field>
-<field name="years active">2004–present</field>
+<field name="yearsactive">2004–present</field>
 </doc>
 <doc>
 <field name="id">1468033</field>
@@ -1001,7 +1001,7 @@
 <field name="birthname">Ashley Christina Hartman</field>
 <field name="name">Ashley Hartman</field>
 <field name="birthplace">Orange County, California ,  U.S.</field>
-<field name="homepage">http://www.ashleyhartman.com/</field>
+<field name="website">http://www.ashleyhartman.com/</field>
 </doc>
 <doc>
 <field name="id">1251507</field>
@@ -1031,7 +1031,7 @@
 <field name="nationality">British</field>
 <field name="birthdate">1953-08-15T00:00:00Z</field>
 <field name="honorificsuffix">Bt</field>
-<field name="relations">Sir Denis Thatcher Bt (father, deceased) The Baroness Thatcher  (mother, deceased) The Hon Carol Thatcher  (sister) Alfred Roberts (grandfather, deceased)</field>
+<field name="family">Sir Denis Thatcher Bt (father, deceased) The Baroness Thatcher  (mother, deceased) The Hon Carol Thatcher  (sister) Alfred Roberts (grandfather, deceased)</field>
 <field name="spouse">Diane Burgdorf divorced; 2 children Diane Burgdorf</field>
 <field name="name">Sir Mark Thatcher</field>
 <field name="children">Michael Thatcher Amanda Thatcher</field>
@@ -1085,7 +1085,7 @@
 <field name="residence">Mexico City, Mexico</field>
 <field name="spouse">Rafael Banquells (1947-1954), Gustavo Alatriste (1961-1967), Enrique Guzmán (1967-1976), Tulio Hernandez (1982-1995)</field>
 <field name="name">Silvia Pinal</field>
-<field name="relatives">Stephanie Salas  (Granddaughter)</field>
+<field name="family">Stephanie Salas  (Granddaughter)</field>
 <field name="yearsactive">1945–present</field>
 </doc>
 <doc>
@@ -1152,7 +1152,7 @@
 <doc>
 <field name="id">297483</field>
 <field name="type">person</field>
-<field name="alma mater">Pennsylvania State University</field>
+<field name="education">Pennsylvania State University</field>
 <field name="occupation">Actor</field>
 <field name="birthdate">1933-07-24T00:00:00Z</field>
 <field name="birthname">Yannis Anastasakis</field>
@@ -1191,10 +1191,10 @@
 <field name="birthdate">1946-07-12T00:00:00Z</field>
 <field name="spouse">Lara Marlowe  (1994–2006)</field>
 <field name="name">Robert Fisk</field>
-<field name="credits">Jacob's Award ,  Amnesty International UK Press Awards ,  British Press Awards ,  International Journalist of the Year , "Reporter of the Year", David Watt prize,  Lannan Cultural Freedom Prize</field>
+<field name="knownfor">Jacob's Award ,  Amnesty International UK Press Awards ,  British Press Awards ,  International Journalist of the Year , "Reporter of the Year", David Watt prize,  Lannan Cultural Freedom Prize</field>
 <field name="image">Robert Fisk at Al Jazeera Forum 2010.jpg</field>
 <field name="caption">Robert Fisk at the  Al Jazeera  Forum in 2010</field>
-<field name="URL">http://www.independent.co.uk/biography/robert-fisk</field>
+<field name="url">http://www.independent.co.uk/biography/robert-fisk</field>
 <field name="education">Lancaster University  (B.A., 1968) Trinity College, Dublin  (PhD, 1985)</field>
 <field name="birthplace">Maidstone , Kent, England</field>
 </doc>
@@ -1268,7 +1268,7 @@
 <field name="spouse">Chris Shaw (2001-present)</field>
 <field name="family">father, historian  Hugh Kearney</field>
 <field name="name">Martha Kearney</field>
-<field name="credits">Woman's Hour '' Newsnight The World at One ''</field>
+<field name="knownfor">Woman's Hour '' Newsnight The World at One ''</field>
 <field name="gender">Female</field>
 <field name="education">Brighton and Hove High School George Watson's College St Anne's College, Oxford</field>
 <field name="birthplace">Dublin , Ireland</field>
@@ -1288,12 +1288,12 @@
 <field name="caption">Paxman in September 2009</field>
 <field name="education">MA  ( St Catharine's College, Cambridge )</field>
 <field name="birthplace">Leeds ,  West Riding of Yorkshire , England</field>
-<field name="alma mater">Malvern College ,  St Catharine's College, Cambridge</field>
+<field name="education">Malvern College ,  St Catharine's College, Cambridge</field>
 <field name="nationality">British</field>
 <field name="residence">Stonor ,  Oxfordshire</field>
 <field name="name">Jeremy Paxman</field>
 <field name="salary">£1,040,000 (2006) per annum (1985–present)</field>
-<field name="relatives">Giles Paxman  (brother)</field>
+<field name="family">Giles Paxman  (brother)</field>
 </doc>
 <doc>
 <field name="id">285062</field>
@@ -1304,7 +1304,7 @@
 <field name="birthdate">1962-06-03T00:00:00Z</field>
 <field name="website">www.trinnyandsusannah.com</field>
 <field name="networth">£5 million (estimated)</field>
-<field name="credits">What Not to Wear '' Trinny &amp; Susannah Undress... Trinny &amp; Susannah Undress the Nation ''</field>
+<field name="knownfor">What Not to Wear '' Trinny &amp; Susannah Undress... Trinny &amp; Susannah Undress the Nation ''</field>
 <field name="image">Trinny and susannah2.jpg</field>
 <field name="children">Joe, Esme, Cece</field>
 <field name="caption">Susannah Constantine on right next to  Trinny Woodall</field>
@@ -1332,7 +1332,7 @@
 <field name="birthdate">1979-04-26T00:00:00Z</field>
 <field name="name">Alison Fanelli</field>
 <field name="yearsactive">1990s</field>
-<field name="othername">Ali Fanelli</field>
+<field name="othernames">Ali Fanelli</field>
 <field name="birthplace">Northport, New York ,  U.S.</field>
 </doc>
 <doc>
@@ -1409,11 +1409,11 @@
 <field name="id">2143918</field>
 <field name="type">person</field>
 <field name="birthdate">1964-08-15T00:00:00Z</field>
-<field name="domesticpartner">Michael Shanks , Julio Iglesias</field>
+<field name="partner">Michael Shanks , Julio Iglesias</field>
 <field name="spouse">Edgars Asars (2004-present),Peter Bandera</field>
 <field name="name">Vaitiare Hirshon-Asars</field>
 <field name="birthplace">Tahiti ,  French Polynesia</field>
-<field name="othername">Vaitiaré Eugenie Hirshon (birth name),Vaitiare Bandera (previous actress name)</field>
+<field name="othernames">Vaitiaré Eugenie Hirshon (birth name),Vaitiare Bandera (previous actress name)</field>
 </doc>
 <doc>
 <field name="id">1347392</field>
@@ -1461,7 +1461,7 @@
 <field name="children">1</field>
 <field name="yearsactive">1993–present</field>
 <field name="birthplace">Twickenham , England</field>
-<field name="almamater">Central School of Speech and Drama</field>
+<field name="education">Central School of Speech and Drama</field>
 </doc>
 <doc>
 <field name="id">18684</field>
@@ -1503,7 +1503,7 @@
 <field name="name">Steve Abbott</field>
 <field name="image">The Sandman (Stephen Abbott) &amp; Flacco (Paul Livingston).jpg</field>
 <field name="caption">Steve Abbott (background) and  Paul Livingston</field>
-<field name="othername">The Sandman</field>
+<field name="othernames">The Sandman</field>
 <field name="birthplace">Broken Hill , New South Wales, Australia</field>
 </doc>
 <doc>
@@ -1540,7 +1540,7 @@
 <field name="caption">Kudrow at the 2009  Streamy Awards</field>
 <field name="yearsactive">1989–present</field>
 <field name="birthplace">Los Angeles ,  California , U.S.</field>
-<field name="almamater">Vassar College</field>
+<field name="education">Vassar College</field>
 </doc>
 <doc>
 <field name="id">1498771</field>
@@ -1618,7 +1618,7 @@
 <field name="birthname">Frederick R. Newman</field>
 <field name="name">Fred Newman</field>
 <field name="birthplace">LaGrange ,  Georgia , U.S.</field>
-<field name="years active">1984–present</field>
+<field name="yearsactive">1984–present</field>
 </doc>
 <doc>
 <field name="id">12367</field>
@@ -1652,7 +1652,7 @@
 <doc>
 <field name="id">654033</field>
 <field name="type">person</field>
-<field name="finish">8th Place (Australia) 10th Place (All-Stars) 4th Place (Heroes vs. Villains)</field>
+<field name="awards">8th Place (Australia) 10th Place (All-Stars) 4th Place (Heroes vs. Villains)</field>
 <field name="occupation">Actress</field>
 <field name="season">Australia All-Stars Heroes vs. Villains</field>
 <field name="birthdate">1970-09-05T00:00:00Z</field>
@@ -1804,7 +1804,7 @@
 <field name="yearsactive">1975–present</field>
 <field name="education">Yale University</field>
 <field name="birthplace">Philadelphia ,  Pennsylvania ,  U.S.</field>
-<field name="almamater">William Penn Charter School</field>
+<field name="education">William Penn Charter School</field>
 </doc>
 <doc>
 <field name="id">1090217</field>
@@ -1814,7 +1814,7 @@
 <field name="name">Garrett Wang</field>
 <field name="image">Garrett Wang at FedCon 2013.jpg</field>
 <field name="caption">Wang in 2013 at FedCon in Germany.</field>
-<field name="othername">Wang Yi-chung</field>
+<field name="othernames">Wang Yi-chung</field>
 <field name="birthplace">Riverside, California , U.S.</field>
 </doc>
 <doc>
@@ -1852,7 +1852,7 @@
 <field name="caption">Bennett on February 14, 2009</field>
 <field name="yearsactive">1955–1998</field>
 <field name="birthplace">Chicago ,  Illinois , U.S.</field>
-<field name="almamater">University of California, Los Angeles</field>
+<field name="education">University of California, Los Angeles</field>
 </doc>
 <doc>
 <field name="id">2256519</field>
@@ -1867,8 +1867,8 @@
 <field name="yearsactive">1979–present</field>
 <field name="birthplace">Houston, Texas , U.S.</field>
 <field name="birthname">Peter Brett Cullen</field>
-<field name="homepage">http://www.brettcullen.com</field>
-<field name="almamater">University of Houston</field>
+<field name="website">http://www.brettcullen.com</field>
+<field name="education">University of Houston</field>
 </doc>
 <doc>
 <field name="id">101545</field>
@@ -1976,7 +1976,7 @@
 <field name="awards">Best Television Actor 1966:  Till Death Us Do Part ' Best Actor in a Revival ' 1979:  Death of a Salesman ' Best Performance in a Supporting Role ' 2004:  The Price</field>
 <field name="spouse">Constance M. Wake</field>
 <field name="name">Warren Mitchell</field>
-<field name="notableworks">See below</field>
+<field name="knownfor">See below</field>
 </doc>
 <doc>
 <field name="id">1897667</field>
@@ -2012,7 +2012,7 @@
 <field name="birthdate">1929-06-01T00:00:00Z</field>
 <field name="name">Bill Schonely</field>
 <field name="image">Bill Schonely in April 2013.jpg</field>
-<field name="imagecaption">Schonely in 2013</field>
+<field name="caption">Schonely in 2013</field>
 <field name="birthplace">Norristown, Pennsylvania</field>
 <field name="othernames">The Schonz, Mr. Rip City</field>
 </doc>
@@ -2069,7 +2069,7 @@
 <field name="name">Richard Hunt</field>
 <field name="education">School of the Art Institute of Chicago</field>
 <field name="birthplace">South Side, Chicago ,  Illinois ,  United States</field>
-<field name="almamater">School of the Art Institute of Chicago</field>
+<field name="education">School of the Art Institute of Chicago</field>
 </doc>
 <doc>
 <field name="id">726709</field>
@@ -2194,7 +2194,7 @@
 <field name="spouse">Vince Henderson  (1997–present)</field>
 <field name="name">Sophie Aldred</field>
 <field name="children">2 sons</field>
-<field name="Yearsactive">1987 - Present</field>
+<field name="yearsactive">1987 - Present</field>
 <field name="image">Sophie.Aldred.JPG</field>
 <field name="caption">Sophie Aldred at The Television &amp; Movie Store, Norwich, England, on 2 February 2008.</field>
 <field name="birthplace">Greenwich , England, UK</field>
@@ -2243,8 +2243,8 @@
 <field name="spouse">John Kelsall Parry (1960–present)</field>
 <field name="name">Judy Cornwell</field>
 <field name="children">1 child</field>
-<field name="relatives">Sarah Bonner (grandmother)</field>
-<field name="othername">Judy Cornwall</field>
+<field name="family">Sarah Bonner (grandmother)</field>
+<field name="othernames">Judy Cornwall</field>
 <field name="yearsactive">1959–present</field>
 <field name="birthplace">Hammersmith , London, England, UK</field>
 </doc>
@@ -2324,7 +2324,7 @@
 <field name="weight">{{convert</field>
 <field name="height">{{height</field>
 <field name="birthdate">1943-11-06T00:00:00Z</field>
-<field name="names">Ken Patera, Hungry, Hungry Ken Patera</field>
+<field name="othernames">Ken Patera, Hungry, Hungry Ken Patera</field>
 <field name="name">Ken Patera</field>
 <field name="ft">6</field>
 <field name="birthplace">Portland ,  Oregon</field>
@@ -2343,12 +2343,12 @@
 <field name="caption">Keener at a press conference for  Please Give  at the  2010 Berlin Film Festival  on February 16, 2010</field>
 <field name="yearsactive">1986–present</field>
 <field name="birthplace">Miami ,  Florida , U.S.</field>
-<field name="almamater">Wheaton College  (1983)</field>
+<field name="education">Wheaton College  (1983)</field>
 </doc>
 <doc>
 <field name="id">1137362</field>
 <field name="type">person</field>
-<field name="bestknown">Burke's Backyard  host</field>
+<field name="knownfor">Burke's Backyard  host</field>
 <field name="occupation">television presenter</field>
 <field name="occupation">producer</field>
 <field name="occupation">author and landscaper</field>
@@ -2365,7 +2365,7 @@
 <field name="birthdate">1976-01-03T00:00:00Z</field>
 <field name="birthplace">South Korea</field>
 <field name="name">Kim Tae-yeon</field>
-<field name="years active">1999–present</field>
+<field name="yearsactive">1999–present</field>
 </doc>
 <doc>
 <field name="id">2261198</field>
@@ -2373,9 +2373,9 @@
 <field name="occupation">Journalist</field>
 <field name="occupation">news anchor</field>
 <field name="birthdate">1960-03-25T00:00:00Z</field>
-<field name="spouse(s)">Karina Mahtani-Current                   Erica Townsend (1987-2000)</field>
+<field name="spouse">Karina Mahtani-Current                   Erica Townsend (1987-2000)</field>
 <field name="name">Russ Mitchell</field>
-<field name="credits">The Early Show  - Saturday edition (1997-2007, 2011-2012) CBS Evening News,Weekend (2011-2012) '' CBS News Sunday Morning ''</field>
+<field name="knownfor">The Early Show  - Saturday edition (1997-2007, 2011-2012) CBS Evening News,Weekend (2011-2012) '' CBS News Sunday Morning ''</field>
 <field name="image">Russ mitchell.jpg</field>
 <field name="education">University of Missouri</field>
 <field name="birthplace">St. Louis, Missouri ,  USA</field>
@@ -2422,7 +2422,7 @@
 <field name="children">Michael Penn Sean Penn Chris Penn  (deceased)</field>
 <field name="image">File:Howard Duff Eileen Ryan Twilight Zone.JPG</field>
 <field name="caption">With  Howard Duff  in " A World of Difference " from  The Twilight Zone , 1960.</field>
-<field name="relatives">Aimee Mann  (daughter-in-law)</field>
+<field name="family">Aimee Mann  (daughter-in-law)</field>
 <field name="yearsactive">1955 - present</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
 <field name="birthname">Eileen Annucci</field>
@@ -2430,7 +2430,7 @@
 <doc>
 <field name="id">356985</field>
 <field name="type">person</field>
-<field name="alma mater">Sarah Lawrence College</field>
+<field name="education">Sarah Lawrence College</field>
 <field name="occupation">Actress</field>
 <field name="occupation">producer</field>
 <field name="birthdate">1966-06-08T00:00:00Z</field>
@@ -2498,7 +2498,7 @@
 <field name="parents">Albert II of Monaco Nicole Coste Charlene, Princess of Monaco  (stepmother)</field>
 <field name="birthdate">2003-08-24T00:00:00Z</field>
 <field name="birthname">Alexandre Éric Stéphane Tossoukpé</field>
-<field name="relatives">Princess Stephanie of Monaco  (aunt) Princess Caroline of Monaco  (aunt) Andrea Casiraghi  (cousin) Pierre Casiraghi  (cousin) Princess Alexandra of Hanover  (cousin) Pauline Ducruet  (cousin) Camille Marie Kelly Gottlieb  (cousin) Louis Ducruet  (cousin) Charlotte Casiraghi  (cousin) Jazmin Grace Grimaldi (half-sister)</field>
+<field name="family">Princess Stephanie of Monaco  (aunt) Princess Caroline of Monaco  (aunt) Andrea Casiraghi  (cousin) Pierre Casiraghi  (cousin) Princess Alexandra of Hanover  (cousin) Pauline Ducruet  (cousin) Camille Marie Kelly Gottlieb  (cousin) Louis Ducruet  (cousin) Charlotte Casiraghi  (cousin) Jazmin Grace Grimaldi (half-sister)</field>
 <field name="birthplace">Paris , France</field>
 </doc>
 <doc>
@@ -2525,7 +2525,7 @@
 <field name="occupation">Actress</field>
 <field name="birthdate">1962-12-04T00:00:00Z</field>
 <field name="name">Julie Lemieux</field>
-<field name="birth name">Julie Lemieux</field>
+<field name="birthname">Julie Lemieux</field>
 <field name="yearsactive">1992- present</field>
 <field name="birthplace">Asbestos, Quebec ,  Canada</field>
 </doc>
@@ -2562,7 +2562,7 @@
 <field name="spouse">Melissa Whitmire</field>
 <field name="name">Steve Whitmire</field>
 <field name="yearsactive">1978-present</field>
-<field name="othername">Steven Whitmire</field>
+<field name="othernames">Steven Whitmire</field>
 <field name="birthplace">Atlanta ,  Georgia ,  U.S.</field>
 </doc>
 <doc>
@@ -2627,7 +2627,7 @@
 <field name="children">Karen Petroski, Stephen Petroski</field>
 <field name="image">Henry Petroski Photo.jpg</field>
 <field name="birthplace">Brooklyn , New York</field>
-<field name="almamater">Manhattan College  (B.S., 1963) University of Illinois at Urbana-Champaign  (Ph.D. in Theoretical and Applied Mechanics, 1968)</field>
+<field name="education">Manhattan College  (B.S., 1963) University of Illinois at Urbana-Champaign  (Ph.D. in Theoretical and Applied Mechanics, 1968)</field>
 </doc>
 <doc>
 <field name="id">2405983</field>
@@ -2650,7 +2650,7 @@
 <field name="occupation">author</field>
 <field name="birthdate">1960-01-14T00:00:00Z</field>
 <field name="name">Eric Alterman</field>
-<field name="credits">Award winning journalist, author, professor</field>
+<field name="knownfor">Award winning journalist, author, professor</field>
 <field name="children">Eve Rose</field>
 <field name="image">Eric Alterman.jpg</field>
 <field name="education">BA in History and Government from  Cornell University ;  MA  in  International Relations  from  Yale University ;  PhD  in  U.S. History  from  Stanford University</field>
@@ -2675,7 +2675,7 @@
 <field name="image">lesleywarren2009.jpg</field>
 <field name="caption">Lesley Ann Warren in 2009</field>
 <field name="yearsactive">1963–present</field>
-<field name="othername">Lesley Warren</field>
+<field name="othernames">Lesley Warren</field>
 <field name="birthplace">New York City ,  New York , United States</field>
 </doc>
 <doc>
@@ -2702,7 +2702,7 @@
 <field name="image">SheetalShethPublicityStill1.jpg</field>
 <field name="yearsactive">1999—present</field>
 <field name="birthplace">Phillipsburg,NewJersey</field>
-<field name="almamater">NYUTischSchooloftheArts</field>
+<field name="education">NYUTischSchooloftheArts</field>
 </doc>
 <doc>
 <field name="id">1349686</field>
@@ -2776,7 +2776,7 @@
 <field name="image">Clarebalding.jpg</field>
 <field name="partner">Alice Arnold  (2006–present)</field>
 <field name="birthplace">Kingsclere ,  England , UK</field>
-<field name="almamater">Cambridge University</field>
+<field name="education">Cambridge University</field>
 </doc>
 <doc>
 <field name="id">1167903</field>
@@ -2828,7 +2828,7 @@
 <field name="name">Philip Anschutz</field>
 <field name="children">Christian (b. 1975) Elizabeth (b. 1974) Sarah (b. 1971)</field>
 <field name="birthplace">Russell, Kansas , USA</field>
-<field name="almamater">University of Kansas</field>
+<field name="education">University of Kansas</field>
 </doc>
 <doc>
 <field name="id">1633966</field>
@@ -2850,7 +2850,7 @@
 <field name="party">Labour Party</field>
 <field name="education">Basingstoke High School</field>
 <field name="birthplace">{{nowrap</field>
-<field name="almamater">{{nowrap</field>
+<field name="education">{{nowrap</field>
 <field name="title">{{nowrap</field>
 <field name="nationality">British</field>
 <field name="spouse">William Mason (divorced)</field>
@@ -2945,8 +2945,8 @@
 <field name="name">Ron W. Miller</field>
 <field name="children">Christopher D. Miller (b. 1954) Joanna Miller (b. 1956) Tamara Scheer (b. 1957) Jennifer Miller-Goff (b. 1960) Walter Elias Disney Miller (b. 1961) Ronald Miller (b. 1963) Patrick Miller (b. 1967)</field>
 <field name="birthplace">United States</field>
-<field name="almamater">University of Southern California</field>
-<field name="boards">The Walt Disney Company</field>
+<field name="education">University of Southern California</field>
+<field name="employer">The Walt Disney Company</field>
 </doc>
 <doc>
 <field name="id">2972721</field>
@@ -2959,8 +2959,8 @@
 <field name="education">A.B. J.D. , 1967</field>
 <field name="party">Democrat</field>
 <field name="birthplace">Los Angeles, California</field>
-<field name="almamater">Van Nuys High School University of California, Los Angeles University of Southern California</field>
-<field name="boards">Jewish Federation of Greater Los Angeles,  Chairman of the Board Hebrew Union College - Jewish Institute of Religion University of Southern California (Chairman Emeritus) iPass, Inc. Walt Disney Company  {{NYSE</field>
+<field name="education">Van Nuys High School University of California, Los Angeles University of Southern California</field>
+<field name="employer">Jewish Federation of Greater Los Angeles,  Chairman of the Board Hebrew Union College - Jewish Institute of Religion University of Southern California (Chairman Emeritus) iPass, Inc. Walt Disney Company  {{NYSE</field>
 <field name="religion">Judaism</field>
 <field name="predecessor">founder</field>
 <field name="title">Chief Executive Officer</field>
@@ -2979,10 +2979,10 @@
 <field name="image">Mills cat.jpg</field>
 <field name="education">Elmhurst Ballet School</field>
 <field name="birthplace">London, England, UK</field>
-<field name="domesticpartner">Leigh Lawson  (1975–1984) Firdous Bamji  (current)</field>
+<field name="partner">Leigh Lawson  (1975–1984) Firdous Bamji  (current)</field>
 <field name="spouse">Roy Boulting  (1971–1977)</field>
 <field name="name">Hayley Mills</field>
-<field name="relatives">Juliet Mills  (sister)</field>
+<field name="family">Juliet Mills  (sister)</field>
 <field name="birthname">Hayley Catherine Rose Vivien Mills</field>
 <field name="yearsactive">1947–present</field>
 </doc>
@@ -2998,7 +2998,7 @@
 <field name="name">MichaelKrasny</field>
 <field name="children">one</field>
 <field name="ethnicity">Jewish</field>
-<field name="almamater">UniversityofIllinois(B.A.)</field>
+<field name="education">UniversityofIllinois(B.A.)</field>
 </doc>
 <doc>
 <field name="id">1705935</field>
@@ -3009,7 +3009,7 @@
 <field name="birthdate">1994-05-04T00:00:00Z</field>
 <field name="birthname">Pauline Grace Maguy Ducruet</field>
 <field name="name">Pauline Ducruet</field>
-<field name="relatives">Princess Caroline of Monaco  (aunt) Andrea Casiraghi  (cousin) Pierre Casiraghi  (cousin) Princess Alexandra of Hanover  (cousin) Jazmin Grimaldi  (cousin) Charlotte Casiraghi  (cousin) Alexandre Coste  (cousin)</field>
+<field name="family">Princess Caroline of Monaco  (aunt) Andrea Casiraghi  (cousin) Pierre Casiraghi  (cousin) Princess Alexandra of Hanover  (cousin) Jazmin Grimaldi  (cousin) Charlotte Casiraghi  (cousin) Alexandre Coste  (cousin)</field>
 <field name="siblings">Louis Robert Paul Ducruet Michael Ducruet Camille Marie Kelly Gottlieb</field>
 <field name="birthplace">Monte Carlo</field>
 </doc>
@@ -3145,7 +3145,7 @@
 <field name="employer">BBC</field>
 <field name="education">Stratford-upon-Avon Grammar School for Girls</field>
 <field name="birthplace">Oxford ,  England</field>
-<field name="almamater">Goldsmiths, University of London</field>
+<field name="education">Goldsmiths, University of London</field>
 <field name="title">Corrie Corfield's voice</field>
 <field name="name">Corrie Kear Ware Corfield</field>
 </doc>
@@ -3259,7 +3259,7 @@
 <doc>
 <field name="id">674627</field>
 <field name="type">person</field>
-<field name="author">Nancy Mills</field>
+<field name="knownfor">Nancy Mills</field>
 <field name="title">Rob Estes, growing in new directions</field>
 <field name="occupation">Actor</field>
 <field name="birthdate">1963-07-22T00:00:00Z</field>
@@ -3343,7 +3343,7 @@
 <field name="caption">Diana Muldaur  &amp; Alex Cord in  Chosen Survivors , Columbia Pictures, 1974</field>
 <field name="yearsactive">1961–2009</field>
 <field name="birthplace">Floral Park ,  New York , USA</field>
-<field name="almamater">New York University American Shakespeare Theatre</field>
+<field name="education">New York University American Shakespeare Theatre</field>
 </doc>
 <doc>
 <field name="id">2307377</field>
@@ -3365,7 +3365,7 @@
 <field name="image">MahershalalhashbazAliCCJuly07.jpg</field>
 <field name="caption">Ali at the 2005  Comic-Con International</field>
 <field name="yearsactive">2001–present</field>
-<field name="othername">Mahershala Karim-Ali, Mahershala Ali</field>
+<field name="othernames">Mahershala Karim-Ali, Mahershala Ali</field>
 <field name="birthplace">Accra ,  Ghana .</field>
 <field name="birthname">Mahershalalhashbaz Gilmore</field>
 </doc>
@@ -3386,7 +3386,7 @@
 <field name="image">John lloyd secret comedy podcast.jpg</field>
 <field name="caption">John Lloyd in 2013</field>
 <field name="birthplace">Dover , England</field>
-<field name="almamater">West Hill Park School The King's School, Canterbury Trinity College, Cambridge</field>
+<field name="education">West Hill Park School The King's School, Canterbury Trinity College, Cambridge</field>
 </doc>
 <doc>
 <field name="id">1010928</field>
@@ -3408,7 +3408,7 @@
 <field name="birthdate">1964-02-08T00:00:00Z</field>
 <field name="website">www.trinnyandsusannah.com</field>
 <field name="networth">£5 million (estimated)</field>
-<field name="credits">What Not to Wear '' Trinny &amp; Susannah Undress... Trinny &amp; Susannah Undress the Nation ''</field>
+<field name="knownfor">What Not to Wear '' Trinny &amp; Susannah Undress... Trinny &amp; Susannah Undress the Nation ''</field>
 <field name="image">Trinny and susannah2.jpg</field>
 <field name="children">Lyla, Zak (stepson)</field>
 <field name="caption">Trinny Woodall on left next to  Susannah Constantine</field>
@@ -3456,7 +3456,7 @@
 <field name="yearsactive">1962–present</field>
 <field name="education">Feldon School</field>
 <field name="birthplace">Manchester ,  Lancashire , England, UK</field>
-<field name="almamater">Royal Academy of Dramatic Art</field>
+<field name="education">Royal Academy of Dramatic Art</field>
 </doc>
 <doc>
 <field name="id">1701007</field>
@@ -3468,7 +3468,7 @@
 <field name="image">DeborahWatling.JPG</field>
 <field name="caption">Deborah Watling at the Television &amp; Movie Store, Norwich on 20 September 2008</field>
 <field name="birthplace">Fulmer ,  Buckinghamshire</field>
-<field name="nationallity">British</field>
+<field name="nationality">British</field>
 </doc>
 <doc>
 <field name="id">1012998</field>
@@ -3479,7 +3479,7 @@
 <field name="name">David Troughton</field>
 <field name="children">Sam Troughton Jim Troughton</field>
 <field name="caption">David Troughton, Nottingham 18.03.2010</field>
-<field name="relatives">Michael Troughton  (brother) Harry Melling  (nephew)</field>
+<field name="family">Michael Troughton  (brother) Harry Melling  (nephew)</field>
 <field name="birthplace">Hampstead ,  North London ,  England</field>
 </doc>
 <doc>
@@ -3516,7 +3516,7 @@
 <field name="birthplace">Biloxi ,  Mississippi , U.S.</field>
 <field name="spouse">Eliza Garrett</field>
 <field name="name">Eric Roberts</field>
-<field name="relatives">Julia Roberts  (sister) Lisa Roberts Gillan  (sister) Keaton Simons  (stepson)</field>
+<field name="family">Julia Roberts  (sister) Lisa Roberts Gillan  (sister) Keaton Simons  (stepson)</field>
 </doc>
 <doc>
 <field name="id">3220353</field>
@@ -3534,7 +3534,7 @@
 <field name="birthdate">1968-10-20T00:00:00Z</field>
 <field name="name">Susan Tully</field>
 <field name="birthplace">Highgate ,  London ,  England</field>
-<field name="years active">1981-1995</field>
+<field name="yearsactive">1981-1995</field>
 </doc>
 <doc>
 <field name="id">1682028</field>
@@ -3545,7 +3545,7 @@
 <field name="name">David Collings</field>
 <field name="image">David Collings 2004.jpg</field>
 <field name="birthplace">Brighton , England, United Kingdom</field>
-<field name="years active">1961-present</field>
+<field name="yearsactive">1961-present</field>
 </doc>
 <doc>
 <field name="id">2089142</field>
@@ -3589,7 +3589,7 @@
 <field name="name">Tom Savini</field>
 <field name="image">Tom Savini 2007.png</field>
 <field name="caption">Tom Savini in 2007</field>
-<field name="othername">The Godfather of Gore The Sultan of Splatter</field>
+<field name="othernames">The Godfather of Gore The Sultan of Splatter</field>
 <field name="birthplace">Pittsburgh ,  Pennsylvania ,  United States</field>
 </doc>
 <doc>
@@ -3661,7 +3661,7 @@
 <field name="type">person</field>
 <field name="birthdate">1973-04-11T00:00:00Z</field>
 <field name="name">Alec Musser</field>
-<field name="Height">1.85</field>
+<field name="height">1.85</field>
 <field name="birthplace">New York City, New York</field>
 </doc>
 <doc>
@@ -3715,7 +3715,7 @@
 <field name="name">Harry Eden</field>
 <field name="yearsactive">2000 - present</field>
 <field name="birthplace">Old Harlow ,  Essex ,  England ,  UK</field>
-<field name="homepage">http://www.harryeden.com/</field>
+<field name="website">http://www.harryeden.com/</field>
 </doc>
 <doc>
 <field name="id">2577787</field>
@@ -3749,11 +3749,11 @@
 <doc>
 <field name="id">1788766</field>
 <field name="type">person</field>
-<field name="ethnic">Japanese</field>
+<field name="ethnicity">Japanese</field>
 <field name="occupation">Voice actor</field>
 <field name="birthdate">1988-02-19T00:00:00Z</field>
 <field name="name">Miyu Irino</field>
-<field name="credits">'' Tsubasa: Reservoir Chronicle as ' Syaoran Li '' Eyeshield 21 as ' Sena Kobayakawa '' Kingdom Hearts series as ' Sora '' Spirited Away as ' Haku</field>
+<field name="knownfor">'' Tsubasa: Reservoir Chronicle as ' Syaoran Li '' Eyeshield 21 as ' Sena Kobayakawa '' Kingdom Hearts series as ' Sora '' Spirited Away as ' Haku</field>
 <field name="gender">Male</field>
 <field name="yearsactive">1992 - present</field>
 <field name="birthplace">Tokyo, Japan</field>
@@ -3916,7 +3916,7 @@
 <field name="yearsactive">1986–present</field>
 <field name="education">Bear Creek High School</field>
 <field name="birthplace">Huntington, New York ,  U.S.</field>
-<field name="almamater">University of Colorado at Boulder New York University</field>
+<field name="education">University of Colorado at Boulder New York University</field>
 </doc>
 <doc>
 <field name="id">1141291</field>
@@ -3957,7 +3957,7 @@
 <field name="birthname">Katherina Freiin Schell von Bauschlott</field>
 <field name="yearsactive">1964–2004</field>
 <field name="birthplace">Budapest ,  Hungary</field>
-<field name="almamater">Otto Falckenberg School of the Performing Arts</field>
+<field name="education">Otto Falckenberg School of the Performing Arts</field>
 <field name="nationality">British</field>
 <field name="spouse">William Marlowe   William Marlowe</field>
 <field name="name">Catherine Schell</field>
@@ -3987,7 +3987,7 @@
 <field name="name">Daliah Lavi</field>
 <field name="image">DaliahLavi_Gewandhaus_Leipzig_March_8th,_2009.jpg</field>
 <field name="caption">Lavi live in concert at the  Gewandhaus ,  Leipzig ,  Germany  (March 2009)</field>
-<field name="URL">www.daliah-lavi.com</field>
+<field name="url">www.daliah-lavi.com</field>
 <field name="yearsactive">1955–1994 and 2008–2009</field>
 <field name="birthname">Daliah Lewinbuk</field>
 <field name="birthplace">Shavei Zion,  British Mandate of Palestine</field>
@@ -4077,7 +4077,7 @@
 <field name="birthdate">1947-04-15T00:00:00Z</field>
 <field name="spouse">Richard Gilder  (2005-present)</field>
 <field name="partner">Don Henley  (1970s)</field>
-<field name="uearsactive">1972-2006</field>
+<field name="yearsactive">1972-2006</field>
 <field name="birthplace">Houston, Texas ,  U.S.</field>
 </doc>
 <doc>
@@ -4287,7 +4287,7 @@
 <field name="id">2259245</field>
 <field name="type">person</field>
 <field name="occupation">Playboy  Model Recording Artist Actress Interior decorator</field>
-<field name="domesticpartner">Hugh M. Hefner   1969-1976</field>
+<field name="partner">Hugh M. Hefner   1969-1976</field>
 <field name="birthdate">1950-01-28T00:00:00Z</field>
 <field name="birthname">Barbara Lynn Klein</field>
 <field name="spouse">George Gradow (1979-present; 2 children)</field>
@@ -4307,7 +4307,7 @@
 <field name="name">Brandy Ledford</field>
 <field name="image">Brandy Ledford Headshot Hirez.jpg</field>
 <field name="yearsactive">1991 – present</field>
-<field name="othername">Jisel,Brandy Sanders</field>
+<field name="othernames">Jisel,Brandy Sanders</field>
 <field name="birthplace">Denver ,  Colorado ,  U.S.</field>
 </doc>
 <doc>
@@ -4487,12 +4487,12 @@
 <field name="nationality">French</field>
 <field name="residence">Quai Voltaire, Paris (personal) Bity Castle,  Sarran , Corrèze (personal)</field>
 <field name="birthdate">1933-05-18T00:00:00Z</field>
-<field name="relations">Claude Chirac   (daughter) Martin Rey-Chirac  (grandson) Anh Dao Traxel   (adoptive daughter)</field>
+<field name="family">Claude Chirac   (daughter) Martin Rey-Chirac  (grandson) Anh Dao Traxel   (adoptive daughter)</field>
 <field name="spouse">Jacques Chirac   (m. 1956–present)</field>
-<field name="profession">politician</field>
+<field name="occupation">politician</field>
 <field name="birthname">Bernadette Thérèse Marie Chodron de Courcel</field>
 <field name="birthplace">Paris, France</field>
-<field name="image name">Bernadette Chirac 1 (2009).jpg</field>
+<field name="image">Bernadette Chirac 1 (2009).jpg</field>
 </doc>
 <doc>
 <field name="id">504335</field>
@@ -4625,7 +4625,7 @@
 <field name="name">Christian Vadim</field>
 <field name="image">Christian Vadim &amp; Julia Livage - Monte-Carlo Television Festival - 2.JPG</field>
 <field name="yearsactive">1983 - present</field>
-<field name="image caption">Christian Vadim and  Julia Livage  in 2012  Monte-Carlo Television Festival</field>
+<field name="caption">Christian Vadim and  Julia Livage  in 2012  Monte-Carlo Television Festival</field>
 <field name="birthplace">France</field>
 </doc>
 <doc>
@@ -4726,7 +4726,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1938-05-10T00:00:00Z</field>
-<field name="died">{{ date and age</field>
+<field name="deathdate">{{ date and age</field>
 <field name="birthname">Marina de Poliakoff-Baidaroff</field>
 <field name="spouse">Robert Hossein  (1955-1959),(divorced), Jean-Claude Brouillet  (1963-1966), (divorced) , Vladimir Vysotsky  (1970-1980),(his death)</field>
 <field name="name">Marina Vlady</field>
@@ -4763,7 +4763,7 @@
 <field name="image">Michael Lonsdale par Claude Truong-Ngoc avril 2013.jpg</field>
 <field name="caption">Michael Lonsdale, 2013</field>
 <field name="yearsactive">1956–present</field>
-<field name="othername">Michel Lonsdale</field>
+<field name="othernames">Michel Lonsdale</field>
 <field name="birthplace">Paris, France</field>
 </doc>
 <doc>
@@ -4842,9 +4842,9 @@
 <field name="birthdate">1949-09-04T00:00:00Z</field>
 <field name="awards">Prix Goncourt  in 1985</field>
 <field name="name">Yann Queffélec</field>
-<field name="notableworks">Les Noces barbares (1984)</field>
+<field name="knownfor">Les Noces barbares (1984)</field>
 <field name="partner">Brigitte Engerer</field>
-<field name="relatives">Anne Queffélec</field>
+<field name="family">Anne Queffélec</field>
 <field name="birthplace">Paris</field>
 </doc>
 <doc>
@@ -4865,7 +4865,7 @@
 <field name="birthdate">1973-05-14T00:00:00Z</field>
 <field name="name">Anais Granofsky</field>
 <field name="yearsactive">1982–present</field>
-<field name="othername">Anias Granofski</field>
+<field name="othernames">Anias Granofski</field>
 <field name="birthplace">Toronto ,  Ontario ,  Canada</field>
 </doc>
 <doc>
@@ -4888,7 +4888,7 @@
 <field name="image">Angelica Bridges 2007.jpg</field>
 <field name="caption">Angelica Bridges New Years Eve 2007-08</field>
 <field name="yearsactive">1996-present.</field>
-<field name="URL">http://www.angelicabridges.com</field>
+<field name="url">http://www.angelicabridges.com</field>
 <field name="birthplace">Harrisonville, Missouri</field>
 </doc>
 <doc>
@@ -4913,7 +4913,7 @@
 <doc>
 <field name="id">16879</field>
 <field name="type">person</field>
-<field name="alma mater">St Peter's College, Oxford</field>
+<field name="education">St Peter's College, Oxford</field>
 <field name="birthdate">1936-06-17T00:00:00Z</field>
 <field name="birthname">Kenneth Loach</field>
 <field name="spouse">Lesley Ashton (1962-present; 5 children)</field>
@@ -4934,7 +4934,7 @@
 <field name="partner">Denis MacShane  (2003–2010)</field>
 <field name="caption">Joan Smith</field>
 <field name="birthplace">London</field>
-<field name="almamater">University of Reading</field>
+<field name="education">University of Reading</field>
 </doc>
 <doc>
 <field name="id">3113552</field>
@@ -4957,7 +4957,7 @@
 <field name="employer">Mithril</field>
 <field name="image">Brian_Behlendorf_at_INTEROP.jpg</field>
 <field name="caption">Brian Behlendorf in Moscow 2007</field>
-<field name="knowfor">Apache HTTP server</field>
+<field name="knownfor">Apache HTTP server</field>
 </doc>
 <doc>
 <field name="id">690032</field>
@@ -5053,8 +5053,8 @@
 <field name="caption">Auteuil, 2011.</field>
 <field name="yearsactive">1974-present</field>
 <field name="birthplace">French Algeria</field>
-<field name="baftaawards">Best Actor in a Supporting Role 1987  Jean de Florette</field>
-<field name="cesarawards">Best Actor 1986  Jean de Florette 1999  Girl on the Bridge</field>
+<field name="awards">Best Actor in a Supporting Role 1987  Jean de Florette</field>
+<field name="awards">Best Actor 1986  Jean de Florette 1999  Girl on the Bridge</field>
 <field name="awards">Best Actor Award (Cannes Film Festival) 1996  The Eighth Day</field>
 <field name="spouse">{{Plainlist</field>
 <field name="name">Daniel Auteuil</field>
@@ -5071,7 +5071,7 @@
 <field name="yearsactive">1992–present</field>
 <field name="birthplace">Lyon, France</field>
 <field name="birthname">David Franck Guez</field>
-<field name="homepage">http://www.davidcharvet.com</field>
+<field name="website">http://www.davidcharvet.com</field>
 </doc>
 <doc>
 <field name="id">1218860</field>
@@ -5201,7 +5201,7 @@
 <field name="spouse">Jean-Louis Trintignant  (div.)  Claude Chabrol  (div.) 1 child</field>
 <field name="name">Stéphane Audran</field>
 <field name="yearsactive">1957–present</field>
-<field name="othername">Colette Suzanne Jeannine Dacheville</field>
+<field name="othernames">Colette Suzanne Jeannine Dacheville</field>
 <field name="birthplace">Versailles , France</field>
 </doc>
 <doc>
@@ -5318,7 +5318,7 @@
 <field name="occupation">television director</field>
 <field name="birthdate">1939-11-21T00:00:00Z</field>
 <field name="yearsactive">1968–present</field>
-<field name="othername">Jean Szwarc</field>
+<field name="othernames">Jean Szwarc</field>
 <field name="birthplace">Paris ,  France</field>
 </doc>
 <doc>
@@ -5365,10 +5365,10 @@
 <field name="spouse">{{nowrap</field>
 <field name="name">Jayne Kennedy</field>
 <field name="children">3</field>
-<field name="URL">http://www.jaynekennedy.net</field>
-<field name="othername">Jayne Kennedy Overton</field>
+<field name="url">http://www.jaynekennedy.net</field>
+<field name="othernames">Jayne Kennedy Overton</field>
 <field name="birthplace">{{nowrap</field>
-<field name="naacpimageawards">Outstanding Actress in a Motion Picture 1982  Body and Soul</field>
+<field name="awards">Outstanding Actress in a Motion Picture 1982  Body and Soul</field>
 </doc>
 <doc>
 <field name="id">1766779</field>
@@ -5378,7 +5378,7 @@
 <field name="spouse">Prince Alfonso of Hohenlohe-Langenburg  (divorced 1984)</field>
 <field name="name">Jocelyn Lane</field>
 <field name="yearsactive">1954-71</field>
-<field name="othername">Jackie Lane</field>
+<field name="othernames">Jackie Lane</field>
 <field name="birthplace">Vienna , Austria</field>
 </doc>
 <doc>
@@ -5416,7 +5416,7 @@
 <field name="name">Yu Yamada</field>
 <field name="employer">K-Dash Pony Canyon</field>
 <field name="yearsactive">1999–present</field>
-<field name="relative">Shintaro Yamada  (brother)</field>
+<field name="family">Shintaro Yamada  (brother)</field>
 </doc>
 <doc>
 <field name="id">1820860</field>
@@ -5471,7 +5471,7 @@
 <doc>
 <field name="id">770876</field>
 <field name="type">person</field>
-<field name="domesticpartner">Ron Leavitt  1991-2008 (his death)</field>
+<field name="partner">Ron Leavitt  1991-2008 (his death)</field>
 <field name="birthdate">1959-07-07T00:00:00Z</field>
 <field name="name">Jessica Hahn</field>
 <field name="yearsactive">1991–1996</field>
@@ -5516,7 +5516,7 @@
 <field name="image">CFC in LA (Corey Sevier).jpg</field>
 <field name="birthplace">Ajax, Ontario</field>
 <field name="birthname">Corey Daniel Sevier</field>
-<field name="homepage">http://www.coreysevier.com/</field>
+<field name="website">http://www.coreysevier.com/</field>
 </doc>
 <doc>
 <field name="id">3588659</field>
@@ -5543,7 +5543,7 @@
 <field name="id">1039543</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="domesticpartner">Johnny Depp  (1985–1988),Dylan Stewart (2006–present)</field>
+<field name="partner">Johnny Depp  (1985–1988),Dylan Stewart (2006–present)</field>
 <field name="birthdate">1965-02-01T00:00:00Z</field>
 <field name="website">http://www.sherilynshines.blogspot.com/</field>
 <field name="birthname">Sheryl Ann Fenn</field>
@@ -5605,7 +5605,7 @@
 <field name="image">Bayrou Bercy 2007-04-18 n14.jpg</field>
 <field name="caption">Karmitz in 2007.</field>
 <field name="birthplace">Bucharest ,  Romania</field>
-<field name="almamater">Institut des hautes études cinématographiques</field>
+<field name="education">Institut des hautes études cinématographiques</field>
 </doc>
 <doc>
 <field name="id">574668</field>
@@ -5616,7 +5616,7 @@
 <field name="networth">{{gain}} US$ 13.0  billion  (September 2013)</field>
 <field name="image">Serge Dassault crop.jpg</field>
 <field name="children">Olivier Dassault Laurent Dassault Thierry Dassault Marie-Hélène Dassault</field>
-<field name="almamater">École Polytechnique , SUPAERO</field>
+<field name="education">École Polytechnique , SUPAERO</field>
 <field name="religion">Roman Catholicism</field>
 <field name="nationality">French</field>
 <field name="residence">Paris ,  France</field>
@@ -5641,7 +5641,7 @@
 <field name="nationality">French</field>
 <field name="birthdate">1963-11-10T00:00:00Z</field>
 <field name="name">Sylvain Chomet</field>
-<field name="notableworks">The Old Lady and the Pigeons ,'' The Triplets of Belleville , The Illusionist ''</field>
+<field name="knownfor">The Old Lady and the Pigeons ,'' The Triplets of Belleville , The Illusionist ''</field>
 <field name="birthplace">Maisons-Laffitte , France</field>
 </doc>
 <doc>
@@ -5796,7 +5796,7 @@
 <field name="birthdate">1986-06-10T00:00:00Z</field>
 <field name="birthname">Joseph Paul Zimmerman</field>
 <field name="yearsactive">1991 ─ present</field>
-<field name="othername">Joseph Zimmerman J. Paul Zimmerman J.P. Zimmerman</field>
+<field name="othernames">Joseph Zimmerman J. Paul Zimmerman J.P. Zimmerman</field>
 <field name="birthplace">Albuquerque, New Mexico, U.S.A.</field>
 </doc>
 <doc>
@@ -5835,7 +5835,7 @@
 <doc>
 <field name="id">1356491</field>
 <field name="type">person</field>
-<field name="NAME">Demeulemeester, Ann</field>
+<field name="name">Demeulemeester, Ann</field>
 <field name="birthdate">1959-12-29T00:00:00Z</field>
 <field name="caption">Belgian Fashion Designer</field>
 <field name="birthplace">Waregem, Belgium</field>
@@ -5897,12 +5897,12 @@
 <doc>
 <field name="id">2145430</field>
 <field name="type">person</field>
-<field name="mother">Pauline Cornet de Ways-Ruart</field>
+<field name="parents">Pauline Cornet de Ways-Ruart</field>
 <field name="birthdate">1941-08-28T00:00:00Z</field>
 <field name="spouse">Jacques Boël (m.1962-1978) Michael-Anthony-Rathborne Cayzer (m.1982-1990)</field>
 <field name="name">Sybille de Selys Longchamps</field>
 <field name="birthplace">Uccle ,  Belgium</field>
-<field name="father">Michel François de Selys Longchamps</field>
+<field name="parents">Michel François de Selys Longchamps</field>
 </doc>
 <doc>
 <field name="id">1474050</field>
@@ -6124,7 +6124,7 @@
 <field name="name">Walter Salles</field>
 <field name="image">Walter Salles at TIFF 2012.jpg</field>
 <field name="caption">Salles at the 2012  Toronto International Film Festival  showing of  On the Road</field>
-<field name="othername">Waltinho</field>
+<field name="othernames">Waltinho</field>
 <field name="birthplace">Rio de Janeiro ,  Brazil</field>
 </doc>
 <doc>
@@ -6494,7 +6494,7 @@
 <field name="id">595388</field>
 <field name="type">person</field>
 <field name="occupation">Filmmaker</field>
-<field name="Known for">Ju-on series</field>
+<field name="known for">Ju-on series</field>
 <field name="birthdate">1972-07-27T00:00:00Z</field>
 <field name="name">Takashi Shimizu</field>
 <field name="image">Takashi Shimizu cropped.jpg</field>
@@ -6611,7 +6611,7 @@
 <field name="birthdate">1979-12-07T00:00:00Z</field>
 <field name="birthname">Ayako Faith Fujitani</field>
 <field name="name">Ayako Fujitani</field>
-<field name="relatives">Kentaro Seagal (Brother)</field>
+<field name="family">Kentaro Seagal (Brother)</field>
 <field name="othernames">Ayako Seagal</field>
 <field name="birthplace">Osaka ,  Japan</field>
 </doc>
@@ -6685,7 +6685,7 @@
 <field name="website">www.kaho-minami.net</field>
 <field name="spouse">Ken Watanabe  (2005-)</field>
 <field name="name">Kaho Minami</field>
-<field name="nativename">南 果歩</field>
+<field name="othernames">南 果歩</field>
 <field name="birthplace">Amagasaki ,  Hyōgo Prefecture ,  Japan</field>
 </doc>
 <doc>
@@ -6713,7 +6713,7 @@
 <field name="height">{{height</field>
 <field name="nationality">Japanese</field>
 <field name="name">Ai Kato</field>
-<field name="nativename">加藤 あい</field>
+<field name="othernames">加藤 あい</field>
 </doc>
 <doc>
 <field name="id">1401909</field>
@@ -6736,7 +6736,7 @@
 <field name="spouse">Mao Daichi  (1990–2004) Yuri Matsumoto (2005–2010)</field>
 <field name="name">Ken Matsudaira</field>
 <field name="yearsactive">1974 – present</field>
-<field name="othername">Matsuken</field>
+<field name="othernames">Matsuken</field>
 <field name="birthplace">Toyohashi, Aichi ,  Japan</field>
 </doc>
 <doc>
@@ -6765,7 +6765,7 @@
 <field name="nativenamelang">ja</field>
 <field name="birthdate">1978-07-10T00:00:00Z</field>
 <field name="name">Kotaro Koizumi</field>
-<field name="nativename">小泉孝太郎</field>
+<field name="othernames">小泉孝太郎</field>
 </doc>
 <doc>
 <field name="id">1363849</field>
@@ -6847,7 +6847,7 @@
 <field name="birthdate">1946-11-22T00:00:00Z</field>
 <field name="website">http://lotus-roots.co.jp/baisho/en/</field>
 <field name="name">Mitsuko Baisho</field>
-<field name="nativename">倍賞 美津子</field>
+<field name="othernames">倍賞 美津子</field>
 <field name="birthplace">Ibaraki Prefecture , Japan</field>
 </doc>
 <doc>
@@ -6952,7 +6952,7 @@
 <field name="nationality">Japanese</field>
 <field name="birthdate">1980-12-13T00:00:00Z</field>
 <field name="name">Satoshi Tsumabuki</field>
-<field name="nativename">{{jp</field>
+<field name="othernames">{{jp</field>
 <field name="yearsactive">1998-present</field>
 <field name="ethnicity">Japanese</field>
 <field name="birthplace">Yanagawa, Fukuoka ,  Japan</field>
@@ -6965,7 +6965,7 @@
 <field name="birthdate">1920-06-17T00:00:00Z</field>
 <field name="birthname">Masae Aida</field>
 <field name="name">Setsuko Hara</field>
-<field name="notableworks">No Regrets for Our Youth ,  Late Spring ,  Early Summer ,  Tokyo Story</field>
+<field name="knownfor">No Regrets for Our Youth ,  Late Spring ,  Early Summer ,  Tokyo Story</field>
 <field name="image">Setsuko Hara smiling 2.jpg</field>
 <field name="yearsactive">1935 to 1963</field>
 <field name="birthplace">Yokohama ,  Kanagawa , {{nowrap</field>
@@ -7063,13 +7063,13 @@
 <field name="nationality">Japanese</field>
 <field name="birthdate">1936-01-24T00:00:00Z</field>
 <field name="name">Yoko Nogiwa</field>
-<field name="nativename">野際 陽子</field>
+<field name="othernames">野際 陽子</field>
 <field name="birthplace">Toyama , Japan</field>
 </doc>
 <doc>
 <field name="id">1220014</field>
 <field name="type">person</field>
-<field name="goldenglobeawards">Best TV Actress - Drama 1981  Shogun</field>
+<field name="awards">Best TV Actress - Drama 1981  Shogun</field>
 <field name="birthdate">1953-05-17T00:00:00Z</field>
 <field name="name">Yoko Shimada</field>
 <field name="caption">Yoko Shimada as Mariko (Lady Toda Buntaro) and  Richard Chamberlain  as  John Blackthorne  in the  Shogun   television   miniseries .</field>
@@ -7094,7 +7094,7 @@
 <field name="birthdate">1979-10-30T00:00:00Z</field>
 <field name="website">http://www.ogipro.com/talent/nakama/</field>
 <field name="name">Yukie Nakama</field>
-<field name="nativename">仲間 由紀恵</field>
+<field name="othernames">仲間 由紀恵</field>
 <field name="yearsactive">1994 - present</field>
 <field name="birthplace">Urasoe, Okinawa , Japan</field>
 </doc>
@@ -7123,7 +7123,7 @@
 <doc>
 <field name="id">1986588</field>
 <field name="type">person</field>
-<field name="ethnic">Japanese</field>
+<field name="ethnicity">Japanese</field>
 <field name="occupation">Voice actor</field>
 <field name="birthdate">1982-08-21T00:00:00Z</field>
 <field name="name">Ōmae Akane 大前 茜</field>
@@ -7188,10 +7188,10 @@
 <field name="birthdate">1931-02-16T00:00:00Z</field>
 <field name="birthname">Goichi Oda</field>
 <field name="name">Ken Takakura</field>
-<field name="nativename">高倉 健</field>
+<field name="othernames">高倉 健</field>
 <field name="yearsactive">1956–present</field>
 <field name="birthplace">Nakama, Fukuoka , Japan</field>
-<field name="almamater">Meiji University</field>
+<field name="education">Meiji University</field>
 </doc>
 <doc>
 <field name="id">452174</field>
@@ -7232,7 +7232,7 @@
 <field name="occupation">Actor</field>
 <field name="birthdate">1975-05-19T00:00:00Z</field>
 <field name="name">Masanobu Ando</field>
-<field name="nativename">安藤 政信</field>
+<field name="othernames">安藤 政信</field>
 <field name="caption">Ando Masanobu at stage greeting of 'Smuggler' movie screening in October 3rd 2011</field>
 <field name="birthplace">Kawasaki ,  Kanagawa Prefecture ,  Japan</field>
 </doc>
@@ -7276,7 +7276,7 @@
 <field name="birthdate">1947-01-18T00:00:00Z</field>
 <field name="spouse">Mikiko Kitano</field>
 <field name="name">Takeshi Kitano</field>
-<field name="nativename">{{Nihongo2</field>
+<field name="othernames">{{Nihongo2</field>
 <field name="children">Atsushi Kitano,Shoko Kitano</field>
 <field name="image">TakesiKitano.jpg</field>
 <field name="caption">Takeshi Kitano at the  Cannes Film Festival  in 2000</field>
@@ -7333,7 +7333,7 @@
 <field name="party">Swedish Social Democratic Party</field>
 <field name="education">Bachelor of Arts , economics Master of Science , economics</field>
 <field name="birthplace">Gothenburg ,  Sweden</field>
-<field name="almamater">Gothenburg University</field>
+<field name="education">Gothenburg University</field>
 <field name="title">Minister of Trade Minister for Industry and Trade Minister for Education and Culture</field>
 <field name="nationality">Swedish</field>
 <field name="height">1.61 meters (5'3")</field>
@@ -7581,13 +7581,13 @@
 <field name="image">New-Headshot-Sybil Danning.jpg</field>
 <field name="caption">Sybil Danning</field>
 <field name="yearsactive">1968–present</field>
-<field name="othername">Cybil Danning Sybil Danning Lasse</field>
+<field name="othernames">Cybil Danning Sybil Danning Lasse</field>
 <field name="birthplace">Wels, Upper Austria,  Austria</field>
 </doc>
 <doc>
 <field name="id">492026</field>
 <field name="type">person</field>
-<field name="captionn">Bikel in 1972</field>
+<field name="caption">Bikel in 1972</field>
 <field name="occupation">Film</field>
 <field name="occupation">television actor</field>
 <field name="birthdate">1924-05-02T00:00:00Z</field>
@@ -7623,7 +7623,7 @@
 <field name="caption">Branko Đurić performing with Bombaj Štampa in Sarajevo in September 2011</field>
 <field name="yearsactive">1984–present</field>
 <field name="notable role">various roles in  Top lista nadrealista</field>
-<field name="othername">Đuro/Djuro</field>
+<field name="othernames">Đuro/Djuro</field>
 <field name="birthplace">Sarajevo ,  SR Bosnia and Herzegovina ,  Yugoslavia</field>
 </doc>
 <doc>
@@ -7643,7 +7643,7 @@
 <field name="birthdate">1942-12-09T00:00:00Z</field>
 <field name="birthname">Стефан Ламбов Данаилов</field>
 <field name="name">Stefan Lambov Danailov</field>
-<field name="nativename">Стефан Ламбов Данаилов</field>
+<field name="othernames">Стефан Ламбов Данаилов</field>
 <field name="image">Stefan Danailov.jpg</field>
 <field name="caption">Stefan Lambov Danailov at Rozhen folklore festival 2006</field>
 </doc>
@@ -7683,7 +7683,7 @@
 <doc>
 <field name="id">2091579</field>
 <field name="type">person</field>
-<field name="alma mater">Hebrew University of Jerusalem , Architectural Association in London , National Film School of Denmark</field>
+<field name="education">Hebrew University of Jerusalem , Architectural Association in London , National Film School of Denmark</field>
 <field name="occupation">Director</field>
 <field name="occupation">Writer</field>
 <field name="occupation">Producer</field>
@@ -7940,7 +7940,7 @@
 <field name="name">Nicolette Krebitz</field>
 <field name="image">Nicolette Krebitz (left), Anne Hoegh Krohn (right), 2009.jpg</field>
 <field name="caption">Nicolette Krebitz (left) with film director  Anne Høegh Krohn  from Norway at the "Festival des deutschen Films" 2009,  Ludwigshafen , Germany</field>
-<field name="othername">Coco</field>
+<field name="othernames">Coco</field>
 <field name="birthplace">Berlin ,  Germany</field>
 </doc>
 <doc>
@@ -8034,7 +8034,7 @@
 <field name="image">Robert Stadlober Berlinale 2008.jpg</field>
 <field name="caption">Robert Stadlober at the  58th Berlin International Film Festival  (2008)</field>
 <field name="yearsactive">1995–present</field>
-<field name="relatives">Anja Stadlober (sister)</field>
+<field name="family">Anja Stadlober (sister)</field>
 <field name="birthplace">Friesach ,  Carinthia ,  Austria</field>
 </doc>
 <doc>
@@ -8235,7 +8235,7 @@
 <field name="image">Valentina Cervi Venice 2012.jpg</field>
 <field name="caption">Valentina Cervi in Venice 2012</field>
 <field name="ft">5</field>
-<field name="relatives">{{ubl</field>
+<field name="family">{{ubl</field>
 <field name="yearsactive">1986—present</field>
 <field name="in">7}}</field>
 <field name="birthplace">Rome ,  Italy</field>
@@ -8249,7 +8249,7 @@
 <field name="name">Giulietto Chiesa</field>
 <field name="image">Giulietto Chiesa Axis for Peace 2005-11-18.jpg</field>
 <field name="caption">Chiesa at the 2005  Axis for Peace  conference</field>
-<field name="URL">http://www.giuliettochiesa.it/</field>
+<field name="url">http://www.giuliettochiesa.it/</field>
 <field name="birthplace">Acqui Terme ,  Province of Alessandria ,  Italy</field>
 </doc>
 <doc>
@@ -8408,9 +8408,9 @@
 <doc>
 <field name="id">1707291</field>
 <field name="type">person</field>
-<field name="alma mater">National Film School in Łódź</field>
+<field name="education">National Film School in Łódź</field>
 <field name="occupation">Actor</field>
-<field name="domesticpartner">Monika Richardson</field>
+<field name="partner">Monika Richardson</field>
 <field name="birthdate">1961-07-17T00:00:00Z</field>
 <field name="spouse">Anna Komornicka ( divorced ) Aleksandra Justa (divorced March 2012)</field>
 <field name="name">Zbigniew Zamachowski</field>
@@ -8483,7 +8483,7 @@
 <field name="image">Дерипаска Олег Владимирович.jpg</field>
 <field name="birthplace">Dzerzhinsk ,  Nizhny Novgorod Oblast ,  Russian SFSR</field>
 <field name="birthname">Oleg Vladimirovich Deripaska</field>
-<field name="almamater">Moscow State University ,  Plekhanov Russian Academy of Economics</field>
+<field name="education">Moscow State University ,  Plekhanov Russian Academy of Economics</field>
 </doc>
 <doc>
 <field name="id">476001</field>
@@ -8550,7 +8550,7 @@
 <field name="occupation">Film director  and  screenwriter</field>
 <field name="birthdate">1963-01-01T00:00:00Z</field>
 <field name="name">Srđan Dragojević</field>
-<field name="notableworks">Lepa sela lepo gore ,  Rane</field>
+<field name="knownfor">Lepa sela lepo gore ,  Rane</field>
 <field name="image">SRDJAN DRAGOJEVIC-PHOTO1.jpg</field>
 <field name="yearsactive">1992–present</field>
 <field name="birthplace">Belgrade ,  PR Serbia ,  FPR Yugoslavia</field>
@@ -8729,7 +8729,7 @@
 <field name="spouse">Mark Nicolson</field>
 <field name="name">Mistress of Saltoun</field>
 <field name="children">Louise Nicolson Juliet Nicolson Alexander Fraser</field>
-<field name="birth name">The Honourable Katharine Ingrid Mary Isabel Ramsay</field>
+<field name="birthname">The Honourable Katharine Ingrid Mary Isabel Ramsay</field>
 <field name="birthplace">Edinburgh ,  Scotland</field>
 </doc>
 <doc>
@@ -8774,7 +8774,7 @@
 <field name="partner">David Lynch  (1986–1991), Gary Oldman  (1994–1996)</field>
 <field name="caption">Rossellini on location at Tempelhof Airport in Berlin to shoot some scenes for the film  The Innocent , 1992</field>
 <field name="yearsactive">1976–present</field>
-<field name="Children">Roberto Rossellini Jr  (1990-Present)</field>
+<field name="children">Roberto Rossellini Jr  (1990-Present)</field>
 <field name="birthplace">Rome ,  Italy</field>
 </doc>
 <doc>
@@ -8809,7 +8809,7 @@
 <field name="id">2222864</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="domesticpartner">Peter Del Monte  (1985-1987) Benicio del Toro  (1988-1992) Fabrizio Bentivoglio  (1993-2001) Andrea Di Stefano  (2002-2005) Riccardo Scamarcio  (2006-now)</field>
+<field name="partner">Peter Del Monte  (1985-1987) Benicio del Toro  (1988-1992) Fabrizio Bentivoglio  (1993-2001) Andrea Di Stefano  (2002-2005) Riccardo Scamarcio  (2006-now)</field>
 <field name="birthdate">1965-10-22T00:00:00Z</field>
 <field name="image">Valeria Golino, Giffoni Film Festival 2011.jpg</field>
 <field name="caption">Valeria Golino in 2011</field>
@@ -8828,7 +8828,7 @@
 <doc>
 <field name="id">589223</field>
 <field name="type">person</field>
-<field name="organization">Red Army Faction</field>
+<field name="employer">Red Army Faction</field>
 <field name="birthdate">1947-05-13T00:00:00Z</field>
 <field name="name">Irmgard Möller</field>
 <field name="birthplace">Bielefeld ,  West Germany</field>
@@ -8852,7 +8852,7 @@
 <field name="yearsactive">1975–present</field>
 <field name="education">London Oratory School</field>
 <field name="birthplace">Streatham ,  London , England, UK</field>
-<field name="almamater">Queen's University Belfast Drama Centre London</field>
+<field name="education">Queen's University Belfast Drama Centre London</field>
 </doc>
 <doc>
 <field name="id">1593196</field>
@@ -8929,7 +8929,7 @@
 <field name="name">Jonathan Saul Freedland</field>
 <field name="image">Jonathan Freedland, Journalist, Author and Broadcaster (8571240487).jpg</field>
 <field name="caption">Freedland at  Chatham House  in 2013</field>
-<field name="almamater">Wadham College, Oxford</field>
+<field name="education">Wadham College, Oxford</field>
 </doc>
 <doc>
 <field name="id">974165</field>
@@ -8946,7 +8946,7 @@
 <field name="parents">Doreen Mann</field>
 <field name="occupation">Activist</field>
 <field name="occupation">writer</field>
-<field name="organization">Animal Liberation Front</field>
+<field name="employer">Animal Liberation Front</field>
 <field name="website">fromdusktildawn.org</field>
 <field name="name">Keith Mann</field>
 <field name="image">KeithMann2.jpg</field>
@@ -9057,7 +9057,7 @@
 <field name="name">Anke Engelke</field>
 <field name="image">Anke Engelke (Berlin Film Festival 2010).jpg</field>
 <field name="caption">Anke Engelke at the  60th Berlin International Film Festival  2010</field>
-<field name="othername">Anke Christina Fischer</field>
+<field name="othernames">Anke Christina Fischer</field>
 <field name="birthplace">Montreal ,  Quebec ,  Canada</field>
 <field name="birthname">Anke Christina Engelke</field>
 </doc>
