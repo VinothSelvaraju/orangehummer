@@ -104,7 +104,8 @@ public class QuerySearch {
 				urlParameters += "q="
 						+ URLEncoder.encode(queryStr,
 								QueryConstants.solrEncodeType);
-			// Specifying the request the format
+			
+			// filtering the fields
 			if (!queryFields.isEmpty()) {
 				String field = "";
 				Iterator<String> fieldIte = queryFields.iterator();
@@ -120,6 +121,8 @@ public class QuerySearch {
 								QueryConstants.solrEncodeType);
 
 			}
+			
+			//For faceting
 			if (query.getFacet())
 				urlParameters += "&facet="
 						+ URLEncoder.encode(String.valueOf(query.getFacet()),
@@ -143,6 +146,44 @@ public class QuerySearch {
 				}
 
 			}
+			
+			//for more like this options
+			if(query.getMlt()) {
+				urlParameters += "&mlt="
+						+ URLEncoder.encode(String.valueOf(query.getMlt()),
+								QueryConstants.solrEncodeType);
+				if(query.getMltMinTf() != 0) {
+					urlParameters += "&mlt.mintf="
+							+ URLEncoder.encode(String.valueOf(query.getMltMinTf()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getMltMinDf() != 0) {
+					urlParameters += "&mlt.mindf="
+							+ URLEncoder.encode(String.valueOf(query.getMltMinDf()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getMltMaxTf() != 0) {
+					urlParameters += "&mlt.maxtf="
+							+ URLEncoder.encode(String.valueOf(query.getMltMaxTf()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getMltMaxDf() != 0) {
+					urlParameters += "&mlt.maxdf="
+							+ URLEncoder.encode(String.valueOf(query.getMltMaxDf()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getMltCount() != 0) {
+					urlParameters += "&mlt.count="
+							+ URLEncoder.encode(String.valueOf(query.getMltCount()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getMltField() != null) {
+					urlParameters += "&mlt.fl="
+							+ URLEncoder.encode(query.getMltField(),
+									QueryConstants.solrEncodeType);
+				}
+			}
+			
 			urlParameters += "&wt="
 					+ URLEncoder.encode(QueryConstants.solrRequestFormat,
 							QueryConstants.solrEncodeType);

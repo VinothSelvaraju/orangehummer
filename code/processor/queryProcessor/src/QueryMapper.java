@@ -16,7 +16,7 @@ public class QueryMapper {
 
 			}
 			query = new Query();
-			queryStr = QueryConstants.queryMainTag+":"+queryStrArr[3];
+			queryStr = queryStrArr[3];
 			query.setQueryStr(queryStr);
 			query.addFilterQuery(QueryConstants.queryTypeTag, queryStrArr[0]);
 			query.addField(QueryConstants.queryMainTag);
@@ -82,6 +82,7 @@ public class QueryMapper {
 	public static void main(String[] args) {
 		
 		//String queryStrArr[] = { "what", "was", "*bill gate*", "occupation"};
+		
 		try {
 		if(args.length == 0) {
 			throw new Exception("Required Java args : FileDirec type what was rajini occupation");

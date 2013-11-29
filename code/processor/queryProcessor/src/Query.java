@@ -14,15 +14,79 @@ public class Query {
 	private Boolean facet = false;
 	private String facetField;
 	private String facetQuery;
-	private Map<String,String> filterQuery;
-	
+	private Map<String, String> filterQuery;
+	private Boolean mlt;
+	private int mltMinDf;
+	private int mltMinTf;
+	private int mltMaxDf;
+	private int mltMaxTf;
+	private String mltField;
+	private int mltCount;
+
 	public Query() {
 		field = new ArrayList<String>();
 		start = new Integer(-1);
 		param = new HashMap<String, ArrayList<String>>();
-		filterQuery = new HashMap<String,String>();
+		filterQuery = new HashMap<String, String>();
+		mlt = false;
 	}
-	
+
+	public int getMltCount() {
+		return mltCount;
+	}
+
+	public void setMltCount(int mltCount) {
+		this.mltCount = mltCount;
+	}
+
+	public void setMltField(String mltField) {
+		this.mltField = mltField;
+	}
+
+	public Boolean getMlt() {
+		return mlt;
+	}
+
+	public void setMlt(Boolean mlt) {
+		this.mlt = mlt;
+	}
+
+	public int getMltMinDf() {
+		return mltMinDf;
+	}
+
+	public void setMltMinDf(int mltMinDf) {
+		this.mltMinDf = mltMinDf;
+	}
+
+	public int getMltMinTf() {
+		return mltMinTf;
+	}
+
+	public void setMltMinTf(int mltMinTf) {
+		this.mltMinTf = mltMinTf;
+	}
+
+	public int getMltMaxDf() {
+		return mltMaxDf;
+	}
+
+	public void setMltMaxDf(int mltMaxDf) {
+		this.mltMaxDf = mltMaxDf;
+	}
+
+	public int getMltMaxTf() {
+		return mltMaxTf;
+	}
+
+	public void setMltMaxTf(int mltMaxTf) {
+		this.mltMaxTf = mltMaxTf;
+	}
+
+	public String getMltField() {
+		return mltField;
+	}
+
 	public Boolean getFacet() {
 		return facet;
 	}
@@ -60,7 +124,7 @@ public class Query {
 	}
 
 	public void addFilterQuery(String key, String value) {
-		this.filterQuery.put(key,value);
+		this.filterQuery.put(key, value);
 	}
 
 	public ArrayList<String> getField() {
@@ -70,7 +134,7 @@ public class Query {
 	public void addField(String fieldComponent) {
 		this.field.add(fieldComponent);
 	}
-	
+
 	public void addFieldCollection(ArrayList<String> fields) {
 		this.field.addAll(fields);
 	}
@@ -91,32 +155,17 @@ public class Query {
 		this.param = param;
 	}
 
-	
-	
-	/*public SolrQuery solrQueryFrame() {
-		SolrQuery query = new SolrQuery();
-		if(query!=null){
-			query.setQuery(queryStr);
-		}
-		if(!filterQuery.isEmpty()) {
-			query.setFilterQueries((String[])filterQuery.toArray());
-		}
-		if(!field.isEmpty()) {
-			query.setFields((String[])field.toArray());
-		}
-		if(start != -1 ) {
-			query.setStart(start);
-		}	
-		if(param.size() != 0 ) {
-			Iterator<Map.Entry<String, ArrayList<String>>> it = param.entrySet().iterator();
-			while(it.hasNext()) {
-	            Map.Entry<String, ArrayList<String>> entry = it.next();
-	            String key = entry.getKey();
-	            ArrayList<String> value = entry.getValue();
-	            query.setParam(key, (String[])value.toArray());
-	        }
-		}
-		return query;
-	}*/
-	
+	/*
+	 * public SolrQuery solrQueryFrame() { SolrQuery query = new SolrQuery();
+	 * if(query!=null){ query.setQuery(queryStr); } if(!filterQuery.isEmpty()) {
+	 * query.setFilterQueries((String[])filterQuery.toArray()); }
+	 * if(!field.isEmpty()) { query.setFields((String[])field.toArray()); }
+	 * if(start != -1 ) { query.setStart(start); } if(param.size() != 0 ) {
+	 * Iterator<Map.Entry<String, ArrayList<String>>> it =
+	 * param.entrySet().iterator(); while(it.hasNext()) { Map.Entry<String,
+	 * ArrayList<String>> entry = it.next(); String key = entry.getKey();
+	 * ArrayList<String> value = entry.getValue(); query.setParam(key,
+	 * (String[])value.toArray()); } } return query; }
+	 */
+
 }

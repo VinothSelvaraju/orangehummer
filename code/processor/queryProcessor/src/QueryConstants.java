@@ -16,7 +16,6 @@ public class QueryConstants {
 	static boolean solrDoInput = true;
 	static boolean solrDoOutput = true;
 	static boolean solrIndent = true;
-	
 
 	static String UIDirc;
 	static String queryFile = "queryOutput.json";
@@ -24,11 +23,20 @@ public class QueryConstants {
 	static String facetPlaceFile = "facetPlace.json";
 	static String facetFilmFile = "facetFilm.json";
 	static String facetQueryExpansion = "facetExpansion.json";
-	
+	static String mltVerticalExpansion = "mltVerExp.json";
+	static String mltHorizontalExpansion = "mltHorExp.json";
+
 	static String queryMainTag = "name";
 	static String queryTypeTag = "type";
 	static String queryAllFetch = "*:*";
-
+	
+	//if set to zero, will not be considered
+	static int mltMinTf = 1;
+	static int mltMinDf = 1;
+	static int mltMaxTf = 0;
+	static int mltMaxDf = 0;
+	static int mltCount = 2;
+	
 	static Map<String, String> fieldtagger;
 
 	static {
@@ -37,16 +45,25 @@ public class QueryConstants {
 		fieldtagger.put("when", "date");
 		fieldtagger.put("born", "birth");
 		fieldtagger.put("child", "children");
+
 	}
 
 	static Map<String, String> facettagger;
 
 	static {
 		facettagger = new HashMap<String, String>();
-		facettagger.put("person", "occupation");
+		facettagger.put("person", "occupationFacet");
 
 	}
-	
+
+	static Map<String, String> mlttagger;
+
+	static {
+		mlttagger = new HashMap<String, String>();
+		mlttagger.put("person", "occupation");
+
+	}
+
 	static Map<String, String> facetFileTagger;
 
 	static {
@@ -56,4 +73,15 @@ public class QueryConstants {
 		facetFileTagger.put("film", facetFilmFile);
 
 	}
+
+	static String[] personTags = { "birthname", "education", "birthplace",
+			"deathplace", "occupation", "awards", "weight",
+			"height", "religion", "parents", "caption", "deathdate", "partner",
+			"title", "spouse", "deathcause", "yearsactive", "website",
+			"residence", "knownfor", "nationality", "birthdate", "links",
+			"role", "year", "children", "denomination", "networth",
+			"credits", "gender", "othernames", "party", "family", "successor",
+			"predecessor", "salary", "alias", "employer", "season", "tribe",
+			"television", "movement", "status", "ethnicity", "siblings",
+			"citizenship" };
 }
