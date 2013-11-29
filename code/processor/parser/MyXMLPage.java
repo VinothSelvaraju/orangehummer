@@ -1,6 +1,7 @@
 
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Set;
 
 public class MyXMLPage
@@ -10,7 +11,7 @@ public class MyXMLPage
 	String publishDate;
 	String author;
 	String text;
-	String infobox;
+	HashMap<String,String> infobox;
 	String summary;
 	public ArrayList<String> categories;
 	public ArrayList<String[]> section;
@@ -38,8 +39,8 @@ public class MyXMLPage
 		this.text=str;
 		}
 	
-	public void setInfobox(String str) {
-		this.infobox=str;
+	public void setInfobox(HashMap<String,String> hMap) {
+		this.infobox=hMap;
 		}
 	
 	public void setSection(ArrayList<String[]> args){
@@ -64,7 +65,7 @@ public class MyXMLPage
 	public String getText() {
 		return this.text;
 		}
-	public String getInfobox() {
+	public HashMap getInfobox() {
 		return this.infobox;
 		}
 	public String getSummary() {
