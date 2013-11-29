@@ -296,72 +296,84 @@ public class XMLContentHandler extends DefaultHandler {
 					rootElement = doc.createElement("add");
 					doc.appendChild(rootElement);
 				}
-				Element document = doc.createElement("doc");
-				rootElement.appendChild(document);
-				Element field1 = doc.createElement("field");
-				field1.appendChild(doc.createTextNode(Integer.toString(page.getId())));
-				field1.setAttribute("name", "id");
-				document.appendChild(field1);
-				Element field2 = doc.createElement("field");
-				field2.appendChild(doc.createTextNode("person"));
-				field2.setAttribute("name", "type");
-				document.appendChild(field2);
 				
 				Iterator<Entry<String, String>> itr1 = page.infobox.entrySet().iterator();
-				System.out.println("-----------------Page start---------------------");
+				Boolean nameFlag = false;
 				while (itr1.hasNext()) {
 					Map.Entry pairs = (Map.Entry) itr1.next();
-					if(pairs.getKey().toString().trim().equals("occupation")){
-						String input = pairs.getValue().toString().replaceAll(";|/", ",");
-						if(input.contains(",")){
-							String [] str= input.split(",");
-							for(int i = 0;i<str.length;i++){
+					if(pairs.getKey().toString().toLowerCase().trim().contentEquals("name")){
+						nameFlag = true;
+						break;
+					}
+				}
+				
+				if(nameFlag == true){
+					Element document = doc.createElement("doc");
+					rootElement.appendChild(document);
+					Element field1 = doc.createElement("field");
+					field1.appendChild(doc.createTextNode(Integer.toString(page.getId())));
+					field1.setAttribute("name", "id");
+					document.appendChild(field1);
+					Element field2 = doc.createElement("field");
+					field2.appendChild(doc.createTextNode("person"));
+					field2.setAttribute("name", "type");
+					document.appendChild(field2);				
+					System.out.println("-----------------Page start---------------------");
+					Iterator<Entry<String, String>> itr2 = page.infobox.entrySet().iterator();
+					while (itr2.hasNext()) {
+						Map.Entry pairs = (Map.Entry) itr2.next();
+						if(pairs.getKey().toString().trim().equals("occupation")){
+							String input = pairs.getValue().toString().replaceAll(";|/", ",");
+							if(input.contains(",")){
+								String [] str= input.split(",");
+								for(int i = 0;i<str.length;i++){
+									Element field = doc.createElement("field");
+									field.appendChild(doc.createTextNode(str[i].trim()));
+									field.setAttribute("name", pairs.getKey().toString().trim().replaceAll("_", ""));
+									document.appendChild(field);
+									System.out.println(pairs.getKey().toString().trim().replaceAll("_", "")+"===="+str[i].trim());
+								}
+							}
+							else{
 								Element field = doc.createElement("field");
-								field.appendChild(doc.createTextNode(str[i].trim()));
-								field.setAttribute("name", pairs.getKey().toString().trim().replaceAll("_", ""));
+								field.appendChild(doc.createTextNode(pairs.getValue().toString()));
+								field.setAttribute("name", pairs.getKey().toString().replaceAll("_", ""));
 								document.appendChild(field);
-								System.out.println(pairs.getKey().toString().trim().replaceAll("_", "")+"===="+str[i].trim());
+								System.out.println(pairs.getKey().toString().replaceAll("_", "")+"===="+pairs.getValue().toString());
 							}
 						}
 						else{
-							Element field = doc.createElement("field");
-							field.appendChild(doc.createTextNode(pairs.getValue().toString()));
-							field.setAttribute("name", pairs.getKey().toString().replaceAll("_", ""));
-							document.appendChild(field);
-							System.out.println(pairs.getKey().toString().replaceAll("_", "")+"===="+pairs.getValue().toString());
-						}
-					}
-					else{
-						Boolean flag = false;
-						String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorificsuffix",	"honorificprefix",	"hometown",	"signature",	"wrestling weight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eye color",	"hair color",	"natural bust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminalstatus",	"criminalpenalty",	"criminalcharge",	"publisher",	"image size",	"dead",	"age",	"alive","type"};
-						String tagName = pairs.getKey().toString().toLowerCase().trim().replaceAll("_"," ");
-						for(int k = 0; k<matchTypes.length;k++){
-							if(matchTypes[k].equals(tagName)){
-								flag = true;
+							Boolean flag = false;
+							String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorificsuffix",	"honorificprefix",	"hometown",	"signature",	"wrestling weight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eye color",	"hair color",	"natural bust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminalstatus",	"criminalpenalty",	"criminalcharge",	"publisher",	"image size",	"dead",	"age",	"alive","type"};
+							String tagName = pairs.getKey().toString().toLowerCase().trim().replaceAll("_"," ");
+							for(int k = 0; k<matchTypes.length;k++){
+								if(matchTypes[k].equals(tagName)){
+									flag = true;
+								}
 							}
+							if(flag!=true){
+								String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
+								inputKey = synonymlookup(inputKey);
+								Element field = doc.createElement("field");
+								field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
+								field.setAttribute("name", inputKey);
+								document.appendChild(field);
+								System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
+							}	
 						}
-						if(flag!=true){
-							String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
-							inputKey = synonymlookup(inputKey);
-							Element field = doc.createElement("field");
-							field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
-							field.setAttribute("name", inputKey);
-							document.appendChild(field);
-							System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
-						}	
 					}
+					System.out.println("-------------------Page stop------------------------");
+					// write the content into xml file
+					TransformerFactory transformerFactory = TransformerFactory.newInstance();
+					Transformer transformer = transformerFactory.newTransformer();
+					transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+					DOMSource source = new DOMSource(doc);
+					StreamResult result = new StreamResult(new File("D:\\Infoboxinxml.xml"));
+					// Output to console for testing
+					StreamResult result1 = new StreamResult(System.out);
+					transformer.transform(source, result);
+					System.out.println("File saved!");
 				}
-				System.out.println("-------------------Page stop------------------------");
-				// write the content into xml file
-				TransformerFactory transformerFactory = TransformerFactory.newInstance();
-				Transformer transformer = transformerFactory.newTransformer();
-				transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-				DOMSource source = new DOMSource(doc);
-				StreamResult result = new StreamResult(new File("D:\\Infoboxinxml.xml"));
-				// Output to console for testing
-				StreamResult result1 = new StreamResult(System.out);
-				transformer.transform(source, result);
-				System.out.println("File saved!");
 			} catch (ParserConfigurationException pce) {
 				pce.printStackTrace();
 			} catch (TransformerException tfe) {

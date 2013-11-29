@@ -264,17 +264,6 @@
 <field name="birthplace">Golden Valley, Minnesota , United States</field>
 </doc>
 <doc>
-<field name="id">1779945</field>
-<field name="type">person</field>
-<field name="occupation">Film</field>
-<field name="occupation">television   actress</field>
-<field name="occupation">model</field>
-<field name="occupation">writer</field>
-<field name="occupation">singer</field>
-<field name="birthdate">1954-09-22T00:00:00Z</field>
-<field name="birthplace">New York City, New York</field>
-</doc>
-<doc>
 <field name="id">3480548</field>
 <field name="type">person</field>
 <field name="birthdate">1954-03-25T00:00:00Z</field>
@@ -300,17 +289,6 @@
 <field name="birthdate">1971-07-04T00:00:00Z</field>
 <field name="name">Estelle Skornik</field>
 <field name="birthplace">Paris ,  France</field>
-</doc>
-<doc>
-<field name="id">2199305</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1982-04-01T00:00:00Z</field>
-<field name="website">samhuntington.com</field>
-<field name="spouse">Rachel Klein (2006–present)</field>
-<field name="image">Sam Huntington at Comic-Con 2011 cropped.jpg</field>
-<field name="yearsactive">1996–present</field>
-<field name="birthplace">Peterborough ,  New Hampshire ,  U.S.</field>
 </doc>
 <doc>
 <field name="id">2262082</field>
@@ -368,15 +346,6 @@
 <field name="birthplace">Vancouver ,  British Columbia ,  Canada</field>
 </doc>
 <doc>
-<field name="id">2380961</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1968-12-21T00:00:00Z</field>
-<field name="birthname">Khrystyne Kamil Haje</field>
-<field name="yearsactive">1985–present</field>
-<field name="birthplace">Santa Clara, California , United States</field>
-</doc>
-<doc>
 <field name="id">2270798</field>
 <field name="type">person</field>
 <field name="occupation">News presenter</field>
@@ -401,23 +370,6 @@
 <field name="yearsactive">1995–present</field>
 <field name="othernames">Franke Potente</field>
 <field name="birthplace">Münster ,  North Rhine-Westphalia ,  West Germany</field>
-</doc>
-<doc>
-<field name="id">1547665</field>
-<field name="type">person</field>
-<field name="occupation">Former First Lady of Florida</field>
-<field name="parents">José María Garnica and Josefina Gallo</field>
-<field name="successor">Carole Rome</field>
-<field name="birthdate">1953-08-17T00:00:00Z</field>
-<field name="image">Columbabush.jpg</field>
-<field name="children">George P. Bush , Noelle Bush, Jeb Bush, Jr.</field>
-<field name="caption">Bush on January 6, 2005</field>
-<field name="birthplace">León ,  Guanajuato ,  Mexico</field>
-<field name="religion">Roman Catholic</field>
-<field name="predecessor">Anne Selph</field>
-<field name="family">George H. W. Bush  (father-in-law)  George W. Bush  (brother-in-law)</field>
-<field name="spouse">Jeb Bush</field>
-<field name="birthname">Columba Garnica Gallo</field>
 </doc>
 <doc>
 <field name="id">221478</field>
@@ -553,17 +505,6 @@
 <field name="birthplace">Moline ,  Illinois , USA</field>
 </doc>
 <doc>
-<field name="id">1176206</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">director</field>
-<field name="occupation">producer</field>
-<field name="birthdate">1947-04-18T00:00:00Z</field>
-<field name="spouse">John Tillinger  (1971-1983) (divorced) Vincent Malle (1987-2001) (divorced)</field>
-<field name="yearsactive">1971–present</field>
-<field name="birthplace">Minneapolis, Minnesota ,  U.S.</field>
-</doc>
-<doc>
 <field name="id">2051580</field>
 <field name="type">person</field>
 <field name="birthdate">1963-12-18T00:00:00Z</field>
@@ -637,14 +578,6 @@
 <field name="image">10.14.12PeterDavisonByLuigiNovi.jpg</field>
 <field name="caption">Davison at the 2012  New York Comic Con .</field>
 <field name="birthplace">Streatham , London, England</field>
-</doc>
-<doc>
-<field name="id">2609020</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1990-07-29T00:00:00Z</field>
-<field name="yearsactive">1996–present</field>
-<field name="birthplace">Los Angeles, California</field>
 </doc>
 <doc>
 <field name="id">674131</field>
@@ -835,18 +768,6 @@
 <field name="birthplace">Erfurt</field>
 </doc>
 <doc>
-<field name="id">682265</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1948-07-20T00:00:00Z</field>
-<field name="website">musewatson.com</field>
-<field name="image">Muse Watson.png</field>
-<field name="caption">Muse Watson</field>
-<field name="yearsactive">1989–present</field>
-<field name="birthplace">Alexandria, Louisiana ,  U.S.</field>
-<field name="knownfor">Prison Break</field>
-</doc>
-<doc>
 <field name="id">1753032</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -902,18 +823,6 @@
 <field name="birthplace">Stuttgart ,  West Germany</field>
 </doc>
 <doc>
-<field name="id">538422</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1930-12-17T00:00:00Z</field>
-<field name="spouse">Gabriele Scholz (1973–present)</field>
-<field name="image">Armin mueller-stahl.jpg</field>
-<field name="caption">Armin Mueller-Stahl, October 2007</field>
-<field name="yearsactive">1956–present</field>
-<field name="othernames">Armin Müller–Stahl</field>
-<field name="birthplace">Tilsit ,  East Prussia , Germany</field>
-</doc>
-<doc>
 <field name="id">1887824</field>
 <field name="type">person</field>
 <field name="occupation">Scientist</field>
@@ -951,17 +860,6 @@
 <field name="name">Juliette Goglia</field>
 <field name="birthplace">Los Angeles ,  California , U.S.</field>
 <field name="yearsactive">2004–present</field>
-</doc>
-<doc>
-<field name="id">1468033</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">singer</field>
-<field name="birthdate">1981-01-22T00:00:00Z</field>
-<field name="spouse">Michael Cameron</field>
-<field name="yearsactive">1990–present</field>
-<field name="birthplace">Arcadia, California , U.S.</field>
-<field name="birthname">Beverley Ann Mitchell</field>
 </doc>
 <doc>
 <field name="id">3279810</field>
@@ -1213,17 +1111,6 @@
 <field name="birthplace">Bermondsey ,  South London ,  England ,  UK</field>
 </doc>
 <doc>
-<field name="id">1005258</field>
-<field name="type">person</field>
-<field name="birthdate">1960-01-10T00:00:00Z</field>
-<field name="awards">Order of the British Empire</field>
-<field name="spouse">Paul Mayeda Berges</field>
-<field name="image">Gurinder Chadha, at NAATA.jpg</field>
-<field name="caption">Gurinder Chadha in 2005.</field>
-<field name="yearsactive">1990 - present</field>
-<field name="birthplace">Nairobi ,  Kenya</field>
-</doc>
-<doc>
 <field name="id">3110711</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -1416,19 +1303,6 @@
 <field name="othernames">Vaitiaré Eugenie Hirshon (birth name),Vaitiare Bandera (previous actress name)</field>
 </doc>
 <doc>
-<field name="id">1347392</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1965-11-25T00:00:00Z</field>
-<field name="spouse">Sarah Trevis  (2000–2005), Claire Forlani  (2007–present)</field>
-<field name="children">2</field>
-<field name="image">Dougray Scott (8609505278).jpg</field>
-<field name="caption">Scott at the 2013 WonderCon</field>
-<field name="yearsactive">1987–present</field>
-<field name="birthplace">Glenrothes ,  Fife ,  Scotland</field>
-<field name="birthname">Stephen Scott</field>
-</doc>
-<doc>
 <field name="id">646349</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -1438,17 +1312,6 @@
 <field name="name">James Frain</field>
 <field name="yearsactive">1993–present</field>
 <field name="birthplace">Leeds ,  West Riding of Yorkshire ,  England ,  UK</field>
-</doc>
-<doc>
-<field name="id">728938</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1966-11-19T00:00:00Z</field>
-<field name="spouse">Diana Chan (2008–present)</field>
-<field name="image">JasonLeeNainoaThompsonLayneLuna.jpg</field>
-<field name="caption">Jason Scott Lee (left) with Hawaiian navigator  Nainoa Thompson  (center) and artist Layne Luna,  Hawai'i , 2003</field>
-<field name="yearsactive">1987–present</field>
-<field name="birthplace">Los Angeles ,  California</field>
 </doc>
 <doc>
 <field name="id">1361048</field>
@@ -1525,24 +1388,6 @@
 <field name="ethnicity">Jewish</field>
 </doc>
 <doc>
-<field name="id">170144</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
-<field name="occupation">writer</field>
-<field name="occupation">comedienne</field>
-<field name="occupation">producer</field>
-<field name="birthdate">1963-07-30T00:00:00Z</field>
-<field name="birthname">Lisa Valerie Kudrow</field>
-<field name="spouse">Michel Stern,(1995–present)</field>
-<field name="children">1</field>
-<field name="image">Lisa Kudrow 2.jpg</field>
-<field name="caption">Kudrow at the 2009  Streamy Awards</field>
-<field name="yearsactive">1989–present</field>
-<field name="birthplace">Los Angeles ,  California , U.S.</field>
-<field name="education">Vassar College</field>
-</doc>
-<doc>
 <field name="id">1498771</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -1589,23 +1434,6 @@
 <field name="caption">Weld circa 1958.</field>
 <field name="yearsactive">1955–2001</field>
 <field name="birthplace">New York City, New York , U.S.</field>
-</doc>
-<doc>
-<field name="id">372916</field>
-<field name="type">person</field>
-<field name="occupation">Author</field>
-<field name="occupation">media pundit</field>
-<field name="occupation">journalist</field>
-<field name="occupation">newspaper editor and  sex advice columnist</field>
-<field name="birthdate">1964-10-07T00:00:00Z</field>
-<field name="spouse">Terry Miller</field>
-<field name="children">D.J.</field>
-<field name="image">Dan Savage Provided.jpg</field>
-<field name="caption">Dan Savage in 2005</field>
-<field name="education">BA, Theater,  University of Illinois at Urbana-Champaign</field>
-<field name="othernames">Keenan Hollahan</field>
-<field name="birthplace">Chicago ,  Illinois , US</field>
-<field name="birthname">Daniel Keenan Savage</field>
 </doc>
 <doc>
 <field name="id">2007787</field>
@@ -1741,20 +1569,6 @@
 <field name="birthplace">Lakewood Township, New Jersey , United States</field>
 </doc>
 <doc>
-<field name="id">302783</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1965-11-21T00:00:00Z</field>
-<field name="website">http://sidcity.net/</field>
-<field name="birthname">Siddig El Tahir El Fadil El Siddig Abdurrahman Mohammed Ahmed Abdul Karim El Mahdi</field>
-<field name="spouse">Nana Visitor</field>
-<field name="image">AlexanderSiddig09TIFF.jpg</field>
-<field name="caption">Siddig at the  2009 Toronto International Film Festival</field>
-<field name="yearsactive">Since 1987</field>
-<field name="othernames">Siddig El Fadil, Alexander Siddig</field>
-<field name="birthplace">Sudan</field>
-</doc>
-<doc>
 <field name="id">423120</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -1826,19 +1640,6 @@
 <field name="image">10.17.09JohnBillingsleyByLuigiNovi.jpg</field>
 <field name="caption">BillingsleyinOctober2009,attheBigAppleConventioninManhattan,NewYork.</field>
 <field name="yearsactive">1988–present</field>
-</doc>
-<doc>
-<field name="id">355014</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="height">{{height</field>
-<field name="birthdate">1978-07-09T00:00:00Z</field>
-<field name="website">http://lindapark.net/</field>
-<field name="image">Linda Park Las Vegas 2004-crop.JPG</field>
-<field name="ft">5</field>
-<field name="in">5}}</field>
-<field name="yearsactive">2001–present</field>
-<field name="birthplace">Seoul ,  South Korea</field>
 </doc>
 <doc>
 <field name="id">252383</field>
@@ -1923,17 +1724,6 @@
 <field name="birthplace">Charlton Park ,  Wiltshire ,  England ,  UK</field>
 </doc>
 <doc>
-<field name="id">20192</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1958-03-03T00:00:00Z</field>
-<field name="birthname">Miranda Jane Richardson</field>
-<field name="image">Miranda Richardson Met Opera 2010 Shankbone.jpg</field>
-<field name="caption">Richardson at the  Metropolitan Opera 's 2010 opening night of  Das Rheingold</field>
-<field name="yearsactive">1981–present</field>
-<field name="birthplace">Southport ,  Lancashire , England</field>
-</doc>
-<doc>
 <field name="id">271275</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -2015,17 +1805,6 @@
 <field name="caption">Schonely in 2013</field>
 <field name="birthplace">Norristown, Pennsylvania</field>
 <field name="othernames">The Schonz, Mr. Rip City</field>
-</doc>
-<doc>
-<field name="id">31416</field>
-<field name="type">person</field>
-<field name="occupation">Director</field>
-<field name="occupation">screenwriter</field>
-<field name="occupation">actor</field>
-<field name="birthdate">1965-12-14T00:00:00Z</field>
-<field name="image">Ted Raimi by David Shankbone.jpg</field>
-<field name="caption">Ted Raimi and Suzanne Keilly, April 2007</field>
-<field name="birthplace">Detroit ,  Michigan ,  USA</field>
 </doc>
 <doc>
 <field name="id">1812252</field>
@@ -2171,19 +1950,6 @@
 <field name="yearsactive">1982–present</field>
 <field name="birthplace">Los Angeles ,  California   U.S.</field>
 <field name="birthname">Mackenzie Alexander Astin</field>
-</doc>
-<doc>
-<field name="id">350807</field>
-<field name="type">person</field>
-<field name="occupation">actress and writer</field>
-<field name="birthdate">1945-06-11T00:00:00Z</field>
-<field name="website">http://www.abarbeau.com/</field>
-<field name="birthname">Adrienne Jo Barbeau</field>
-<field name="spouse">John Carpenter  (1979-84) Billy Van Zandt  (1992-present)</field>
-<field name="image">AdrienneBarbeauJune2011.jpg</field>
-<field name="caption">Barbeau in June 2011</field>
-<field name="yearsactive">1972 – present</field>
-<field name="birthplace">Sacramento, California , U.S.</field>
 </doc>
 <doc>
 <field name="id">184618</field>
@@ -2428,22 +2194,6 @@
 <field name="birthname">Eileen Annucci</field>
 </doc>
 <doc>
-<field name="id">356985</field>
-<field name="type">person</field>
-<field name="education">Sarah Lawrence College</field>
-<field name="occupation">Actress</field>
-<field name="occupation">producer</field>
-<field name="birthdate">1966-06-08T00:00:00Z</field>
-<field name="birthname">Julianna Luisa Margulies</field>
-<field name="spouse">Keith Lieberthal</field>
-<field name="children">1</field>
-<field name="image">Julianna Margulies at the 2009 Tribeca Film Festival.jpg</field>
-<field name="caption">Margulies at the 2009 premiere of  City Island</field>
-<field name="yearsactive">1991–present</field>
-<field name="education">BA</field>
-<field name="birthplace">Spring Valley, New York , U.S.</field>
-</doc>
-<doc>
 <field name="id">1083583</field>
 <field name="type">person</field>
 <field name="television">Barbara  (2000-2003), Waterloo Road  (2011-13; 2014-)</field>
@@ -2493,15 +2243,6 @@
 <field name="birthplace">Surrey ,  England , U.K.</field>
 </doc>
 <doc>
-<field name="id">1852706</field>
-<field name="type">person</field>
-<field name="parents">Albert II of Monaco Nicole Coste Charlene, Princess of Monaco  (stepmother)</field>
-<field name="birthdate">2003-08-24T00:00:00Z</field>
-<field name="birthname">Alexandre Éric Stéphane Tossoukpé</field>
-<field name="family">Princess Stephanie of Monaco  (aunt) Princess Caroline of Monaco  (aunt) Andrea Casiraghi  (cousin) Pierre Casiraghi  (cousin) Princess Alexandra of Hanover  (cousin) Pauline Ducruet  (cousin) Camille Marie Kelly Gottlieb  (cousin) Louis Ducruet  (cousin) Charlotte Casiraghi  (cousin) Jazmin Grace Grimaldi (half-sister)</field>
-<field name="birthplace">Paris , France</field>
-</doc>
-<doc>
 <field name="id">1915735</field>
 <field name="type">person</field>
 <field name="occupation">Film writer</field>
@@ -2509,15 +2250,6 @@
 <field name="birthdate">1960-07-02T00:00:00Z</field>
 <field name="name">Terry Rossio</field>
 <field name="birthplace">Kalamazoo, Michigan ,  U.S.</field>
-</doc>
-<doc>
-<field name="id">1546227</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1965-02-08T00:00:00Z</field>
-<field name="birthname">Andrew Sabiston</field>
-<field name="yearsactive">1981 – present</field>
-<field name="birthplace">Victoria ,  British Columbia ,  Canada</field>
 </doc>
 <doc>
 <field name="id">3634589</field>
@@ -2578,13 +2310,6 @@
 <field name="education">Brookfield East High School</field>
 <field name="othernames">Marty Robinson</field>
 <field name="birthplace">Dearborn, Michigan ,  U.S.</field>
-</doc>
-<doc>
-<field name="id">3796390</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1983-07-21T00:00:00Z</field>
-<field name="birthplace">New York City ,  New York</field>
 </doc>
 <doc>
 <field name="id">3452650</field>
@@ -2705,23 +2430,6 @@
 <field name="education">NYUTischSchooloftheArts</field>
 </doc>
 <doc>
-<field name="id">1349686</field>
-<field name="type">person</field>
-<field name="knownfor">MUD1 ,'' Designing Virtual Worlds ''</field>
-<field name="occupation">writer</field>
-<field name="occupation">professor</field>
-<field name="occupation">game  researcher</field>
-<field name="nationality">British</field>
-<field name="residence">near  Colchester ,  Essex ,  England</field>
-<field name="birthdate">1960-01-10T00:00:00Z</field>
-<field name="website">http://mud.co.uk/richard/</field>
-<field name="spouse">Gail Bartle</field>
-<field name="children">Jennifer Bartle, Madeleine Bartle</field>
-<field name="image">RichardBartle2011.jpg</field>
-<field name="caption">Richard Bartle, 2011</field>
-<field name="birthplace">Ripon ,  England</field>
-</doc>
-<doc>
 <field name="id">2667570</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -2737,13 +2445,6 @@
 <field name="type">person</field>
 <field name="birthdate">1997-10-08T00:00:00Z</field>
 <field name="name">Connor Carmody</field>
-</doc>
-<doc>
-<field name="id">2640174</field>
-<field name="type">person</field>
-<field name="birthdate">1994-11-11T00:00:00Z</field>
-<field name="yearsactive">2000–present</field>
-<field name="birthplace">Toronto ,  Ontario</field>
 </doc>
 <doc>
 <field name="id">180508</field>
@@ -2777,17 +2478,6 @@
 <field name="partner">Alice Arnold  (2006–present)</field>
 <field name="birthplace">Kingsclere ,  England , UK</field>
 <field name="education">Cambridge University</field>
-</doc>
-<doc>
-<field name="id">1167903</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1971-01-03T00:00:00Z</field>
-<field name="birthname">Sarah Smith</field>
-<field name="spouse">Peter Serafinowicz</field>
-<field name="children">2</field>
-<field name="yearsactive">1989–present</field>
-<field name="birthplace">Hammersmith ,  London , England, United Kingdom</field>
 </doc>
 <doc>
 <field name="id">242471</field>
@@ -2889,12 +2579,6 @@
 <field name="birthplace">Los Angeles ,  California ,  U.S.</field>
 </doc>
 <doc>
-<field name="id">1815887</field>
-<field name="type">person</field>
-<field name="birthdate">1994-08-09T00:00:00Z</field>
-<field name="birthplace">Palm Beach ,  Florida ,  United States</field>
-</doc>
-<doc>
 <field name="id">2485986</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -2947,26 +2631,6 @@
 <field name="birthplace">United States</field>
 <field name="education">University of Southern California</field>
 <field name="employer">The Walt Disney Company</field>
-</doc>
-<doc>
-<field name="id">2972721</field>
-<field name="type">person</field>
-<field name="birthdate">1942-09-10T00:00:00Z</field>
-<field name="employer">Shamrock Holdings</field>
-<field name="children">Charles and Jennifer</field>
-<field name="image">Standgold.jpg</field>
-<field name="caption">Gold during the Save Disney Campaign</field>
-<field name="education">A.B. J.D. , 1967</field>
-<field name="party">Democrat</field>
-<field name="birthplace">Los Angeles, California</field>
-<field name="education">Van Nuys High School University of California, Los Angeles University of Southern California</field>
-<field name="employer">Jewish Federation of Greater Los Angeles,  Chairman of the Board Hebrew Union College - Jewish Institute of Religion University of Southern California (Chairman Emeritus) iPass, Inc. Walt Disney Company  {{NYSE</field>
-<field name="religion">Judaism</field>
-<field name="predecessor">founder</field>
-<field name="title">Chief Executive Officer</field>
-<field name="nationality">United States</field>
-<field name="spouse">Ilene Carol Gold, née Glasberg</field>
-<field name="birthname">Stanley Phillip Gold</field>
 </doc>
 <doc>
 <field name="id">804616</field>
@@ -3092,15 +2756,6 @@
 <field name="birthplace">Van Nuys, California , U.S.</field>
 </doc>
 <doc>
-<field name="id">2728408</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1990-05-21T00:00:00Z</field>
-<field name="birthname">Scott Alexander Leavenworth</field>
-<field name="yearsactive">1994–present</field>
-<field name="birthplace">Riverside, California ,  U.S.</field>
-</doc>
-<doc>
 <field name="id">2605339</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -3113,12 +2768,6 @@
 <field name="name">Jane Clifton</field>
 <field name="notable role">Margo Gaffney  Prisoner</field>
 <field name="birthplace">Gibraltar</field>
-</doc>
-<doc>
-<field name="id">2283195</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">host</field>
 </doc>
 <doc>
 <field name="id">2395140</field>
@@ -3204,18 +2853,6 @@
 <field name="partner">Mark Ellis</field>
 <field name="yearsactive">1978 – present</field>
 <field name="birthplace">Geneva ,  Switzerland</field>
-</doc>
-<doc>
-<field name="id">376192</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1936-03-19T00:00:00Z</field>
-<field name="spouse">John Derek</field>
-<field name="image">Ursula Andress 2006-12-16-382c1.jpg</field>
-<field name="partner">{{unbulleted list</field>
-<field name="caption">Ursula Andress in 2006 during an event in  Ostermundigen , Switzerland.</field>
-<field name="yearsactive">1954–2005</field>
-<field name="birthplace">Ostermundigen , Switzerland</field>
 </doc>
 <doc>
 <field name="id">334097</field>
@@ -3308,16 +2945,6 @@
 <field name="birthdate">1962-05-23T00:00:00Z</field>
 <field name="birthname">Matthew D Wrack</field>
 <field name="name">Matt Wrack</field>
-</doc>
-<doc>
-<field name="id">2189791</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1942-05-05T00:00:00Z</field>
-<field name="image">Marc Alaimo.jpg</field>
-<field name="yearsactive">1972–present</field>
-<field name="birthname">Michael Anthony Alaimo</field>
-<field name="birthplace">Milwaukee, Wisconsin , U.S.</field>
 </doc>
 <doc>
 <field name="id">3236556</field>
@@ -3519,15 +3146,6 @@
 <field name="family">Julia Roberts  (sister) Lisa Roberts Gillan  (sister) Keaton Simons  (stepson)</field>
 </doc>
 <doc>
-<field name="id">3220353</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1976-04-18T00:00:00Z</field>
-<field name="birthname">Sean Martin Michael Maguire</field>
-<field name="yearsactive">1983–present</field>
-<field name="birthplace">Ilford ,  London ,  England</field>
-</doc>
-<doc>
 <field name="id">1355455</field>
 <field name="type">person</field>
 <field name="occupation">television producer director actress  (former)</field>
@@ -3591,21 +3209,6 @@
 <field name="caption">Tom Savini in 2007</field>
 <field name="othernames">The Godfather of Gore The Sultan of Splatter</field>
 <field name="birthplace">Pittsburgh ,  Pennsylvania ,  United States</field>
-</doc>
-<doc>
-<field name="id">2121625</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="occupation">Director</field>
-<field name="birthdate">1973-04-10T00:00:00Z</field>
-<field name="website">guillaumecanet.net</field>
-<field name="spouse">Diane Kruger</field>
-<field name="children">1</field>
-<field name="image">CANET Guillaume-24x30-2004.jpg</field>
-<field name="partner">Marion Cotillard  (2007–present)</field>
-<field name="caption">Guillaume Canet in 2004</field>
-<field name="yearsactive">1994–present</field>
-<field name="birthplace">Boulogne-Billancourt ,  France</field>
 </doc>
 <doc>
 <field name="id">265736</field>
@@ -3837,14 +3440,6 @@
 <field name="birthplace">San Antonio, Texas , United States</field>
 </doc>
 <doc>
-<field name="id">2083367</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="nationality">American</field>
-<field name="birthdate">1987-01-12T00:00:00Z</field>
-<field name="birthplace">{{nowrap</field>
-</doc>
-<doc>
 <field name="id">2310146</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -3993,27 +3588,6 @@
 <field name="birthplace">Shavei Zion,  British Mandate of Palestine</field>
 </doc>
 <doc>
-<field name="id">748560</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1942-01-31T00:00:00Z</field>
-<field name="spouse">married</field>
-<field name="image">Richard Chamberlain Daniela Bianchi Raymond Massey Dr Kildare 1964.JPG</field>
-<field name="caption">Daniela Bianchi With  Richard Chamberlain  (left) and  Raymond Massey , 1964.</field>
-<field name="yearsactive">1958–68</field>
-<field name="birthplace">Rome , Italy</field>
-</doc>
-<doc>
-<field name="id">1355746</field>
-<field name="type">person</field>
-<field name="birthdate">1928-03-17T00:00:00Z</field>
-<field name="spouse">Leigh Vance 1922 - 1994) (divorced) Brian Jackson (? - ?) (divorced)</field>
-<field name="yearsactive">1948  -  1972</field>
-<field name="notable role">Sylvia Trench  in  Dr. No</field>
-<field name="birthplace">Croydon ,  London , England, UK</field>
-<field name="birthname">Eunice Sargaison</field>
-</doc>
-<doc>
 <field name="id">1142203</field>
 <field name="type">person</field>
 <field name="birthdate">1949-03-03T00:00:00Z</field>
@@ -4068,17 +3642,6 @@
 <field name="caption">Wood in 1982</field>
 <field name="yearsactive">1947–present</field>
 <field name="birthplace">Santa Monica, California , United States</field>
-</doc>
-<doc>
-<field name="id">635063</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">model</field>
-<field name="birthdate">1947-04-15T00:00:00Z</field>
-<field name="spouse">Richard Gilder  (2005-present)</field>
-<field name="partner">Don Henley  (1970s)</field>
-<field name="yearsactive">1972-2006</field>
-<field name="birthplace">Houston, Texas ,  U.S.</field>
 </doc>
 <doc>
 <field name="id">1141283</field>
@@ -4204,17 +3767,6 @@
 <field name="birthplace">Rio de Janeiro ,  Brazil</field>
 </doc>
 <doc>
-<field name="id">1223457</field>
-<field name="type">person</field>
-<field name="birthdate">1929-10-16T00:00:00Z</field>
-<field name="website">Official website</field>
-<field name="spouse">Fernando Torres  (1954-2008; widowed)</field>
-<field name="image">Fernanda Montenegro.jpg</field>
-<field name="yearsactive">1955 - present</field>
-<field name="birthplace">Rio de Janeiro ,  Rio de Janeiro ,  Brazil</field>
-<field name="birthname">Arlette Pinheiro Esteves Torres</field>
-</doc>
-<doc>
 <field name="id">2741759</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -4329,13 +3881,6 @@
 <field name="name">Carmen Campuzano</field>
 <field name="caption">Campusano premiere on a fashion show.</field>
 <field name="yearsactive">1993–present</field>
-</doc>
-<doc>
-<field name="id">1525751</field>
-<field name="type">person</field>
-<field name="birthdate">1975-12-20T00:00:00Z</field>
-<field name="spouse">Alejandro Sanz  (1998 - 2005)  Rafael Márquez  (2011-present)</field>
-<field name="birthplace">Guadalajara ,  México</field>
 </doc>
 <doc>
 <field name="id">855418</field>
@@ -4481,20 +4026,6 @@
 <field name="ethnicity">Spanish</field>
 </doc>
 <doc>
-<field name="id">1311685</field>
-<field name="type">person</field>
-<field name="religion">Roman Catholic</field>
-<field name="nationality">French</field>
-<field name="residence">Quai Voltaire, Paris (personal) Bity Castle,  Sarran , Corrèze (personal)</field>
-<field name="birthdate">1933-05-18T00:00:00Z</field>
-<field name="family">Claude Chirac   (daughter) Martin Rey-Chirac  (grandson) Anh Dao Traxel   (adoptive daughter)</field>
-<field name="spouse">Jacques Chirac   (m. 1956–present)</field>
-<field name="occupation">politician</field>
-<field name="birthname">Bernadette Thérèse Marie Chodron de Courcel</field>
-<field name="birthplace">Paris, France</field>
-<field name="image">Bernadette Chirac 1 (2009).jpg</field>
-</doc>
-<doc>
 <field name="id">504335</field>
 <field name="type">person</field>
 <field name="birthdate">1948-02-07T00:00:00Z</field>
@@ -4585,17 +4116,6 @@
 <field name="birthplace">Bucharest ,  Romania</field>
 </doc>
 <doc>
-<field name="id">261395</field>
-<field name="type">person</field>
-<field name="birthdate">1960-05-06T00:00:00Z</field>
-<field name="birthname">Anne Parillaud</field>
-<field name="spouse">Luc Besson  (divorced) Jean-Michel Jarre  (divorced)</field>
-<field name="image">Anne Parillaud Cannes.jpg</field>
-<field name="caption">Parillaud at the  1998 Cannes Film Festival</field>
-<field name="yearsactive">1977–present</field>
-<field name="birthplace">Paris, France</field>
-</doc>
-<doc>
 <field name="id">1424791</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -4649,19 +4169,6 @@
 <field name="yearsactive">1957 – present</field>
 <field name="birthplace">Paris</field>
 <field name="birthname">Jacques André Simonet</field>
-</doc>
-<doc>
-<field name="id">800094</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">screenwriter</field>
-<field name="occupation">film director</field>
-<field name="birthdate">1928-01-23T00:00:00Z</field>
-<field name="spouse">Jean-Louis Richard  (1949–separated 1951; divorced 1964) 1 son Jérôme Teodoro Rubanis (m.1966) William Friedkin  (1977–1979)</field>
-<field name="image">San Sebastian Film Festival Jeanne Moureau crop 2.jpg</field>
-<field name="caption">at the  San Sebastian International Film Festival  (2006)</field>
-<field name="yearsactive">1947–present</field>
-<field name="birthplace">Paris, France</field>
 </doc>
 <doc>
 <field name="id">1792053</field>
@@ -4744,16 +4251,6 @@
 <field name="birthplace">Versailles ,  France</field>
 </doc>
 <doc>
-<field name="id">3148647</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1972-10-15T00:00:00Z</field>
-<field name="image">Mathieu Demy Cabourg 2012.jpg</field>
-<field name="caption">Demy in 2012</field>
-<field name="birthplace">Paris, France</field>
-<field name="birthname">Mathieu Demy</field>
-</doc>
-<doc>
 <field name="id">3123718</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -4811,27 +4308,6 @@
 <field name="children">1</field>
 <field name="image">Sandrine Kiberlain at the 2009 Deauville American Film Festival-01.jpg</field>
 <field name="birthplace">France</field>
-</doc>
-<doc>
-<field name="id">2180003</field>
-<field name="type">person</field>
-<field name="birthdate">1964-11-16T00:00:00Z</field>
-<field name="image">Vbruni2010.jpg</field>
-<field name="caption">Valeria Bruni Tedeschi at the  2010 Cannes Film Festival</field>
-<field name="yearsactive">1986–present</field>
-<field name="birthplace">Turin ,  Italy</field>
-<field name="birthname">Valeria Bruni Tedeschi</field>
-</doc>
-<doc>
-<field name="id">1328619</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="occupation">Director</field>
-<field name="birthdate">1965-01-04T00:00:00Z</field>
-<field name="image">Yvan Attal 2009.jpg</field>
-<field name="caption">Yvan Attal in  2009 Cannes Film Festival</field>
-<field name="yearsactive">1989–present</field>
-<field name="birthplace">Tel Aviv ,  Israel</field>
 </doc>
 <doc>
 <field name="id">628155</field>
@@ -4983,17 +4459,6 @@
 <field name="birthplace">Indianapolis, Indiana ,  U.S.</field>
 </doc>
 <doc>
-<field name="id">2796707</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1982-05-28T00:00:00Z</field>
-<field name="image">Alexa Davalos by David Shankbone cropped.jpg</field>
-<field name="caption">Davalos at the  Tribeca Film Festival , 2007</field>
-<field name="yearsactive">2002–present</field>
-<field name="birthplace">Paris ,  France</field>
-<field name="birthname">Alexa Davalos Dunas</field>
-</doc>
-<doc>
 <field name="id">1495875</field>
 <field name="type">person</field>
 <field name="occupation">Film director</field>
@@ -5109,15 +4574,6 @@
 <field name="birthplace">Casablanca ,  Morocco</field>
 </doc>
 <doc>
-<field name="id">1393918</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1930-04-29T00:00:00Z</field>
-<field name="image">Jeanrochefort.jpg</field>
-<field name="yearsactive">1956 - present</field>
-<field name="birthplace">Paris, France</field>
-</doc>
-<doc>
 <field name="id">3300099</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -5127,19 +4583,6 @@
 <field name="birthplace">Thouars , France</field>
 </doc>
 <doc>
-<field name="id">2954904</field>
-<field name="type">person</field>
-<field name="occupation">Film</field>
-<field name="occupation">stage</field>
-<field name="occupation">television   actor</field>
-<field name="occupation">director</field>
-<field name="occupation">screenwriter</field>
-<field name="occupation">film producer</field>
-<field name="birthdate">1960-09-27T00:00:00Z</field>
-<field name="image">Jean-Marc Barr Cannes.jpg</field>
-<field name="birthplace">Bitburg, Germany</field>
-</doc>
-<doc>
 <field name="id">3486187</field>
 <field name="type">person</field>
 <field name="birthdate">1932-04-12T00:00:00Z</field>
@@ -5147,16 +4590,6 @@
 <field name="image">Jean-Pierre Marielle Cannes 2006.jpg</field>
 <field name="caption">Jean-Pierre Marielle at the 2006 Cannes Film Festival.</field>
 <field name="birthplace">Dijon</field>
-</doc>
-<doc>
-<field name="id">155979</field>
-<field name="type">person</field>
-<field name="birthdate">1969-12-21T00:00:00Z</field>
-<field name="image">Julie_Delpy_02.jpg</field>
-<field name="partner">Marc Streitenfeld  (2007–2012; 1 child)</field>
-<field name="caption">Delpy in 1991</field>
-<field name="yearsactive">1978–present</field>
-<field name="birthplace">Paris ,  France</field>
 </doc>
 <doc>
 <field name="id">1465692</field>
@@ -5231,16 +4664,6 @@
 <field name="birthplace">Aubervilliers , Paris, France</field>
 </doc>
 <doc>
-<field name="id">685708</field>
-<field name="type">person</field>
-<field name="occupation">Director</field>
-<field name="occupation">producer</field>
-<field name="birthdate">1941-08-26T00:00:00Z</field>
-<field name="image">Barbet Schroeder (2883902011) cropped.jpg</field>
-<field name="caption">Schroeder at the  Toronto International Film Festival , 2008</field>
-<field name="birthplace">Tehran ,  Iran</field>
-</doc>
-<doc>
 <field name="id">308676</field>
 <field name="type">person</field>
 <field name="occupation">film director</field>
@@ -5310,16 +4733,6 @@
 <field name="image">JP Jeunet.jpg</field>
 <field name="caption">Jeunet at Deauville, 2009</field>
 <field name="birthplace">Roanne ,  Loire ,  France</field>
-</doc>
-<doc>
-<field name="id">2034395</field>
-<field name="type">person</field>
-<field name="occupation">Film director</field>
-<field name="occupation">television director</field>
-<field name="birthdate">1939-11-21T00:00:00Z</field>
-<field name="yearsactive">1968–present</field>
-<field name="othernames">Jean Szwarc</field>
-<field name="birthplace">Paris ,  France</field>
 </doc>
 <doc>
 <field name="id">2285984</field>
@@ -5500,15 +4913,6 @@
 <field name="birthplace">Surabaya , Indonesia</field>
 </doc>
 <doc>
-<field name="id">1507021</field>
-<field name="type">person</field>
-<field name="occupation">Model and actress</field>
-<field name="birthdate">1980-01-24T00:00:00Z</field>
-<field name="birthname">Nicole Marie Lenz</field>
-<field name="yearsactive">2007–present</field>
-<field name="birthplace">Cleveland, Ohio , United States</field>
-</doc>
-<doc>
 <field name="id">2152802</field>
 <field name="type">person</field>
 <field name="birthdate">1984-07-03T00:00:00Z</field>
@@ -5554,18 +4958,6 @@
 <field name="caption">Sherilyn Fenn at 2012 Chicago Wizard World</field>
 <field name="yearsactive">1984–present</field>
 <field name="birthplace">Detroit ,  Michigan , US</field>
-</doc>
-<doc>
-<field name="id">690394</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1968-10-15T00:00:00Z</field>
-<field name="birthname">Sally Vanessa Ortiz</field>
-<field name="spouse">Corey Feldman  (1989–1993) Carmine Giovinazzo  (2010–2013)</field>
-<field name="children">Kassius Marcil–Green</field>
-<field name="yearsactive">1992–present</field>
-<field name="othernames">Vanessa Marcil Giovinazzo</field>
-<field name="birthplace">Indio, California , U.S.</field>
 </doc>
 <doc>
 <field name="id">681416</field>
@@ -5675,18 +5067,6 @@
 <field name="birthplace">Algiers ,  French Algeria</field>
 </doc>
 <doc>
-<field name="id">541778</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1921-06-19T00:00:00Z</field>
-<field name="birthname">Louis Robert Gendre</field>
-<field name="spouse">Berthe Frédérique "Quique" Jourdan (m.1946–present; 1 child)</field>
-<field name="image">Louis Jourdan in Madame Bovary trailer.JPG</field>
-<field name="caption">Jourdan in trailer for  Madame Bovary  (1949)</field>
-<field name="yearsactive">1939–1992</field>
-<field name="birthplace">Marseille, France</field>
-</doc>
-<doc>
 <field name="id">3437740</field>
 <field name="type">person</field>
 <field name="birthdate">1973-09-28T00:00:00Z</field>
@@ -5789,27 +5169,6 @@
 <field name="birthplace">Clovis, California</field>
 </doc>
 <doc>
-<field name="id">1861416</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="occupation">musician</field>
-<field name="birthdate">1986-06-10T00:00:00Z</field>
-<field name="birthname">Joseph Paul Zimmerman</field>
-<field name="yearsactive">1991 ─ present</field>
-<field name="othernames">Joseph Zimmerman J. Paul Zimmerman J.P. Zimmerman</field>
-<field name="birthplace">Albuquerque, New Mexico, U.S.A.</field>
-</doc>
-<doc>
-<field name="id">1785088</field>
-<field name="type">person</field>
-<field name="parents">John &amp; Mary Hughes</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1986-02-22T00:00:00Z</field>
-<field name="birthname">Miko John Hughes</field>
-<field name="yearsactive">1989–2011</field>
-<field name="birthplace">Apple Valley, California, U.S.A.</field>
-</doc>
-<doc>
 <field name="id">2345108</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
@@ -5874,16 +5233,6 @@
 <field name="birthplace">Moustier-sur-Sambre ,  Belgium</field>
 </doc>
 <doc>
-<field name="id">2012914</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1938-12-06T00:00:00Z</field>
-<field name="spouse">Mijanou Bardot</field>
-<field name="yearsactive">1963–present</field>
-<field name="birthplace">Brussels ,  Belgium</field>
-<field name="birthname">Patrick Nicolas Jean Sixte Ghislain Bauchau</field>
-</doc>
-<doc>
 <field name="id">233306</field>
 <field name="type">person</field>
 <field name="occupation">singer</field>
@@ -5905,13 +5254,6 @@
 <field name="parents">Michel François de Selys Longchamps</field>
 </doc>
 <doc>
-<field name="id">1474050</field>
-<field name="type">person</field>
-<field name="birthdate">1957-05-24T00:00:00Z</field>
-<field name="image">Msc 2004-Saturday Morning-1100 - 1300-Beer.jpg</field>
-<field name="birthplace">Kiel</field>
-</doc>
-<doc>
 <field name="id">3470997</field>
 <field name="type">person</field>
 <field name="occupation">Politician</field>
@@ -5920,17 +5262,6 @@
 <field name="image">Fritz Schramma - KölnEngagiert 2007 (1).jpg</field>
 <field name="caption">Fritz Schramma</field>
 <field name="birthplace">Cologne</field>
-</doc>
-<doc>
-<field name="id">3252839</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1973-02-09T00:00:00Z</field>
-<field name="website">http://www.colinegglesfield.com</field>
-<field name="image">Colin Egglesfield.jpg</field>
-<field name="caption">Egglesfield at The CW Network Upfront in  New York City  on May 21, 2009</field>
-<field name="yearsactive">2000–present</field>
-<field name="birthplace">Farmington Hills, Michigan , U.S.</field>
 </doc>
 <doc>
 <field name="id">1564279</field>
@@ -6152,13 +5483,6 @@
 <field name="caption">F. Telles in 2011.</field>
 </doc>
 <doc>
-<field name="id">3498402</field>
-<field name="type">person</field>
-<field name="knownfor">Olympic boxer</field>
-<field name="birthdate">1930-06-04T00:00:00Z</field>
-<field name="birthplace">Villarrica ,  Chile</field>
-</doc>
-<doc>
 <field name="id">757430</field>
 <field name="type">person</field>
 <field name="occupation">Screenwriter</field>
@@ -6204,14 +5528,6 @@
 <field name="name">Carlos Medina Plascencia</field>
 </doc>
 <doc>
-<field name="id">2891763</field>
-<field name="type">person</field>
-<field name="occupation">Composer</field>
-<field name="nationality">New Zealand</field>
-<field name="birthdate">1955-10-23T00:00:00Z</field>
-<field name="birthplace">Auckland ,  New Zealand</field>
-</doc>
-<doc>
 <field name="id">571203</field>
 <field name="type">person</field>
 <field name="birthdate">1954-04-30T00:00:00Z</field>
@@ -6244,19 +5560,6 @@
 <field name="birthname">Bruce Robert Allpress</field>
 </doc>
 <doc>
-<field name="id">1134660</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1968-07-27T00:00:00Z</field>
-<field name="spouse">''name unknown''</field>
-<field name="children">2</field>
-<field name="image">Cliff Curtis.jpg</field>
-<field name="caption">Curtis at the 2011 MIPCOM, in Cannes</field>
-<field name="yearsactive">1991–present</field>
-<field name="birthname">Clifford Vivian Devon Curtis</field>
-<field name="birthplace">Rotorua ,  North Island ,,  New Zealand</field>
-</doc>
-<doc>
 <field name="id">1181836</field>
 <field name="type">person</field>
 <field name="occupation">Character actor</field>
@@ -6267,29 +5570,12 @@
 <field name="birthplace">Wellington ,  New Zealand</field>
 </doc>
 <doc>
-<field name="id">1532603</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1984-06-27T00:00:00Z</field>
-<field name="birthname">Emma Kate Lahana</field>
-<field name="yearsactive">2000–present</field>
-<field name="birthplace">Auckland ,  New zealand</field>
-</doc>
-<doc>
 <field name="id">1516360</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1966-07-10T00:00:00Z</field>
 <field name="name">Gina Bellman</field>
 <field name="yearsactive">1984–present</field>
-<field name="birthplace">Auckland ,  New Zealand</field>
-</doc>
-<doc>
-<field name="id">920757</field>
-<field name="type">person</field>
-<field name="birthdate">1959-01-01T00:00:00Z</field>
-<field name="birthname">Harry Alan Sinclair</field>
-<field name="spouse">Rebecca Rand Kirshner Sinclair</field>
 <field name="birthplace">Auckland ,  New Zealand</field>
 </doc>
 <doc>
@@ -6309,15 +5595,6 @@
 <field name="birthplace">Cardiff, Wales , UK</field>
 </doc>
 <doc>
-<field name="id">1686616</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1966-07-30T00:00:00Z</field>
-<field name="image">Kerry Fox (Berlin Film Festival 2009).jpg</field>
-<field name="caption">Kerry Fox at the  59th Berlin International Film Festival  2009</field>
-<field name="birthplace">Wellington, New Zealand</field>
-</doc>
-<doc>
 <field name="id">870982</field>
 <field name="type">person</field>
 <field name="birthdate">1966-06-30T00:00:00Z</field>
@@ -6327,12 +5604,6 @@
 <field name="caption">Marton Csokas, 2008</field>
 <field name="yearsactive">1990-present</field>
 <field name="birthplace">Invercargill ,  New Zealand</field>
-</doc>
-<doc>
-<field name="id">1118338</field>
-<field name="type">person</field>
-<field name="birthdate">1977-10-07T00:00:00Z</field>
-<field name="birthplace">Kaitaia ,  New Zealand</field>
 </doc>
 <doc>
 <field name="id">2892561</field>
@@ -6529,17 +5800,6 @@
 <field name="image">Yoshiyuki Sadamoto 1.png</field>
 <field name="caption">Yoshiyuki Sadamoto at  J-Popcon  in Copenhagen, 2007</field>
 <field name="birthplace">Tokuyama (now  Shunan ),  Yamaguchi Prefecture ,  Japan</field>
-</doc>
-<doc>
-<field name="id">522627</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1972-11-08T00:00:00Z</field>
-<field name="spouse">Kip Williams  (2004–present; 2 children)</field>
-<field name="image">GretchenMolJun09.jpg</field>
-<field name="caption">Mol in June 2009</field>
-<field name="yearsactive">1996–present</field>
-<field name="birthplace">Deep River, Connecticut , U.S.</field>
 </doc>
 <doc>
 <field name="id">2651795</field>
@@ -7015,29 +6275,6 @@
 <field name="birthplace">Ōita Prefecture ,  Japan</field>
 </doc>
 <doc>
-<field name="id">1401852</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="occupation">singer</field>
-<field name="birthdate">1964-06-09T00:00:00Z</field>
-<field name="birthname">{{nihongo</field>
-<field name="spouse">Koji Tamaki  (January 1991 - June 1998)</field>
-<field name="yearsactive">1978–present</field>
-<field name="birthplace">Aoyama ,  Minato ,  Tokyo ,  Japan</field>
-</doc>
-<doc>
-<field name="id">1401923</field>
-<field name="type">person</field>
-<field name="occupation">actor</field>
-<field name="occupation">producer</field>
-<field name="birthdate">1974-04-11T00:00:00Z</field>
-<field name="spouse">Kippei Shiina (2003-present)</field>
-<field name="caption">Mirai Yamamoto</field>
-<field name="yearsactive">1996 - present</field>
-<field name="birthplace">Tokyo ,  Japan</field>
-<field name="birthname">Mirai Iwaki</field>
-</doc>
-<doc>
 <field name="id">1401827</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -7426,18 +6663,6 @@
 <field name="birthname">Karin Inger Monica Nilsson</field>
 </doc>
 <doc>
-<field name="id">146676</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1953-08-27T00:00:00Z</field>
-<field name="birthname">Rolf Peter Ingvar Storm</field>
-<field name="spouse">{{ubl</field>
-<field name="image">Peter Stormare.jpg</field>
-<field name="caption">Peter Stormare, 2008</field>
-<field name="yearsactive">1978–present</field>
-<field name="birthplace">Kumla , Sweden</field>
-</doc>
-<doc>
 <field name="id">201405</field>
 <field name="type">person</field>
 <field name="occupation">actor</field>
@@ -7648,28 +6873,6 @@
 <field name="caption">Stefan Lambov Danailov at Rozhen folklore festival 2006</field>
 </doc>
 <doc>
-<field name="id">1155662</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1962-05-18T00:00:00Z</field>
-<field name="image">Karel Roden.jpg</field>
-<field name="caption">Roden at the 43rd  KVIFF , 2008</field>
-<field name="yearsactive">1983–present</field>
-<field name="birthplace">České Budějovice ,  Czechoslovakia</field>
-</doc>
-<doc>
-<field name="id">1360268</field>
-<field name="type">person</field>
-<field name="birthdate">1965-07-03T00:00:00Z</field>
-<field name="birthname">Connie Inge-Lise Nielsen</field>
-<field name="children">Bryce Thadeus Ulrich-Nielsen, (b. 2007) Sebastian Sartor (b. 1991)</field>
-<field name="image">ConnieNielsen09TIFF.jpg</field>
-<field name="partner">Lars Ulrich  (2004–2012)</field>
-<field name="caption">Nielsen</field>
-<field name="yearsactive">1984–present</field>
-<field name="birthplace">Frederikshavn , Denmark</field>
-</doc>
-<doc>
 <field name="id">1791354</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -7728,18 +6931,6 @@
 <field name="birthname">Thomas Acda</field>
 </doc>
 <doc>
-<field name="id">330074</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1968-02-04T00:00:00Z</field>
-<field name="birthname">Marko Matvere</field>
-<field name="spouse">Tiina Matvere</field>
-<field name="image">Marko Matvere in concert in Minsk.jpg</field>
-<field name="caption">Marko Matvere performing in Minsk, 2008.</field>
-<field name="yearsactive">1993–present</field>
-<field name="birthplace">Pärnu ,  Estonia</field>
-</doc>
-<doc>
 <field name="id">2845273</field>
 <field name="type">person</field>
 <field name="occupation">Musician</field>
@@ -7767,14 +6958,6 @@
 <field name="name">Erkki Liikanen</field>
 <field name="image">Erkki Liikanen.jpg</field>
 <field name="birthplace">Mikkeli</field>
-</doc>
-<doc>
-<field name="id">2553248</field>
-<field name="type">person</field>
-<field name="birthdate">1964-01-01T00:00:00Z</field>
-<field name="image">Heikki Hela Vihreät Niityt -iskelmätapahtumassa 2006.jpg</field>
-<field name="caption">Heikki Hela in Vihreät Niityt music festival</field>
-<field name="birthplace">Aitolahti ,  Finland</field>
 </doc>
 <doc>
 <field name="id">2021931</field>
@@ -7944,16 +7127,6 @@
 <field name="birthplace">Berlin ,  Germany</field>
 </doc>
 <doc>
-<field name="id">2558729</field>
-<field name="type">person</field>
-<field name="title">Udo Kier</field>
-<field name="birthdate">1944-10-14T00:00:00Z</field>
-<field name="birthname">Udo Kierspe</field>
-<field name="image">Udo KIER festival de Cannes 2011.jpg</field>
-<field name="caption">At the  2011 Cannes Film Festival</field>
-<field name="birthplace">Cologne ,  Germany</field>
-</doc>
-<doc>
 <field name="id">1041135</field>
 <field name="type">person</field>
 <field name="birthdate">1972-04-04T00:00:00Z</field>
@@ -8088,17 +7261,6 @@
 <field name="birthplace">Chiliomodi ,  Corinth ,  Greece</field>
 </doc>
 <doc>
-<field name="id">3730796</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1971-12-22T00:00:00Z</field>
-<field name="image">Adriano Giannini - Cannes (2).jpg</field>
-<field name="caption">Adriano Giannini in 2011 in Cannes</field>
-<field name="yearsactive">2001–present</field>
-<field name="birthplace">Rome ,  Italy</field>
-<field name="birthname">Adriano Giannini</field>
-</doc>
-<doc>
 <field name="id">2308719</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -8142,20 +7304,6 @@
 <field name="caption">Gloria Guida in  La liceale  (1975).</field>
 <field name="yearsactive">1974–present</field>
 <field name="birthplace">Meran ,  Italy</field>
-</doc>
-<doc>
-<field name="id">796493</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="nationality">Italy / Australia</field>
-<field name="birthdate">1960-02-18T00:00:00Z</field>
-<field name="birthname">Greta Gracco</field>
-<field name="spouse">Vincent D'Onofrio</field>
-<field name="children">{{ubl</field>
-<field name="image">Greta Scacchi.jpg</field>
-<field name="partner">Carlo Mantegazza</field>
-<field name="caption">Greta Scacchi, January 2008</field>
-<field name="birthplace">Milan , Italy</field>
 </doc>
 <doc>
 <field name="id">2434832</field>
@@ -8387,14 +7535,6 @@
 <field name="birthplace">Kraków ,  Polska</field>
 </doc>
 <doc>
-<field name="id">1182585</field>
-<field name="type">person</field>
-<field name="birthdate">1972-03-21T00:00:00Z</field>
-<field name="image">Piotr Adamczyk 2012.jpg</field>
-<field name="caption">Piotr Adamczyk (2012)</field>
-<field name="birthplace">Warsaw ,  Poland</field>
-</doc>
-<doc>
 <field name="id">1027577</field>
 <field name="type">person</field>
 <field name="occupation">pharmacologist</field>
@@ -8508,15 +7648,6 @@
 <field name="image">Vladimirevtushenkov2011.jpg</field>
 </doc>
 <doc>
-<field name="id">1718526</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1946-05-08T00:00:00Z</field>
-<field name="birthname">Borislav Stjepanović</field>
-<field name="yearsactive">1968–present</field>
-<field name="birthplace">Vareš ,  SR Bosnia and Herzegovina ,  Yugoslavia</field>
-</doc>
-<doc>
 <field name="id">1658942</field>
 <field name="type">person</field>
 <field name="birthdate">1940-10-05T00:00:00Z</field>
@@ -8579,16 +7710,6 @@
 <field name="birthplace">Lasarte-Oria ,  Spain</field>
 </doc>
 <doc>
-<field name="id">2196979</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="birthdate">1957-09-16T00:00:00Z</field>
-<field name="birthname">María Asunción Rodés Serna</field>
-<field name="spouse">Carlos Tristancho (1982–1985), Scott Cleverdon  (1993–present)</field>
-<field name="yearsactive">1978–present</field>
-<field name="birthplace">Barcelona ,  Spain</field>
-</doc>
-<doc>
 <field name="id">2848016</field>
 <field name="type">person</field>
 <field name="occupation">film director</field>
@@ -8600,17 +7721,6 @@
 <field name="name">Carlos Atanes</field>
 <field name="yearsactive">1987-present</field>
 <field name="birthplace">Barcelona , , Spain</field>
-</doc>
-<doc>
-<field name="id">2175420</field>
-<field name="type">person</field>
-<field name="occupation">film director</field>
-<field name="occupation">screenwriter</field>
-<field name="occupation">producer  and  actor</field>
-<field name="birthdate">1965-07-17T00:00:00Z</field>
-<field name="birthname">Santiago Segura Silva</field>
-<field name="image">Santiago Segura.jpg</field>
-<field name="birthplace">Madrid ,  Spain</field>
 </doc>
 <doc>
 <field name="id">1738637</field>
@@ -8638,22 +7748,6 @@
 <field name="name">Anna-Leena Härkönen</field>
 <field name="image">Anna-Leena Härkönen.jpg</field>
 <field name="birthplace">Liminka ,  Finland</field>
-</doc>
-<doc>
-<field name="id">3014352</field>
-<field name="type">person</field>
-<field name="occupation">Programmer</field>
-<field name="nationality">German</field>
-<field name="residence">Berlin, Germany</field>
-<field name="birthdate">1979-01-01T00:00:00Z</field>
-<field name="website">http://laforge.gnumonks.org/weblog/</field>
-<field name="image">Harald Welte 27C3.jpg</field>
-</doc>
-<doc>
-<field name="id">3652618</field>
-<field name="type">person</field>
-<field name="birthdate">1981-07-25T00:00:00Z</field>
-<field name="birthplace">Montreal ,  Quebec</field>
 </doc>
 <doc>
 <field name="id">2340837</field>
@@ -8695,15 +7789,6 @@
 <field name="name">Ludwika Paleta</field>
 <field name="image">Palabra postcard mujer.jpg</field>
 <field name="birthplace">Kraków ,  Poland</field>
-</doc>
-<doc>
-<field name="id">1402506</field>
-<field name="type">person</field>
-<field name="occupation">University lecturer</field>
-<field name="occupation">author</field>
-<field name="birthdate">1938-05-31T00:00:00Z</field>
-<field name="children">Eliza Maria  born1938-05-31T00:00:00Z</field>
-<field name="birthplace">Craiova ,  Romania</field>
 </doc>
 <doc>
 <field name="id">1226954</field>
@@ -8806,17 +7891,6 @@
 <field name="birthplace">Venice ,  Veneto ,  Italy</field>
 </doc>
 <doc>
-<field name="id">2222864</field>
-<field name="type">person</field>
-<field name="occupation">Actress</field>
-<field name="partner">Peter Del Monte  (1985-1987) Benicio del Toro  (1988-1992) Fabrizio Bentivoglio  (1993-2001) Andrea Di Stefano  (2002-2005) Riccardo Scamarcio  (2006-now)</field>
-<field name="birthdate">1965-10-22T00:00:00Z</field>
-<field name="image">Valeria Golino, Giffoni Film Festival 2011.jpg</field>
-<field name="caption">Valeria Golino in 2011</field>
-<field name="yearsactive">1983–present</field>
-<field name="birthplace">Naples , Italy</field>
-</doc>
-<doc>
 <field name="id">3109493</field>
 <field name="type">person</field>
 <field name="height">1.68</field>
@@ -8883,18 +7957,6 @@
 <field name="birthname">William Kerr</field>
 <field name="name">Bill Kerr</field>
 <field name="birthplace">Cape Town ,  South Africa</field>
-</doc>
-<doc>
-<field name="id">1623261</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="birthdate">1947-09-27T00:00:00Z</field>
-<field name="spouse">Sheila Gish  (2004–2005; her death)</field>
-<field name="image">Denis Lawson cropped.jpg</field>
-<field name="caption">Denis Lawson at the 2006  Crieff Highland Games</field>
-<field name="yearsactive">1969–present</field>
-<field name="birthplace">Crieff ,  Perthshire ,  Scotland</field>
-<field name="birthname">Denis Stamper Lawson</field>
 </doc>
 <doc>
 <field name="id">3221243</field>
