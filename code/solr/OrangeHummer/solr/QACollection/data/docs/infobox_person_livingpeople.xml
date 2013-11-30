@@ -595,7 +595,7 @@
 <field name="children">8</field>
 <field name="image">Ron Perelman Shankbone 2009 Vanity Fair.jpg</field>
 <field name="caption">Perelman at the 2009  Tribeca Film Festival</field>
-<field name="birthplace">{{nowrap</field>
+<field name="birthplace">Greensboro, North Carolina , U.S.</field>
 </doc>
 <doc>
 <field name="id">1709901</field>
@@ -928,12 +928,10 @@
 <field name="title">Thatcher Baronet</field>
 <field name="nationality">British</field>
 <field name="birthdate">1953-08-15T00:00:00Z</field>
-<field name="honorificsuffix">Bt</field>
 <field name="family">Sir Denis Thatcher Bt (father, deceased) The Baroness Thatcher  (mother, deceased) The Hon Carol Thatcher  (sister) Alfred Roberts (grandfather, deceased)</field>
-<field name="spouse">Diane Burgdorf divorced; 2 children Diane Burgdorf</field>
+<field name="spouse">Diane Burgdorf divorced; 2 children    Sarah Jane (née Clemence), the Hon Lady Thatcher</field>
 <field name="name">Sir Mark Thatcher</field>
 <field name="children">Michael Thatcher Amanda Thatcher</field>
-<field name="honorificprefix">The Honourable</field>
 <field name="birthplace">Kensington ,  London , England</field>
 </doc>
 <doc>
@@ -1060,7 +1058,7 @@
 <field name="caption">John Aniston, February 22, 2012, at Jennifer Aniston's ceremony to receive star on the  Hollywood Walk of Fame</field>
 <field name="yearsactive">1962–present</field>
 <field name="othernames">John Anthony Aniston</field>
-<field name="birthplace">{{nowrap</field>
+<field name="birthplace">Chania ,  Greece</field>
 </doc>
 <doc>
 <field name="id">572193</field>
@@ -1143,7 +1141,7 @@
 <field name="children">1 son and 2 daughters</field>
 <field name="image">Andrew Marr 1.jpg</field>
 <field name="caption">At the 2009  BAFTA  awards</field>
-<field name="birthname">{{nowrap</field>
+<field name="birthname">Andrew William Stevenson Marr</field>
 </doc>
 <doc>
 <field name="id">3003238</field>
@@ -1319,7 +1317,7 @@
 <field name="occupation">Actor</field>
 <field name="birthdate">1967-10-29T00:00:00Z</field>
 <field name="birthname">Rufus Frederik Sewell</field>
-<field name="spouse">{{Plainlist</field>
+<field name="spouse">Yasmin Abdallah    Amy Gardner</field>
 <field name="name">Rufus Sewell</field>
 <field name="children">1</field>
 <field name="yearsactive">1993–present</field>
@@ -1383,7 +1381,7 @@
 <field name="birthplace">Düsseldorf ,  Germany</field>
 <field name="nationality">German</field>
 <field name="residence">London, England, UK</field>
-<field name="spouse">{{ubl</field>
+<field name="spouse">Clifford Odets  (1937–40)</field>
 <field name="name">Luise Rainer</field>
 <field name="ethnicity">Jewish</field>
 </doc>
@@ -1934,7 +1932,7 @@
 <field name="occupation">Actress</field>
 <field name="birthdate">1955-09-02T00:00:00Z</field>
 <field name="website">http://www.lindapurl.net/</field>
-<field name="spouse">{{Plainlist</field>
+<field name="spouse">Desi Arnaz, Jr.      William Broyles Jr.      Alexander Cary     James Vinson Adams</field>
 <field name="name">Linda Purl</field>
 <field name="image">LindaPurl.jpg</field>
 <field name="yearsactive">1966–present</field>
@@ -2539,9 +2537,9 @@
 <field name="yearsactive">1960s–present</field>
 <field name="party">Labour Party</field>
 <field name="education">Basingstoke High School</field>
-<field name="birthplace">{{nowrap</field>
-<field name="education">{{nowrap</field>
-<field name="title">{{nowrap</field>
+<field name="birthplace">High Wycombe ,  Buckinghamshire , England</field>
+<field name="education">Bedford College, University of London London School of Economics</field>
+<field name="title">Director of  Stonewall  (1992–2002) Chairman of  The Fawcett Society  (since 2007)</field>
 <field name="nationality">British</field>
 <field name="spouse">William Mason (divorced)</field>
 <field name="name">Angela Mason CBE</field>
@@ -2551,11 +2549,10 @@
 <doc>
 <field name="id">621888</field>
 <field name="type">person</field>
-<field name="television">{{Plainlist</field>
+<field name="television">Grandstand Sportsnight with Coleman</field>
 <field name="occupation">Sports commentator</field>
 <field name="nationality">English</field>
 <field name="birthdate">1926-04-26T00:00:00Z</field>
-<field name="honorificsuffix">OBE</field>
 <field name="name">David Coleman</field>
 <field name="employer">BBC</field>
 <field name="birthplace">Alderley Edge ,  Cheshire ,  England</field>
@@ -2896,17 +2893,15 @@
 <doc>
 <field name="id">674627</field>
 <field name="type">person</field>
-<field name="knownfor">Nancy Mills</field>
-<field name="title">Rob Estes, growing in new directions</field>
 <field name="occupation">Actor</field>
 <field name="birthdate">1963-07-22T00:00:00Z</field>
 <field name="birthname">Robert Estes</field>
-<field name="spouse">Josie Bissett  (1992-2006){{cite news</field>
+<field name="spouse">Josie Bissett  (1992-2006)</field>
 <field name="name">Rob Estes</field>
+<field name="children">Mason (son) Maya (daughter) Makai (son)</field>
 <field name="image">Rob Estes 2009.jpg</field>
 <field name="yearsactive">1980-present</field>
 <field name="birthplace">Norfolk, Virginia ,  U.S.</field>
-<field name="url">http://www.usatoday.com/life/people/2011-05-14-Rob-Estes-in-new-TV-show_n.htm</field>
 </doc>
 <doc>
 <field name="id">847116</field>
@@ -3051,7 +3046,6 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1946-06-03T00:00:00Z</field>
-<field name="honorificsuffix">OBE</field>
 <field name="birthname">Penelope Alice Wilton</field>
 <field name="spouse">Daniel Massey  (1975–1984; div.) Ian Holm  (1991–2001; div.)</field>
 <field name="name">Penelope Wilton</field>
@@ -3503,7 +3497,7 @@
 <field name="occupation">model</field>
 <field name="nationality">American</field>
 <field name="birthdate">1961-02-11T00:00:00Z</field>
-<field name="spouse">Griffin Dunne   Griffin Dunne  separated 2013</field>
+<field name="spouse">Griffin Dunne      Richard Gere  separated 2013</field>
 <field name="name">Carey Lowell</field>
 <field name="children">Hannah Dunne (b. 1990) Homer James Jigme Gere (b. 2000)</field>
 <field name="image">Carey Lowell 2011 Shankbone.JPG</field>
@@ -3554,22 +3548,9 @@
 <field name="birthplace">Budapest ,  Hungary</field>
 <field name="education">Otto Falckenberg School of the Performing Arts</field>
 <field name="nationality">British</field>
-<field name="spouse">William Marlowe   William Marlowe</field>
+<field name="spouse">William Marlowe      Bill Hays</field>
 <field name="name">Catherine Schell</field>
 <field name="othernames">Catherine von Schell Katherina von Schell Katherine von Schell</field>
-</doc>
-<doc>
-<field name="id">1052416</field>
-<field name="type">person</field>
-<field name="birthdate">1941-04-26T00:00:00Z</field>
-<field name="birthname">Claudine Oger</field>
-<field name="spouse">Pierre Gaspard-Huit (divorced 1959) Peter Brent (?–2008) (his death) 1 child</field>
-<field name="name">Claudine Auger</field>
-<field name="children">Jessica Claudine Brent (b. 1991}</field>
-<field name="image">Ope6.jpg</field>
-<field name="caption">Auger alongside  Adolfo Celi  in  ''Thunderball''</field>
-<field name="yearsactive">1958–1997</field>
-<field name="birthplace">Paris ,  France</field>
 </doc>
 <doc>
 <field name="id">1327234</field>
@@ -3602,7 +3583,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1925-08-22T00:00:00Z</field>
-<field name="spouse">Bill Sankey(divorced) 2 children Bill Sankey(divorced)</field>
+<field name="spouse">Bill Sankey(divorced) 2 children     Maurice Kaufmann (divorced)</field>
 <field name="name">Honor Blackman</field>
 <field name="image">Honor Blackman Jason and the Argonauts2.jpg</field>
 <field name="caption">Blackman in ''[[Jason and the Argonauts (1963 film)</field>
@@ -3665,7 +3646,7 @@
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="birthdate">1945-02-12T00:00:00Z</field>
-<field name="spouse">Roy Adams Roy Adams</field>
+<field name="spouse">Roy Adams    Charles Rubin</field>
 <field name="name">Maud Adams</field>
 <field name="image">Maud Adams - 1974.jpg</field>
 <field name="caption">Adams in 1974</field>
@@ -3726,13 +3707,13 @@
 <doc>
 <field name="id">42798</field>
 <field name="type">person</field>
-<field name="occupation">{{Ubl</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1966-11-17T00:00:00Z</field>
 <field name="birthname">Sophie Danièle Sylvie Maupu</field>
 <field name="name">Sophie Marceau</field>
 <field name="children">2</field>
 <field name="image">Sophie Marceau avp 2013.jpg</field>
-<field name="partner">{{Plainlist</field>
+<field name="partner">Andrzej Żuławski ,{{small</field>
 <field name="caption">Sophie Marceau at the Paris première of  Arrêtez-moi , February 2013</field>
 <field name="yearsactive">1980–present</field>
 <field name="birthplace">Paris, France</field>
@@ -3908,7 +3889,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1948-09-07T00:00:00Z</field>
-<field name="spouse">Todd Merer (1969-?, divorced) Steve Jaffe</field>
+<field name="spouse">Todd Merer (1969-?, divorced)    Steve Jaffe</field>
 <field name="name">Susan Blakely</field>
 <field name="image">Susan Blakely Peter Strauss Rich Man Poor Man.JPG</field>
 <field name="caption">Blakely as Julie Prescott and  Peter Strauss  as Rudy Jordache, 1976.</field>
@@ -4221,7 +4202,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1944-03-21T00:00:00Z</field>
-<field name="spouse">Daniel Toscan du Plantier  Roger Vadim</field>
+<field name="spouse">Daniel Toscan du Plantier     Roger Vadim</field>
 <field name="name">Marie-Christine Barrault</field>
 <field name="image">Marie-Christine Barrault 2013.jpg</field>
 <field name="caption">Barrault in July 2013.</field>
@@ -4512,18 +4493,17 @@
 <field name="id">323818</field>
 <field name="type">person</field>
 <field name="occupation">Actor</field>
+<field name="awards">Best Actor 1986  Jean de Florette 1999  Girl on the Bridge</field>
 <field name="birthdate">1950-01-24T00:00:00Z</field>
-<field name="image">Salon du livre de Paris 2011 - Daniel Auteuil - 001.jpg</field>
+<field name="awards">Best Actor Award (Cannes Film Festival) 1996  The Eighth Day</field>
+<field name="name">Daniel Auteuil</field>
 <field name="children">Aurore Auteuil ; Nelly; Zachary</field>
+<field name="image">Salon du livre de Paris 2011 - Daniel Auteuil - 001.jpg</field>
+<field name="partner">Marianne Denicourt</field>
 <field name="caption">Auteuil, 2011.</field>
 <field name="yearsactive">1974-present</field>
 <field name="birthplace">French Algeria</field>
 <field name="awards">Best Actor in a Supporting Role 1987  Jean de Florette</field>
-<field name="awards">Best Actor 1986  Jean de Florette 1999  Girl on the Bridge</field>
-<field name="awards">Best Actor Award (Cannes Film Festival) 1996  The Eighth Day</field>
-<field name="spouse">{{Plainlist</field>
-<field name="name">Daniel Auteuil</field>
-<field name="partner">Marianne Denicourt</field>
 </doc>
 <doc>
 <field name="id">1403267</field>
@@ -4565,8 +4545,8 @@
 <field name="type">person</field>
 <field name="occupation">Actor</field>
 <field name="birthdate">1948-07-30T00:00:00Z</field>
-<field name="birthname">{{nowrap</field>
-<field name="spouse">{{ubl</field>
+<field name="birthname">Juan Moreno y Herrera-Jiménez</field>
+<field name="spouse">Genevieve Reno   Nathalie Dyszkiewicz   Zofia Borucka</field>
 <field name="name">Jean Reno</field>
 <field name="image">Jean Reno 2012.jpg</field>
 <field name="caption">Jean Reno in 2012</field>
@@ -4631,7 +4611,7 @@
 <field name="occupation">Actress</field>
 <field name="birthdate">1932-11-08T00:00:00Z</field>
 <field name="birthname">Colette Suzanne Dacheville</field>
-<field name="spouse">Jean-Louis Trintignant  (div.)  Claude Chabrol  (div.) 1 child</field>
+<field name="spouse">Jean-Louis Trintignant  (div.)     Claude Chabrol  (div.) 1 child</field>
 <field name="name">Stéphane Audran</field>
 <field name="yearsactive">1957–present</field>
 <field name="othernames">Colette Suzanne Jeannine Dacheville</field>
@@ -4775,12 +4755,12 @@
 <field name="type">person</field>
 <field name="birthdate">1951-10-27T00:00:00Z</field>
 <field name="birthname">Jayne Harrison</field>
-<field name="spouse">{{nowrap</field>
+<field name="spouse">Leon Isaac Kennedy  (1970–1982) Bill Overton (1985–present)</field>
 <field name="name">Jayne Kennedy</field>
 <field name="children">3</field>
 <field name="url">http://www.jaynekennedy.net</field>
 <field name="othernames">Jayne Kennedy Overton</field>
-<field name="birthplace">{{nowrap</field>
+<field name="birthplace">Washington, D.C. ,  United States</field>
 <field name="awards">Outstanding Actress in a Motion Picture 1982  Body and Soul</field>
 </doc>
 <doc>
@@ -5644,7 +5624,7 @@
 <field name="occupation">clinical psychologist</field>
 <field name="birthdate">1949-12-04T00:00:00Z</field>
 <field name="birthname">Pamela Helen Stephenson</field>
-<field name="spouse">Nicholas Ball  (divorced)  Billy Connolly</field>
+<field name="spouse">Nicholas Ball  (divorced)     Billy Connolly</field>
 <field name="name">Pamela Stephenson</field>
 <field name="children">3 daughters</field>
 <field name="image">Pamela Stephenson.jpg</field>
@@ -6228,7 +6208,7 @@
 <field name="knownfor">No Regrets for Our Youth ,  Late Spring ,  Early Summer ,  Tokyo Story</field>
 <field name="image">Setsuko Hara smiling 2.jpg</field>
 <field name="yearsactive">1935 to 1963</field>
-<field name="birthplace">Yokohama ,  Kanagawa , {{nowrap</field>
+<field name="birthplace">Yokohama ,  Kanagawa , Japan</field>
 </doc>
 <doc>
 <field name="id">2124806</field>
@@ -6617,7 +6597,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1935-11-11T00:00:00Z</field>
-<field name="spouse">Kjell Grede  1 child Per Ahlmark  (m.1979)  Kjell Grede</field>
+<field name="spouse">Kjell Grede  1 child Per Ahlmark  (m.1979)     Gabriel Mora Baeza</field>
 <field name="name">Bibi Andersson</field>
 <field name="children">Jenny Matilde Grede</field>
 <field name="image">Andersson 1957.jpg</field>
@@ -6700,11 +6680,8 @@
 <doc>
 <field name="id">327644</field>
 <field name="type">person</field>
-<field name="criminalstatus">Imprisoned at Tidaholmsanstalten</field>
-<field name="criminalpenalty">life imprisonment</field>
 <field name="nationality">Serbian , formerly also  Swedish  (renounced)</field>
 <field name="birthdate">1978-12-06T00:00:00Z</field>
-<field name="criminalcharge">murder</field>
 <field name="name">Mijailo Mijailović</field>
 <field name="image">Lindh killer image1.jpg</field>
 <field name="caption">Surveillance photo of Mijailović at crime scene</field>
@@ -7383,7 +7360,7 @@
 <field name="image">Valentina Cervi Venice 2012.jpg</field>
 <field name="caption">Valentina Cervi in Venice 2012</field>
 <field name="ft">5</field>
-<field name="family">{{ubl</field>
+<field name="family">Tonino Cervi  (father)</field>
 <field name="yearsactive">1986—present</field>
 <field name="in">7}}</field>
 <field name="birthplace">Rome ,  Italy</field>
@@ -7917,7 +7894,6 @@
 <field name="parents">Neil Francis Callow Yvonne Mary Guise</field>
 <field name="nationality">British</field>
 <field name="birthdate">1949-06-15T00:00:00Z</field>
-<field name="honorificsuffix">CBE</field>
 <field name="birthname">Simon Phillip Hugh Callow</field>
 <field name="awards">Olivier Award for Best Director  (1992) Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture  (1998)</field>
 <field name="name">Simon Callow</field>
@@ -7946,7 +7922,7 @@
 <field name="type">person</field>
 <field name="birthdate">1962-01-01T00:00:00Z</field>
 <field name="name">Alice Arnold</field>
-<field name="partner">{{Plainlist</field>
+<field name="partner">Sandi Toksvig  (former) Clare Balding  (2006–present)</field>
 <field name="birthplace">United Kingdom</field>
 </doc>
 <doc>
