@@ -90,14 +90,6 @@ public class XMLContentHandler extends DefaultHandler {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
-		/*
-		 * System.out.println(input);
-		 * System.out.println("---------------------------");
-		 * System.out.println(html);
-		 * System.out.println("---------------------------");
-		 * System.out.println(cleaned);
-		 */
 		return cleaned.toString();
 	}
 	
@@ -128,59 +120,7 @@ public class XMLContentHandler extends DefaultHandler {
 		return str;
 	}
 
-	public String unwantedTextRemoval(String text) {
-		String modifiedText = "";
-		
-		//parsing unwanted text
-		modifiedText = text.replaceAll("<ref.*</ref>", "");
-		modifiedText = modifiedText.replaceAll("<ref.*?>", "");
-		modifiedText = modifiedText.replaceAll("(?i)\\{\\{citation(.*?)\\}\\}","");
-		modifiedText = modifiedText.replaceAll("(?i)\\{\\{fact(.*?)\\}\\}","");
-		modifiedText = modifiedText.replaceAll("<br />",",");
-		modifiedText = modifiedText.replaceAll("<br/>",",");
-		modifiedText = modifiedText.replaceAll("<br/ >",",");
-		modifiedText = modifiedText.replaceAll("<br>",",");
-		modifiedText = modifiedText.replaceAll("</ref>","");
-		
-		// parsing awards
-		modifiedText = modifiedText.replaceAll("\\{\\{awd\\|(.*?)\\|\\}\\}",
-				"XXXXXXXXXXXXX");
-
-		// parsing URL
-		modifiedText = modifiedText.replaceAll("\\{\\{URL\\|(.*?)\\}\\}", "$1");
-		modifiedText = modifiedText.replaceAll("\\{\\{url\\|(.*?)\\}\\}", "$1");
-
-		// parsing marriage
-		Pattern p4 = Pattern.compile("\\{\\{Marriage\\|(.*?)\\}\\}",Pattern.CASE_INSENSITIVE);
-		Matcher m4 = p4.matcher(modifiedText);
-		String newString1 = "";
-		// ArrayList<HashMap> coll = new ArrayList<HashMap>();
-		while (m4.find()) {
-			newString1 = m4.group(1);
-			// System.out.println("Marriage matches found:" + newString1);
-			newString1 = newString1.replaceAll("(.*?)\\|(.*)", "$1");
-			// System.out.println("Modified string: "+ newString1);
-
-			modifiedText = modifiedText.replaceAll("\\{\\{Marriage\\|(.*?)\\}\\}", newString1);
-			modifiedText = modifiedText.replaceAll(	"\\{\\{marriage\\|(.*?)\\}\\}", newString1);
-		}
-		// System.out.println(rem1);
-		/*
-		 * parsing awards!!! Pattern p3 =
-		 * Pattern.compile("\\{\\{awd\\|(.*?)\\}\\}", Pattern.CASE_INSENSITIVE);
-		 * Matcher m3 = p3.matcher(rem1); String newString1 = "";
-		 * ArrayList<HashMap> coll = new ArrayList<HashMap>(); while(m3.find()){
-		 * newString1 = m3.group(1); System.out.println("AWARDS: "+newString1);
-		 * String [] mapEntryArray = newString1.split(" *\\| *"); int k = 0;
-		 * while(k<mapEntryArray.length){ HashMap<String,String> awardMap = new
-		 * HashMap<String,String>(); String [] subEntryArray =
-		 * mapEntryArray[k].split(" *= *");
-		 * awardMap.put(subEntryArray[0].trim(), subEntryArray[1].trim());
-		 * System.out.println(subEntryArray[0].trim()+"===="+
-		 * subEntryArray[1].trim()); coll.add(awardMap); k++; } }
-		 */
-
-		// parsing Birthdate
+	public String parseBirthdate(String modifiedText){
 		String regex1 = "\\{\\{B(.*?)\\}\\}";
 		Pattern p2 = Pattern.compile(regex1, Pattern.CASE_INSENSITIVE);
 		Matcher m2 = p2.matcher(modifiedText);
@@ -251,6 +191,134 @@ public class XMLContentHandler extends DefaultHandler {
 		}
 		return modifiedText;
 	}
+	
+	public String parseDeathdate(String modifiedText){
+		String regex1 = "\\{\\{D(.*?)\\}\\}";
+		Pattern p2 = Pattern.compile(regex1, Pattern.CASE_INSENSITIVE);
+		Matcher m2 = p2.matcher(modifiedText);
+		String workgroup1 = "";
+		while (m2.find()) {
+			workgroup1 = m2.group(1);
+			System.out.println(workgroup1);
+			String s[] = workgroup1.split("\\|");
+			int k = 0;
+			int j = 0;
+			String day = "";
+			String month = "";
+			String year = "";
+			String date = "";
+			String[] monthss = {"jan", "feb", "mar","apr", "may", "jun", "jul", "aug", "sep", "oct", "nov","dec"};
+			Boolean flag = false;
+			for (k = s.length-1; k >= 0; k--) {
+				for(int m =0; m < monthss.length;m++){
+					if(s[k].toLowerCase().contains(monthss[m])){
+						flag = true;
+					}	
+				}
+				if ((s[k].matches("[0-9]+") || flag ==true) && j <= 2) {
+					flag = false;
+					if (j == 0) {
+						day = s[k];	
+					} else if (j == 1) {
+						month = s[k];		
+					} else if (j == 2) {
+							year = s[k];
+					}
+					j++;
+				}
+			}
+			if (!year.equalsIgnoreCase("") && !month.equalsIgnoreCase("") && !day.equalsIgnoreCase(""))
+				date = year + "-" + month + "-" + day;
+			else
+				date = day;
+			System.out.println("date "+date);
+			date = toUtcDate(date);
+			modifiedText = modifiedText.replaceAll("\\{\\{D(.*?)\\}\\}", date);
+			modifiedText = modifiedText.replaceAll("\\{\\{d(.*?)\\}\\}", date);	
+		}
+		Pattern p3 = Pattern.compile("\\| *death_date *=(.*?)\\|", Pattern.CASE_INSENSITIVE);
+		Matcher m3 = p3.matcher(modifiedText);
+		String workgroup2 = "";
+		while (m3.find()) {
+			workgroup2 = m3.group(1);
+			Pattern p5 = Pattern.compile("(\\(.*\\))", Pattern.CASE_INSENSITIVE);
+			Matcher m5 = p5.matcher(workgroup2);
+			String workgroup3 = "";
+			
+			while (m5.find()) {
+				workgroup3 = m5.group(1);
+				modifiedText = modifiedText.replace(workgroup3,"");	
+				String rem = workgroup2.replace(workgroup3, "").trim();
+				modifiedText = modifiedText.replace(rem,toUtcDate(rem));
+			}
+			Pattern p6 = Pattern.compile("([0-9]*-[0-9]*-[0-9]*T[0-9]*:[0-9]*:[0-9]*Z)", Pattern.CASE_INSENSITIVE);
+			Matcher m6 = p6.matcher(workgroup2);
+			String workgroup4 = "";
+			while (m6.find()) {
+				workgroup4 = m6.group();
+				modifiedText = modifiedText.replace(workgroup2,workgroup4);
+				workgroup2 = workgroup2.replace(workgroup2, workgroup4);
+			}
+			modifiedText = modifiedText.replace(workgroup2,toUtcDate(workgroup2.trim()));
+		}
+		return modifiedText;
+	}
+	
+	public String unwantedTextRemoval(String text) {
+		String modifiedText = "";
+		
+		//parsing unwanted text
+		modifiedText = text.replaceAll("<ref.*</ref>", "");
+		modifiedText = modifiedText.replaceAll("<ref.*?>", "");
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{citation(.*?)\\}\\}","");
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{fact(.*?)\\}\\}","");
+		modifiedText = modifiedText.replaceAll("<br />",",");
+		modifiedText = modifiedText.replaceAll("<br/>",",");
+		modifiedText = modifiedText.replaceAll("<br/ >",",");
+		modifiedText = modifiedText.replaceAll("<br>",",");
+		modifiedText = modifiedText.replaceAll("</ref>","");
+		
+		// parsing awards
+		//modifiedText = modifiedText.replaceAll("\\{\\{awd\\|(.*?)\\|\\}\\}","XXXXXXXXXXXXX");
+
+		// parsing URL
+		modifiedText = modifiedText.replaceAll("\\{\\{URL\\|(.*?)\\}\\}", "$1");
+		modifiedText = modifiedText.replaceAll("\\{\\{url\\|(.*?)\\}\\}", "$1");
+
+		// parsing marriage
+		System.out.println("ORIGINAL TEXT: "+modifiedText);
+		modifiedText = modifiedText.replaceAll("(?i)\\|*\\{\\{Marriage\\|(.*?)\\|(.*?)\\}\\}\\|*", "   $1");
+		//System.out.println("AFTER Marriage parsing: "+ modifiedText);
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{nowrap\\|*(.*?)\\}\\}","$1");
+		//System.out.println("AFTER nowrap parsing: "+modifiedText);
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{ubl\\|*(.*?)\\}\\}","$1");
+		//System.out.println("AFTER ubl parsing: "+modifiedText);
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{Plainlist\\|(.*?)\\}\\}","$1");
+	
+		// System.out.println(rem1);
+		/*
+		 * parsing awards!!! Pattern p3 =
+		 * Pattern.compile("\\{\\{awd\\|(.*?)\\}\\}", Pattern.CASE_INSENSITIVE);
+		 * Matcher m3 = p3.matcher(rem1); String newString1 = "";
+		 * ArrayList<HashMap> coll = new ArrayList<HashMap>(); while(m3.find()){
+		 * newString1 = m3.group(1); System.out.println("AWARDS: "+newString1);
+		 * String [] mapEntryArray = newString1.split(" *\\| *"); int k = 0;
+		 * while(k<mapEntryArray.length){ HashMap<String,String> awardMap = new
+		 * HashMap<String,String>(); String [] subEntryArray =
+		 * mapEntryArray[k].split(" *= *");
+		 * awardMap.put(subEntryArray[0].trim(), subEntryArray[1].trim());
+		 * System.out.println(subEntryArray[0].trim()+"===="+
+		 * subEntryArray[1].trim()); coll.add(awardMap); k++; } }
+		 */
+
+		//parsing Birth date
+		modifiedText = parseBirthdate(modifiedText);
+		
+		//parsing Death date
+		modifiedText = parseDeathdate(modifiedText);
+		
+		return modifiedText;
+	}
 
 	public static String toUtcDate(String dateStr) {
 		if (dateStr.isEmpty()) {
@@ -268,7 +336,8 @@ public class XMLContentHandler extends DefaultHandler {
 				} catch (ParseException ignore) {
 				}
 			}
-			throw new IllegalArgumentException("Invalid date: " + dateStr);
+			return "";
+			//throw new IllegalArgumentException("Invalid date: " + dateStr);
 		}
 	}
 
@@ -344,11 +413,13 @@ public class XMLContentHandler extends DefaultHandler {
 						}
 						else{
 							Boolean flag = false;
-							String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorificsuffix",	"honorificprefix",	"hometown",	"signature",	"wrestling weight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eye color",	"hair color",	"natural bust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminalstatus",	"criminalpenalty",	"criminalcharge",	"publisher",	"image size",	"dead",	"age",	"alive","type"};
+							String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorific suffix",	"honorific prefix",	"hometown",	"signature",	"wrestling weight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eye color",	"hair color",	"natural bust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminal status",	"criminal penalty",	"criminal charge",	"publisher",	"image size",	"dead",	"age",	"alive","type"};
 							String tagName = pairs.getKey().toString().toLowerCase().trim().replaceAll("_"," ");
+							System.out.println("TAG NAME: "+tagName);
 							for(int k = 0; k<matchTypes.length;k++){
 								if(matchTypes[k].equals(tagName)){
 									flag = true;
+									System.out.println("MATCHED: "+ tagName);
 								}
 							}
 							if(flag!=true){
@@ -464,26 +535,25 @@ public class XMLContentHandler extends DefaultHandler {
 			while (m1.find()) {
 				workgroup = m1.group();
 			}
-
+			
+			//System.out.println("Before stack"+workgroup);
+			
 			// read char by char
 			char[] ch = workgroup.toCharArray();
 			int count = 0;
 			int j = 0;
 			boolean flag = false;
 			StringBuffer newStringBuf = new StringBuffer();
-			while (j <= (ch.length - 1)) {
-				if (ch[j] == '{' && ch[j + 1] == '{' && flag == false) {
+			while (j < ch.length) {
+				if (ch[j] == '{' && flag == false) {
 					count++;
+				}
+				else if (ch[j] == '}'&& flag == false) {
+					count--;
 					if (count == 0) {
 						flag = true;
-					}
-				}
-				if ((j + 1) < ch.length) {
-					if (ch[j] == '}' && ch[j + 1] == '}') {
-						count--;
-						if (count == 0) {
-							flag = true;
-						}
+						newStringBuf.append("X");
+						break;
 					}
 				}
 				if (count > 0) {
@@ -491,26 +561,32 @@ public class XMLContentHandler extends DefaultHandler {
 				}
 				j++;
 			}
-			String formattedText = this.markupRemover(newStringBuf.toString());
+			String afterExtract = newStringBuf.toString();
+			
+			Pattern p2 = Pattern.compile("(?i)\\{\\{Infobox person(.*)\\}X", Pattern.DOTALL);
+			Matcher m2 = p2.matcher(afterExtract);
+			String workgroup1 = "";
+			while (m2.find()) {
+				workgroup1 = m2.group(1);
+			}
+			afterExtract = workgroup1;
+			
+			String formattedText = this.markupRemover(afterExtract);
 			formattedText = unwantedTextRemoval(formattedText);
-
 			String[] entry = formattedText.split(" *\\| *");
 			HashMap<String, String> entryMap = new HashMap<String, String>();
 			int itr = 0;
 			try {
 				while (itr < entry.length) {
 					bw.append(entry[itr]);
-					entry[itr] = entry[itr].replaceAll("\\{\\{Infobox person",
-							"");
 					String[] splitKeyValue = entry[itr].split("=");
 					if (splitKeyValue.length == 2) {
 						// System.out.println(splitKeyValue[0].trim() +"====="+
 						// splitKeyValue[1].trim());
 						if (splitKeyValue[0].trim().length() != 0
 								&& splitKeyValue[1].trim().length() != 0) {
-							// System.out.println(splitKeyValue[0]+"===="+splitKeyValue[1]);
-							entryMap.put(splitKeyValue[0].trim(),
-									splitKeyValue[1].trim());
+							System.out.println(splitKeyValue[0]+"===="+splitKeyValue[1]);
+							entryMap.put(splitKeyValue[0].trim(),splitKeyValue[1].trim());
 						}
 					}
 					bw.append("\n");
@@ -524,20 +600,18 @@ public class XMLContentHandler extends DefaultHandler {
 				e.printStackTrace();
 			}
 			xmlWriter(xmlPage);
-			// Iterate over the map to print the key value pair
-			// System.out.println("PAGE STARTS");
-			Iterator<Entry<String, String>> itr1 = xmlPage.getInfobox()
-					.entrySet().iterator();
+			/* Iterate over the map to print the key value pair
+			System.out.println("PAGE STARTS");
+			Iterator<Entry<String, String>> itr1 = xmlPage.getInfobox().entrySet().iterator();
 			while (itr1.hasNext()) {
 				Map.Entry pairs = (Map.Entry) itr1.next();
 				// System.out.println(pairs.getKey() + " ===== " +
 				// pairs.getValue());
 				// itr1.remove();
 			}
-			// System.out.println("PAGE ENDS");
+			System.out.println("PAGE ENDS");*/
 
-			WikipediaDocument wikiDoc = WikipediaParser
-					.wikipediaDocumentGenerator(xmlPage);
+			WikipediaDocument wikiDoc = WikipediaParser.wikipediaDocumentGenerator(xmlPage);
 			XMLPageCollection.add(wikiDoc);
 
 			sb = new StringBuffer("");
