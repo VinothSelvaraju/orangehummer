@@ -1,19 +1,26 @@
-4 word question for Films
+4 word question for Films. 
+The tag name (from dbpedia) of the wiki infobox is mentioned on top of the question list.
 
+releaseDate:
 When was Titanic shot?
 When was Titanic directed?
 When was Titanic completed?
 When was Titanic released?
 When was Titanic showcased?
 
+director:
 Who was Titanic's director?
 Who were Titanic's directors?
 Who performed Titanic's direction?
 Who is Titanic's director?
+
+producedBy:
 Who was Titanic's producer?
 Who were Titanic's producers?
 Who performed Titanic's production?
 Who is Titanic's producer?
+
+writer:
 Who was Titanic's writer?
 Who were Titanic's writers?
 Who performed Titanic's writing?
@@ -27,6 +34,7 @@ Who were Titanic's script-writers?
 Who performed Titanic's script-writing?
 Who is Titanic's script-writer?
 
+actors or starring(dbpedia):
 What actors Titanic has?
 Who does Titanic star?
 Who does Titanic cast?
@@ -36,14 +44,19 @@ Name actors Titanic showcases
 Actors that Titanic has
 Who acted in Titanic?
 
+musicComposers:
 Who composed Titanic's music?
 Who developed Titanic's soundtrack?
 Who developed Titanic's music?
 Name Titanic's music composers
+
+cinematographer:
 Who was Titanic's cinematographer?
 Who shot Titanic's cinematography?
 Who performed Titanic's cinematography?
 Who developed Titanic's cinematography?
+
+chiefEditor:
 Who was Titanic's editor?
 Who is Titanic's film-editor?
 
