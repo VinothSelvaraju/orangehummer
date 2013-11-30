@@ -115,53 +115,55 @@
 	<!-- -------------------ADDED FOR ORANGEHUMMER --------------------------------------->
 	<!-- The fields given below are the major fields on which we could use MORELIKETHIS -->
 	
-   <field name="birthDate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
-   <field name="birthName" type="text_general" indexed="true" stored="true" omitNorms="true" multiValued = "true termVectors = "true""/>
-   <field name="birthPlace" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
-   <field name="occupation" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
-   <field name="deathDate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
-   <field name="deathPlace" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
-   <dynamicField name="*Spouse" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
-   <field name="nationality" type="text_general" indexed="true" stored="true" termVectors = "true"/>
+   <field type = "person" name="birthDate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field type = "person" name="birthName" type="text_general" indexed="true" stored="true" omitNorms="true" multiValued = "true termVectors = "true"/>
+   <field type = "person" name="birthPlace" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field type = "person" name="occupation" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
+   <field type = "person" name="deathDate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field type = "person" name="deathPlace" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <!-- <dynamicField name="*Spouse" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/> -->
    
-   <field name="activeYears" type="text_general" indexed="true" stored="true omitNorms = "true"/>
-   <field name="child"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="website" type="text_general" indexed="true" stored="true" />
+   <field type = "person" name="spouse" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field type = "person" name="nationality" type="text_general" indexed="true" stored="true" termVectors = "true"/>
+   
+   <field type = "person" name="activeYears" type="text_general" indexed="true" stored="true omitNorms = "true"/>
+   <field type = "person" name="children"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="website" type="text_general" indexed="true" stored="true" />
 
      
-   <field name="honorificSuffix"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="nativeName"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>                 
-   <field name="baptismDate"  type="date" indexed="true" stored="true" omitNorms = "True"/>        
-   <field name="disappearedDate"  type="date" indexed="true" stored="true" omitNorms = "True"/>            
-   <field name="disappearedPlace"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="disappearedStatus"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="causeOfDeath"  type="string" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="bodyDiscovered"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="noteOnRestingPlace"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="residence"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="citizenship"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="employer"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="education"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="almaMater"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>         
-   <field name="educationPlace"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="organization"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="agent"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>            
-   <field name="knownFor"  type="text_general" indexed="true" stored="true" omitNorms = "True"/> 
-   <field name="notableIdea"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="hometown"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field name="salary"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="networth"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="height"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="weight"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="tvShow"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="opponent"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="religion"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="kinfOfCriminal"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="kinfOfCriminalAction"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="partner"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="relative"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="award"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-	<field name="kinfOfCriminalAction"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="honorificSuffix"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="nativeName"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>                 
+   <field type = "person" name="baptismDate"  type="date" indexed="true" stored="true" omitNorms = "True"/>        
+   <field type = "person" name="disappearedDate"  type="date" indexed="true" stored="true" omitNorms = "True"/>            
+   <field type = "person" name="disappearedPlace"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="disappearedStatus"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="causeOfDeath"  type="string" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="bodyDiscovered"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="noteOnRestingPlace"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="residence"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="citizenship"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="employer"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="education"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="almaMater"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>         
+   <field type = "person" name="educationPlace"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="organization"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="agent"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>            
+   <field type = "person" name="knownFor"  type="text_general" indexed="true" stored="true" omitNorms = "True"/> 
+   <field type = "person" name="notableIdea"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="hometown"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field type = "person" name="salary"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="networth"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="height"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="weight"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="tvShow"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="opponent"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="religion"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="kinfOfCriminal"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="kinfOfCriminalAction"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="partner"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="relative"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="award"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+	<field type = "person" name="kinfOfCriminalAction"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
 	
 	<!-- Do we need 'title' as a field, copy field, or metadata field -->
 	
