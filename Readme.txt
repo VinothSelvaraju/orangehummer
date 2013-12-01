@@ -11,3 +11,7 @@ Steps for executions for windows
 Miscellaneous:
 	1) Logs will be written to $HOME\code\Solr\logs\solr.log . Keep monitoring.
 	2) To get better understanding of the project, the documented report is present in the HOME directory.
+	
+To delete the Solr Complete index
+    1) java -Durl=http://localhost:8983/solr/QACollection/update -Dcommit=false -Ddata=args -jar post.jar "<delete><query>*:*</query></delete>"
+	2) java -Durl=http://localhost:8983/solr/QACollection/update -jar post.jar -

@@ -26,6 +26,7 @@ public class QueryConstants {
 	static String mltVerticalExpansion = "mltVerExp.json";
 	static String mltHorizontalExpansion = "mltHorExp.json";
 
+	static String queryKeyTag = "id";
 	static String queryMainTag = "name";
 	static String queryTypeTag = "type";
 	static String queryAllFetch = "*:*";
