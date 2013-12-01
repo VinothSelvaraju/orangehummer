@@ -820,11 +820,17 @@
        <str name="df">name</str>
      
 	 
-	 <str name="spellcheck.dictionary">default</str> 
-	 <!-- <str name="spellcheck.dictionary">wordbreak</str> -->
-	 <str name="spellcheck.onlyMorePopular">false</str>
-	 <str name="spellcheck.extendedResults">false</str> 
-	 <str name="spellcheck.count">5</str> 
+		<str name="spellcheck.dictionary">default</str> 
+		<str name="spellcheck.dictionary">wordbreak</str>
+		<str name="spellcheck.onlyMorePopular">false</str>
+		<str name="spellcheck.extendedResults">false</str> 
+		<str name="spellcheck.count">5</str> 
+		<str name="spellcheck.extendedResults">true</str>
+		<str name="spellcheck.maxResultsForSuggest">5</str> 
+		<str name="spellcheck.collate">true</str>
+        <str name="spellcheck.collateExtendedResults">true</str> 
+        <str name="spellcheck.maxCollationTries">10</str>
+        <str name="spellcheck.maxCollations">5</str> 
 	</lst>
 	 
 	<arr name="last-components">
@@ -1306,7 +1312,7 @@
     </lst>  -->
     
     <!-- a spellchecker that can break or combine words.  See "/spell" handler below for usage -->
-    <!-- <lst name="spellchecker">
+    <lst name="spellchecker">
       <str name="name">wordbreak</str>
       <str name="classname">solr.WordBreakSolrSpellChecker</str>      
       <str name="field">name</str>
@@ -1314,7 +1320,7 @@
       <str name="breakWords">true</str>
       <int name="maxChanges">3</int>
 	  <str name="buildOnCommit">true</str>
-    </lst> -->
+    </lst>
 
     <!-- a spellchecker that uses a different distance measure -->
     <!--
