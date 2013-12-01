@@ -151,7 +151,7 @@ public class MarkupRemover {
 			String date = "";
 			String[] monthss = {"jan", "feb", "mar","apr", "may", "jun", "jul", "aug", "sep", "oct", "nov","dec"};
 			Boolean flag = false;
-			for (k = s.length-1; k >= 0; k--) {
+			for (k = 0; k<s.length; k++) {
 				for(int m =0; m < monthss.length;m++){
 					if(s[k].toLowerCase().contains(monthss[m])){
 						flag = true;
@@ -160,11 +160,11 @@ public class MarkupRemover {
 				if ((s[k].matches("[0-9]+") || flag ==true) && j <= 2) {
 					flag = false;
 					if (j == 0) {
-						day = s[k];	
+						year = s[k];	
 					} else if (j == 1) {
 						month = s[k];		
 					} else if (j == 2) {
-							year = s[k];
+							day = s[k];
 					}
 					j++;
 				}
