@@ -1,9 +1,11 @@
+<!DOCTYPE html>
 <!-- Django Base Template -->
 {% load staticfiles %}
 <html>
 <head>
 <title>Orange Hummer Q&A System</title>
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 <link href="{% static "css/typeahead.js-bootstrap.css" %}" rel="stylesheet" type="text/css">
 <style type="text/css">
 .twitter-typeahead .tt-hint
@@ -38,7 +40,8 @@
 {
     display:none!important;
 }
-.navbar .navbar-collapse{
+.top-buffer { margin-top:20px; }
+.navbar, .navbar .navbar-collapse {
   background-color: #563D7C; /* fallback color, place your own */
 
   /* Gradients for modern browsers, replace as you see fit */
@@ -62,10 +65,14 @@ color: #FFFFFF;
 color: #FFFFFF;
 }
 
+.navbar-toggle {
+color: #FFFFFF;
+}
 
 .navbar a:focus {
 color: #FFFFFF;
 }
+
 .navbar{
 color: #FFFFFF;
 }
@@ -83,21 +90,22 @@ color: #FFFFFF;
 .navbar-text {
 color: #FFFFFF;
 }
-
 </style>
+{% block other_css %}
+{% endblock other_css %}
 </head>
 <body>
 	<div class="wrapper">
 		
 		<div id="header" class="navbar navbar-static-top" role="navigation">
 		
-			<div class="navbar-header">
+			<div class="navbar-header" style="text-align:center;">
 		
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+				<button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 					<span class="sr-only">Toggle navigation</span>
 					<i class="icon-menu"></i>
 				</button>
-				<a class="navbar-brand" href="/">Orange Hummer</a>
+				<a class="navbar-brand" style="margin-left:auto; margin-right:auto; width:100%;" href="/">Orange Hummer</a>
 		
 			</div>
 			<p class="navbar-text hidden-xs">
@@ -128,7 +136,7 @@ color: #FFFFFF;
 
         
     </div>
-    {% block css %}
+    {% block js %}
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
     <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
@@ -137,9 +145,9 @@ color: #FFFFFF;
     $('.typeahead.input-sm').siblings('input.tt-hint').addClass('hint-small');
     $('.typeahead.input-lg').siblings('input.tt-hint').addClass('hint-large');
     </script>
-    {% endblock css %}
-    {% block other_css %}
-    {% endblock other_css %}
+    {% endblock js %}
+    {% block other_js %}
+    {% endblock other_js %}
 </body>
 </html>
 

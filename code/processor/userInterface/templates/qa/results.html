@@ -1,31 +1,40 @@
 {% extends "base.html" %}
+{% load mytags %}
 {% block content %}
 
 
 
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
-  	<form style="margin-top:30px" class="form-inline" role="form" action="" id="PersonForm" method="POST">{% csrf_token %}
-      {{form.errors}}
+  	<form style="margin-top:30px" class="form-inline" role="form" action="/" id="PersonForm" method="POST">{% csrf_token %}
       {% for field in form %}
       <div class="form-group">
         <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
         {{ field }}
       </div>
       {% endfor %}
-  	 <button type="submit" class="btn btn-default">Sign in</button>
+  	 <button type="submit" class="btn btn-default">Search</button>
 
     </form>
 
     <div style="font-size: 20px;">
-      {% autoescape off %}{{response_text}}{% endautoescape %}
+      {% if alternatives|is_false %}
+          {% autoescape off %}{{response_text}}{% endautoescape %}
+      {% else %}
+      Did you mean?
+      <ul>
+      {% for val in alternatives %}
+      <li><a href="/ask?qtype={{dataDict.qtype}}&fiveW={{dataDict.fiveW}}&col2={{dataDict.col2}}&noun={{val}}&last_col={{dataDict.last_col}}">{{dataDict.fiveW|capfirst}} {{dataDict.col2}} {{val}} {{dataDict.last_col}}</a></li>
+      {% endfor %}
+      </ul>
+      {% endif %}
     </div>
   </div>
 </div>
 </div>
 {% endblock content %}
 
-{% block other_css %}
+{% block other_js %}
 <script type="text/javascript">
 $('.topic').click(function (e) {
   //e.preventDefault();
@@ -51,4 +60,4 @@ $('input#id_noun').typeahead({
   
 });
 </script>
-{% endblock other_css %}
+{% endblock other_js %}

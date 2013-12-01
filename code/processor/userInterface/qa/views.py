@@ -7,6 +7,7 @@ import os
 import json
 import time
 import traceback
+from config import *
 
 class HomePageView(FormView):
     template_name = 'qa/home.html'
@@ -22,114 +23,92 @@ class HomePageView(FormView):
         form = self.form_class(request.POST)
         if form.is_valid():
             print "VALID"
-            #call Java code
-            #read from response
-            #print os.getcwd()
-            #print request.POST.get("qtype")
-            #print request.POST.get("fiveW")
-            #print request.POST.get("col2")
-            #print request.POST.get("last_col")
-            #print request.POST.get("noun")
-            #print request.POST.get("num_col")
-            #os.chdir("../../")
-            try: 
-                os.system("java -cp ../../processor/queryProcessor/bin/:../../solr/dist/:../../solr/dist/solrj-lib/ QueryMapper docs/ "+request.POST.get('qtype')+" "+request.POST.get('fiveW')+" "+request.POST.get('col2')+" "+request.POST.get('noun')+" "+request.POST.get('last_col'))
-                #redirect
-                with open("docs/queryOutput.json") as f:
-                    t = f.read()
-                # <process form cleaned data>
-                resp_data = json.loads(t)
-                print resp_data
-                if int(resp_data['response']['numFound'])<=0:
-                    response_text = "Sorry, no results were found for your query!"
-                else:
-                    response_text = ""
-                    for i in range(int(resp_data['response']['numFound'])):
-                        keys = resp_data['response']['docs'][i].keys()
-                        print keys
-                        if len(keys)!=3:
-                            raise Exception
-                        keys.remove('name')
-                        
-                        if "highlighting" in resp_data:
-                            response_text += ", ".join(resp_data['highlighting'][resp_data['response']['docs'][i]['id']]['name'])
-                        else: 
-                            response_text += "<strong>"+ resp_data['response']['docs'][i]['name'] +"</strong>"
-
-                        keys.remove('id')
-                        response_text += "'s " + keys[0] + " is "
-                        if keys[0]=="birthdate":
-                            resp_data['response']['docs'][i][keys[0]]= time.strftime("%d %B %Y", time.strptime(resp_data['response']['docs'][i][keys[0]], "%Y-%m-%dT%H:%M:%SZ"))
-                        if isinstance(resp_data['response']['docs'][i][keys[0]], str):
-                            response_text += resp_data['response']['docs'][i][keys[0]]
-                        elif isinstance(resp_data['response']['docs'][i][keys[0]], list):
-                            response_text+=", ".join(resp_data['response']['docs'][i][keys[0]])
-                        response_text+="<br/>"
-                            
-                print response_text
-            except:
-                print "There was an exception"
-                print traceback.format_exc()
-                response_text = "Oops. There was an exception"
-
-
-            self.template_name = "qa/results.html"
-            return render(request, self.template_name, {'form': form,'json_resp':t, 'response_text':response_text})
+            print request.POST.copy()
+            response = HttpResponseRedirect('results')
+            response.set_cookie('qtype',request.POST.get('qtype'))
+            response.set_cookie('fiveW',request.POST.get('fiveW'))
+            response.set_cookie('col2',request.POST.get('col2'))
+            response.set_cookie('noun',request.POST.get('noun'))
+            response.set_cookie('last_col',request.POST.get('last_col'))
+            return response
         #else:
             #print "Invalid"
         print form.errors
         return render(request, self.template_name, {'form': form})
 
-"""
-#Ignore the following
-    def form_valid(self, form):
-        # This method is called when valid form data has been POSTed.
-        # It should return an HttpResponse.
-        print "VALID"
-        return super(HomePageView, self).form_valid(form)
-"""
 
-"""class PersonView(FormView):
-    template_name = 'qa/home.html'
-    form_class = QuestionForm
-    success_url = '/thanks/'
+def resultsPage(request):
+    dataDict = {'qtype': request.COOKIES.get('qtype'),
+                'fiveW' : request.COOKIES.get('fiveW'),
+                'col2' : request.COOKIES.get('col2'),
+                'noun' : request.COOKIES.get('noun'),
+                'last_col' : request.COOKIES.get('last_col'),}
 
-    def get(self, request, *args, **kwargs):
-        return HttpResponseRedirect("/")
+    form = QuestionForm(dataDict)
+    print "VALID"
+    alternative_text = []
+    try: 
+        queryMapperParams.update(dataDict)
+        os.system(queryMapperCmd%queryMapperParams)
+        with open("docs/queryOutput.json") as f:
+            t = f.read()
 
-    def form_invalid(self, form):
-        print "INVALID"
-        print form.errors
-        return super(PersonView, self).form_valid(form)
+        resp_data = json.loads(t)
+        print resp_data
+        if int(resp_data['response']['numFound'])<=0:
+            response_text = responseMessages['noresults']
+            alternative_text = resp_data['spellcheck']['suggestions'][1]['suggestion'] if resp_data['spellcheck']['suggestions'] else []
+        else:
+            response_text = ""
+            for i in range(int(resp_data['response']['numFound'])):
+                keys = resp_data['response']['docs'][i].keys()
+                print keys
+                if len(keys)!=3:
+                    if len(keys)<3:
+                        #response_text = responseMessages['noresults']
+                        #break
+                        continue
+                    else: 
+                        raise Exception
+                keys.remove('name')
+                keys.remove('id')
+                field_text = keys[0] 
+                if "highlighting" in resp_data:
+                    name_text = ", ".join(resp_data['highlighting'][resp_data['response']['docs'][i]['id']]['name'])
+                else: 
+                    name_text += "<strong>"+ resp_data['response']['docs'][i]['name'] +"</strong>"
+                result_text = resp_data['response']['docs'][i][keys[0]]
+                if keys[0] in date_list:
+                    result_text, dateException = convertDate(result_text)
+                    if dateException:
+                        response_text = responseMessages['exception']
+                        break
+                if isinstance(result_text, list):
+                    result_text = ", ".join(result_text)
+                responseParams = {'name':name_text,
+                                    'field':field_text,
+                                    'answers':result_text}
+                each_return_string = responseMessages['yesresults']%responseParams
+                response_text+=each_return_string+"<br/>"
+            if not response_text:
+                response_text = responseMessages['noresults']
+                    
+        print response_text
+    except:
+        print "There was an exception"
+        print traceback.format_exc()
+        response_text = responseMessages['exception']
+    template_name = "qa/results.html"
+    return render(request, template_name, {'form': form,'json_resp':t, 'response_text':response_text, 'alternatives':alternative_text, 'dataDict':dataDict})
+    
 
-    def form_valid(self, form):
-        # This method is called when valid form data has been POSTed.
-        # It should return an HttpResponse.
-        print "POST PERSON"
-        return super(PersonView, self).form_valid(form)
-
-class PlacesView(FormView):
-    template_name = 'qa/home.html'
-    form_class = QuestionForm
-    success_url = '/thanks/'
-
-    def form_valid(self, form):
-        # This method is called when valid form data has been POSTed.
-        # It should return an HttpResponse.
-        print "POST PLACES"
-        return super(PlacesView, self).form_valid(form)
-
-class MoviesView(FormView):
-    template_name = 'qa/home.html'
-    form_class = QuestionForm
-    success_url = '/thanks/'
-
-    def form_valid(self, form):
-        # This method is called when valid form data has been POSTed.
-        # It should return an HttpResponse.
-        print "POST MOVIES"
-        return super(MoviesView, self).form_valid(form)
-
-"""
-#def homepage(request):
-#   return render_to_response("qa/home.html")
+def ask(request):
+    print request.GET.copy()
+    response = HttpResponseRedirect('results')
+    response.set_cookie('qtype',request.GET.get('qtype'))
+    response.set_cookie('fiveW',request.GET.get('fiveW'))
+    response.set_cookie('col2',request.GET.get('col2'))
+    response.set_cookie('noun',request.GET.get('noun'))
+    response.set_cookie('last_col',request.GET.get('last_col'))
+            
+    return response

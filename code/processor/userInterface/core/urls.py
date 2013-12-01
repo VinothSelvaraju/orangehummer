@@ -13,6 +13,8 @@ urlpatterns = patterns('',
     
     url(r'^meet$', TemplateView.as_view(template_name="static/meet.html")),
     url(r'^suggest/q=(.*)', 'ajax.views.suggest'),
+    url(r'^results$', 'qa.views.resultsPage'),
+    url(r'^ask', 'qa.views.ask'),
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
