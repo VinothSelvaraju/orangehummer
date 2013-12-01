@@ -3,6 +3,10 @@ from django.shortcuts import render_to_response, render
 from django.http import HttpResponse, HttpResponseRedirect
 from qa.forms import QuestionForm
 from django.views.generic.edit import FormView
+import os
+import json
+import time
+import traceback
 
 class HomePageView(FormView):
     template_name = 'qa/home.html'
@@ -20,12 +24,60 @@ class HomePageView(FormView):
             print "VALID"
             #call Java code
             #read from response
-            #redirect
-            # <process form cleaned data>
+            #print os.getcwd()
+            #print request.POST.get("qtype")
+            #print request.POST.get("fiveW")
+            #print request.POST.get("col2")
+            #print request.POST.get("last_col")
+            #print request.POST.get("noun")
+            #print request.POST.get("num_col")
+            #os.chdir("../../")
+            try: 
+                os.system("java -cp ../../processor/queryProcessor/bin/:../../solr/dist/:../../solr/dist/solrj-lib/ QueryMapper docs/ "+request.POST.get('qtype')+" "+request.POST.get('fiveW')+" "+request.POST.get('col2')+" "+request.POST.get('noun')+" "+request.POST.get('last_col'))
+                #redirect
+                with open("docs/queryOutput.json") as f:
+                    t = f.read()
+                # <process form cleaned data>
+                resp_data = json.loads(t)
+                print resp_data
+                if int(resp_data['response']['numFound'])<=0:
+                    response_text = "Sorry, no results were found for your query!"
+                else:
+                    response_text = ""
+                    for i in range(int(resp_data['response']['numFound'])):
+                        keys = resp_data['response']['docs'][i].keys()
+                        print keys
+                        if len(keys)!=3:
+                            raise Exception
+                        keys.remove('name')
+                        
+                        if "highlighting" in resp_data:
+                            response_text += ", ".join(resp_data['highlighting'][resp_data['response']['docs'][i]['id']]['name'])
+                        else: 
+                            response_text += "<strong>"+ resp_data['response']['docs'][i]['name'] +"</strong>"
+
+                        keys.remove('id')
+                        response_text += "'s " + keys[0] + " is "
+                        if keys[0]=="birthdate":
+                            resp_data['response']['docs'][i][keys[0]]= time.strftime("%d %B %Y", time.strptime(resp_data['response']['docs'][i][keys[0]], "%Y-%m-%dT%H:%M:%SZ"))
+                        if isinstance(resp_data['response']['docs'][i][keys[0]], str):
+                            response_text += resp_data['response']['docs'][i][keys[0]]
+                        elif isinstance(resp_data['response']['docs'][i][keys[0]], list):
+                            response_text+=", ".join(resp_data['response']['docs'][i][keys[0]])
+                        response_text+="<br/>"
+                            
+                print response_text
+            except:
+                print "There was an exception"
+                print traceback.format_exc()
+                response_text = "Oops. There was an exception"
+
+
             self.template_name = "qa/results.html"
-            return render(request, self.template_name, {'form': form,'json_resp':"JSON RESPONSE"})
-        else:
-            print "Invalid"
+            return render(request, self.template_name, {'form': form,'json_resp':t, 'response_text':response_text})
+        #else:
+            #print "Invalid"
+        print form.errors
         return render(request, self.template_name, {'form': form})
 
 """

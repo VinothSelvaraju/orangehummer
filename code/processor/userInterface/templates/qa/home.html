@@ -10,27 +10,34 @@
   	</div>
   	<br/>
 <ul id="myTab" class="nav nav-tabs">
-  <li class="active"><a href="#person" class="topic" data-toggle="tab">Person</a></li>
-  <li><a href="#places" class="topic" data-toggle="tab">Places</a></li>
-  <li><a href="#movies" class="topic" data-toggle="tab">Movies</a></li>
+  <li class="active"><a href="#personTab" class="topic" id="personTabLink" data-toggle="tab">Person</a></li>
+  <li><a href="#placesTab" class="topic" id="placesTabLink" data-toggle="tab">Places</a></li>
+  <li><a href="#moviesTab" class="topic" id="moviesTabLink" data-toggle="tab">Movies</a></li>
 </ul>
 	
 <div id="myTabContent" class="tab-content">
-  <div class="tab-pane active" id="person">
+  <div class="tab-pane active" id="personTab">
 
   	<form style="margin-top:30px" class="form-inline" role="form" action="" id="PersonForm" method="POST">{% csrf_token %}
-      {{form.errors}}
+      <!--{{form.errors}}-->
       {% for field in form %}
-      <div class="form-group">
-        <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
-        {{ field }}
-      </div>
+          {% if field.errors %}
+              <div class="form-group has-error">
+          {% else %}
+              <div class="form-group">
+          {% endif %}
+          <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
+          {{ field }}
+          {% if field.errors %}
+          {{field.errors|striptags}}
+          {% endif %}
+          </div>
       {% endfor %}
   	 <button type="submit" class="btn btn-default">Sign in</button>
 
     </form>
   </div>
-  <div class="tab-pane" id="places">
+  <div class="tab-pane" id="placesTab">
 
     <form style="margin-top:30px" class="form-inline" role="form" id="PlacesForm" action="" method="POST">{% csrf_token %}
       {% for field in form %}
@@ -43,7 +50,7 @@
 
     </form>
   </div>
-  <div class="tab-pane" id="movies">
+  <div class="tab-pane" id="moviesTab">
 
     <form style="margin-top:30px" class="form-inline" role="form" id="MoviesForm" action="" method="POST">{% csrf_token %}
       {% for field in form %}
@@ -65,8 +72,43 @@
 <script type="text/javascript">
 $('.topic').click(function (e) {
   //e.preventDefault();
-//  $(this).tab('show');
+  //var id = $(this).attr('id');
+  var id = this.id;
+  alert(id);
 })
+//{% if form.errors %}
+    //alert("ASDF");
+    //{% for field in form %}
+        //alert("{{field.errors}}");
+    //{% endfor %}
+//{% endif %}
 $('.qtype').hide();
+//var callback = function(data){
+ //                 alert("YES");
+  //                alert(data);
+   //               alert(data.spellcheck.suggestions[1].suggestion);
+    //              return data;
+     //          }
+$('input#id_noun').typeahead({
+  name: 'noun',
+//  local: ['timtrueman', 'JakeHarding', 'vskarich']
+  //valueKey: "a.spellcheck.suggestions[1].suggestion",
+  remote: {
+    //url: "http://localhost:8983/solr/QACollection/suggest?q=name%3A%QUERY&wt=json&indent=true&json.wrf=callback",
+    url: "/suggest/q=%QUERY",
+    dataType: "json",
+    filter: function(data){
+      //alert("Filtering results");
+      var new_data = JSON.parse(data);
+      //alert(new_data);
+      var resultList = new_data.spellcheck.suggestions[1].suggestion;
+      //alert(resultList);
+      return resultList;
+    }
+  }
+  
+});
 </script>
+
+
 {% endblock other_css %}
