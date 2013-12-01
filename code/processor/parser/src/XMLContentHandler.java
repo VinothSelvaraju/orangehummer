@@ -64,6 +64,7 @@ public class XMLContentHandler extends DefaultHandler {
 	MyXMLPage xmlPage;
 	public ArrayList<MyXMLPage> XMLPageCollection = new ArrayList<MyXMLPage>();
 	Properties props;
+	int infoboxCount = 0;
 
 
 	public XMLContentHandler(Properties props) {
@@ -147,6 +148,7 @@ public class XMLContentHandler extends DefaultHandler {
 			while (m1.find()) {
 				workgroup = m1.group();
 			}
+			System.out.println("Infobox extracted count: "+ infoboxCount);
 			
 			//System.out.println("AFTER 1st infobox: "+workgroup);
 			// read char by char
@@ -184,6 +186,10 @@ public class XMLContentHandler extends DefaultHandler {
 			
 			System.out.println("AFTER PARSING: "+afterExtract);
 			
+			if(infoboxCount ==2000){
+				System.exit(0);
+			}
+			
 			MarkupRemover mk = new MarkupRemover();
 			String formattedText = mk.markupRemover(afterExtract);
 			//System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
@@ -199,7 +205,7 @@ public class XMLContentHandler extends DefaultHandler {
 			formattedText =mk.parsePartner(formattedText);
 			//System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
 			formattedText = mk.parseNationality(formattedText);
-			System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
+			//System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
 			formattedText = mk.parseBrackets(formattedText);
 			System.out.println("AFTER FORMATTING TEXT: "+formattedText);
 			
@@ -218,8 +224,11 @@ public class XMLContentHandler extends DefaultHandler {
 				if (splitKeyValue.length == 2) {
 					//System.out.println("PRINTING KEY VALUE BEFORE ADDING TO MAP: "+splitKeyValue[0].trim() +"====="+splitKeyValue[1].trim());
 					if (splitKeyValue[0].trim().length() != 0 && splitKeyValue[1].trim().length() != 0) {
-	
 						String cleanedValue = splitKeyValue[1].trim();
+						String cleanedKey = splitKeyValue[0].trim();
+						if(cleanedKey.contentEquals("name")){
+							infoboxCount++;
+						}
 						int size = cleanedValue.length();
 						if(cleanedValue.charAt(0) == ','){
 							cleanedValue = cleanedValue.substring(1);
@@ -227,12 +236,13 @@ public class XMLContentHandler extends DefaultHandler {
 						else if(cleanedValue.charAt(size-1) == ','){
 							cleanedValue = cleanedValue.substring(0, size-2);
 						}
-						entryMap.put(splitKeyValue[0].trim(),cleanedValue);
+						entryMap.put(cleanedKey,cleanedValue);
 					}
 				}
 				//bw.append("\n");
 				itr++;
 			}
+			System.out.println("INFOBOX COUNT AFTER ADDING TO THE MAP: "+infoboxCount);
 			System.out.println("----------------------------------------------------------------------------------------");
 			xmlPage.setInfobox(entryMap);
 			XMLWriter xmlWrite = new XMLWriter(props);

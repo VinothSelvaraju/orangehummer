@@ -212,9 +212,9 @@ public class MarkupRemover {
 	
 	public String parseAwards (String modifiedText){
 		
-		System.out.println("ORIGINAL TEXT BEFORE AWARDS PARSING: "+modifiedText);
+		//System.out.println("ORIGINAL TEXT BEFORE AWARDS PARSING: "+modifiedText);
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{awd *\\|(.*?)\\|(.*?)\\}\\}\\|*", "$1");
-		System.out.println("PARSED TEXT AFTER AWARDS PARSING: "+ modifiedText);
+		//System.out.println("PARSED TEXT AFTER AWARDS PARSING: "+ modifiedText);
 		/*String modifiedText = "";
 		Pattern p6 = Pattern.compile("\\{\\{Aw(.*?)\\}\\}", Pattern.CASE_INSENSITIVE);
 		Matcher m6 = p6.matcher(text);
@@ -235,26 +235,35 @@ public class MarkupRemover {
 		//parsing unwanted text
 		modifiedText = text.replaceAll("<ref.*</ref>", "");
 		modifiedText = modifiedText.replaceAll("<ref.*?>", "");
-		modifiedText = modifiedText.replaceAll("(?i)\\{\\{citation(.*?)\\}\\}","");
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{cit(.*?)\\}\\}","");
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{fact(.*?)\\}\\}","");
 		modifiedText = modifiedText.replaceAll("<br />",",");
 		modifiedText = modifiedText.replaceAll("<br/>",",");
 		modifiedText = modifiedText.replaceAll("<br/ >",",");
 		modifiedText = modifiedText.replaceAll("<br>",",");
 		modifiedText = modifiedText.replaceAll("</ref>","");
-
+		
+		//parsing cite tag multi line
+		//System.out.println("BEFORE CITE PARSING: "+ modifiedText);
+		Pattern p10 = Pattern.compile("(?i)\\{\\{cite(.*?)\\}\\}", Pattern.DOTALL);
+		Matcher m10 = p10.matcher(modifiedText);
+		String matcherText1 = "";
+		String fullMatchText1 = "";
+		while (m10.find()) {
+			fullMatchText1 = m10.group(0);
+			matcherText1 = m10.group(1);
+			modifiedText = modifiedText.replace(fullMatchText1, "");
+		}
+		//System.out.println("AFTER CITE PARSING: "+ modifiedText);
+		
 		// parsing URL
 		modifiedText = modifiedText.replaceAll("\\{\\{URL\\|(.*?)\\}\\}", "$1");
 		modifiedText = modifiedText.replaceAll("\\{\\{url\\|(.*?)\\}\\}", "$1");
 
 		//System.out.println("WITHIN UNWANTED REM: "+modifiedText);
 		
-		// parsing marriage
-		System.out.println("ORIGINAL TEXT: "+modifiedText);
-		//modifiedText = modifiedText.replaceAll("(?i)\\|*\\{\\{Marriage\\|(.*?)\\|(.*?)\\}\\}\\|*", "   $1");
-		//modifiedText = modifiedText.replaceAll("(?i)\\|*\\{\\{Marriage\\|(show=)?(.*?)\\|?(.*?)\\}\\}\\|*", "'"+"$3"+"'");
-		
-		//Marriage {{}} 
+		// parsing marriage {{...}}
+		//System.out.println("ORIGINAL TEXT: "+modifiedText); 
 		Pattern p6 = Pattern.compile("(?i)\\|*\\{\\{Marriage\\|(show=)?(.*?)\\|?(.*?)\\}\\}\\|*", Pattern.CASE_INSENSITIVE);
 		Matcher m6 = p6.matcher(modifiedText);
 		String matcherText = "";
@@ -266,23 +275,23 @@ public class MarkupRemover {
 			//System.out.println("FULL MATCHER TEXT"+ fullMatchText);
 			matcherText = matcherText.replaceAll("//|(.*?)//|", "");
 			if(matcherText.contains("|")){
-				System.out.println("CONTAINS | FLAG: TRUE");
+				//System.out.println("CONTAINS | FLAG: TRUE");
 				String s[] = matcherText.split(" *\\| *");
 				s[0]=s[0].trim();
 				s[0] = s[0].replaceAll(" *, *", " ");
-				System.out.println("S[0]: "+s[0]);
+				//System.out.println("S[0]: "+s[0]);
 				modifiedText = modifiedText.replace(fullMatchText, s[0]+",");
-				System.out.println("MATCHER TEXT AFTER REPLACING | (WITHIN IF): "+ modifiedText);
+				//System.out.println("MATCHER TEXT AFTER REPLACING | (WITHIN IF): "+ modifiedText);
 			}
 			else{
 			matcherText = matcherText.trim();
 			matcherText = matcherText.replaceAll(" *, *", " ");
-			System.out.println("MATCHER TEXT AFTER REPLACING |(WITHIN ELSE): "+ matcherText);
+			//System.out.println("MATCHER TEXT AFTER REPLACING |(WITHIN ELSE): "+ matcherText);
 			modifiedText = modifiedText.replace(fullMatchText,matcherText+",");
 			}
 		}		
 	
-		System.out.println("AFTER Marriage parsing: "+ modifiedText);
+		//System.out.println("AFTER Marriage parsing: "+ modifiedText);
 		
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{nowrap\\|*(.*?)\\}\\}","$1");
 		//System.out.println("AFTER nowrap parsing: "+modifiedText);
