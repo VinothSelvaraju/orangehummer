@@ -78,6 +78,7 @@ public class XMLWriter {
 					doc.appendChild(rootElement);
 				}
 				
+				//Check whether the info box contains name tag
 				Iterator<Entry<String, String>> itr1 = page.infobox.entrySet().iterator();
 				Boolean nameFlag = false;
 				while (itr1.hasNext()) {
@@ -117,16 +118,20 @@ public class XMLWriter {
 							}
 							else{
 								Element field = doc.createElement("field");
+								String newKey = pairs.getKey().toString().replaceAll("_", "");
+								newKey = newKey.trim().replaceAll(" ", "");
 								field.appendChild(doc.createTextNode(pairs.getValue().toString()));
-								field.setAttribute("name", pairs.getKey().toString().replaceAll("_", ""));
+								field.setAttribute("name",newKey);
 								document.appendChild(field);
 								System.out.println(pairs.getKey().toString().replaceAll("_", "")+"===="+pairs.getValue().toString());
 							}
 						}
 						else{
 							Boolean flag = false;
+							String newKey = pairs.getKey().toString().replaceAll("_", "");
+							newKey = newKey.trim().replaceAll(" *", "");
 							String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorific suffix",	"honorific prefix",	"hometown",	"signature",	"wrestling weight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eye color",	"hair color",	"natural bust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminal status",	"criminal penalty",	"criminal charge",	"publisher",	"image size",	"dead",	"age",	"alive","type"};
-							String tagName = pairs.getKey().toString().toLowerCase().trim().replaceAll("_"," ");
+							String tagName = newKey.toLowerCase();
 							System.out.println("TAG NAME: "+tagName);
 							for(int k = 0; k<matchTypes.length;k++){
 								if(matchTypes[k].equals(tagName)){
@@ -136,6 +141,7 @@ public class XMLWriter {
 							}
 							if(flag!=true){
 								String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
+								inputKey = inputKey.replaceAll(" *", "");
 								inputKey = synonymlookup(inputKey);
 								Element field = doc.createElement("field");
 								field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
@@ -146,12 +152,14 @@ public class XMLWriter {
 						}
 					}
 					System.out.println("-------------------Page stop------------------------");
+					
 					// write the content into xml file
 					TransformerFactory transformerFactory = TransformerFactory.newInstance();
 					Transformer transformer = transformerFactory.newTransformer();
 					transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 					DOMSource source = new DOMSource(doc);
 					StreamResult result = new StreamResult(new File(props.getProperty("output_file")));
+					
 					// Output to console for testing
 					StreamResult result1 = new StreamResult(System.out);
 					transformer.transform(source, result);
