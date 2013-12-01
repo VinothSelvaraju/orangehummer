@@ -184,6 +184,38 @@ public class QuerySearch {
 				}
 			}
 			
+			//for more like this options
+			if(query.isHl()) {
+				urlParameters += "&hl="
+						+ URLEncoder.encode(String.valueOf(query.isHl()),
+								QueryConstants.solrEncodeType);
+				if(query.getHlSimplePre() != null) {
+					urlParameters += "&hl.simple.pre="
+							+ URLEncoder.encode(String.valueOf(query.getHlSimplePre()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getHlSimplePost() != null) {
+					urlParameters += "&hl.simple.post="
+							+ URLEncoder.encode(String.valueOf(query.getHlSimplePost()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.getHlField() != null) {
+					urlParameters += "&hl.fl="
+							+ URLEncoder.encode(query.getHlField(),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.isHlRequireFieldMatch()) {
+					urlParameters += "&hl.requireFieldMatch="
+							+ URLEncoder.encode(String.valueOf(query.isHlRequireFieldMatch()),
+									QueryConstants.solrEncodeType);
+				}
+				if(query.isHlUsePhraseHighlighter()) {
+					urlParameters += "&hl.usePhraseHighlighter="
+							+ URLEncoder.encode(String.valueOf(query.isHlUsePhraseHighlighter()),
+									QueryConstants.solrEncodeType);
+				}
+			}
+			
 			urlParameters += "&wt="
 					+ URLEncoder.encode(QueryConstants.solrRequestFormat,
 							QueryConstants.solrEncodeType);

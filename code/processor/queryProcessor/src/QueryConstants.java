@@ -37,6 +37,9 @@ public class QueryConstants {
 	static int mltMaxDf = 0;
 	static int mltCount = 2;
 	
+	static String flSimplePre = "<strong>";
+	static String flSimplePost = "</strong>";
+	
 	static Map<String, String> fieldtagger;
 
 	static {
