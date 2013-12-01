@@ -138,8 +138,10 @@
    <field name="spouse" type="text_general" indexed="true" stored="true"/>
    <field name="deathcause" type="text_general" indexed="true" stored="true"/>
    <field name="yearsactive" type="text_general" indexed="true" stored="true"/>
-   <field name="website" type="text_general" indexed="true" stored="true"/>
-   <field name="residence" type="text_general" indexed="true" stored="true"/>
+   <field name="website" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <field name="residenceplace" type="text_general" indexed="true" stored="true"/>
+   <field name="liveplace" type="text_general" indexed="true" stored="true" />
+   <copyField source="residenceplace" dest="liveplace"/>
    <field name="knownfor" type="text_general" indexed="true" stored="true" multiValued="true"/>
    <field name="nationality" type="string" indexed="true" stored="true" multiValued="true"/>
    <field name="birthdate" type="date" indexed="true" stored="true"/>
@@ -160,6 +162,8 @@
    <field name="salary" type="text_general" indexed="true" stored="true"/>
    <field name="alias" type="text_general" indexed="true" stored="true"/>
    <field name="employer" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <field name="workplace" type="text_general" indexed="true" stored="true" multiValued="true"/>
+   <copyField source="employer" dest="workplace"/>
    <field name="season" type="text_general" indexed="true" stored="true"/>
    <field name="tribe" type="text_general" indexed="true" stored="true"/>
    <field name="television" type="text_general" indexed="true" stored="true"/>
@@ -170,7 +174,64 @@
    <field name="imdbe" type="text_general" indexed="true" stored="true"/>
    <field name="citizenship" type="text_general" indexed="true" stored="true"/>
    
-
+   <!-- Tags for film -->
+   <field  name="releaseddate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="director" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
+   <field  name="producer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="writer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="screenplay" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="story" type="text_general" indexed="true" stored="true" termVectors = "true"/>
+   <field  name="basedon" type="text_general" indexed="true" stored="true" omitNorms = "true"/>
+   <field  name="narrator"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="actor" type="text_general" indexed="true" stored="true" />
+   <field  name="music"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="cinematographer"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>                 
+   <field  name="editor"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>        
+   <field  name="studio"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>            
+   <field  name="distributor"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="runtime"  type="string" indexed="true" stored="true" omitNorms = "True"/>
+   <!-- common field for places -->
+   <field  name="country"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="language"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="budget"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="gross"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+  
+	
+   <!-- Tags for places-->
+   <field  name="settlementtype" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="nativename" type="text_general" indexed="true" stored="true" omitNorms="true" multiValued = "true" termVectors = "true"/>
+   <field  name="nickname" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
+   <field  name="officialname" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="leader" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="state"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>        
+   <field  name="county"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="latd"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="latm"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="lats"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="latns"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="longd"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="longm"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="longs"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="longew"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="coordinates" type="string" indexed="true" stored="true" omitNorms="true" />
+   <copyField source="latd" dest="coordinates"/>
+   <copyField source="latm" dest="coordinates"/>
+   <copyField source="lats" dest="coordinates"/>
+   <copyField source="latns" dest="coordinates"/>
+   <copyField source="longd" dest="coordinates"/>
+   <copyField source="longm" dest="coordinates"/>
+   <copyField source="longs" dest="coordinates"/>
+   <copyField source="longew" dest="coordinates"/>
+   <field  name="founder" type="text_general" indexed="true" stored="true" termVectors = "true"/>
+   <field  name="area" type="text_general" indexed="true" stored="true" omitNorms = "true"/>
+   <field  name="population"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="populationdensity" type="text_general" indexed="true" stored="true" />
+   <field  name="timezone"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="postalcode"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>                 
+   <field  name="establisheddate"  type="date" indexed="true" stored="true" omitNorms = "True"/>           
+   <field  name="motto"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   
+	
    <!-- Common metadata fields, named specifically to match up with
      SolrCell metadata when parsing rich documents such as Word, PDF.
      Some fields are multiValued only because Tika currently may return

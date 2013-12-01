@@ -49,7 +49,11 @@ public class QueryConstants {
 		fieldtagger.put("when", "date");
 		fieldtagger.put("born", "birth");
 		fieldtagger.put("child", "children");
-
+		fieldtagger.put("die", "death");
+		fieldtagger.put("work", "work");
+		fieldtagger.put("from", "birth");
+		fieldtagger.put("live", "live");
+		
 	}
 
 	static Map<String, String> facettagger;
