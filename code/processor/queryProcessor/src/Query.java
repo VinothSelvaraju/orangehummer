@@ -22,13 +22,67 @@ public class Query {
 	private int mltMaxTf;
 	private String mltField;
 	private int mltCount;
-
+	private boolean hl;
+	private String hlField;
+	private String hlSimplePre;
+	private String hlSimplePost;
+	private boolean hlRequireFieldMatch;
+	private boolean hlUsePhraseHighlighter;
+	
 	public Query() {
 		field = new ArrayList<String>();
 		start = new Integer(-1);
 		param = new HashMap<String, ArrayList<String>>();
 		filterQuery = new HashMap<String, String>();
 		mlt = false;
+	}
+	
+	public boolean isHl() {
+		return hl;
+	}
+
+	public void setHl(boolean hl) {
+		this.hl = hl;
+	}
+
+	public String getHlField() {
+		return hlField;
+	}
+
+	public void setHlField(String hlField) {
+		this.hlField = hlField;
+	}
+
+	public String getHlSimplePre() {
+		return hlSimplePre;
+	}
+
+	public void setHlSimplePre(String hlSimplePre) {
+		this.hlSimplePre = hlSimplePre;
+	}
+
+	public String getHlSimplePost() {
+		return hlSimplePost;
+	}
+
+	public void setHlSimplePost(String hlSimplePost) {
+		this.hlSimplePost = hlSimplePost;
+	}
+
+	public boolean isHlRequireFieldMatch() {
+		return hlRequireFieldMatch;
+	}
+
+	public void setHlRequireFieldMatch(boolean hlRequireFieldMatch) {
+		this.hlRequireFieldMatch = hlRequireFieldMatch;
+	}
+
+	public boolean isHlUsePhraseHighlighter() {
+		return hlUsePhraseHighlighter;
+	}
+
+	public void setHlUsePhraseHighlighter(boolean hlUsePhraseHighlighter) {
+		this.hlUsePhraseHighlighter = hlUsePhraseHighlighter;
 	}
 
 	public int getMltCount() {

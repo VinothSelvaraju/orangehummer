@@ -16,11 +16,15 @@ public class QueryMapper {
 
 			}
 			query = new Query();
-			queryStr = queryStrArr[3];
+			queryStr = QueryConstants.queryMainTag+":"+queryStrArr[3];
 			query.setQueryStr(queryStr);
 			query.addFilterQuery(QueryConstants.queryTypeTag, queryStrArr[0]);
 			query.addField(QueryConstants.queryMainTag);
 			query.addFieldCollection(fieldMapper(queryStrArr));
+			query.setHl(true);
+			query.setHlField(QueryConstants.queryMainTag);
+			query.setHlSimplePre(QueryConstants.flSimplePre);
+			query.setHlSimplePost(QueryConstants.flSimplePost);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
