@@ -1,0 +1,35 @@
+4 word question for Places. 
+The tag name of the wiki infobox is mentioned on top of the question list.
+
+For question relating to a city:
+ 
+county:
+What county Buffalo's belongs-to?
+
+country:
+What country Buffalo belongs-to?
+
+state:
+What state Buffalo belongs-to?
+
+coordinatesdisplay:
+What are Buffalo's coordinates?
+
+leadername:
+Who is Buffalo's mayor?
+
+populationtotal:
+What is Buffalo's population?
+
+populationdensity:
+What is Buffalo's population-density?
+
+postalcode:
+What is Buffalo's postal-code?
+
+website:
+What is Buffalo's website?
+
+timezone1:
+What is Buffalo's timezone?
+
