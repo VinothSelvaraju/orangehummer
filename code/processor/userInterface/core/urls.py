@@ -11,7 +11,8 @@ urlpatterns = patterns('',
     #url(r'^places$', PlacesView.as_view(), name='places'),
     #url(r'^movies$', MoviesView.as_view(), name='movies'),
     
-    url(r'^about$', TemplateView.as_view(template_name="static/about.html")),
+    url(r'^meet$', TemplateView.as_view(template_name="static/meet.html")),
+    url(r'^suggest/q=(.*)', 'ajax.views.suggest'),
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
