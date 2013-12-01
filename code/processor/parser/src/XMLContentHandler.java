@@ -138,6 +138,8 @@ public class XMLContentHandler extends DefaultHandler {
 		if (arg1 == "page") {
 			temp = 0;
 			xmlPage.setText(sb.toString());
+			//System.out.println("AFTER SAX PARSING: "+xmlPage.getText());
+			
 			String regex = "\\{\\{Infobox person(.*)\\}\\}";
 			Pattern p1 = Pattern.compile(regex, Pattern.DOTALL);
 			Matcher m1 = p1.matcher(xmlPage.getText());
@@ -145,7 +147,8 @@ public class XMLContentHandler extends DefaultHandler {
 			while (m1.find()) {
 				workgroup = m1.group();
 			}
-						
+			
+			//System.out.println("AFTER 1st infobox: "+workgroup);
 			// read char by char
 			char[] ch = workgroup.toCharArray();
 			int count = 0;
@@ -179,22 +182,52 @@ public class XMLContentHandler extends DefaultHandler {
 			}
 			afterExtract = workgroup1;
 			
+			System.out.println("AFTER PARSING: "+afterExtract);
+			
 			MarkupRemover mk = new MarkupRemover();
 			String formattedText = mk.markupRemover(afterExtract);
+			//System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
 			formattedText = mk.unwantedTextRemoval(formattedText);
+			//System.out.println("AFTER FORMATTING UNWANTED TEXT: "+formattedText);
+			formattedText = mk.parseBirthdate(formattedText);
+			//System.out.println("AFTER FORMATTING BIRTHDATE: "+formattedText);
+			formattedText = mk.parseDeathdate(formattedText);
+			//System.out.println("AFTER FORMATTING DEATHDATE: "+formattedText);
+			formattedText = mk.parseAwards(formattedText);
+			//System.out.println("BEFORE PARSING BRACKETS: "+formattedText);
+			
+			formattedText =mk.parsePartner(formattedText);
+			//System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
+			formattedText = mk.parseNationality(formattedText);
+			System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
+			formattedText = mk.parseBrackets(formattedText);
+			System.out.println("AFTER FORMATTING TEXT: "+formattedText);
+			
 			String[] entry = formattedText.split(" *\\| *");
+			
+			for(int k = 0; k<entry.length;k++){
+				System.out.println(entry[k]);
+			}
+			
+			
 			HashMap<String, String> entryMap = new HashMap<String, String>();
 			int itr = 0;
 			while (itr < entry.length) {
 				//bw.append(entry[itr]);
 				String[] splitKeyValue = entry[itr].split("=");
 				if (splitKeyValue.length == 2) {
-					// System.out.println(splitKeyValue[0].trim() +"====="+
-					// splitKeyValue[1].trim());
-					if (splitKeyValue[0].trim().length() != 0
-							&& splitKeyValue[1].trim().length() != 0) {
-						System.out.println(splitKeyValue[0]+"===="+splitKeyValue[1]);
-						entryMap.put(splitKeyValue[0].trim(),splitKeyValue[1].trim());
+					//System.out.println("PRINTING KEY VALUE BEFORE ADDING TO MAP: "+splitKeyValue[0].trim() +"====="+splitKeyValue[1].trim());
+					if (splitKeyValue[0].trim().length() != 0 && splitKeyValue[1].trim().length() != 0) {
+	
+						String cleanedValue = splitKeyValue[1].trim();
+						int size = cleanedValue.length();
+						if(cleanedValue.charAt(0) == ','){
+							cleanedValue = cleanedValue.substring(1);
+						}
+						else if(cleanedValue.charAt(size-1) == ','){
+							cleanedValue = cleanedValue.substring(0, size-2);
+						}
+						entryMap.put(splitKeyValue[0].trim(),cleanedValue);
 					}
 				}
 				//bw.append("\n");
