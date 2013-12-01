@@ -56,7 +56,7 @@ public class QueryConstants {
 
 	static {
 		facettagger = new HashMap<String, String>();
-		facettagger.put("person", "occupationFacet");
+		facettagger.put("person", "occupation");
 
 	}
 
