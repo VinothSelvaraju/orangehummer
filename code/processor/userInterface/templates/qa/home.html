@@ -1,74 +1,71 @@
 {% extends "base.html" %}
+{% load mytags %}
 {% block content %}
 
-
+{% block other_css %}
+<style>
+.form-group { width:100%!important;}
+button { width:100%!important;}
+.id_qtype { display: none;}
+.id_num_col { display: none;}
+.mybtn:hover { background-color: #8262B3; color:#FFFFFF;}
+.mybtn { background-color: #936FC9; color:#FFFFFF;}
+.twitter-typeahead { width:100%; }
+</style>
+{% endblock other_css %}
 
 <div class="row">
-  <div class="col-md-8 col-md-offset-2">
+  <div class="col-md-9 col-md-offset-1">
   	<div>
   		Please ask your question below! 
   	</div>
   	<br/>
 <ul id="myTab" class="nav nav-tabs">
-  <li class="active"><a href="#personTab" class="topic" id="personTabLink" data-toggle="tab">Person</a></li>
-  <li><a href="#placesTab" class="topic" id="placesTabLink" data-toggle="tab">Places</a></li>
-  <li><a href="#moviesTab" class="topic" id="moviesTabLink" data-toggle="tab">Movies</a></li>
+  <li class="active"><a class="topic" id="personTabLink" data-toggle="tab">Person</a></li>
+  <li><a class="topic" id="placesTabLink" data-toggle="tab">Places</a></li>
+  <li><a class="topic" id="moviesTabLink" data-toggle="tab">Movies</a></li>
 </ul>
-	
-<div id="myTabContent" class="tab-content">
-  <div class="tab-pane active" id="personTab">
+</div>
+</div>
 
+<div id="myTabContent" class="tab-content">
   	<form style="margin-top:30px" class="form-inline" role="form" action="" id="PersonForm" method="POST">{% csrf_token %}
-      <!--{{form.errors}}-->
+      <div class="row">
       {% for field in form %}
+        {% ifequal forloop.counter 2 %}
+        <div class="col-md-2 col-md-offset-1 {{field.id_for_label}}">
+        {% else %}
+            {% ifequal forloop.counter 4 %}
+                <div class="col-md-3 {{field.id_for_label}}">
+            {% else %}
+                <div class="col-md-2 {{field.id_for_label}}">
+            {% endifequal %}
+        {% endifequal %}
           {% if field.errors %}
               <div class="form-group has-error">
           {% else %}
               <div class="form-group">
           {% endif %}
-          <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
-          {{ field }}
-          {% if field.errors %}
-          {{field.errors|striptags}}
-          {% endif %}
-          </div>
+                   <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
+                   {{ field }}
+                   {% if field.errors %}
+                            {{field.errors|striptags}}
+                   {% endif %}
+              </div>
+        </div>
       {% endfor %}
-  	 <button type="submit" class="btn btn-default">Sign in</button>
-
-    </form>
-  </div>
-  <div class="tab-pane" id="placesTab">
-
-    <form style="margin-top:30px" class="form-inline" role="form" id="PlacesForm" action="" method="POST">{% csrf_token %}
-      {% for field in form %}
-      <div class="form-group">
-        <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
-        {{ field }}
       </div>
-      {% endfor %}
-      <button type="submit" class="btn btn-default">Sign in</button>
-
-    </form>
-  </div>
-  <div class="tab-pane" id="moviesTab">
-
-    <form style="margin-top:30px" class="form-inline" role="form" id="MoviesForm" action="" method="POST">{% csrf_token %}
-      {% for field in form %}
-      <div class="form-group">
-        <label for="{{ field.id_for_label }}" class="sr-only">{{ field.choice_label }}</label>
-        {{ field }}
+      <div class="row top-buffer">
+        <div class="col-md-2 col-md-offset-8">
+  	      <button type="submit" class="btn btn-default mybtn">Search</button>
+        </div>
       </div>
-      {% endfor %}
-      <button type="submit" class="btn btn-default">Sign in</button>
 
     </form>
-  </div>
-</div>
-</div>
 </div>
 {% endblock content %}
 
-{% block other_css %}
+{% block other_js %}
 <script type="text/javascript">
 $('.topic').click(function (e) {
   //e.preventDefault();
@@ -111,4 +108,4 @@ $('input#id_noun').typeahead({
 </script>
 
 
-{% endblock other_css %}
+{% endblock other_js %}
