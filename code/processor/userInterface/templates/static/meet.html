@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+     <style>
+
+      .img-circle{
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  float: center;
+
+  }
+  .row{
+    
+    background-color: #fff;
+    
+
+  }
+  .container{
+    max-width: 700px;
+   margin-top: 100px;
+    width: 100%;
+   
+  }
+  h3{
+    font-family: HelveticaNeue-UltraLight;
+    padding-lef:10px;
+  }
+  p.description-text{
+    
+    font-family: HelveticaNeue-UltraLight;
+  }
+
+  </style>
+
+    </head>
+
+    <body>
+
+      
+      
+      <div class="container">
+        
+        <div class="row">
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 col-md-offset-2">
+            <img class="img-circle img-responsive" src="{% static "images/alan.jpg" %}" onload="this.width/=2;">
+              <h3>Alagappan Ramu</h3>
+              <p class="description-text">Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+          </div>
+          <div class="col-md-4 col-md-offset-2">
+            <img class="img-circle img-responsive" src="{% static "images/angad.jpg" %}" onload="this.width/=2;">
+              <h3>Angad Gadre</h3>
+              <p class="description-text">Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+          </div>
+        </div>
+           <div class="row">
+             <div class="col-md-4 col-md-offset-2">
+            <img class="img-circle img-responsive " src="{% static "images/pals.jpg" %}" onload="this.width/=2;">
+              <h3>Palaniappan Meiyappan</h3>
+              <p class="description-text">Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+          </div>
+          <div class="col-md-4 col-md-offset-2">
+            <img class="img-circle img-responsive " src="{% static "images/vinoth.jpg" %}" onload="this.width/=2;">
+              <h3>Vinoth Selvaraju</h3>
+              <p class="description-text">Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+          </div>
+        </div>
+     </div>
+{% endblock content %}
+
