@@ -1375,10 +1375,12 @@
    <lst name="spellchecker">
       <str name="name">suggest</str>
       <str name="classname">org.apache.solr.spelling.suggest.Suggester</str>
-      <str name="lookupImpl">org.apache.solr.spelling.suggest.tst.TSTLookup</str>
-      <str name="field">name</str>  <!-- the indexed field to derive suggestions from -->
-      <float name="threshold">0.005</float>
+      <str name="lookupImpl">org.apache.solr.spelling.suggest.fst.FSTLookup</str>
+      <str name="field">name_phrase</str>  <!-- the indexed field to derive suggestions from -->
+      <!-- <float name="threshold">0.005</float> -->
       <str name="buildOnCommit">true</str>
+	  <!-- <bool name="exactMatchFirst">true</bool> -->
+	  <!-- <str name="queryAnalyzerFieldType">phrase_suggest</str> -->
 <!--
       <str name="sourceLocation">american-english</str>
 -->
@@ -1390,8 +1392,8 @@
       <str name="spellcheck">true</str>
       <str name="spellcheck.dictionary">suggest</str>
       <str name="spellcheck.onlyMorePopular">true</str>
-      <str name="spellcheck.count">5</str>
-      <str name="spellcheck.collate">true</str>
+      <str name="spellcheck.count">10</str>
+      <str name="spellcheck.collate">false</str>
    </lst>
    <arr name="last-components">
       <str>suggest</str>
