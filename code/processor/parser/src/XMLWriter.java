@@ -43,21 +43,20 @@ public class XMLWriter {
 			e.printStackTrace();
 		}
 		if(prop.containsKey(modInput)){
-			System.out.println("INPUT VALUE TO LOOKUP"+ modInput);
+			//System.out.println("INPUT VALUE TO LOOKUP"+ modInput);
 			str = prop.getProperty(modInput);
-			System.out.println("RETURN VALUE AFTER LOOKUP:"+ str);
+			//System.out.println("RETURN VALUE AFTER LOOKUP:"+ str);
 		}
 		else{
 			str = input;
-			System.out.println("FALSE");
+			//System.out.println("FALSE");
 		}
 		return str;
 	}
 	public void xmlWriter(MyXMLPage page) {
 		if (!page.infobox.isEmpty()) {
 			try {
-				DocumentBuilderFactory docFactory = DocumentBuilderFactory
-						.newInstance();
+				DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
 				DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
 				File xmlFile = new File(props.getProperty("output_file"));
 				Document doc = null;
@@ -99,7 +98,8 @@ public class XMLWriter {
 					Element field2 = doc.createElement("field");
 					field2.appendChild(doc.createTextNode("person"));
 					field2.setAttribute("name", "type");
-					document.appendChild(field2);				
+					document.appendChild(field2);
+					
 					System.out.println("-----------------Page start---------------------");
 					Iterator<Entry<String, String>> itr2 = page.infobox.entrySet().iterator();
 					while (itr2.hasNext()) {
@@ -109,11 +109,12 @@ public class XMLWriter {
 							if(input.contains(",")){
 								String [] str= input.split(",");
 								for(int i = 0;i<str.length;i++){
+									String newKey = pairs.getKey().toString().trim().replaceAll("_", "");
 									Element field = doc.createElement("field");
 									field.appendChild(doc.createTextNode(str[i].trim()));
-									field.setAttribute("name", pairs.getKey().toString().trim().replaceAll("_", ""));
+									field.setAttribute("name", newKey);
 									document.appendChild(field);
-									System.out.println(pairs.getKey().toString().trim().replaceAll("_", "")+"===="+str[i].trim());
+									System.out.println(newKey+"===="+str[i].trim());
 								}
 							}
 							else{
@@ -123,7 +124,7 @@ public class XMLWriter {
 								field.appendChild(doc.createTextNode(pairs.getValue().toString()));
 								field.setAttribute("name",newKey);
 								document.appendChild(field);
-								System.out.println(pairs.getKey().toString().replaceAll("_", "")+"===="+pairs.getValue().toString());
+								System.out.println(newKey+"===="+pairs.getValue().toString());
 							}
 						}
 						else{
@@ -132,7 +133,7 @@ public class XMLWriter {
 							newKey = newKey.trim().replaceAll(" *", "");
 							String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorificsuffix",	"honorificprefix",	"hometown",	"signature",	"wrestlingweight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eyecolor",	"haircolor",	"naturalbust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminalstatus",	"criminalpenalty",	"criminalcharge",	"publisher",	"imagesize",	"dead",	"age",	"alive","type", "ft", "in", "nativenamelang", "died"};
 							String tagName = newKey.toLowerCase();
-							System.out.println("TAG NAME: "+tagName);
+							//System.out.println("TAG NAME: "+tagName);
 							for(int k = 0; k<matchTypes.length;k++){
 								if(matchTypes[k].equals(tagName)){
 									flag = true;
@@ -161,7 +162,7 @@ public class XMLWriter {
 					StreamResult result = new StreamResult(new File(props.getProperty("output_file")));
 					
 					// Output to console for testing
-					StreamResult result1 = new StreamResult(System.out);
+					//StreamResult result1 = new StreamResult(System.out);
 					transformer.transform(source, result);
 					System.out.println("File saved!");
 				}

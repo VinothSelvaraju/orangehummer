@@ -23,8 +23,7 @@ public class MarkupRemover {
 			return dateStr;
 		} else {
 			SimpleDateFormat out = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
-			String[] dateFormats = {"yyyy-MMM-dd", "yyyy-MM-dd", "yyyy hh:mm:ss Z","dd MMM yyyy","MMMM dd, yyyy","MMMM yyyy", "MMM dd",  "yyyy"
-					 };
+			String[] dateFormats = {"yyyy-MMM-dd", "yyyy-MM-dd", "yyyy hh:mm:ss Z","dd MMM yyyy","MMMM dd, yyyy","MMMM yyyy", "MMM dd",  "yyyy"};
 			for (String dateFormat : dateFormats) {
 				try {
 					//System.out.println("naen :: "+dateFormat);
@@ -101,7 +100,7 @@ public class MarkupRemover {
 				date = year + "-" + month + "-" + day;
 			else
 				date = day;
-			System.out.println("date "+date);
+			//System.out.println("date "+date);
 			date = toUtcDate(date);
 			modifiedText = modifiedText.replaceAll("\\{\\{B(.*?)\\}\\}", date);
 			modifiedText = modifiedText.replaceAll("\\{\\{b(.*?)\\}\\}", date);	
@@ -110,7 +109,7 @@ public class MarkupRemover {
 		Matcher m3 = p3.matcher(modifiedText);
 		String workgroup2 = "";
 		while (m3.find()) {
-			workgroup2 = m3.group(1);
+			workgroup2 = m3.group(1).trim();
 			Pattern p5 = Pattern.compile("(\\(.*\\))", Pattern.CASE_INSENSITIVE);
 			Matcher m5 = p5.matcher(workgroup2);
 			String workgroup3 = "";
@@ -135,13 +134,14 @@ public class MarkupRemover {
 	}
 	
 	public String parseDeathdate(String modifiedText){
-		String regex1 = "\\{\\{D(.*?)\\}\\}";
+		String regex1 = "\\{\\{Death(.*?)\\}\\}";
 		Pattern p2 = Pattern.compile(regex1, Pattern.CASE_INSENSITIVE);
 		Matcher m2 = p2.matcher(modifiedText);
 		String workgroup1 = "";
 		while (m2.find()) {
 			workgroup1 = m2.group(1);
 			System.out.println(workgroup1);
+			//split the death date value around |
 			String s[] = workgroup1.split("\\|");
 			int k = 0;
 			int j = 0;
@@ -173,16 +173,19 @@ public class MarkupRemover {
 				date = year + "-" + month + "-" + day;
 			else
 				date = day;
-			System.out.println("date "+date);
+			//System.out.println("date "+date);
 			date = toUtcDate(date);
+			//replace the death date value with the computed death date value
 			modifiedText = modifiedText.replaceAll("\\{\\{D(.*?)\\}\\}", date);
-			modifiedText = modifiedText.replaceAll("\\{\\{d(.*?)\\}\\}", date);	
+			modifiedText = modifiedText.replaceAll("\\{\\{d(.*?)\\}\\}", date);
+			
 		}
+		//System.out.println("WITHIN DEATH DATE: "+modifiedText);
 		Pattern p3 = Pattern.compile("\\| *death_date *=(.*?)\\|", Pattern.CASE_INSENSITIVE);
 		Matcher m3 = p3.matcher(modifiedText);
 		String workgroup2 = "";
 		while (m3.find()) {
-			workgroup2 = m3.group(1);
+			workgroup2 = m3.group(1).trim();
 			Pattern p5 = Pattern.compile("(\\(.*\\))", Pattern.CASE_INSENSITIVE);
 			Matcher m5 = p5.matcher(workgroup2);
 			String workgroup3 = "";
@@ -206,6 +209,26 @@ public class MarkupRemover {
 		return modifiedText;
 	}
 	
+	
+	public String parseAwards (String modifiedText){
+		
+		System.out.println("ORIGINAL TEXT BEFORE AWARDS PARSING: "+modifiedText);
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{awd *\\|(.*?)\\|(.*?)\\}\\}\\|*", "$1");
+		System.out.println("PARSED TEXT AFTER AWARDS PARSING: "+ modifiedText);
+		/*String modifiedText = "";
+		Pattern p6 = Pattern.compile("\\{\\{Aw(.*?)\\}\\}", Pattern.CASE_INSENSITIVE);
+		Matcher m6 = p6.matcher(text);
+		while (m6.find()) {
+			modifiedText = m6.group();
+			String[] s = modifiedText.split(" *\\| *");
+			if(s.length>1){
+				String awardName = s[1];
+			}
+			
+		}*/
+		return modifiedText;
+	}
+	
 	public String unwantedTextRemoval(String text) {
 		String modifiedText = "";
 		
@@ -219,46 +242,66 @@ public class MarkupRemover {
 		modifiedText = modifiedText.replaceAll("<br/ >",",");
 		modifiedText = modifiedText.replaceAll("<br>",",");
 		modifiedText = modifiedText.replaceAll("</ref>","");
-		
-		// parsing awards
-		//modifiedText = modifiedText.replaceAll("\\{\\{awd\\|(.*?)\\|\\}\\}","XXXXXXXXXXXXX");
 
 		// parsing URL
 		modifiedText = modifiedText.replaceAll("\\{\\{URL\\|(.*?)\\}\\}", "$1");
 		modifiedText = modifiedText.replaceAll("\\{\\{url\\|(.*?)\\}\\}", "$1");
 
+		//System.out.println("WITHIN UNWANTED REM: "+modifiedText);
+		
 		// parsing marriage
 		System.out.println("ORIGINAL TEXT: "+modifiedText);
-		modifiedText = modifiedText.replaceAll("(?i)\\|*\\{\\{Marriage\\|(.*?)\\|(.*?)\\}\\}\\|*", "   $1");
-		//System.out.println("AFTER Marriage parsing: "+ modifiedText);
+		//modifiedText = modifiedText.replaceAll("(?i)\\|*\\{\\{Marriage\\|(.*?)\\|(.*?)\\}\\}\\|*", "   $1");
+		//modifiedText = modifiedText.replaceAll("(?i)\\|*\\{\\{Marriage\\|(show=)?(.*?)\\|?(.*?)\\}\\}\\|*", "'"+"$3"+"'");
+		
+		//Marriage {{}} 
+		Pattern p6 = Pattern.compile("(?i)\\|*\\{\\{Marriage\\|(show=)?(.*?)\\|?(.*?)\\}\\}\\|*", Pattern.CASE_INSENSITIVE);
+		Matcher m6 = p6.matcher(modifiedText);
+		String matcherText = "";
+		String fullMatchText = "";
+		while (m6.find()) {
+			matcherText = m6.group(3);
+			fullMatchText = m6.group(0);
+			//System.out.println("MATCHER TEXT: "+ matcherText);
+			//System.out.println("FULL MATCHER TEXT"+ fullMatchText);
+			matcherText = matcherText.replaceAll("//|(.*?)//|", "");
+			if(matcherText.contains("|")){
+				System.out.println("CONTAINS | FLAG: TRUE");
+				String s[] = matcherText.split(" *\\| *");
+				s[0]=s[0].trim();
+				s[0] = s[0].replaceAll(" *, *", " ");
+				System.out.println("S[0]: "+s[0]);
+				modifiedText = modifiedText.replace(fullMatchText, s[0]+",");
+				System.out.println("MATCHER TEXT AFTER REPLACING | (WITHIN IF): "+ modifiedText);
+			}
+			else{
+			matcherText = matcherText.trim();
+			matcherText = matcherText.replaceAll(" *, *", " ");
+			System.out.println("MATCHER TEXT AFTER REPLACING |(WITHIN ELSE): "+ matcherText);
+			modifiedText = modifiedText.replace(fullMatchText,matcherText+",");
+			}
+		}		
+	
+		System.out.println("AFTER Marriage parsing: "+ modifiedText);
+		
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{nowrap\\|*(.*?)\\}\\}","$1");
 		//System.out.println("AFTER nowrap parsing: "+modifiedText);
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{ubl\\|*(.*?)\\}\\}","$1");
 		//System.out.println("AFTER ubl parsing: "+modifiedText);
-		modifiedText = modifiedText.replaceAll("(?i)\\{\\{Plainlist\\|(.*?)\\}\\}","$1");
-	
-		// System.out.println(rem1);
-		/*
-		 * parsing awards!!! Pattern p3 =
-		 * Pattern.compile("\\{\\{awd\\|(.*?)\\}\\}", Pattern.CASE_INSENSITIVE);
-		 * Matcher m3 = p3.matcher(rem1); String newString1 = "";
-		 * ArrayList<HashMap> coll = new ArrayList<HashMap>(); while(m3.find()){
-		 * newString1 = m3.group(1); System.out.println("AWARDS: "+newString1);
-		 * String [] mapEntryArray = newString1.split(" *\\| *"); int k = 0;
-		 * while(k<mapEntryArray.length){ HashMap<String,String> awardMap = new
-		 * HashMap<String,String>(); String [] subEntryArray =
-		 * mapEntryArray[k].split(" *= *");
-		 * awardMap.put(subEntryArray[0].trim(), subEntryArray[1].trim());
-		 * System.out.println(subEntryArray[0].trim()+"===="+
-		 * subEntryArray[1].trim()); coll.add(awardMap); k++; } }
-		 */
-
-		//parsing Birth date
-		modifiedText = parseBirthdate(modifiedText);
-		
-		//parsing Death date
-		modifiedText = parseDeathdate(modifiedText);
-		
+		modifiedText = modifiedText.replaceAll("(?i)spouse *= *\\{\\{Plainlist\\|(.*?)\\}\\}","spouse = "+"$1");
+		//System.out.println("AFTER PLAINLIST: "+modifiedText);
 		return modifiedText;
+	}
+	public String parseBrackets(String formattedText) {
+		formattedText = formattedText.replaceAll("\\{\\{(.*?)\\}\\}","");
+		return formattedText;
+	}
+	public String parsePartner(String formattedText) {
+		formattedText = formattedText.replaceAll("(?i)partner *= *\\{\\{Plainlist\\|(.*)\\}\\}","partner = "+"$1");
+		return formattedText;
+	}
+	public String parseNationality(String formattedText) {
+		formattedText = formattedText.replaceAll("(?i)nationality *= *\\{\\{(.*)\\}\\}","nationality = "+"$1");
+		return formattedText;
 	}
 }
