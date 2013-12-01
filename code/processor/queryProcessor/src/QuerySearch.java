@@ -191,12 +191,12 @@ public class QuerySearch {
 								QueryConstants.solrEncodeType);
 				if(query.getHlSimplePre() != null) {
 					urlParameters += "&hl.simple.pre="
-							+ URLEncoder.encode(String.valueOf(query.getHlSimplePre()),
+							+ URLEncoder.encode(query.getHlSimplePre(),
 									QueryConstants.solrEncodeType);
 				}
 				if(query.getHlSimplePost() != null) {
 					urlParameters += "&hl.simple.post="
-							+ URLEncoder.encode(String.valueOf(query.getHlSimplePost()),
+							+ URLEncoder.encode(query.getHlSimplePost(),
 									QueryConstants.solrEncodeType);
 				}
 				if(query.getHlField() != null) {
@@ -212,6 +212,18 @@ public class QuerySearch {
 				if(query.isHlUsePhraseHighlighter()) {
 					urlParameters += "&hl.usePhraseHighlighter="
 							+ URLEncoder.encode(String.valueOf(query.isHlUsePhraseHighlighter()),
+									QueryConstants.solrEncodeType);
+				}
+			}
+			
+			//for spell check
+			if(query.isSpellCheck()) {
+				urlParameters += "&spellcheck="
+						+ URLEncoder.encode(String.valueOf(query.isSpellCheck()),
+								QueryConstants.solrEncodeType);
+				if(query.isSpellCheckBuild()) {
+					urlParameters += "&spellcheck.build="
+							+ URLEncoder.encode(String.valueOf(query.isSpellCheckBuild()),
 									QueryConstants.solrEncodeType);
 				}
 			}

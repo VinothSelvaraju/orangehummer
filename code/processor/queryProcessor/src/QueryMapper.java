@@ -16,7 +16,7 @@ public class QueryMapper {
 
 			}
 			query = new Query();
-			queryStr = QueryConstants.queryMainTag+":"+queryStrArr[3];
+			queryStr = QueryConstants.queryMainTag+":\""+queryStrArr[3]+"\"";
 			query.setQueryStr(queryStr);
 			query.addFilterQuery(QueryConstants.queryTypeTag, queryStrArr[0]);
 			query.addField(QueryConstants.queryKeyTag);
@@ -26,6 +26,8 @@ public class QueryMapper {
 			query.setHlField(QueryConstants.queryMainTag);
 			query.setHlSimplePre(QueryConstants.flSimplePre);
 			query.setHlSimplePost(QueryConstants.flSimplePost);
+			query.setSpellCheck(true);
+			query.setSpellCheckBuild(true);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

@@ -28,6 +28,8 @@ public class Query {
 	private String hlSimplePost;
 	private boolean hlRequireFieldMatch;
 	private boolean hlUsePhraseHighlighter;
+	private boolean spellCheck;
+	private boolean spellCheckBuild;
 	
 	public Query() {
 		field = new ArrayList<String>();
@@ -35,6 +37,24 @@ public class Query {
 		param = new HashMap<String, ArrayList<String>>();
 		filterQuery = new HashMap<String, String>();
 		mlt = false;
+		hl = false;
+		spellCheck = false;
+	}
+	
+	public boolean isSpellCheck() {
+		return spellCheck;
+	}
+
+	public void setSpellCheck(boolean spellCheck) {
+		this.spellCheck = spellCheck;
+	}
+
+	public boolean isSpellCheckBuild() {
+		return spellCheckBuild;
+	}
+
+	public void setSpellCheckBuild(boolean spellCheckBuild) {
+		this.spellCheckBuild = spellCheckBuild;
 	}
 	
 	public boolean isHl() {
