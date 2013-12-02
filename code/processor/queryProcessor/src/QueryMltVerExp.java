@@ -19,6 +19,7 @@ public class QueryMltVerExp {
 				queryStr = mltStr[3].toLowerCase();
 				query.setQueryStr(queryStr);
 				query.addField(QueryConstants.queryMainTag);
+				query.addField(QueryConstants.queryKeyTag);
 				//query.addField(fieldSimilarity);
 				query.setMlt(true);
 				query.setMltMinTf(QueryConstants.mltMinTf);

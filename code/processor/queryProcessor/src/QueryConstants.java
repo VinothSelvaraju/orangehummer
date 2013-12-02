@@ -36,7 +36,7 @@ public class QueryConstants {
 	static int mltMinDf = 1;
 	static int mltMaxTf = 0;
 	static int mltMaxDf = 0;
-	static int mltCount = 2;
+	static int mltCount = 5;
 	
 	static String flSimplePre = "<strong>";
 	static String flSimplePost = "</strong>";
