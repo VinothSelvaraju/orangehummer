@@ -194,21 +194,23 @@ public class XMLContentHandler extends DefaultHandler {
 			
 			MarkupRemover mk = new MarkupRemover();
 			//removing the {{Collapsible list...}}
-			afterExtract = mk.parseCollapsibleList(afterExtract);
-			System.out.println("AFTER REMOVING COLLAPSIBLE"+ afterExtract);
 			
 			String formattedText = mk.markupRemover(afterExtract);
-			System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
+			//System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
 			
 			formattedText = mk.unwantedTextRemoval(formattedText);
 			//System.out.println("AFTER FORMATTING UNWANTED TEXT: "+formattedText);
 			
-			formattedText = mk.parseSettlementDate(formattedText);
+			//formattedText = mk.parseSettlementDate(formattedText);
 			
-			formattedText = mk.parseBirthdate(formattedText);
+			formattedText = mk.parseCollapsibleList(formattedText);
+			//System.out.println("AFTER REMOVING COLLAPSIBLE"+ formattedText);
+			
+			
+			//formattedText = mk.parseBirthdate(formattedText);
 			//System.out.println("AFTER FORMATTING BIRTHDATE: "+formattedText);
 			
-			formattedText = mk.parseDeathdate(formattedText);
+			//formattedText = mk.parseDeathdate(formattedText);
 			//System.out.println("AFTER FORMATTING DEATHDATE: "+formattedText);
 			
 			formattedText = mk.parseAwards(formattedText);
@@ -221,7 +223,7 @@ public class XMLContentHandler extends DefaultHandler {
 			//System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
 			
 			formattedText = mk.parseBrackets(formattedText);
-			System.out.println("AFTER FORMATTING TEXT: "+formattedText);
+			//System.out.println("AFTER FORMATTING TEXT: "+formattedText);
 			
 			String[] entry = formattedText.split(" *\\| *");
 			
@@ -240,12 +242,11 @@ public class XMLContentHandler extends DefaultHandler {
 						String cleanedKey = splitKeyValue[0].trim();
 						String cleanedValue = splitKeyValue[1].trim();
 						cleanedValue = cleanedValue.replaceAll("\\[|\\]", "");
-						//if (!cleanedValue.isEmpty()) {
-							
-							if (cleanedKey.contentEquals("name")) {
+						if (!cleanedValue.isEmpty()) {			
+							if (cleanedKey.toLowerCase().contentEquals("name")) {
 								infoboxCount++;
 							}
-							if(cleanedKey.contentEquals("lats") || cleanedKey.contentEquals("latm") || cleanedKey.contentEquals("latd") || cleanedKey.contentEquals("longs")||cleanedKey.contentEquals("longm")||cleanedKey.contentEquals("longd")){
+							if(cleanedKey.toLowerCase().contentEquals("lats") || cleanedKey.toLowerCase().contentEquals("latm") || cleanedKey.toLowerCase().contentEquals("latd") || cleanedKey.toLowerCase().contentEquals("longs")||cleanedKey.toLowerCase().contentEquals("longm")||cleanedKey.toLowerCase().contentEquals("longd")){
 								String newCleanedValue = cleanedKey.concat("=").concat(cleanedValue).concat(",");
 								entryMap.put(cleanedKey, newCleanedValue);
 							}
@@ -257,10 +258,12 @@ public class XMLContentHandler extends DefaultHandler {
 									cleanedValue = cleanedValue.substring(0,
 											size - 2);
 								}
+								if(cleanedKey.toLowerCase().contains("established_date")){
+									cleanedValue=mk.parseSettlementDate(cleanedValue);
+								}
 								entryMap.put(cleanedKey, cleanedValue);
-							}
-							
-						//}
+							}	
+						}
 					}
 				}
 				itr++;

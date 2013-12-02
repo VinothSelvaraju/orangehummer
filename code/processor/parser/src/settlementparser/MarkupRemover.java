@@ -335,7 +335,8 @@ public class MarkupRemover {
 		return formattedText;
 	}
 	public String parseSettlementDate(String formattedText) {
-		Pattern p3 = Pattern.compile("\\| *established_date(.*?)=(.*?)\\|", Pattern.CASE_INSENSITIVE);
+		/*System.out.println("ORIGINAL TEXT BEFORE PARSING DATE: "+formattedText);
+		Pattern p3 = Pattern.compile("(?i)established_date(.*?) *=(.*?) *\\|", Pattern.DOTALL);
 		Matcher m3 = p3.matcher(formattedText);
 		String fullMatch = "";
 		String workgroup2 = "";
@@ -344,8 +345,11 @@ public class MarkupRemover {
 			fullMatch = m3.group(0);
 			String date = toUtcDate(workgroup2);
 			System.out.println("workgroup2: "+workgroup2);
-			formattedText = formattedText.replace(fullMatch, "| established_date"+m3.group(1).trim()+ " ="+date+"|");
-		}
+			System.out.println("FULL MATCH: "+ fullMatch);
+			formattedText = formattedText.replace(fullMatch, "established_date"+ m3.group(1)+" ="+date+"|");
+			System.out.println("FORMATTED TEXT INSIDE MATCH LOOP: "+ formattedText);
+		}*/
+		formattedText = toUtcDate(formattedText);
 		return formattedText;
 	}
 }
