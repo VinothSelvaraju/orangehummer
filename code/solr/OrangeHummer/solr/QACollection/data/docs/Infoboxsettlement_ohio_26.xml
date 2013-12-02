@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<add>
+<doc>
+<field name="id">129104</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="imagemap1">MiddleburgHeights-CuyahogaCoOH.png</field>
+<field name="establisheddate1">1950-01-01T00:00:00Z</field>
+<field name="arealandkm2">20.90</field>
+<field name="elevationft">850</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=48,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=32,</field>
+<field name="leadername">Gary W. Starr</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="officialname">City of Middleburg Heights</field>
+<field name="areatotalsqmi">8.08</field>
+<field name="populationdensitysqmi">1976.0</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Seal of Middleburg Heights.png</field>
+<field name="lats">lats=0,</field>
+<field name="mapcaption">Location of Middleburg Heights in Ohio</field>
+<field name="imagemap">OHMap-doton-Middleburg Heights.png</field>
+<field name="populationest">15806</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">762.9</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">15946</field>
+<field name="latd">latd=41,</field>
+<field name="postalcode">44130</field>
+<field name="elevationm">259</field>
+<field name="latm">latm=22,</field>
+<field name="arealandsqmi">8.07</field>
+<field name="establisheddate">1928-01-01T00:00:00Z</field>
+<field name="mapsize1">250px</field>
+<field name="areacode">440   216</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1048974</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="mapcaption1">Location of Middleburg Heights in Cuyahoga County</field>
+<field name="blankinfo">39-49644</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Village</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Middleburg Heights</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="website">http://www.middleburgheights.com</field>
+<field name="areawatersqmi">0.01</field>
+<field name="establishedtitle1">City</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.03</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">20.93</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Cuyahoga</field>
+<field name="governmenttype">Mayor &amp; Council</field>
+</doc>
+<doc>
+<field name="id">129082</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="imagemap1">ClevelandHeights-CuyahogaCoOH.png</field>
+<field name="arealandkm2">21.00</field>
+<field name="elevationft">935</field>
+<field name="longd">longd=81,</field>
+<field name="longm">longm=33,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=48,</field>
+<field name="leadername1">vacant</field>
+<field name="leadername">Edward J. Kelley</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">8.13</field>
+<field name="populationdensitysqmi">5686.9</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=35,</field>
+<field name="mapcaption">Location of Cleveland Heights in Ohio</field>
+<field name="caption">Coventry Village  in Cleveland Heights.</field>
+<field name="imagemap">OHMap-doton-Cleveland Heights.png</field>
+<field name="populationest">45475</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">2195.7</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">46121</field>
+<field name="latd">latd=41,</field>
+<field name="elevationm">285</field>
+<field name="latm">latm=30,</field>
+<field name="arealandsqmi">8.11</field>
+<field name="mapsize1">250px</field>
+<field name="areacode">216</field>
+<field name="leadertitle1">City manager</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1048605</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="mapcaption1">Location of Cleveland Heights in Cuyahoga County</field>
+<field name="blankinfo">39-16014</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Cleveland Heights, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Coventry Village September.jpg</field>
+<field name="latns">N</field>
+<field name="website">clevelandheights.com</field>
+<field name="areawatersqmi">0.02</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.05</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">21.06</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Cuyahoga</field>
+<field name="governmenttype">Council–manager</field>
+</doc>
+<doc>
+<field name="id">129501</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">26.55</field>
+<field name="elevationft">659</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="longm">longm=24,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=35,</field>
+<field name="leadername">David E. Anderson</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">10.34</field>
+<field name="populationdensitysqmi">2172.5</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=45,</field>
+<field name="caption">View of Willoughby City Hall</field>
+<field name="populationest">22353</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">838.8</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">22268</field>
+<field name="postalcode">44094-44097</field>
+<field name="motto">"The Courtesy City"</field>
+<field name="elevationm">201</field>
+<field name="latm">latm=38,</field>
+<field name="arealandsqmi">10.25</field>
+<field name="areacode">440</field>
+<field name="pushpinlabelposition">bottom</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1061788</field>
+<field name="pushpinlabel">Willoughby</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-85484</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Willoughby, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="imageskyline">Willoughby ohio city hall s.jpg</field>
+<field name="pushpinmap">Ohio</field>
+<field name="website">www.willoughbyohio.com</field>
+<field name="areawatersqmi">0.09</field>
+<field name="areawaterkm2">0.23</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location of Willoughby, Ohio</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">26.78</field>
+<field name="pushpinmapsize">250</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Lake</field>
+</doc>
+<doc>
+<field name="id">129552</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">12.74</field>
+<field name="elevationft">814</field>
+<field name="longd">longd=82,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=13,</field>
+<field name="longs">longs=0,</field>
+<field name="leadername">Eric Norenberg</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">4.96</field>
+<field name="officialname">City of Oberlin</field>
+<field name="populationdensitysqmi">1684.1</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=18,</field>
+<field name="mapcaption">Location of Oberlin, Ohio</field>
+<field name="imagemap">OHMap-doton-Oberlin.png</field>
+<field name="populationest">8300</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">650.2</field>
+<field name="popestasof">2012</field>
+<field name="populationtotal">8286</field>
+<field name="latd">latd=41,</field>
+<field name="postalcode">44074</field>
+<field name="motto">"Live. Learn. Lead."</field>
+<field name="elevationm">248</field>
+<field name="latm">latm=17,</field>
+<field name="arealandsqmi">4.92</field>
+<field name="areacode">440</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1049034</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-57834</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Oberlin</field>
+<field name="coordinatesdisplay">inline, title</field>
+<field name="imageskyline">Oberlin_Ohio.JPG</field>
+<field name="latns">N</field>
+<field name="website">http://www.cityofoberlin.com/</field>
+<field name="areawatersqmi">0.04</field>
+<field name="areawaterkm2">0.10</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">12.85</field>
+<field name="leadertitle">City manager</field>
+<field name="subdivisionname2">Lorain</field>
+<field name="governmenttype">Council-manager</field>
+</doc>
+<doc>
+<field name="id">129078</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="imagemap1">BrookPark-CuyahogaCoOH.png</field>
+<field name="establisheddate1">1960-01-01T00:00:00Z</field>
+<field name="arealandkm2">19.50</field>
+<field name="elevationft">797</field>
+<field name="longd">longd=081,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=49,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=06,</field>
+<field name="leadername">Thomas J. Coyne Jr.</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of Brook Park</field>
+<field name="areatotalsqmi">7.53</field>
+<field name="populationdensitysqmi">2551.4</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Seal_brook_park_oh.jpg</field>
+<field name="lats">lats=58,</field>
+<field name="mapcaption">Location of Brook Park in Ohio</field>
+<field name="imagemap">OHMap-doton-Brook_Park.png</field>
+<field name="populationest">19003</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">985.1</field>
+<field name="popestasof">2012</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">19212</field>
+<field name="postalcode">44142</field>
+<field name="elevationm">243</field>
+<field name="latm">latm=23,</field>
+<field name="arealandsqmi">7.53</field>
+<field name="establisheddate">1914-01-01T00:00:00Z</field>
+<field name="mapsize1">250px</field>
+<field name="areacode">216</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="mapcaption1">Location of Brook Park in Cuyahoga County</field>
+<field name="blankinfo">39-09288</field>
+<field name="timezonedst">EST</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Village</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="website">cityofbrookpark.com</field>
+<field name="areawatersqmi">0</field>
+<field name="establishedtitle1">City</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0</field>
+<field name="utcoffset">-5</field>
+<field name="name">Brook Park</field>
+<field name="unitpref">US</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">19.50</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Cuyahoga</field>
+<field name="governmenttype">Mayor &amp; Council</field>
+</doc>
+<doc>
+<field name="id">150882</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1961-07-25T00:00:00Z</field>
+<field name="elevationft">597</field>
+<field name="arealandkm2">12.77</field>
+<field name="establisheddate2">1975-06-19T00:00:00Z</field>
+<field name="longd">longd=84,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="longm">longm=16,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=14,</field>
+<field name="leadername">Rob Weisgerber</field>
+<field name="leaderparty">R</field>
+<field name="namedfor">James Loveland</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="blank2info">US XHT</field>
+<field name="officialname">City of Loveland, Ohio</field>
+<field name="founder">Col. Thomas Paxton</field>
+<field name="areatotalsqmi">5.00</field>
+<field name="populationdensitysqmi">2450.5</field>
+<field name="imageblankemblem">Logo of Loveland, Ohio.svg</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=8,</field>
+<field name="areamagnitude">1 E8</field>
+<field name="nickname">Sweetheart of Ohi</field>
+<field name="mapcaption">Location in  Hamilton ,  Clermont , and  Warren  Counties in Ohio</field>
+<field name="caption">Historic Downtown Loveland</field>
+<field name="imagemap">OHMap-doton-Loveland.png</field>
+<field name="populationest">12198</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">946.1</field>
+<field name="popestasof">2012</field>
+<field name="latd">latd=39,</field>
+<field name="populationtotal">12081</field>
+<field name="postalcode">45140, 45249 Based on United States Census data.</field>
+<field name="elevationm">182</field>
+<field name="imageflag">Flag of Loveland, Ohio.png</field>
+<field name="latm">latm=16,</field>
+<field name="arealandsqmi">4.93</field>
+<field name="establisheddate">1795-01-01T00:00:00Z</field>
+<field name="areacode">513</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City manager</field>
+<field name="blank1info">1085672</field>
+<field name="subdivisiontype2">Counties</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankemblemsize">100px</field>
+<field name="blankinfo">39-45108</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="establishedtitle">Settled</field>
+<field name="name">Loveland, Ohio</field>
+<field name="coordinatesdisplay">1</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">1.40</field>
+<field name="latns">N</field>
+<field name="imageskyline">Five Points intersection, Loveland, Ohio.jpg</field>
+<field name="website">City of Loveland</field>
+<field name="establishedtitle3">Charter ed (city)</field>
+<field name="areawatersqmi">0.07</field>
+<field name="establishedtitle2">Incorporated  ( village )</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.18</field>
+<field name="blank2name">LOCODE</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">12.95</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Hamilton ,  Clermont ,  Warren</field>
+<field name="governmenttype">Council-manager</field>
+</doc>
+<doc>
+<field name="id">128901</field>
+<field name="type">person</field>
+<field name="blank1name">Federal Information Processing Standard</field>
+<field name="establisheddate1">1816-01-01T00:00:00Z</field>
+<field name="arealandkm2">10.72</field>
+<field name="elevationft">673</field>
+<field name="establisheddate2">1866-01-01T00:00:00Z</field>
+<field name="longd">longd=80,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">Eastern Time Zone (North America)</field>
+<field name="longm">longm=56,</field>
+<field name="longs">longs=53,</field>
+<field name="leadername">James Pearson</field>
+<field name="namedfor">Geneva, New York</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="blank2info">1040812</field>
+<field name="officialname">City of Geneva</field>
+<field name="areatotalsqmi">4.14</field>
+<field name="populationdensitysqmi">1501.2</field>
+<field name="blankname">Demonym</field>
+<field name="imageseal">Geneva, Ohio city seal.png</field>
+<field name="lats">lats=18,</field>
+<field name="mapcaption">Location of Geneva within Ashtabula County, Ohio</field>
+<field name="imagemap">OHMap-doton-Geneva.png</field>
+<field name="populationest">6147</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">579.6</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">6215</field>
+<field name="postalcode">44041</field>
+<field name="elevationm">205</field>
+<field name="latm">latm=48,</field>
+<field name="arealandsqmi">4.14</field>
+<field name="establisheddate">1805-01-01T00:00:00Z</field>
+<field name="areacode">Area code 440</field>
+<field name="subdivisiontype3">List of Ohio townships</field>
+<field name="subdivisiontype">List of countries</field>
+<field name="blank1info">39-29610</field>
+<field name="subdivisiontype2">List of counties in Ohio</field>
+<field name="subdivisiontype1">U.S. state</field>
+<field name="blankinfo">Genevan</field>
+<field name="timezonedst">Eastern Time Zone (North America)</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Area first settled</field>
+<field name="name">Geneva</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="website">http://www.genevaohio.com</field>
+<field name="areawatersqmi">0</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="establishedtitle1">City first settled</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0</field>
+<field name="blank2name">Geographic Names Information System</field>
+<field name="utcoffset">-5</field>
+<field name="subdivisionname3">Geneva Township, Ashtabula County, Ohio</field>
+<field name="leadertitle">City manager</field>
+<field name="areatotalkm2">10.72</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Ashtabula County, Ohio</field>
+<field name="governmenttype">Council-manager government</field>
+</doc>
+<doc>
+<field name="id">129774</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1857-01-01T00:00:00Z</field>
+<field name="elevationft">1,240</field>
+<field name="arealandkm2">79.95</field>
+<field name="establisheddate2">1828-01-01T00:00:00Z</field>
+<field name="longd">longd=82,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="populationmetro">124475</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=31,</field>
+<field name="leadername">Timothy Theaker  ( R )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">30.92</field>
+<field name="officialname">City of Mansfield</field>
+<field name="populationdensitysqmi">1549.1</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">MansfieldOhioSeal.png</field>
+<field name="nickname">The Fun Center of Ohio,Little Detroit  (local nickname)</field>
+<field name="mapcaption">Location in the state of  Ohio</field>
+<field name="caption">Skyline of downtown Mansfield</field>
+<field name="imagemap">OHMap-doton-Mansfield.png</field>
+<field name="populationest">47052</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">598.1</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">47821</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">44900-44999</field>
+<field name="motto">"The Heart of Ohio"</field>
+<field name="elevationm">378</field>
+<field name="latm">latm=45,</field>
+<field name="arealandsqmi">30.87</field>
+<field name="establisheddate">1808-01-01T00:00:00Z</field>
+<field name="areacode">419 / 567</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-47138</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Mansfield, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Mansfield skyline.jpg</field>
+<field name="latns">N</field>
+<field name="establishedtitle3">-</field>
+<field name="website">www.ci.mansfield.oh.us</field>
+<field name="areawatersqmi">0.05</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="areawaterkm2">0.13</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">80.08</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Richland</field>
+</doc>
+<doc>
+<field name="id">129842</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1865-01-01T00:00:00Z</field>
+<field name="arealandkm2">160.66</field>
+<field name="elevationft">1004</field>
+<field name="establisheddate2">1836-01-01T00:00:00Z</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="populationmetro">701,456 (US:  75th )</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=31,</field>
+<field name="longs">longs=4,</field>
+<field name="leadername">Don Plusquellic  ( D )</field>
+<field name="longitude">81°31'4 W</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of Akron</field>
+<field name="areatotalsqmi">62.37</field>
+<field name="populationdensitysqmi">3209.9</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">New Seal of Akron.png</field>
+<field name="areamagnitude">1 E8</field>
+<field name="lats">lats=23,</field>
+<field name="nickname">Rubber City, City of Invention, Rubber Capital of the World ( historical )</field>
+<field name="mapcaption">Location in  Summit County , Ohio, United States</field>
+<field name="imagemap">Akron-SummitCoOH.png</field>
+<field name="populationest">198549</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">1239.3</field>
+<field name="popestasof">2012</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">199110 (US:  113th )</field>
+<field name="postalcode">44301-44321, 44325, 44326, 44328, 44333, 44334, 44372, 44396, 44398</field>
+<field name="latitude">41°4'23" N</field>
+<field name="elevationm">306</field>
+<field name="imageflag">Akron Ohio Flag.jpg</field>
+<field name="latm">latm=4,</field>
+<field name="arealandsqmi">62.03</field>
+<field name="establisheddate">1825-01-01T00:00:00Z</field>
+<field name="areacode">330, 234</field>
+<field name="pushpinlabelposition">right</field>
+<field name="subdivisiontype3">Demonym</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1064305</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-01000</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Akron</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">0.55</field>
+<field name="imageskyline">AkronOhioSky.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">USA Ohio</field>
+<field name="establishedtitle3">Incorporated</field>
+<field name="website">ci.akron.oh.us</field>
+<field name="areawatersqmi">0.34</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">150px</field>
+<field name="areawaterkm2">0.88</field>
+<field name="utcoffset">-5</field>
+<field name="subdivisionname3">Akronite</field>
+<field name="pushpinmapcaption">Location in  Ohio</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">161.54</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="pushpinmapsize">250</field>
+<field name="subdivisionname2">Summit</field>
+</doc>
+<doc>
+<field name="id">129826</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1854-01-01T00:00:00Z</field>
+<field name="arealandkm2">65.94</field>
+<field name="elevationft">1060</field>
+<field name="establisheddate2">1815-01-01T00:00:00Z</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="populationmetro">403,869 (US:  128th )</field>
+<field name="longm">longm=22,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=33,</field>
+<field name="leadername">William J. Healy II  ( D )</field>
+<field name="longitude">81°22'33" W</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">25.48</field>
+<field name="officialname">City of Canton</field>
+<field name="populationdensitysqmi">2867.5</field>
+<field name="blankname">FIPS code</field>
+<field name="areamagnitude">1 E8</field>
+<field name="lats">lats=18,</field>
+<field name="nickname">Hall of Fame City</field>
+<field name="mapcaption">Location in the state of  Ohio</field>
+<field name="caption">Skyline of downtown Canton</field>
+<field name="imagemap">OHMap-doton-Canton.png</field>
+<field name="populationest">72683</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">1107.1</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="latd">latd=40,</field>
+<field name="populationtotal">73007</field>
+<field name="postalcode">44700-44799</field>
+<field name="latitude">40°48'18" N</field>
+<field name="elevationm">323</field>
+<field name="latm">latm=48,</field>
+<field name="arealandsqmi">25.46</field>
+<field name="establisheddate">1805-01-01T00:00:00Z</field>
+<field name="areacode">330 / 234</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1048580</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-12000</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Canton, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Canton Ohio.jpg</field>
+<field name="latns">N</field>
+<field name="website">www.cantonohio.gov</field>
+<field name="establishedtitle3">–</field>
+<field name="areawatersqmi">0.02</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.05</field>
+<field name="utcoffset">-5</field>
+<field name="areatotalkm2">65.99</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Stark</field>
+</doc>
+<doc>
+<field name="id">129158</field>
+<field name="type">person</field>
+<field name="arealandsqmi">18.95</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate">1808-01-01T00:00:00Z</field>
+<field name="pushpinlabelposition">right</field>
+<field name="arealandkm2">49.08</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="longd">longd=83,</field>
+<field name="subdivisiontype1">State</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="longm">longm=4,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=19,</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="establishedtitle">Founded</field>
+<field name="name">Delaware</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="populationdensitysqmi">1833.9</field>
+<field name="areatotalsqmi">19.07</field>
+<field name="latns">N</field>
+<field name="blankname">FIPS code</field>
+<field name="pushpinmap">Ohio</field>
+<field name="lats">lats=56,</field>
+<field name="website">City of Delaware Ohio</field>
+<field name="areawatersqmi">0.12</field>
+<field name="areawaterkm2">0.31</field>
+<field name="populationest">35925</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">708.1</field>
+<field name="utcoffset">-5</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="latd">latd=40,</field>
+<field name="pushpinmapcaption">Location within the state of Ohio</field>
+<field name="populationtotal">34753</field>
+<field name="areatotalkm2">49.39</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="postalcode">43015</field>
+<field name="subdivisionname2">Delaware</field>
+<field name="latm">latm=17,</field>
+</doc>
+<doc>
+<field name="id">128961</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">55.94</field>
+<field name="elevationft">594</field>
+<field name="longd">longd=84,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=33,</field>
+<field name="longs">longs=54,</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">22.08</field>
+<field name="officialname">City of Hamilton</field>
+<field name="populationdensitysqmi">2892.5</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=45,</field>
+<field name="mapcaption">Location of Hamilton, Ohio</field>
+<field name="caption">High Street, looking east, c. 1911</field>
+<field name="imagemap">OHMap-doton-Hamilton.png</field>
+<field name="populationest">62295</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1116.8</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">62477</field>
+<field name="latd">latd=39,</field>
+<field name="motto">"An Award Winning Community"</field>
+<field name="elevationm">181</field>
+<field name="latm">latm=23,</field>
+<field name="arealandsqmi">21.60</field>
+<field name="areacode">513</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1064784</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-33012</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Hamilton, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">PostcardHamiltonOHMainStLookingEast1911.jpg</field>
+<field name="latns">N</field>
+<field name="website">http://www.hamilton-city.org/</field>
+<field name="areawatersqmi">0.48</field>
+<field name="areawaterkm2">1.24</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">57.19</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Butler</field>
+</doc>
+<doc>
+<field name="id">129546</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">53.28</field>
+<field name="elevationft">715</field>
+<field name="longd">longd=82,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=6,</field>
+<field name="longs">longs=6,</field>
+<field name="leadername">Holly Brinda (D)</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">20.84</field>
+<field name="officialname">City of Elyria</field>
+<field name="populationdensitysqmi">2651.1</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=24,</field>
+<field name="mapcaption">Location of Elyria, Ohio</field>
+<field name="populationest">54086</field>
+<field name="imagemap">OHMap-doton-Elyriatransparent.png</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1023.6</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">54533</field>
+<field name="latd">latd=41,</field>
+<field name="postalcode">44035, 44036, 44039, 44074</field>
+<field name="elevationm">218</field>
+<field name="latm">latm=22,</field>
+<field name="arealandsqmi">20.57</field>
+<field name="establisheddate">1817-01-01T00:00:00Z</field>
+<field name="areacode">440</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1040177</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-25256</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Elyria</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="latns">N</field>
+<field name="website">http://www.cityofelyria.org/</field>
+<field name="areawatersqmi">0.27</field>
+<field name="areawaterkm2">0.70</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">53.98</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname2">Lorain</field>
+</doc>
+<doc>
+<field name="id">129112</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">10.67</field>
+<field name="elevationft">768</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=54,</field>
+<field name="longs">longs=17,</field>
+<field name="leadername">Robert Blomquist</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">4.12</field>
+<field name="populationdensitysqmi">2190.3</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=3,</field>
+<field name="mapcaption">Location within Cuyahoga County</field>
+<field name="populationest">8936</field>
+<field name="imagemap">OlmstedVillage-CuyahogaCoOH.png</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">845.7</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">9024</field>
+<field name="latd">latd=41,</field>
+<field name="postalcode">44138</field>
+<field name="latm">latm=22,</field>
+<field name="arealandsqmi">4.12</field>
+<field name="areacode">440</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1072238</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-58422</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Olmsted Falls, Ohio</field>
+<field name="coordinatesdisplay">title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="pushpinmap">USA Ohio</field>
+<field name="areawatersqmi">0</field>
+<field name="areawaterkm2">0</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="pushpinmapcaption">Location within the state of Ohio</field>
+<field name="areatotalkm2">10.67</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Cuyahoga</field>
+</doc>
+<doc>
+<field name="id">129097</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">14.32</field>
+<field name="elevationft">705</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=48,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=01,</field>
+<field name="leadername">Michael P. Summers</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of Lakewood</field>
+<field name="areatotalsqmi">6.69</field>
+<field name="populationdensitysqmi">9426.9</field>
+<field name="blankname">FIPS  code</field>
+<field name="lats">lats=51,</field>
+<field name="nickname">"City of Beautiful Homes"</field>
+<field name="mapcaption">Location of Lakewood in Cuyahoga County</field>
+<field name="caption">Cleveland, Ohio, as seen from Lakewood Park in April 2007.</field>
+<field name="imagemap">Lakewood-CuyahogaCoOH.png</field>
+<field name="populationest">51385</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">3639.7</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US-OH_type:city</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">52131</field>
+<field name="postalcode">44107</field>
+<field name="motto">"A Great Place to Call Home"</field>
+<field name="elevationm">215</field>
+<field name="latm">latm=28,</field>
+<field name="arealandsqmi">5.53</field>
+<field name="areacode">216</field>
+<field name="pushpinlabelposition">right</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Lakewood, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="latns">N</field>
+<field name="imageskyline">CleveSkyLakewood.PNG</field>
+<field name="pushpinmap">USA Ohio</field>
+<field name="website">www.onelakewood.com</field>
+<field name="areawatersqmi">1.16</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">3.00</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location of Lakewood in Ohio</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">17.33</field>
+<field name="pushpinmapsize">250</field>
+<field name="subdivisionname2">24px   Cuyahoga</field>
+<field name="governmenttype">Mayor-council</field>
+</doc>
+<doc>
+<field name="id">150897</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">32.30</field>
+<field name="elevationft">875</field>
+<field name="elevationfootnotes">City-Data 2009</field>
+<field name="longd">longd=82,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=55,</field>
+<field name="longs">longs=17,</field>
+<field name="leadername1">David Collinsworth</field>
+<field name="leadername">Kathy Cocuzzi Anne Gonzales Mike Heyeck Craig Treneff Diane Fosselman Eric Bucsh Larry Jenkins</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">12.61</field>
+<field name="populationdensitysqmi">2896.6</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=25,</field>
+<field name="mapcaption">Location of Westerville in Ohio</field>
+<field name="imagemap">OHMap-doton-Westerville.png</field>
+<field name="populationest">37073</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1118.4</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">36120</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">43081, 43082, 43086</field>
+<field name="latm">latm=7,</field>
+<field name="arealandsqmi">12.47</field>
+<field name="establisheddate">1858-01-01T00:00:00Z</field>
+<field name="areacode">614</field>
+<field name="leadertitle1">City Manager</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">Counties</field>
+<field name="subdivisiontype1">State</field>
+<field name="establishedtitle">Incorporated</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Westerville, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="arealandmi">12.4</field>
+<field name="website">http://www.westerville.org</field>
+<field name="areawatersqmi">0.14</field>
+<field name="areawaterkm2">0.36</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">32.66</field>
+<field name="leadertitle">City Council   - Mayor  - Vice Mayor  - Chair  - Vice Chair  - Member  - Member  - Member</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Franklin  and  Delaware</field>
+</doc>
+<doc>
+<field name="id">129085</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1930-01-01T00:00:00Z</field>
+<field name="arealandkm2">27.53</field>
+<field name="elevationft">617</field>
+<field name="establisheddate2">1903-01-01T00:00:00Z</field>
+<field name="timezone1dst">EDT</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">Zip Code</field>
+<field name="longm">longm=31,</field>
+<field name="longs">longs=9,</field>
+<field name="leadername">Bill Cervenik</field>
+<field name="leaderparty">D</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">11.48</field>
+<field name="populationdensitysqmi">4602.1</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=44,</field>
+<field name="mapcaption">Location in  Cuyahoga County</field>
+<field name="imagemap">Euclid-CuyahogaCoOH.png</field>
+<field name="populationest">48281</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1776.9</field>
+<field name="popestasof">2012</field>
+<field name="populationdemonym">Euclidian</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">48920</field>
+<field name="utcoffset1dst">-4</field>
+<field name="postalcode">44117, 44123, 44132, 44143, 44119</field>
+<field name="populationnote">Euclidian</field>
+<field name="timezone1">EST</field>
+<field name="latm">latm=35,</field>
+<field name="arealandsqmi">10.63</field>
+<field name="establisheddate">1796-01-01T00:00:00Z</field>
+<field name="areacode">216</field>
+<field name="pushpinlabelposition">right</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City Council</field>
+<field name="blank1info">1072210</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-25704</field>
+<field name="establishedtitle">Founded</field>
+<field name="longew">W</field>
+<field name="name">City of Euclid</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="pushpinmap">USA Ohio</field>
+<field name="website">cityofeuclid.com</field>
+<field name="establishedtitle3"> </field>
+<field name="areawatersqmi">0.85</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="areawaterkm2">2.20</field>
+<field name="pushpinmapcaption">Location in  Ohio</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">29.73</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="pushpinmapsize">250</field>
+<field name="subdivisionname2">Cuyahoga</field>
+<field name="governmenttype">Mayor-Council</field>
+<field name="utcoffset1">-5</field>
+</doc>
+<doc>
+<field name="id">5951</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1836-01-01T00:00:00Z</field>
+<field name="elevationft">653</field>
+<field name="arealandkm2">201.24</field>
+<field name="establisheddate2">1814-01-01T00:00:00Z</field>
+<field name="longd">longd=81,</field>
+<field name="populationblank2title">Demonym</field>
+<field name="populationmetro">2,068,283 (US:  28th )</field>
+<field name="longm">longm=40,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=11,</field>
+<field name="leadername">Frank G. Jackson  ( D )</field>
+<field name="utcoffsetdst">−4</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of Cleveland</field>
+<field name="areatotalsqmi">82.47</field>
+<field name="populationdensitysqmi">5107.0</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Cleveland seal-T.png</field>
+<field name="lats">lats=56,</field>
+<field name="nickname">The Forest City</field>
+<field name="mapcaption">Location in  Cuyahoga County</field>
+<field name="imagemap">Cleveland-CuyahogaCoOH.png</field>
+<field name="populationest">390,928</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">1971.8</field>
+<field name="popestasof">2012 Toledo’s population slips again . Toledo Blade. Retrieved on 2013-07-24.</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">396815 (US:  47th )</field>
+<field name="postalcode">441XX</field>
+<field name="motto">Progress &amp; Prosperity</field>
+<field name="elevationm">199</field>
+<field name="imageflag">Flag of Cleveland, Ohio.svg</field>
+<field name="latm">latm=28,</field>
+<field name="populationblank2">Clevelander</field>
+<field name="arealandsqmi">77.70</field>
+<field name="establisheddate">1796-01-01T00:00:00Z</field>
+<field name="areacode">216</field>
+<field name="pushpinlabelposition">right</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="title">Geographic Names Information System Feature Detail Report</field>
+<field name="blankinfo">39-16000</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="establishedtitle">Founded</field>
+<field name="name">Cleveland</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="populationblank1">3,497,711 (US:  15th )</field>
+<field name="latns">N</field>
+<field name="imageskyline">Montage Cleveland 1.jpg</field>
+<field name="pushpinmap">USA Ohio</field>
+<field name="website">www.city.cleveland.oh.us</field>
+<field name="establishedtitle3"> </field>
+<field name="areawatersqmi">4.77</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">200px</field>
+<field name="areawaterkm2">12.35</field>
+<field name="utcoffset">−5</field>
+<field name="pushpinmapcaption">Location in  Ohio</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">213.60</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="pushpinmapsize">250</field>
+<field name="subdivisionname2">Cuyahoga</field>
+<field name="populationblank1title">CSA</field>
+</doc>
+<doc>
+<field name="id">129470</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">27.32</field>
+<field name="elevationft">1050</field>
+<field name="longd">longd=80,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="populationmetro">128000 (Shared with Weirton, WV)</field>
+<field name="longm">longm=37,</field>
+<field name="timezone">EST</field>
+<field name="leadername">Dominic Mucci ( D )</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">10.63</field>
+<field name="populationdensitysqmi">1768.6</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Steub.png</field>
+<field name="nickname">"City of Murals"</field>
+<field name="mapcaption">Location within the state of  Ohio</field>
+<field name="caption">Jefferson County Courthouse, 2007</field>
+<field name="imagemap">OHMap-doton-Steubenville.png</field>
+<field name="populationest">18429</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">682.9</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US-OH_type:city_source:GNIS</field>
+<field name="latd">latd=40,</field>
+<field name="populationtotal">18659</field>
+<field name="postalcode">43952-43953</field>
+<field name="motto">Where you always have a home</field>
+<field name="elevationm">320</field>
+<field name="latm">latm=21,</field>
+<field name="arealandsqmi">10.55</field>
+<field name="establisheddate">1795-01-01T00:00:00Z</field>
+<field name="areacode">740</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1065383</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-74608</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Founded</field>
+<field name="name">Steubenville, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="imageskyline">Ohio - Steubenville - Jefferson Cnty Courthouse.jpg</field>
+<field name="website">http://www.cityofsteubenville.us/</field>
+<field name="areawatersqmi">0.08</field>
+<field name="coordinatesfootnotes">Geographic Names Information System (GNIS) details for Steubenville, Ohio; United States Geological Survey (USGS); July 12, 1979.</field>
+<field name="mapsize">220px</field>
+<field name="areawaterkm2">0.21</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">27.53</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Jefferson</field>
+<field name="governmenttype">Mayor–Council</field>
+</doc>
+<doc>
+<field name="id">24577701</field>
+<field name="type">person</field>
+<field name="twin1">Dudince</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">23.75</field>
+<field name="elevationft">1050</field>
+<field name="establisheddate2">1867-01-01T00:00:00Z</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=21,</field>
+<field name="longs">longs=40,</field>
+<field name="leadername1">Dave Ruller</field>
+<field name="leadername2">Jerry Fiala</field>
+<field name="longitude">81°21′40″W</field>
+<field name="namedfor">Marvin Kent</field>
+<field name="utcoffsetdst">−4</field>
+<field name="settlementtype">City</field>
+<field name="founder">John Haymaker</field>
+<field name="officialname">City of Kent, Ohio</field>
+<field name="areatotalsqmi">9.28</field>
+<field name="populationdensitysqmi">3152.0</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Kentlogo.png</field>
+<field name="lats">lats=2,</field>
+<field name="nickname">The Tree City</field>
+<field name="mapcaption">Location in  Portage County, Ohio</field>
+<field name="imagemap">Ohio Portage Kent.png</field>
+<field name="caption">Downtown Kent, September 2009</field>
+<field name="populationest">29807</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">1217.0</field>
+<field name="popestasof">2012</field>
+<field name="populationdemonym">Kentite</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">28904</field>
+<field name="postalcode">44240, 44242, 44243</field>
+<field name="latitude">41°9′2″</field>
+<field name="elevationm">320</field>
+<field name="latm">latm=9,</field>
+<field name="arealandsqmi">9.17</field>
+<field name="establisheddate">1805-01-01T00:00:00Z</field>
+<field name="areacode">330, 234</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City manager</field>
+<field name="blank1info">2395512</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="twin1country">Slovakia</field>
+<field name="blankinfo">39-39872</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="leadertitle2">Mayor</field>
+<field name="name">Kent</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="imageskyline">Downtown Kent Ohio 2.jpg</field>
+<field name="pushpinmap">USA</field>
+<field name="website">kentohio.org</field>
+<field name="areawatersqmi">0.11</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="areawaterkm2">0.28</field>
+<field name="utcoffset">−5</field>
+<field name="pushpinmapcaption">Location in the  United States</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">24.04</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Portage</field>
+<field name="governmenttype">Council-Manager</field>
+</doc>
+<doc>
+<field name="id">5950</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationft">902</field>
+<field name="arealandkm2">562.47</field>
+<field name="longd">longd=82,</field>
+<field name="postalcodetype">ZIP codes</field>
+<field name="populationmetro">1,858,464 (US:  32nd )</field>
+<field name="longm">longm=59,</field>
+<field name="timezone">EST</field>
+<field name="leadername">Michael B. Coleman  ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="officialname">City of Columbus</field>
+<field name="areatotalsqmi">223.11</field>
+<field name="populationdensitysqmi">3624.0</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Columbus city seal n6168.svg</field>
+<field name="nickname">The Discovery City, Arch City, Indie Art Capital,  Cowtown , The Biggest Small Town in America</field>
+<field name="mapcaption">Location in the state of  Ohio , USA</field>
+<field name="caption">Images, from top left to right: Downtown Columbus, Ohio Statehouse Capitol Square, University Hall, Short North, Nationwide Arena, Santa Maria replica</field>
+<field name="imagemap">OHMap-doton-Columbus.svg</field>
+<field name="populationest">809,798</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">1399.2</field>
+<field name="popestasof">2012</field>
+<field name="populationtotal">787033 (US:  15th )</field>
+<field name="latd">latd=39,</field>
+<field name="postalcode">43085, 43119, 43201, 43202, 43203, 43204, 43205, 43206, 43207, 43209, 43210, 43211, 43212, 43213, 43214, 43215, 43216, 43217, 43218, 43219, 43220, 43221, 43222, 43223, 43224, 43226, 43227, 43228, 43229, 43230, 43231, 43232, 43234, 43235, 43236</field>
+<field name="elevationm">275</field>
+<field name="imageflag">ColumbusOHFlag.svg</field>
+<field name="latm">latm=59,</field>
+<field name="arealandsqmi">217.17</field>
+<field name="establisheddate">1812-02-14T00:00:00Z</field>
+<field name="areacode">614</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City Council</field>
+<field name="blank1info">1080996</field>
+<field name="subdivisiontype2">Counties</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-18000</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Columbus, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="imageskyline">Montage Columbus 1.jpg</field>
+<field name="pushpinmap">USA</field>
+<field name="website">www.columbus.gov</field>
+<field name="areawatersqmi">5.94</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">15.38</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location in the United States</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">577.85</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Delaware ,  Fairfield ,  Franklin</field>
+</doc>
+<doc>
+<field name="id">18522615</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1819-01-01T00:00:00Z</field>
+<field name="elevationft">482</field>
+<field name="arealandkm2">201.86</field>
+<field name="establisheddate2">1802-01-01T00:00:00Z</field>
+<field name="longd">longd=84,</field>
+<field name="populationmetro">2,130,151( 27th in U.S. )</field>
+<field name="longm">longm=31,</field>
+<field name="timezone">EST</field>
+<field name="leadername">Mark L. Mallory  ( D ), to be succeeded by  John Cranley  ( D )</field>
+<field name="metroareasqmi">update</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">79.54</field>
+<field name="officialname">City of Cincinnati</field>
+<field name="populationdensitysqmi">3809.9</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Seal of the City of Cincinnati (Ohio).png</field>
+<field name="areamagnitude">1 E8</field>
+<field name="timezonedst">Eastern Daylight Time</field>
+<field name="nickname">The Queen City, Cincy, The Tri-State</field>
+<field name="mapcaption">Location in  Hamilton County, Ohio , United States</field>
+<field name="caption">Clockwise:  University of Cincinnati ,  Cincinnati Art Museum , downtown Cincinnati viewed from  Devou Park  in  Covington, Kentucky , across the  Ohio River ,  Fountain Square, Cincinnati  and buildings just outside of  Mount Airy Forest .</field>
+<field name="imagemap">Cincinnati.png</field>
+<field name="populationest">296727</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1471.0</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US-OH_type:city</field>
+<field name="utcoffsetdst">-4</field>
+<field name="latd">latd=39,</field>
+<field name="populationtotal">296943 ( 65th in U.S. )</field>
+<field name="postalcode">452XX</field>
+<field name="motto">Juncta Juvant ( Lat.  Strength in Unity)</field>
+<field name="landareasqmi">78.0</field>
+<field name="populationurban">1,503,262</field>
+<field name="elevationm">147</field>
+<field name="imageflag">Flag of Cincinnati, Ohio.svg</field>
+<field name="latm">latm=6,</field>
+<field name="arealandsqmi">77.94</field>
+<field name="establisheddate">1788-01-01T00:00:00Z</field>
+<field name="areacode">513</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1066650</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-15000</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Settled</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Cincinnati, Ohio</field>
+<field name="waterareasqmi">1.6</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="areacodetype">Area code</field>
+<field name="populationblank1">Cincinnatian</field>
+<field name="latns">N</field>
+<field name="imageskyline">Cincymontage.JPG</field>
+<field name="areawatersqmi">1.60</field>
+<field name="website">http://www.cincinnati-oh.gov</field>
+<field name="establishedtitle3">-</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">4.14</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">206.01</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Hamilton</field>
+<field name="totalareasqmi">79.6</field>
+<field name="governmenttype">Council-manager government</field>
+<field name="populationblank1title">Demonym</field>
+</doc>
+<doc>
+<field name="id">129011</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1850-01-01T00:00:00Z</field>
+<field name="arealandkm2">65.50</field>
+<field name="elevationft">978</field>
+<field name="establisheddate2">1827-01-01T00:00:00Z</field>
+<field name="longd">longd=83,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="populationmetro">138,333</field>
+<field name="longm">longm=48,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=15,</field>
+<field name="leadername">Warren R. Copeland  (D)</field>
+<field name="longitude">83°48'15" W</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">25.50</field>
+<field name="officialname">City of Springfield</field>
+<field name="populationdensitysqmi">2396.5</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">SpringfieldOhioSeal.png</field>
+<field name="areamagnitude">1 E8</field>
+<field name="lats">lats=37,</field>
+<field name="nickname">The Home City, The Rose City (City of Roses), The Champion City, The Field</field>
+<field name="mapcaption">Location within the state of  Ohio</field>
+<field name="caption">Fountain Square, Arcue Building in background.</field>
+<field name="imagemap">OHMap-doton-Springfield.png</field>
+<field name="populationest">60147</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">925.3</field>
+<field name="popestasof">2012</field>
+<field name="latd">latd=39,</field>
+<field name="populationtotal">60,608</field>
+<field name="postalcode">45501-45506</field>
+<field name="latitude">39°55'37" N</field>
+<field name="elevationm">298</field>
+<field name="latm">latm=55,</field>
+<field name="arealandsqmi">25.29</field>
+<field name="establisheddate">1801-01-01T00:00:00Z</field>
+<field name="areacode">937</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1065370</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-74118</field>
+<field name="establishedtitle">Founded</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Springfield, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Fountain Square, Springfield, O..JPG</field>
+<field name="latns">N</field>
+<field name="establishedtitle3">–</field>
+<field name="website">www.ci.springfield.oh.us</field>
+<field name="areawatersqmi">0.21</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.54</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">66.04</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Clark</field>
+</doc>
+<doc>
+<field name="id">30849</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationft">614</field>
+<field name="arealandkm2">208.99</field>
+<field name="longd">longd=83,</field>
+<field name="populationmetro">651429 (US:  82nd )</field>
+<field name="longm">longm=34,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=31,</field>
+<field name="leadername">Michael P. Bell  ( I ), to be succeeded by  D. Michael Collins  ( I )</field>
+<field name="utcoffsetdst">−4</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of Toledo</field>
+<field name="areatotalsqmi">84.12</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Toledo OH seal.png</field>
+<field name="lats">lats=56,</field>
+<field name="nickname">The Glass City; Frogtown; T-Town</field>
+<field name="mapcaption">Location of Toledo within Lucas County, Ohio.</field>
+<field name="imagemap">Toledo Lucas.GIF</field>
+<field name="caption">Images, from top left to right:  Downtown Toledo ,  University Hall ,  Toledo Museum of Art , Lucas County Courthouse,  Tony Packo's Cafe ,  Anthony Wayne Bridge ,  Fifth Third Field</field>
+<field name="populationest">284012</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-OH</field>
+<field name="populationdensitykm2">1374.3</field>
+<field name="popestasof">2012</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">287208 (US:  67th )</field>
+<field name="postalcode">43606, 43607, 43613</field>
+<field name="motto">"Laborare est Orare"</field>
+<field name="elevationm">187</field>
+<field name="imageflag">Flag of Toledo, Ohio.svg</field>
+<field name="latm">latm=39,</field>
+<field name="arealandsqmi">80.69</field>
+<field name="establisheddate">1833-01-01T00:00:00Z</field>
+<field name="areacode">419 ,  567</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1067015</field>
+<field name="subdivisiontype2">County</field>
+<field name="pushpinlabel">Toledo</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-77000</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Toledo, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="populationblank1">Toledoan</field>
+<field name="latns">N</field>
+<field name="imageskyline">Toledo Montage.jpg</field>
+<field name="pushpinmap">Ohio</field>
+<field name="website">www.toledo.oh.gov</field>
+<field name="areawatersqmi">3.43</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">8.88</field>
+<field name="utcoffset">−5</field>
+<field name="pushpinmapcaption">Location in the state of  Ohio</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">217.87</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Lucas</field>
+<field name="populationblank1title">Demonym</field>
+</doc>
+<doc>
+<field name="id">129114</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1924-12-15T00:00:00Z</field>
+<field name="imagemap1">Parma-CuyahogaCoOH.png</field>
+<field name="arealandkm2">51.85</field>
+<field name="elevationft">866</field>
+<field name="establisheddate2">1826-03-07T00:00:00Z</field>
+<field name="longd">longd=081,</field>
+<field name="populationmetro">2,068,283 (US:  28th )</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=43,</field>
+<field name="longs">longs=43,</field>
+<field name="leadername">Timothy J. DeGeeter</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="populationdensitysqmi">4076.0</field>
+<field name="officialname">City of Parma</field>
+<field name="areatotalsqmi">20.07</field>
+<field name="blankname">FIPS  code</field>
+<field name="imageseal">Parma_City_Seal.jpg</field>
+<field name="lats">lats=31,</field>
+<field name="areamagnitude">1 E8</field>
+<field name="mapcaption">Location of Parma in Ohio</field>
+<field name="caption">View from Parma, Ohio - Cleveland's skyline</field>
+<field name="imagemap">OHMap-doton-Parma.png</field>
+<field name="populationest">80597</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1573.8</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US-OH_type:city</field>
+<field name="populationtotal">81601</field>
+<field name="latd">latd=41,</field>
+<field name="motto">"Progress Through Partnerships"</field>
+<field name="elevationm">264</field>
+<field name="latm">latm=23,</field>
+<field name="arealandsqmi">20.02</field>
+<field name="establisheddate">1816-01-01T00:00:00Z</field>
+<field name="mapsize1">250px</field>
+<field name="areacode">440  &amp;  216</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="mapcaption1">Location of Parma in Cuyahoga County (County Council District 4)</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Founded</field>
+<field name="name">Parma</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="imageskyline">Parma,_OH_-_Cleveland_Skyline_from_State_Rd.png</field>
+<field name="website">www.cityofparma-oh.gov</field>
+<field name="establishedtitle3">Incorporated</field>
+<field name="areawatersqmi">0.05</field>
+<field name="establishedtitle2">Township</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.13</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">51.98</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Cuyahoga</field>
+</doc>
+<doc>
+<field name="id">129958</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">42.24</field>
+<field name="elevationft">997</field>
+<field name="longd">longd=81,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=56,</field>
+<field name="longs">longs=14,</field>
+<field name="leadername">Bob Breneman  ( R )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">16.36</field>
+<field name="officialname">City of Wooster</field>
+<field name="populationdensitysqmi">1601.4</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=33,</field>
+<field name="mapcaption">Location of Wooster, Ohio</field>
+<field name="caption">Downtown Wooster's East Liberty Street in April 2011</field>
+<field name="imagemap">OHMap-doton-Wooster.png</field>
+<field name="populationest">26375</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">618.3</field>
+<field name="popestasof">2012</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">26119</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">44691</field>
+<field name="elevationm">304</field>
+<field name="latm">latm=48,</field>
+<field name="arealandsqmi">16.31</field>
+<field name="establisheddate">1808-01-01T00:00:00Z</field>
+<field name="areacode">330</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">1049345</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">39-86548</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Wooster, Ohio</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States of America</field>
+<field name="imageskyline">Wooster downtown2.jpg</field>
+<field name="latns">N</field>
+<field name="website">http://www.woosteroh.com/</field>
+<field name="areawatersqmi">0.05</field>
+<field name="areawaterkm2">0.13</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">42.37</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">Ohio</field>
+<field name="subdivisionname2">Wayne</field>
+</doc>
+</add>

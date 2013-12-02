@@ -3,9 +3,9 @@
 <doc>
 <field name="id">520282</field>
 <field name="type">person</field>
-<field name="establisheddate">1842</field>
+<field name="establisheddate">1842-01-01T00:00:00Z</field>
 <field name="areacode">607</field>
-<field name="establisheddate1">1908</field>
+<field name="establisheddate1">1908-01-01T00:00:00Z</field>
 <field name="subdivisiontype">Country</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype2">County</field>
@@ -47,48 +47,40 @@
 <field name="id">126473</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate1">March 19, 1890</field>
+<field name="establisheddate1">1890-03-19T00:00:00Z</field>
 <field name="elevationft">820</field>
 <field name="longd">longd=74,</field>
 <field name="postalcodetype">ZIP code</field>
-<field name="longm">longm=21,</field>
 <field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=21,</field>
 <field name="leadername">Dayton J. King (I)</field>
 <field name="settlementtype">City</field>
 <field name="utcoffsetdst">-4</field>
-<field name="officialname">City of Gloversville</field>
 <field name="areatotalsqmi">5.10</field>
+<field name="officialname">City of Gloversville</field>
 <field name="populationdensitysqmi">3027.0</field>
 <field name="blankname">FIPS code</field>
 <field name="populationasof">2010</field>
 <field name="populationdensitykm2">1168.7</field>
-<field name="titlestyle">&lt;!-- (optional) --&gt;</field>
-<field name="3">• W2:</field>
-<field name="2">• W1: Robin Wentworth (Democratic Party (United States)</field>
 <field name="coordinatestype">region:US_type:city</field>
-<field name="1">• At-Large: James Robinson (Republican Party (United States)</field>
-<field name="7">• W6:  }}</field>
 <field name="populationtotal">15,665</field>
 <field name="latd">latd=43,</field>
-<field name="6">• W5: Jay Zarrelli (Republican Party (United States)</field>
-<field name="5">• W4: Ellen Anadio (Republican Party (United States)</field>
 <field name="postalcode">12078</field>
-<field name="4">• W3:</field>
 <field name="elevationm">250</field>
 <field name="latm">latm=3,</field>
 <field name="arealandsqmi">5.09</field>
-<field name="establisheddate">1853</field>
-<field name="areacode">518  Exchanges: 725,773,775</field>
+<field name="establisheddate">1853-01-01T00:00:00Z</field>
 <field name="pushpinlabelposition">left</field>
+<field name="areacode">518  Exchanges: 725,773,775</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
 <field name="blank1info">0951265</field>
 <field name="subdivisiontype2">County</field>
 <field name="subdivisiontype1">State</field>
 <field name="blankinfo">36-29443</field>
-<field name="longew">W</field>
 <field name="establishedtitle">Incorporated (village)</field>
 <field name="timezonedst">EDT</field>
+<field name="longew">W</field>
 <field name="name">Gloversville, New York</field>
 <field name="coordinatesdisplay">inline,title</field>
 <field name="subdivisionname">United States</field>
@@ -97,11 +89,9 @@
 <field name="website">http://www.cityofgloversville.com</field>
 <field name="areawatersqmi">0.01</field>
 <field name="establishedtitle1">Incorporated (city)</field>
-<field name="framestyle">border:none; padding: 0;</field>
 <field name="utcoffset">-5</field>
-<field name="liststyle">text-align:left;display:none;</field>
-<field name="pushpinmapcaption">Location in the state of New York</field>
 <field name="unitpref">Imperial</field>
+<field name="pushpinmapcaption">Location in the state of New York</field>
 <field name="leadertitle">Mayor</field>
 <field name="subdivisionname1">New York</field>
 <field name="subdivisionname2">Fulton</field>
@@ -138,7 +128,7 @@
 <field name="elevationm">87</field>
 <field name="latm">latm=27,</field>
 <field name="arealandsqmi">7.7</field>
-<field name="establisheddate">1796</field>
+<field name="establisheddate">1796-01-01T00:00:00Z</field>
 <field name="areacode">315</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
@@ -225,9 +215,9 @@
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
 <field name="elevationminft">0</field>
-<field name="establisheddate3">1816</field>
+<field name="establisheddate3">1816-01-01T00:00:00Z</field>
 <field name="imagemap1">RensselaerCounty Troy with NY.svg</field>
-<field name="establisheddate2">1793</field>
+<field name="establisheddate2">1793-01-01T00:00:00Z</field>
 <field name="timezone1dst">EDT</field>
 <field name="longd">longd=73,</field>
 <field name="postalcodetype">ZIP code</field>
@@ -261,7 +251,7 @@
 <field name="timezone1">EST</field>
 <field name="latm">latm=43,</field>
 <field name="arealandsqmi">10.4</field>
-<field name="establisheddate">1787</field>
+<field name="establisheddate">1787-01-01T00:00:00Z</field>
 <field name="areacode">518</field>
 <field name="pushpinlabelposition">left</field>
 <field name="subdivisiontype">Country</field>
@@ -320,7 +310,7 @@
 <field name="elevationm">139</field>
 <field name="latm">latm=5,</field>
 <field name="arealandsqmi">16.3</field>
-<field name="establisheddate">1832</field>
+<field name="establisheddate">1832-01-01T00:00:00Z</field>
 <field name="areacode">315</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
@@ -348,7 +338,7 @@
 <doc>
 <field name="id">259673</field>
 <field name="type">person</field>
-<field name="establisheddate">1880 (officially incorporated)</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
 <field name="areacode">716</field>
 <field name="elevationft">617</field>
 <field name="arealandkm2">11.7</field>
@@ -481,7 +471,7 @@
 <field name="elevationm">209</field>
 <field name="latm">latm=56,</field>
 <field name="arealandsqmi">8.4</field>
-<field name="establisheddate">1815 (village),1848 (city)</field>
+<field name="establisheddate">1815-01-01T00:00:00Z</field>
 <field name="areacode">315</field>
 <field name="leadertitle1">City Manager</field>
 <field name="subdivisiontype">Country</field>
@@ -515,10 +505,10 @@
 <field name="id">127118</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate1">1859</field>
+<field name="establisheddate1">1859-01-01T00:00:00Z</field>
 <field name="elevationft">104</field>
 <field name="arealandkm2">2.2</field>
-<field name="establisheddate2">1915</field>
+<field name="establisheddate2">1915-01-01T00:00:00Z</field>
 <field name="longd">longd=73,</field>
 <field name="postalcodetype">ZIP code</field>
 <field name="timezone">EST</field>
@@ -545,7 +535,7 @@
 <field name="elevationm">31.7</field>
 <field name="latm">latm=54,</field>
 <field name="arealandsqmi">0.8</field>
-<field name="establisheddate">1764</field>
+<field name="establisheddate">1764-01-01T00:00:00Z</field>
 <field name="areacode">518</field>
 <field name="pushpinlabelposition">left</field>
 <field name="leadertitle1">City Commission</field>
@@ -584,7 +574,7 @@
 <field name="id">259795</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate1">1803 (village) 1895 (city)</field>
+<field name="establisheddate1">1803-01-01T00:00:00Z</field>
 <field name="arealandkm2">12.6</field>
 <field name="elevationft">673</field>
 <field name="longd">longd=74,</field>
@@ -609,7 +599,7 @@
 <field name="elevationm">205</field>
 <field name="latm">latm=0,</field>
 <field name="arealandsqmi">4.9</field>
-<field name="establisheddate">1758</field>
+<field name="establisheddate">1758-01-01T00:00:00Z</field>
 <field name="areacode">518</field>
 <field name="pushpinlabelposition">left</field>
 <field name="leadertitle1">Common Council</field>
@@ -698,7 +688,7 @@
 <field name="id">259718</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate1">1815 (village) 1902 (city)</field>
+<field name="establisheddate1">1815-01-01T00:00:00Z</field>
 <field name="arealandkm2">13.1</field>
 <field name="elevationft">138</field>
 <field name="longd">longd=73,</field>
@@ -730,7 +720,7 @@
 <field name="timezone1">Eastern</field>
 <field name="latm">latm=41,</field>
 <field name="arealandsqmi">5.1</field>
-<field name="establisheddate">1785</field>
+<field name="establisheddate">1785-01-01T00:00:00Z</field>
 <field name="areacode">518</field>
 <field name="pushpinlabelposition">left</field>
 <field name="leadertitle1">City Council</field>
@@ -763,7 +753,7 @@
 <field name="id">14973</field>
 <field name="type">person</field>
 <field name="arealandkm2">14.1</field>
-<field name="establisheddate2">1888</field>
+<field name="establisheddate2">1888-01-01T00:00:00Z</field>
 <field name="longd">longd=76,</field>
 <field name="populationmetro">101,564</field>
 <field name="timezone">EST</field>
@@ -787,7 +777,7 @@
 <field name="elevationm">136</field>
 <field name="latm">latm=26,</field>
 <field name="arealandsqmi">5.5</field>
-<field name="establisheddate">1790</field>
+<field name="establisheddate">1790-01-01T00:00:00Z</field>
 <field name="areacode">607</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
@@ -817,7 +807,7 @@
 <doc>
 <field name="id">59403</field>
 <field name="type">person</field>
-<field name="establisheddate1">1834 (village),1867 (city)</field>
+<field name="establisheddate1">1834-01-01T00:00:00Z</field>
 <field name="elevationft">850</field>
 <field name="timezone1dst">EDT</field>
 <field name="longd">longd=75,</field>
@@ -843,7 +833,7 @@
 <field name="timezone1">EST</field>
 <field name="latm">latm=6,</field>
 <field name="arealandsqmi">10.49</field>
-<field name="establisheddate">1802</field>
+<field name="establisheddate">1802-01-01T00:00:00Z</field>
 <field name="areacode">607</field>
 <field name="leadertitle1">City Council</field>
 <field name="subdivisiontype">Country</field>
@@ -934,10 +924,10 @@
 <field name="id">126952</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate3">1907</field>
+<field name="establisheddate3">1907-01-01T00:00:00Z</field>
 <field name="arealandkm2">6.6</field>
 <field name="elevationft">400</field>
-<field name="establisheddate2">1853</field>
+<field name="establisheddate2">1853-01-01T00:00:00Z</field>
 <field name="longd">longd=74,</field>
 <field name="postalcodetype">Postal code</field>
 <field name="timezone">Eastern (EST)</field>
@@ -959,7 +949,7 @@
 <field name="elevationm">122</field>
 <field name="latm">latm=22,</field>
 <field name="arealandsqmi">2.5</field>
-<field name="establisheddate">1690</field>
+<field name="establisheddate">1690-01-01T00:00:00Z</field>
 <field name="areacode">845</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
@@ -992,7 +982,7 @@
 <field name="id">645042</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate1">1898</field>
+<field name="establisheddate1">1898-01-01T00:00:00Z</field>
 <field name="elevationft">33</field>
 <field name="timezone1dst">EDT</field>
 <field name="longd">longd=73,</field>
@@ -1023,7 +1013,7 @@
 <field name="imageflag">Flag of New York City.svg</field>
 <field name="latm">latm=40.2,</field>
 <field name="arealandsqmi">302.6</field>
-<field name="establisheddate">1624</field>
+<field name="establisheddate">1624-01-01T00:00:00Z</field>
 <field name="areametrosqmi">13318</field>
 <field name="areacode">212 ,  347 ,  646 ,  718 ,  917 ,  929</field>
 <field name="pushpinlabelposition">left</field>
@@ -1143,7 +1133,7 @@
 <field name="elevationm">105</field>
 <field name="latm">latm=18,</field>
 <field name="arealandsqmi">3.8</field>
-<field name="establisheddate">1839 (village), 1908 (city)</field>
+<field name="establisheddate">1839-01-01T00:00:00Z</field>
 <field name="areacode">518</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
@@ -1222,7 +1212,7 @@
 <field name="id">259891</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate1">1885</field>
+<field name="establisheddate1">1885-01-01T00:00:00Z</field>
 <field name="arealandkm2">15.4</field>
 <field name="elevationft">361</field>
 <field name="longd">longd=74,</field>
@@ -1247,7 +1237,7 @@
 <field name="elevationm">110</field>
 <field name="latm">latm=56,</field>
 <field name="arealandsqmi">5.9</field>
-<field name="establisheddate">1830</field>
+<field name="establisheddate">1830-01-01T00:00:00Z</field>
 <field name="areacode">518</field>
 <field name="leadertitle1">City council</field>
 <field name="subdivisiontype">Country</field>
@@ -1306,7 +1296,7 @@
 <field name="elevationm">142</field>
 <field name="latm">latm=58,</field>
 <field name="arealandsqmi">9</field>
-<field name="establisheddate">1800</field>
+<field name="establisheddate">1800-01-01T00:00:00Z</field>
 <field name="areacode">315</field>
 <field name="leadertitle1">City Manager</field>
 <field name="subdivisiontype">Country</field>
@@ -1341,7 +1331,7 @@
 <field name="blank1name">GNIS  feature ID</field>
 <field name="elevationft">82</field>
 <field name="arealandkm2">46.8</field>
-<field name="establisheddate2">1872 (city)</field>
+<field name="establisheddate2">1872-01-01T00:00:00Z</field>
 <field name="longd">longd=73,</field>
 <field name="postalcodetype">ZIP code s</field>
 <field name="timezone">EST</field>
@@ -1371,7 +1361,7 @@
 <field name="imageflag">Yonkers flag.svg</field>
 <field name="latm">latm=56,</field>
 <field name="arealandsqmi">18.1</field>
-<field name="establisheddate">1646 (village)</field>
+<field name="establisheddate">1646-01-01T00:00:00Z</field>
 <field name="areacode">914</field>
 <field name="subdivisiontype">Country</field>
 <field name="blank1info">0971828</field>
@@ -1463,7 +1453,7 @@
 <field name="elevationft">380</field>
 <field name="arealandkm2">65</field>
 <field name="twin4">Tampere</field>
-<field name="establisheddate2">1847 (city)</field>
+<field name="establisheddate2">1847-01-01T00:00:00Z</field>
 <field name="longd">longd=76,</field>
 <field name="populationmetro">662,577</field>
 <field name="timezone">Eastern</field>
@@ -1488,7 +1478,7 @@
 <field name="elevationm">116</field>
 <field name="latm">latm=02,</field>
 <field name="arealandsqmi">26</field>
-<field name="establisheddate">1825 (village)</field>
+<field name="establisheddate">1825-01-01T00:00:00Z</field>
 <field name="areacode">315</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
@@ -1521,8 +1511,8 @@
 <doc>
 <field name="id">126989</field>
 <field name="type">person</field>
-<field name="establisheddate">1835</field>
-<field name="establisheddate1">1902</field>
+<field name="establisheddate">1835-01-01T00:00:00Z</field>
+<field name="establisheddate1">1902-01-01T00:00:00Z</field>
 <field name="subdivisiontype">Country</field>
 <field name="leadertitle1">City Council</field>
 <field name="subdivisiontype2">County</field>
@@ -1558,11 +1548,11 @@
 <field name="id">3985</field>
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
-<field name="establisheddate3">1832</field>
+<field name="establisheddate3">1832-01-01T00:00:00Z</field>
 <field name="imagemap1">MapOfBuffalo.jpg</field>
 <field name="arealandkm2">105.2</field>
 <field name="elevationft">600</field>
-<field name="establisheddate2">1801</field>
+<field name="establisheddate2">1801-01-01T00:00:00Z</field>
 <field name="longd">longd=78,</field>
 <field name="postalcodetype">ZIP code</field>
 <field name="populationblank2title">CSA</field>
@@ -1598,7 +1588,7 @@
 <field name="latm">latm=54,</field>
 <field name="populationblank2">1,213,668 (US:  44th )</field>
 <field name="arealandsqmi">40.6</field>
-<field name="establisheddate">1789</field>
+<field name="establisheddate">1789-01-01T00:00:00Z</field>
 <field name="mapsize1">200x200px</field>
 <field name="areacode">716</field>
 <field name="subdivisiontype">Country</field>
@@ -1696,10 +1686,10 @@
 <field name="type">person</field>
 <field name="blank1name">GNIS  feature ID</field>
 <field name="mottoeng">A city at the sea</field>
-<field name="establisheddate1">1913</field>
+<field name="establisheddate1">1913-01-01T00:00:00Z</field>
 <field name="arealandkm2">5.5</field>
 <field name="elevationft">0</field>
-<field name="establisheddate2">1922</field>
+<field name="establisheddate2">1922-01-01T00:00:00Z</field>
 <field name="longd">longd=73,</field>
 <field name="postalcodetype">ZIP code</field>
 <field name="timezone">EST</field>
@@ -1732,7 +1722,7 @@
 <field name="imageflag">Long_Beach,_New_York_flag_large.png</field>
 <field name="latm">latm=35,</field>
 <field name="arealandsqmi">2.1</field>
-<field name="establisheddate">1623</field>
+<field name="establisheddate">1623-01-01T00:00:00Z</field>
 <field name="areacode">516</field>
 <field name="pushpinlabelposition">none</field>
 <field name="subdivisiontype">Country</field>
@@ -1770,10 +1760,10 @@
 <field name="twin2">Đakovica</field>
 <field name="twin2country">Kosovo</field>
 <field name="twin1">Jakobstad</field>
-<field name="establisheddate1">1827</field>
+<field name="establisheddate1">1827-01-01T00:00:00Z</field>
 <field name="arealandkm2">22.94</field>
 <field name="elevationft">1378</field>
-<field name="establisheddate2">April 19, 1886</field>
+<field name="establisheddate2">1886-04-19T00:00:00Z</field>
 <field name="twin3country">Italy</field>
 <field name="timezone1dst">EDT</field>
 <field name="longd">longd=79,</field>
@@ -1799,7 +1789,7 @@
 <field name="timezone1">EST</field>
 <field name="latm">latm=5,</field>
 <field name="arealandsqmi">9.0</field>
-<field name="establisheddate">1810</field>
+<field name="establisheddate">1810-01-01T00:00:00Z</field>
 <field name="areacode">716</field>
 <field name="leadertitle1">Common Council</field>
 <field name="subdivisiontype">Country</field>
