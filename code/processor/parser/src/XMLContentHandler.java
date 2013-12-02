@@ -192,7 +192,7 @@ public class XMLContentHandler extends DefaultHandler {
 			
 			MarkupRemover mk = new MarkupRemover();
 			String formattedText = mk.markupRemover(afterExtract);
-			//System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
+			System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
 			formattedText = mk.unwantedTextRemoval(formattedText);
 			//System.out.println("AFTER FORMATTING UNWANTED TEXT: "+formattedText);
 			formattedText = mk.parseBirthdate(formattedText);
@@ -225,6 +225,7 @@ public class XMLContentHandler extends DefaultHandler {
 					//System.out.println("PRINTING KEY VALUE BEFORE ADDING TO MAP: "+splitKeyValue[0].trim() +"====="+splitKeyValue[1].trim());
 					if (splitKeyValue[0].trim().length() != 0 && splitKeyValue[1].trim().length() != 0) {
 						String cleanedValue = splitKeyValue[1].trim();
+						cleanedValue = cleanedValue.replaceAll("\\[|\\]", "");
 						String cleanedKey = splitKeyValue[0].trim();
 						if(cleanedKey.contentEquals("name")){
 							infoboxCount++;

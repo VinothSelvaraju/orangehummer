@@ -23,7 +23,7 @@ public class MarkupRemover {
 			return dateStr;
 		} else {
 			SimpleDateFormat out = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
-			String[] dateFormats = {"yyyy-MMM-dd", "yyyy-MM-dd", "yyyy hh:mm:ss Z","dd MMM yyyy","MMMM dd, yyyy","MMMM yyyy", "MMM dd",  "yyyy"};
+			String[] dateFormats = {"yyyy-MMM-dd", "yyyy-MM-dd", "yyyy hh:mm:ss Z","dd MMM yyyy","MMMM dd, yyyy","MMMM dd","MMMM yyyy", "MMM dd",  "yyyy"};
 			for (String dateFormat : dateFormats) {
 				try {
 					//System.out.println("naen :: "+dateFormat);
@@ -134,13 +134,15 @@ public class MarkupRemover {
 	}
 	
 	public String parseDeathdate(String modifiedText){
-		String regex1 = "\\{\\{Death(.*?)\\}\\}";
-		Pattern p2 = Pattern.compile(regex1, Pattern.CASE_INSENSITIVE);
+		Pattern p2 = Pattern.compile("\\| *death_date *= *\\{\\{(.*?)\\}\\} *\\|", Pattern.CASE_INSENSITIVE);
 		Matcher m2 = p2.matcher(modifiedText);
 		String workgroup1 = "";
+		String fullMatch = "";
 		while (m2.find()) {
+			fullMatch = m2.group(0);
 			workgroup1 = m2.group(1);
-			System.out.println(workgroup1);
+			System.out.println("MATCH TEXT: "+workgroup1);
+			System.out.println("DEATH DATE MATCH: "+fullMatch);
 			//split the death date value around |
 			String s[] = workgroup1.split("\\|");
 			int k = 0;
@@ -176,10 +178,8 @@ public class MarkupRemover {
 			//System.out.println("date "+date);
 			date = toUtcDate(date);
 			//replace the death date value with the computed death date value
-			modifiedText = modifiedText.replaceAll("\\{\\{D(.*?)\\}\\}", date);
-			modifiedText = modifiedText.replaceAll("\\{\\{d(.*?)\\}\\}", date);
-			
-		}
+			modifiedText = modifiedText.replace(fullMatch,"| death_date = "+date+" |");
+		}	
 		//System.out.println("WITHIN DEATH DATE: "+modifiedText);
 		Pattern p3 = Pattern.compile("\\| *death_date *=(.*?)\\|", Pattern.CASE_INSENSITIVE);
 		Matcher m3 = p3.matcher(modifiedText);
@@ -233,15 +233,22 @@ public class MarkupRemover {
 		String modifiedText = "";
 		
 		//parsing unwanted text
-		modifiedText = text.replaceAll("<ref.*</ref>", "");
-		modifiedText = modifiedText.replaceAll("<ref.*?>", "");
+		
+		//modifiedText = text.replaceAll("<ref.*?>", "");
+		modifiedText = text.replaceAll("<ref.+?>", "");
+		System.out.println("AFTER REF TAG: "+ modifiedText);
+		//modifiedText = text.replaceAll("<ref.*?<\\/ref>", "");
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{cit(.*?)\\}\\}","");
+		
 		modifiedText = modifiedText.replaceAll("(?i)\\{\\{fact(.*?)\\}\\}","");
 		modifiedText = modifiedText.replaceAll("<br />",",");
 		modifiedText = modifiedText.replaceAll("<br/>",",");
 		modifiedText = modifiedText.replaceAll("<br/ >",",");
 		modifiedText = modifiedText.replaceAll("<br>",",");
 		modifiedText = modifiedText.replaceAll("</ref>","");
+		
+		//parsing [[..]] tag
+		modifiedText = modifiedText.replaceAll("\\[\\[(.*?)\\]\\]","$1");
 		
 		//parsing cite tag multi line
 		//System.out.println("BEFORE CITE PARSING: "+ modifiedText);
@@ -255,6 +262,8 @@ public class MarkupRemover {
 			modifiedText = modifiedText.replace(fullMatchText1, "");
 		}
 		//System.out.println("AFTER CITE PARSING: "+ modifiedText);
+		
+		modifiedText = modifiedText.replaceAll("(?i)\\{\\{flatlist\\|(.*?)\\}\\}","$1");
 		
 		// parsing URL
 		modifiedText = modifiedText.replaceAll("\\{\\{URL\\|(.*?)\\}\\}", "$1");
