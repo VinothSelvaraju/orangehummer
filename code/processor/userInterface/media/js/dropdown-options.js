@@ -98,7 +98,8 @@
                                    },
                     
                             'what': {'': {'Please select in order': ''},
-                                     'is': {'known-for':'knownfor',
+                                     'is': {'Select--':'',
+                                            'known-for':'knownfor',
                                             'birth-place':'birthplace',
                                             'birth-name':'birthname',
                                             'almamater':'almamater',
@@ -112,10 +113,18 @@
                                             'weight': 'weight', 
                                             'citizenship': 'citizenship',
                                             'fame':'knownfor',
+                                            'website':'website',
+                                            'education':'education',
+                                            'title':'title',
+                                            'nickname':'othernames',
                                             'networth':'networth'
                                             },
-                                     'was': {'birth-place':'birthplace',
+                                     'was': {'Select--':'',
+                                             'birth-place':'birthplace',
+                                            'title':'title',
+                                            'nickname':'othernames',
                                              'known-for':'knownfor',
+                                            'education':'education',
                                              'almamater':'almamater',
                                             'salary': 'salary',
                                             'ethnicity': 'ethnicity',
@@ -127,10 +136,8 @@
                                             'citizenship': 'citizenship',
                                             'fame':'knownfor',
                                             'networth':'networth',
-                                            
-                                             'Select--':''
                                              },
-                                     'are': {'nicknames':'nicknames',
+                                     'are': {'other-names':'othernames',
                                              'Select--':'', 
                                              'awards':'awards'
                                              }
@@ -187,6 +194,7 @@
                                             'weight': 'weight', 
                                             'citizenship': 'citizenship',
                                             'fame':'knownfor',
+                                            'website':'website',
                                             'networth':'networth'
                                             },
                                      'was': {'birth-place':'birthplace',
@@ -202,10 +210,11 @@
                                             'citizenship': 'citizenship',
                                             'fame':'knownfor',
                                             'networth':'networth',
+                                            'website':'website',
                                             
                                              'Select--':''
                                              },
-                                     'are': {'nicknames':'nicknames',
+                                     'are': {'nicknames':'othernames',
                                              'Select--':'', 
                                              'awards':'awards'
                                              }

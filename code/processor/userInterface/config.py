@@ -105,7 +105,7 @@ questionParams = {'person':
                              'role':('what','is','role'),
                              'networth':('what','is','networth'),
                              'credits':('what','is','credits'),
-                             'othernames':('what','are','nicknames'),
+                             'othernames':('what','are','othernames'),
                              'party':('what','is','party'),
                              'family':('who','are','family'),
                              'successor':('who','is','successor'),
