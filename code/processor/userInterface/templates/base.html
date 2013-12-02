@@ -156,6 +156,11 @@ color: #FFFFFF;
     <script type="text/javascript" src="{% static "js/autosuggest.js" %}"></script> 
     <script>
       //pre-select tab
+      $(document).ready(function(){
+          var qtype = $('#id_qtype').val();
+          $('.tabLi').removeClass('active');
+          $('#'+qtype).parent().addClass('active');
+      });
     </script>
     {% endblock js %}
     {% block other_js %}
