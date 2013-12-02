@@ -177,13 +177,13 @@
    <!-- Tags for film -->
    <field  name="releaseddate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
    <field  name="director" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
-   <field  name="producer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
+   <field  name="producer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true" multiValued="true"/>
    <field  name="writer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
    <field  name="screenplay" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
    <field  name="story" type="text_general" indexed="true" stored="true" termVectors = "true"/>
    <field  name="basedon" type="text_general" indexed="true" stored="true" omitNorms = "true"/>
    <field  name="narrator"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field  name="actor" type="text_general" indexed="true" stored="true" />
+   <field  name="starring" type="text_general" indexed="true" stored="true" multiValued="true"/>
    <field  name="music"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="cinematographer"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>                 
    <field  name="editor"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>        

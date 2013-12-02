@@ -53,6 +53,8 @@ public class QueryConstants {
 		fieldtagger.put("work", "work");
 		fieldtagger.put("from", "birth");
 		fieldtagger.put("live", "live");
+		fieldtagger.put("do", "occupation");
+		
 		
 	}
 
