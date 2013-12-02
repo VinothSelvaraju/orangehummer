@@ -182,14 +182,15 @@ function getPoster(title){
 };
 //alert("Calling Poster");
 $(document).ready(function(){
-    var qtype = $('#id_qtype');
+    var qtype = $('#id_qtype').val();
+    var noun = $('#id_noun').val();
     if(qtype=="movies"){
-        getPoster('gladiator');
+        getPoster(noun);
     }
     else if(qtype=="places"){
         $.ajax({
             type: 'get',
-            url: "http://maps.googleapis.com/maps/api/geocode/json?address=buffalo&sensor=false",
+            url: "http://maps.googleapis.com/maps/api/geocode/json?address="+noun+"&sensor=false",
             success: function(jsonData){
                          //var jsonData = JSON.parse(data);
                          console.log(jsonData);
