@@ -203,6 +203,8 @@ public class XMLContentHandler extends DefaultHandler {
 			formattedText = mk.unwantedTextRemoval(formattedText);
 			//System.out.println("AFTER FORMATTING UNWANTED TEXT: "+formattedText);
 			
+			formattedText = mk.parseSettlementDate(formattedText);
+			
 			formattedText = mk.parseBirthdate(formattedText);
 			//System.out.println("AFTER FORMATTING BIRTHDATE: "+formattedText);
 			

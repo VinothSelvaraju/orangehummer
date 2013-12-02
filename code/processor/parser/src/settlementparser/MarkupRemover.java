@@ -334,4 +334,18 @@ public class MarkupRemover {
 		formattedText = formattedText.replaceAll("(?i)nationality *= *\\{\\{(.*)\\}\\}","nationality = "+"$1");
 		return formattedText;
 	}
+	public String parseSettlementDate(String formattedText) {
+		Pattern p3 = Pattern.compile("\\| *established_date(.*?)=(.*?)\\|", Pattern.CASE_INSENSITIVE);
+		Matcher m3 = p3.matcher(formattedText);
+		String fullMatch = "";
+		String workgroup2 = "";
+		while (m3.find()) {
+			workgroup2 = m3.group(2).trim();
+			fullMatch = m3.group(0);
+			String date = toUtcDate(workgroup2);
+			System.out.println("workgroup2: "+workgroup2);
+			formattedText = formattedText.replace(fullMatch, "| established_date"+m3.group(1).trim()+ " ="+date+"|");
+		}
+		return formattedText;
+	}
 }
