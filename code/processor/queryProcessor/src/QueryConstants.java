@@ -54,6 +54,7 @@ public class QueryConstants {
 		fieldtagger.put("from", "birth");
 		fieldtagger.put("live", "live");
 		fieldtagger.put("do", "occupation");
+		fieldtagger.put("residence", "residence");
 		
 		
 	}

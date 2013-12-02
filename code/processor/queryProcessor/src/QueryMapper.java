@@ -19,9 +19,15 @@ public class QueryMapper {
 			queryStr = QueryConstants.queryMainTag+":\""+queryStrArr[3]+"\"";
 			query.setQueryStr(queryStr);
 			query.addFilterQuery(QueryConstants.queryTypeTag, queryStrArr[0]);
+			
 			query.addField(QueryConstants.queryKeyTag);
 			query.addField(QueryConstants.queryMainTag);
-			query.addFieldCollection(fieldMapper(queryStrArr));
+			ArrayList queriedFields = fieldMapper(queryStrArr);
+			query.addFieldCollection(queriedFields);
+			String[] fields = new String[queriedFields.size()]; 
+				fields=(String[]) queriedFields.toArray(fields);
+			for(String s:fields)
+				query.addFilterQuery(s, "*");
 			query.setHl(true);
 			query.setHlField(QueryConstants.queryMainTag);
 			query.setHlSimplePre(QueryConstants.flSimplePre);
