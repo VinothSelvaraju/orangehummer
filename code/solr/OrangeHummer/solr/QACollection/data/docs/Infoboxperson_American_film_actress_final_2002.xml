@@ -36,7 +36,7 @@
 <field name="parents">Walter &amp; Jo Alden</field>
 <field name="occupation">Actress</field>
 <field name="occupation">Model</field>
-<field name="residence">Long Island, New York</field>
+<field name="residenceplace">Long Island, New York</field>
 <field name="birthdate">1956-11-13T00:00:00Z</field>
 <field name="spouse">Ronald Leyser (1991-present)</field>
 <field name="name">Ginger Alden</field>
@@ -91,7 +91,6 @@
 <field name="type">person</field>
 <field name="deathdate">1968-12-15T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Suicide</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1920-12-16T00:00:00Z</field>
 <field name="spouse">Rudy Dia</field>
@@ -99,7 +98,6 @@
 <field name="yearsactive">1946–1964</field>
 <field name="othernames">Dorothy E. Abbott</field>
 <field name="birthplace">Kansas City, Missouri , U.S.</field>
-<field name="restingplace">Rose Hills Memorial Park</field>
 </doc>
 <doc>
 <field name="id">6226053</field>
@@ -149,7 +147,6 @@
 <doc>
 <field name="id">7358557</field>
 <field name="type">person</field>
-<field name="restingplace">Forest Lawn Memorial Park</field>
 <field name="deathdate">1938-05-11T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="deathplace">Culver City, California</field>
@@ -294,7 +291,7 @@
 <field name="occupation">Actor</field>
 <field name="deathplace">Sidney, New York ,  U.S.</field>
 <field name="birthdate">1879-06-19T00:00:00Z</field>
-<field name="imdbid">0560442</field>
+<field name="imdbe">0560442</field>
 <field name="name">Martha Mattox</field>
 <field name="yearsactive">1913 - 1933</field>
 <field name="birthplace">Natchez, Mississippi ,  U.S.</field>
@@ -342,9 +339,7 @@
 <field name="caption">Studio publicity photo</field>
 <field name="yearsactive">1942–2003</field>
 <field name="birthplace">Hampstead Garden Suburb ,  London ,  England , UK</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale ,  California</field>
 <field name="deathplace">Los Angeles ,  California , USA</field>
-<field name="deathcause">Congestive heart failure</field>
 <field name="nationality">British-American</field>
 <field name="family">Howard Taylor (older brother)</field>
 <field name="name">Elizabeth Taylor</field>
@@ -380,26 +375,20 @@
 <field name="yearsactive">1994–present</field>
 <field name="education">University of Virginia  ( BA )</field>
 <field name="birthplace">Upper Darby Township, Pennsylvania , U.S.</field>
-<field name="signaturealt">Tina Fey</field>
 </doc>
 <doc>
 <field name="id">14485150</field>
 <field name="type">person</field>
-<field name="genre">Pop  and  R&amp;B</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="birthdate">1992-02-17T00:00:00Z</field>
 <field name="website">MeaghanJetteMartin.com</field>
 <field name="birthname">Meaghan Jette Martin</field>
 <field name="image">MeaghanJetteMartinApr09.jpg</field>
-<field name="label">Jonas Records   (2009–present)</field>
 <field name="caption">Martin at the  Hannah Montana: The Movie  premiere in April 2009</field>
-<field name="instrument">Vocals, piano, guitar</field>
 <field name="yearsactive">2006–present</field>
-<field name="associatedacts">Demi Lovato  and  Jonas Brothers</field>
 <field name="birthplace">Las Vegas, Nevada ,  U.S.</field>
 <field name="name">Meaghan Jette Martin</field>
-<field name="background">solo_singer</field>
 </doc>
 <doc>
 <field name="id">3653964</field>
@@ -492,7 +481,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="nationality">American</field>
-<field name="residence">Scottsdale, Arizona</field>
+<field name="residenceplace">Scottsdale, Arizona</field>
 <field name="birthdate">1935-07-25T00:00:00Z</field>
 <field name="awards">Tony Award</field>
 <field name="spouse">Paul Sills  (?-1959, divorced)</field>
@@ -504,15 +493,11 @@
 <doc>
 <field name="id">152618</field>
 <field name="type">person</field>
-<field name="genre">R&amp;B ,  soul</field>
 <field name="occupation">Acting coach</field>
 <field name="occupation">songwriter</field>
 <field name="birthdate">1981-11-18T00:00:00Z</field>
 <field name="alias">Christina Marie Vidal</field>
-<field name="background">solo_singer</field>
 <field name="name">Christina Vidal</field>
-<field name="label">Nickelodeon Records  (2000-2002) , MCA Records (2002-2006)</field>
-<field name="associatedacts">Will Smith ,  Khaliah Adams ,  3LW ,  Adrienne Bailon ,  Naturi Naughton ,  Kiely Williams ,  Sabrina Bryan ,  The Cheetah Girls ,  Lindsay Lohan</field>
 <field name="yearsactive">1993–present</field>
 <field name="birthplace">Whitestone ,  Queens ,  New York City ,  New York , U.S.</field>
 <field name="birthname">Christina Abbi Vidal</field>
@@ -611,7 +596,6 @@
 <field name="yearsactive">1968–2009</field>
 <field name="birthplace">London ,  England ,  U.K.</field>
 <field name="deathplace">New York City ,  New York ,  U.S.</field>
-<field name="deathcause">Epidural hematoma</field>
 <field name="nationality">British</field>
 <field name="spouse">Robert Fox (1990–1992), Liam Neeson (1994–2009; her death)</field>
 <field name="name">Natasha Richardson</field>
@@ -652,7 +636,6 @@
 <field name="yearsactive">1919–1984</field>
 <field name="birthplace">Schöneberg ,  German Empire</field>
 <field name="deathplace">Paris ,  France</field>
-<field name="deathcause">Renal failure</field>
 <field name="family">John Michael Riva  (grandson),  (1948–2012)   Peter Riva  (grandson)</field>
 <field name="spouse">Rudolf Sieber (m.1923–1976; his death)</field>
 <field name="name">Marlene Dietrich</field>
@@ -674,7 +657,7 @@
 <field name="religion">Roman Catholic</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
 <field name="nationality">American</field>
-<field name="residence">Santa Monica, California, U.S.</field>
+<field name="residenceplace">Santa Monica, California, U.S.</field>
 <field name="spouse">Lee Majors (m. 1973–1982; divorced)</field>
 <field name="name">Farrah Fawcett</field>
 <field name="partner">Ryan O'Neal (1979–1997; 2001–2009, her death)</field>
@@ -713,9 +696,7 @@
 <field name="caption">in 1936 photo by  George Hurrell</field>
 <field name="yearsactive">1925–1972</field>
 <field name="birthplace">San Antonio, Texas , U.S.</field>
-<field name="restingplace">Ferncliff Cemetery</field>
 <field name="deathplace">New York City, New York , U.S.</field>
-<field name="deathcause">Heart attack</field>
 <field name="spouse">Douglas Fairbanks, Jr. (m.1929–1933; divorced) Franchot Tone (m.1935–1939; divorced) Phillip Terry (m.1942–1946; divorced) Alfred Steele (m.1955–1959; his death)</field>
 <field name="name">Joan Crawford</field>
 <field name="family">Hal LeSueur  (brother)</field>
@@ -733,7 +714,6 @@
 <field name="caption">Garbo in a publicity still for  Anna Karenina  (1935)</field>
 <field name="yearsactive">1920–1941</field>
 <field name="birthplace">Stockholm , Sweden</field>
-<field name="restingplace">Skogskyrkogården  Cemetery,,Stockholm, Sweden</field>
 <field name="deathplace">New York , New York, U.S.</field>
 <field name="name">Greta Garbo</field>
 </doc>
@@ -755,7 +735,7 @@
 <field name="occupation">musician</field>
 <field name="occupation">activist</field>
 <field name="occupation">spokesperson</field>
-<field name="residence">Los Angeles</field>
+<field name="residenceplace">Los Angeles</field>
 <field name="birthdate">1971-02-20T00:00:00Z</field>
 <field name="website">http://www.calpernia.com/</field>
 <field name="name">Calpernia Addams</field>
@@ -990,7 +970,7 @@
 <field name="name">Kay Aldridge</field>
 <field name="image">Kay Aldridge.jpg</field>
 <field name="yearsactive">1937–1945</field>
-<field name="notablerole">Nyoka Gordon  in  Perils of Nyoka</field>
+<field name="knownfor">Nyoka Gordon  in  Perils of Nyoka</field>
 <field name="birthplace">Tallahassee, Florida ,  U.S.</field>
 </doc>
 <doc>
@@ -1415,7 +1395,7 @@
 <doc>
 <field name="id">1938148</field>
 <field name="type">person</field>
-<field name="othernam">Lori Allen</field>
+<field name="othernames">Lori Allen</field>
 <field name="occupation">Actress</field>
 <field name="occupation">Comedian</field>
 <field name="occupation">Voice actress</field>
@@ -1492,7 +1472,7 @@
 <field name="id">455047</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="residence">Palm Springs, California</field>
+<field name="residenceplace">Palm Springs, California</field>
 <field name="birthdate">1959-11-19T00:00:00Z</field>
 <field name="birthname">Allison Brooks Janney</field>
 <field name="name">Allison Janney</field>
@@ -1665,7 +1645,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
-<field name="residence">Beverly Hills ,  California , U.S.</field>
+<field name="residenceplace">Beverly Hills ,  California , U.S.</field>
 <field name="birthdate">1981-04-28T00:00:00Z</field>
 <field name="birthname">Jessica Marie Alba</field>
 <field name="spouse">Cash Warre</field>
@@ -1808,9 +1788,7 @@
 <field name="caption">publicity still of Allen from the  Burns and Allen  CBS Radio program</field>
 <field name="yearsactive">1924–1958</field>
 <field name="birthplace">San Francisco ,  California , USA</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="deathplace">Los Angeles ,  California , USA</field>
-<field name="deathcause">Heart attack</field>
 <field name="spouse">George Burn</field>
 <field name="name">Gracie Allen</field>
 </doc>
@@ -1914,7 +1892,6 @@
 <field name="type">person</field>
 <field name="deathdate">2008-08-13T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Kidney and blood infections</field>
 <field name="deathplace">Shelbyville ,  Indiana ,  United States</field>
 <field name="birthdate">1955-06-18T00:00:00Z</field>
 <field name="birthname">Sandra Elaine Allen</field>
@@ -1932,7 +1909,6 @@
 <field name="spouse">Irwin Allen  (1974–1991; his death)</field>
 <field name="name">Sheila Mathews Allen</field>
 <field name="birthplace">New York, New York , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park</field>
 <field name="yearsactive">1959–2006</field>
 </doc>
 <doc>
@@ -2238,7 +2214,6 @@
 <field name="yearsactive">1938–2001</field>
 <field name="birthplace">The Bronx ,  New York ,  USA</field>
 <field name="deathplace">Ojai ,  California ,  USA</field>
-<field name="deathcause">Respiratory failure  and  bronchitis</field>
 <field name="nationality">American</field>
 <field name="awards">Golden Globe - Best Actress  (1951)</field>
 <field name="spouse">Dick Powell  (m.1945-1963) Alfred Glenn Maxwell (m. 1963–1965;1966–1970) David Ashrow (m.1976-2006)</field>
@@ -2338,7 +2313,6 @@
 <field name="caption">Ball in 1950</field>
 <field name="birthplace">Jamestown, New York, USA</field>
 <field name="deathplace">Los Angeles ,  California ,  USA</field>
-<field name="deathcause">Dissecting aortic aneurysm</field>
 <field name="spouse">Desi Arnaz (m.1940–1960; divorced) Gary Morton (m.1961–1989; her death)</field>
 <field name="name">Lucille Ball</field>
 <field name="birthname">Lucille Désirée Ball</field>
@@ -2400,7 +2374,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
-<field name="residence">New York City ,  New York</field>
+<field name="residenceplace">New York City ,  New York</field>
 <field name="birthdate">1993-01-09T00:00:00Z</field>
 <field name="website">http://www.ashleyargota.com</field>
 <field name="birthname">Ashley Spencer Argota</field>
@@ -2528,7 +2502,6 @@
 <field name="occupation">Actress</field>
 <field name="occupation">comedian</field>
 <field name="occupation">singer</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1922-05-13T00:00:00Z</field>
 <field name="birthname">Bernice Frankel</field>
@@ -2539,7 +2512,6 @@
 <field name="yearsactive">1947–2008</field>
 <field name="birthplace">New York City, New York , U.S.</field>
 <field name="education">Linden Hall School for Girls</field>
-<field name="restingplace">cremated</field>
 </doc>
 <doc>
 <field name="id">7396972</field>
@@ -2564,10 +2536,8 @@
 <field name="children">Mason Alan Dinehart , aka Alan Dinehart, III</field>
 <field name="birthplace">Oklahoma City ,  Oklahoma , USA</field>
 <field name="education">Pasadena Playhouse</field>
-<field name="restingplace">Forest Lawn Memorial Park  in  Glendale , California</field>
 <field name="deathplace">Good Samaritan Hospital  in  Los Angeles ,  California</field>
-<field name="deathcause">Heart attack</field>
-<field name="imdbid">0110216</field>
+<field name="imdbe">0110216</field>
 <field name="spouse">(1)  Alan Dinehart  (married 1933-1944, his death) (2) Thomas W. Gosser (married 1948-1953, her death; separated prior to her death)</field>
 <field name="name">Mozelle Britton Dinehart Gosser</field>
 <field name="yearsactive">1930  to  1936</field>
@@ -2673,7 +2643,7 @@
 <field name="birthplace">New York City, New York, U.S.</field>
 <field name="religion">Roman Catholic</field>
 <field name="networth">$100 million</field>
-<field name="residence">Beverly Hills, California</field>
+<field name="residenceplace">Beverly Hills, California</field>
 <field name="name">Paris Hilton</field>
 <field name="family">Nicky Hilton (sister),Kim Richards (aunt),Kyle Richards (aunt)</field>
 </doc>
@@ -2780,7 +2750,6 @@
 <field name="yearsactive">1937–1963</field>
 <field name="othernames">Vera Vague</field>
 <field name="birthplace">New York City ,  New York ,  USA</field>
-<field name="restingplace">Cremated</field>
 </doc>
 <doc>
 <field name="id">21663846</field>
@@ -2849,7 +2818,6 @@
 <field name="occupation">actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">dancer</field>
-<field name="deathcause">complications of surgery</field>
 <field name="deathplace">New York City, New York</field>
 <field name="birthdate">1898-09-01T00:00:00Z</field>
 <field name="spouse">Frank Carter (m.1920-1921; his death) Jack Pickford (m.1922-1927; divorced) Chet O'Brien (m.1934-1936; her death)</field>
@@ -2872,7 +2840,6 @@
 <field name="caption">Kelton in 1942.</field>
 <field name="yearsactive">1925-1968</field>
 <field name="birthplace">Great Falls, Montana ,  U.S.</field>
-<field name="restingplace">Cremation</field>
 </doc>
 <doc>
 <field name="id">17382911</field>
@@ -2900,7 +2867,6 @@
 <field name="id">4384441</field>
 <field name="type">person</field>
 <field name="deathdate">1964-10-21T00:00:00Z</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">Hollywood, California , U.S.</field>
 <field name="birthdate">1894-09-14T00:00:00Z</field>
 <field name="birthname">Ella Margaret Gibson</field>
@@ -2937,7 +2903,6 @@
 <field name="yearsactive">1907–1923</field>
 <field name="birthplace">Shreveport, Louisiana , U.S.</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
-<field name="deathcause">Stroke</field>
 <field name="nationality">American</field>
 <field name="spouse">Brandon O. Hildebrand</field>
 <field name="name">Mary Miles Minter</field>
@@ -2992,7 +2957,6 @@
 <field name="education">Wheelock College</field>
 <field name="knownfor">Wicked Witch of the West</field>
 <field name="deathplace">Salisbury, Connecticut , U.S.</field>
-<field name="deathcause">Heart Attack</field>
 <field name="nationality">American</field>
 <field name="family">Neil Hamilton  (distant cousin)</field>
 <field name="spouse">Paul Meserve (m.1931–1938; divorced)</field>
@@ -3003,7 +2967,6 @@
 <field name="type">person</field>
 <field name="deathdate">1962-04-15T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Suicide</field>
 <field name="deathplace">Hollywood, California , U.S.</field>
 <field name="birthdate">1880-06-04T00:00:00Z</field>
 <field name="birthname">Clara Dickey</field>
@@ -3013,7 +2976,6 @@
 <field name="caption">Blandick (c. 1903) in a photograph by  Otto Sarony</field>
 <field name="yearsactive">1900–1951</field>
 <field name="birthplace">Hong Kong ,  China</field>
-<field name="restingplace">Forest Lawn Memorial Park Cemetery</field>
 </doc>
 <doc>
 <field name="id">923307</field>
@@ -3040,9 +3002,7 @@
 <field name="caption">Lupe Vélez in  Mexican Spitfire  (1940)</field>
 <field name="yearsactive">1927–1944</field>
 <field name="birthplace">San Luis Potosí ,  Mexico</field>
-<field name="restingplace">Panteón de Dolores</field>
 <field name="deathplace">Beverly Hills, California , U.S.</field>
-<field name="deathcause">Suicide</field>
 <field name="nationality">Mexican</field>
 <field name="spouse">Johnny Weissmuller  (1933–1939)</field>
 <field name="name">Lupe Vélez</field>
@@ -3090,7 +3050,7 @@
 <field name="birthplace">Chicago ,  Illinois , U.S.</field>
 <field name="education">School of the Art Institute of Chicago</field>
 <field name="nationality">American</field>
-<field name="residence">Eagle Point, Oregon , U.S.</field>
+<field name="residenceplace">Eagle Point, Oregon , U.S.</field>
 <field name="spouse">Richard Johnson, Dr. Robert Mallo</field>
 <field name="name">Kim Novak</field>
 </doc>
@@ -3135,9 +3095,7 @@
 <field name="yearsactive">1957–1979</field>
 <field name="birthplace">Marshalltown, Iowa ,  U.S.</field>
 <field name="education">University of Iowa</field>
-<field name="restingplace">Montparnasse Cemetery</field>
 <field name="deathplace">Paris ,  France</field>
-<field name="deathcause">Barbiturate overdose</field>
 <field name="nationality">American</field>
 <field name="spouse">François Moreuil, Romain Gary, Dennis Charles Berr</field>
 <field name="name">Jean Seberg</field>
@@ -3183,9 +3141,7 @@
 <field name="citizenship">Canadian American</field>
 <field name="yearsactive">1919–1942</field>
 <field name="birthplace">Montreal ,  Quebec ,  Canada</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="deathplace">Woodland Hills, Los Angeles ,  California , U.</field>
-<field name="deathcause">Bronchial pneumonia</field>
 <field name="awards">Academy Award for Best Actress  ( The Divorcee , 1930)</field>
 <field name="spouse">Irving Thalberg, Martin Arroug</field>
 <field name="name">Norma Shearer</field>
@@ -3203,9 +3159,7 @@
 <field name="yearsactive">1921–1970</field>
 <field name="othernames">Anita Fremault</field>
 <field name="birthplace">New York, New York ,  U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park</field>
 <field name="deathplace">West Los Angeles, California , U.S.</field>
-<field name="deathcause">stroke</field>
 <field name="spouse">Buddy Adler (m.1940-1960; his death) 2 children Henry Berger (m.1962-1970; her death)</field>
 <field name="name">Anita Louise</field>
 </doc>
@@ -3214,7 +3168,6 @@
 <field name="type">person</field>
 <field name="deathdate">1954-12-08T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cerebral hemorrhage</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="birthdate">1904-09-13T00:00:00Z</field>
 <field name="birthname">Gladys Clare Evans</field>
@@ -3250,7 +3203,6 @@
 <field name="caption">from the trailer for  Best Foot Forward  (1943)</field>
 <field name="birthplace">Eagle Rock, California , U.S.</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
-<field name="deathcause">heart attack</field>
 <field name="spouse">Lionel Krisel, (her death) 2 children</field>
 <field name="name">Virginia Weidler</field>
 <field name="yearsactive">1931–1943</field>
@@ -3372,7 +3324,6 @@
 <field name="image">VivienneOsborne1921.jpg</field>
 <field name="caption">In 1921</field>
 <field name="birthplace">Des Moines, Iowa ,  U.S.</field>
-<field name="restingplace">Pierce Brothers Valhalla Memorial Park North Hollywood, California</field>
 <field name="deathplace">Malibu, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="spouse">Francis Worthington Hine</field>
@@ -3385,7 +3336,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
-<field name="residence">Bedford, Westchester County, New York , U.S.</field>
+<field name="residenceplace">Bedford, Westchester County, New York , U.S.</field>
 <field name="birthdate">1987-08-25T00:00:00Z</field>
 <field name="birthname">Blake Ellender Brown</field>
 <field name="spouse">Ryan Reynold</field>
@@ -3486,7 +3437,7 @@
 <field name="name">Bailee Madison</field>
 <field name="image">Bailee Madison 2012.jpg</field>
 <field name="caption">Madison at the Golden Globes Gift Lounge, January 14, 2012</field>
-<field name="url">http://www.bailee-madison.com/</field>
+<field name="website">http://www.bailee-madison.com/</field>
 <field name="yearsactive">2006–present</field>
 <field name="birthplace">Fort Lauderdale, Florida , USA</field>
 </doc>
@@ -3530,9 +3481,7 @@
 <field name="caption">Publicity still for  Payment on Demand  (1951)</field>
 <field name="yearsactive">1929–1989</field>
 <field name="birthplace">Lowell, Massachusetts , U.S.</field>
-<field name="restingplace">Forest Lawn—Hollywood Hills Cemetery</field>
 <field name="deathplace">Neuilly-sur-Seine, France</field>
-<field name="deathcause">Breast cancer</field>
 <field name="spouse">Harmon Nelson (m.1932–1938; divorced) Arthur Farnsworth (m.1940–1943; his death) William Grant Sherry (m.1945–1950; divorced) Gary Merrill (m.1950–1960; divorced)</field>
 <field name="name">Bette Davis</field>
 </doc>
@@ -3564,7 +3513,7 @@
 <field name="yearsactive">1935–1994</field>
 <field name="education">Los Gatos High School American School in Japan</field>
 <field name="birthplace">Tokyo ,  Japan</field>
-<field name="residence">Carmel-by-the-Sea, California</field>
+<field name="residenceplace">Carmel-by-the-Sea, California</field>
 <field name="spouse">Brian Aherne (m.1939–1945; divorced) William Dozier (m.1946–1951) 1 child Collier Young (m.1952–1961) Alfred Wright, Jr. (m.1964–1969)</field>
 <field name="name">Joan Fontaine</field>
 <field name="family">Olivia de Havilland  (elder sister)</field>
@@ -3574,7 +3523,6 @@
 <field name="id">202643</field>
 <field name="type">person</field>
 <field name="deathdate">1974-04-30T00:00:00Z</field>
-<field name="deathcause">Uterine cancer</field>
 <field name="deathplace">Rochester ,  Minnesota , U.S.</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1900-12-06T00:00:00Z</field>
@@ -3585,7 +3533,6 @@
 <field name="caption">Moorehead as Endora in  Bewitched , circa 1969</field>
 <field name="yearsactive">1933–1974</field>
 <field name="birthplace">Clinton ,  Massachusetts ,  U.S.</field>
-<field name="restingplace">Dayton Memorial Park in  Dayton ,  Ohio</field>
 </doc>
 <doc>
 <field name="id">14010016</field>
@@ -3650,7 +3597,7 @@
 <field name="image">Jenna Dewan 2012.jpg</field>
 <field name="caption">Dewan-Tatum at the 71st Annual Peabody Awards Luncheon 2012</field>
 <field name="yearsactive">2002–present</field>
-<field name="url">http://www.jennadewanunwrapped.com</field>
+<field name="website">http://www.jennadewanunwrapped.com</field>
 <field name="birthplace">Hartford, Connecticut , U.S.</field>
 <field name="birthname">Jenna Lee Dewan</field>
 </doc>
@@ -3658,7 +3605,6 @@
 <field name="id">1984197</field>
 <field name="type">person</field>
 <field name="deathdate">1955-10-09T00:00:00Z</field>
-<field name="deathcause">heart disease</field>
 <field name="occupation">Actress</field>
 <field name="deathplace">Hollywood, California</field>
 <field name="birthdate">1890-10-01T00:00:00Z</field>
@@ -3757,9 +3703,7 @@
 <field name="yearsactive">1937–1972</field>
 <field name="education">Public School 181 The Girls' Commercial High School</field>
 <field name="birthplace">Brooklyn ,  New York ,  U.S.</field>
-<field name="restingplace">Our Lady of Perpetual Help Cemetery (Temple, Georgia)</field>
 <field name="deathplace">Hollywood ,  California , U.S.</field>
-<field name="deathcause">Brain cancer</field>
 <field name="nationality">American</field>
 <field name="spouse">Jess Barker  (m.1944-1954),Floyd Eaton Chalkley (m.1957-1966)</field>
 <field name="name">Susan Hayward</field>
@@ -3785,7 +3729,7 @@
 <field name="spouse">Rip Torn  (1956–1961, divorced) Ernie Martin (1970–present)</field>
 <field name="name">Ann Wedgeworth</field>
 <field name="children">Danae Torn Dianna Martin</field>
-<field name="tonyawards">Best Featured Actress in a Play 1978  Chapter Two</field>
+<field name="awards">Best Featured Actress in a Play 1978  Chapter Two</field>
 <field name="yearsactive">1967–present</field>
 <field name="birthplace">Abilene, Texas , U.S.</field>
 <field name="birthname">Elizabeth Ann Wedgeworth</field>
@@ -4006,7 +3950,6 @@
 <field name="type">person</field>
 <field name="deathdate">1938-08-04T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cirrhosis</field>
 <field name="deathplace">Neuilly-sur-Seine ,  France</field>
 <field name="nationality">American</field>
 <field name="birthdate">1889-03-04T00:00:00Z</field>
@@ -4017,7 +3960,6 @@
 <field name="caption">Pearl White, 1916</field>
 <field name="yearsactive">1910–1924</field>
 <field name="birthplace">Green Ridge, Missouri , U.S.</field>
-<field name="restingplace">Cimetière de Passy</field>
 </doc>
 <doc>
 <field name="id">2806698</field>
@@ -4160,7 +4102,7 @@
 <field name="children">Jeffrey, Michael</field>
 <field name="image">Sandy Duncan 1972.JPG</field>
 <field name="caption">Duncan in 1972.</field>
-<field name="tonyawards">Sandy Duncan also played a prominent role in 1977's groundbreaking serial "Roots." Her portrayal of the spoiled Missy Anne Reynolds who denies knowing Kizzy (played by Leslie Uggams) is one of the high points of the series.</field>
+<field name="awards">Sandy Duncan also played a prominent role in 1977's groundbreaking serial "Roots." Her portrayal of the spoiled Missy Anne Reynolds who denies knowing Kizzy (played by Leslie Uggams) is one of the high points of the series.</field>
 <field name="yearsactive">1958–2010</field>
 <field name="birthplace">Henderson , Texas, US</field>
 <field name="birthname">Sandra Kay Duncan</field>
@@ -4175,12 +4117,10 @@
 <field name="birthname">Britney Jean Spears</field>
 <field name="children">2</field>
 <field name="image">Britney_Spears_2013.jpg</field>
-<field name="label">Jive Zomba RCA</field>
 <field name="caption">Spears at the  KIIS-FM   Wango Tango  concert, May 2013.</field>
-<field name="associatedacts">Innosense Madonna 'N Sync</field>
 <field name="yearsactive">1992–present</field>
 <field name="birthplace">McComb, Mississippi ,  U.S.</field>
-<field name="residence">Thousand Oaks ,  California , U.S.</field>
+<field name="residenceplace">Thousand Oaks ,  California , U.S.</field>
 <field name="spouse">Jason Alexander,Kevin Federlin</field>
 <field name="name">Britney Spears</field>
 <field name="partner">Justin Timberlake  (1999–2002)</field>
@@ -4213,7 +4153,6 @@
 <field name="image">Binnie Barnes.jpg</field>
 <field name="yearsactive">1923–73</field>
 <field name="birthplace">Islington ,  London ,  England</field>
-<field name="restingplace">Forest Lawn Memorial Park  in  Glendale , California</field>
 </doc>
 <doc>
 <field name="id">77390</field>
@@ -4228,9 +4167,7 @@
 <field name="yearsactive">1943–1981</field>
 <field name="education">Van Nuys High School</field>
 <field name="birthplace">San Francisco ,  California , U.S.</field>
-<field name="restingplace">Westwood Village Memorial Park Cemetery</field>
 <field name="deathplace">Santa Catalina Island, California , U.S.</field>
-<field name="deathcause">Drowning  and other undetermined factors</field>
 <field name="nationality">American</field>
 <field name="spouse">Robert Wagner, Richard Gregson, Robert Wagne</field>
 <field name="name">Natalie Wood</field>
@@ -4254,10 +4191,8 @@
 <field name="yearsactive">1924–1969 (singer) 1929–1967 (actress)</field>
 <field name="education">Lawlor's Professional School Bancroft Middle School Hollywood High School</field>
 <field name="birthplace">Grand Rapids, Minnesota ,  USA</field>
-<field name="restingplace">Ferncliff Cemetery ,  Hartsdale, New York , USA</field>
 <field name="religion">Episcopalian</field>
 <field name="deathplace">Chelsea, London ,  England ,  UK</field>
-<field name="deathcause">Barbiturate overdose</field>
 <field name="nationality">American</field>
 <field name="height">4 feet 11 inches (150cm)</field>
 <field name="awards">List of awards and honors</field>
@@ -4387,11 +4322,9 @@
 <field name="education">Rock Ridge High School</field>
 <field name="birthplace">Smithfield, North Carolina , U.S</field>
 <field name="education">Atlantic Christian College</field>
-<field name="restingplace">Sunset Memorial Park</field>
 <field name="deathplace">Westminster ,  London ,  England</field>
-<field name="deathcause">Pneumonia</field>
 <field name="nationality">American</field>
-<field name="residence">Ennismore Gardens</field>
+<field name="residenceplace">Ennismore Gardens</field>
 <field name="spouse">Mickey Rooney  (1942–1943) Artie Shaw  (1945–1946) Frank Sinatra  (1951–1957)</field>
 <field name="name">Ava Gardner</field>
 </doc>
@@ -4467,7 +4400,6 @@
 <field name="caption">Avery with George Gobel on his television show.</field>
 <field name="yearsactive">1951–1999</field>
 <field name="birthplace">New York City ,  New York , USA</field>
-<field name="restingplace">Westwood Village Memorial Park Cemetery</field>
 </doc>
 <doc>
 <field name="id">14907899</field>
@@ -4525,9 +4457,7 @@
 <field name="yearsactive">1939-2007</field>
 <field name="birthplace">Amarillo, Texas , U.S.</field>
 <field name="othernames">Lily Norwood Felia Siderova Maria Istomina</field>
-<field name="restingplace">Hillside Memorial Park Cemetery</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
-<field name="deathcause">Heart attack</field>
 <field name="spouse">Nico Charisse (m. 1939-1947; divorced) Tony Martin (m. 1948-2008; her death)</field>
 <field name="name">Cyd Charisse</field>
 </doc>
@@ -4572,7 +4502,7 @@
 <field name="image">Jorja Fox.jpg</field>
 <field name="caption">Fox at 23rd Genesis Awards, Beverly Hills, California, March 2009</field>
 <field name="yearsactive">1989-present</field>
-<field name="notablerole">Sara Sidle  in  CSI: Crime Scene Investigation</field>
+<field name="knownfor">Sara Sidle  in  CSI: Crime Scene Investigation</field>
 <field name="othernames">Jorjan Fox</field>
 <field name="birthplace">New York City ,  New York ,  USA</field>
 </doc>
@@ -4978,7 +4908,7 @@
 <field name="birthname">Trina Nicole McGee</field>
 <field name="spouse">Courtland Davis</field>
 <field name="name">Trina McGee</field>
-<field name="alternatename">Tekla Ruchi</field>
+<field name="othernames">Tekla Ruchi</field>
 <field name="birthplace">The Bronx, New York</field>
 </doc>
 <doc>
@@ -5011,7 +4941,6 @@
 <field name="birthplace">Lima, Ohio ,  U.S.</field>
 <field name="education">Bluffton College</field>
 <field name="deathplace">Brentwood, Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Natural causes</field>
 <field name="nationality">American</field>
 <field name="spouse">Sherwood Anderson Diller (m.1939–1965) Warde Donovan (Tatum) (m.1965–1975)</field>
 <field name="name">Phyllis Diller</field>
@@ -5198,12 +5127,9 @@
 <doc>
 <field name="id">697107</field>
 <field name="type">person</field>
-<field name="tradchinesename">溫明娜</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1963-11-20T00:00:00Z</field>
 <field name="website">http://www.ming-na.com</field>
-<field name="simpchinesename">温明娜</field>
-<field name="pinyinchinesename">Wēn Míngnà</field>
 <field name="image">Ming-Na 4.jpg</field>
 <field name="children">2</field>
 <field name="caption">Wen in October 2006</field>
@@ -5335,7 +5261,6 @@
 <doc>
 <field name="id">38336341</field>
 <field name="type">person</field>
-<field name="restingplace">Calvary Cemetery, Santa Barbara, California</field>
 <field name="deathdate">1992-10-06T00:00:00Z</field>
 <field name="occupation">actress</field>
 <field name="deathplace">Montecito, California</field>
@@ -5636,7 +5561,6 @@
 <field name="occupation">Actress</field>
 <field name="occupation">businesswoman</field>
 <field name="occupation">socialite</field>
-<field name="deathcause">Respiratory failure ,  pneumonia</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1919-02-11T00:00:00Z</field>
 <field name="spouse">Eric Valdemar Drimmer (1939-1942) Charles Isaacs (1943-1949) John Elbert Williams (1956-1957) Richard Brown (1959-1973) Frank Gard Jameson, Sr. (1973-1983)</field>
@@ -5676,7 +5600,6 @@
 <field name="knownfor">Burlesque dancing</field>
 <field name="occupation">Dancer</field>
 <field name="occupation">actress</field>
-<field name="deathcause">Suicide</field>
 <field name="deathplace">Chicago ,  Illinois , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1910-07-19T00:00:00Z</field>
@@ -5685,7 +5608,6 @@
 <field name="name">Faith Bacon</field>
 <field name="yearsactive">19281956</field>
 <field name="birthplace">Los Angeles ,  California , U.S.</field>
-<field name="restingplace">Oak Woods Cemetery</field>
 </doc>
 <doc>
 <field name="id">2054178</field>
@@ -5706,7 +5628,7 @@
 <field name="occupation">Director</field>
 <field name="birthdate">1980-02-12T00:00:00Z</field>
 <field name="website">robinbain.net</field>
-<field name="imdbid">1087375</field>
+<field name="imdbe">1087375</field>
 <field name="name">Robin Bain</field>
 <field name="image">Robin-Bain-photos.png</field>
 <field name="caption">Bain</field>
@@ -5716,10 +5638,8 @@
 <doc>
 <field name="id">180971</field>
 <field name="type">person</field>
-<field name="restingplace">Arlington National Cemetery</field>
 <field name="deathdate">1968-04-16T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">pneumonia</field>
 <field name="deathplace">Los Angeles, California, USA</field>
 <field name="birthdate">1893-12-07T00:00:00Z</field>
 <field name="birthname">Fay Okell Bainter</field>
@@ -5879,7 +5799,6 @@
 <field name="yearsactive">1951–2005</field>
 <field name="birthplace">The Bronx , New York, U.S.</field>
 <field name="deathplace">New York City, New York, U.S.</field>
-<field name="deathcause">Uterine cancer</field>
 <field name="spouse">Martin May, Mel Brook</field>
 <field name="name">Anne Bancroft</field>
 </doc>
@@ -5984,7 +5903,7 @@
 <field name="id">7987623</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="residence">Los Angeles ,  California ,  U.S.</field>
+<field name="residenceplace">Los Angeles ,  California ,  U.S.</field>
 <field name="birthdate">1989-04-23T00:00:00Z</field>
 <field name="name">Anastasia Baranova</field>
 <field name="yearsactive">2002–present</field>
@@ -6016,7 +5935,7 @@
 <field name="name">Andrea Barber</field>
 <field name="children">2</field>
 <field name="yearsactive">1982–present</field>
-<field name="notablerole">Kimmy Gibbler  in  Full House</field>
+<field name="knownfor">Kimmy Gibbler  in  Full House</field>
 <field name="birthplace">Los Angeles, California ,  U.S.</field>
 </doc>
 <doc>
@@ -6106,7 +6025,7 @@
 <field name="birthname">Edith Williams</field>
 <field name="spouse">Vincent Price  (1938-1948; divorced); 1 son</field>
 <field name="name">Edith Barrett</field>
-<field name="notablerole">Mrs. Holland ( I Walked with a Zombie )</field>
+<field name="knownfor">Mrs. Holland ( I Walked with a Zombie )</field>
 <field name="birthplace">Roxbury, Massachusetts , U.S.</field>
 </doc>
 <doc>
@@ -6121,9 +6040,7 @@
 <field name="caption">circa 1936</field>
 <field name="yearsactive">1927–1979</field>
 <field name="birthplace">New York City, New York , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
-<field name="deathcause">Leukemia</field>
 <field name="spouse">George Barnes  (1933–36)</field>
 <field name="name">Joan Blondell</field>
 </doc>
@@ -6184,12 +6101,10 @@
 <field name="education">Shaker Heights High School</field>
 <field name="birthplace">Cleveland ,  Ohio ,  U.S.</field>
 <field name="education">University of Miami</field>
-<field name="restingplace">To be launched into  outer space  in 2014</field>
 <field name="knownfor">Christine Chapel Lwaxana Troi</field>
 <field name="deathplace">Bel Air ,  Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Leukemia</field>
 <field name="nationality">American</field>
-<field name="residence">Bel Air, Los Angeles, California</field>
+<field name="residenceplace">Bel Air, Los Angeles, California</field>
 <field name="spouse">Gene Roddenberry, (his death)</field>
 <field name="name">Majel Barrett-Roddenberry</field>
 <field name="othernames">M. Leigh Hudec</field>
@@ -6274,9 +6189,7 @@
 <field name="yearsactive">1985–1989</field>
 <field name="education">Lincoln High School Professional Children's School</field>
 <field name="birthplace">Eugene, Oregon , U.S.</field>
-<field name="restingplace">Ahavai Sholom Cemetery</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Homicide</field>
 <field name="name">Rebecca Schaeffer</field>
 </doc>
 <doc>
@@ -6372,9 +6285,7 @@
 <field name="yearsactive">1939-1959</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
 <field name="education">American Academy of Dramatic Arts</field>
-<field name="restingplace">Woodlawn Cemetery, Bronx</field>
 <field name="deathplace">New York City, New York, U.S.</field>
-<field name="deathcause">Alcohol and drug overdose</field>
 <field name="nationality">American</field>
 <field name="spouse">Bramwell Fletcher, John Howard lI, Robert Wilco</field>
 <field name="name">Diana Barrymore</field>
@@ -6410,7 +6321,6 @@
 <field name="deathdate">2007-05-25T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">ballet dancer</field>
-<field name="deathcause">Pancreatic cancer</field>
 <field name="deathplace">Lynchburg, Virginia , U.S.</field>
 <field name="birthdate">1958-05-16T00:00:00Z</field>
 <field name="birthname">Laurie Lee Bartram</field>
@@ -6436,7 +6346,6 @@
 <field name="yearsactive">1916–1994</field>
 <field name="birthplace">San Mateo, California , U.S.</field>
 <field name="deathplace">Wheeling, West Virginia , U.S.</field>
-<field name="deathcause">Lymphoma</field>
 <field name="nationality">American</field>
 <field name="spouse">Sam Warner, Peverell Marley, Ray Hallam, Theodore Hayes, Theodore Hayes, Henry Mollison, Warner Gilmore, Frank Mancus</field>
 <field name="name">Lina Basquette</field>
@@ -6459,7 +6368,6 @@
 <field name="type">person</field>
 <field name="deathdate">1954-01-31T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">heart attack</field>
 <field name="deathplace">Los Angeles, California , U.S.A.</field>
 <field name="birthdate">1888-04-15T00:00:00Z</field>
 <field name="spouse">Will Jacoby (m.1929-1951; his death) ? (1909–?; divorced; 1 daughter)</field>
@@ -6483,7 +6391,6 @@
 <field name="name">Jeanne Eagels</field>
 <field name="image">Jeanne Eagels in Daddies..jpg</field>
 <field name="birthplace">Kansas City, Missouri , U.S.</field>
-<field name="restingplace">Calvary Cemetery,  Kansas City, Missouri</field>
 </doc>
 <doc>
 <field name="id">61350</field>
@@ -6540,7 +6447,6 @@
 <field name="type">person</field>
 <field name="deathdate">1942-01-16T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Plane crash</field>
 <field name="deathplace">Mount Potosi, Nevada</field>
 <field name="birthdate">1908-10-06T00:00:00Z</field>
 <field name="birthname">Jane Alice Peters</field>
@@ -6565,10 +6471,8 @@
 <field name="yearsactive">1908–1966</field>
 <field name="party">Republican</field>
 <field name="birthplace">Hollidaysburg, Pennsylvania , U.S.</field>
-<field name="restingplace">Rose Hill Cemetery in  Altoona, Pennsylvania</field>
 <field name="knownfor">Writing "Hedda Hopper's Hollywood"</field>
 <field name="deathplace">Hollywood, California , U.S.</field>
-<field name="deathcause">Double  pneumonia</field>
 <field name="nationality">American</field>
 <field name="spouse">DeWolf Hoppe</field>
 <field name="name">Hedda Hopper</field>
@@ -6603,10 +6507,8 @@
 <field name="citizenship">Canadian American</field>
 <field name="yearsactive">1905–1949</field>
 <field name="birthplace">Toronto ,  Ontario ,  Canada</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
-<field name="deathcause">Cerebral hemorrhage</field>
-<field name="residence">Pickfair</field>
+<field name="residenceplace">Pickfair</field>
 <field name="spouse">Owen Moore  (1911–1920) Douglas Fairbanks  (1920–1936) Charles "Buddy" Rogers  (1937–1979)</field>
 <field name="name">Mary Pickford</field>
 <field name="family">Lottie Pickford  (sister) Jack Pickford  (brother)</field>
@@ -6648,9 +6550,7 @@
 <field name="yearsactive">1917–1963</field>
 <field name="education">Santa Cruz High School</field>
 <field name="birthplace">Parsons ,  Labette County Kansas , USA</field>
-<field name="restingplace">Holy Cross Cemetery  in  Culver City, California</field>
 <field name="deathplace">Hollywood, California , U.S.</field>
-<field name="deathcause">Cancer</field>
 <field name="spouse">Tom Gallery (m. 1920-1933; divorced) John E. Woodall (m. 1933-1963; her death)</field>
 <field name="name">ZaSu Pitts</field>
 </doc>
@@ -6669,7 +6569,6 @@
 <field name="birthplace">Deadwood ,  South Dakota ,  U.S.</field>
 <field name="education">University of Washington</field>
 <field name="deathplace">Bremerton ,  Washington , U.S.</field>
-<field name="deathcause">Emphysema</field>
 <field name="spouse">Robert Day  (1968–2010; her death; 1 child)</field>
 <field name="name">Dorothy Provine</field>
 <field name="yearsactive">1957–1976</field>
@@ -6709,7 +6608,6 @@
 <field name="deathdate">2003-12-16T00:00:00Z</field>
 <field name="occupation">Film</field>
 <field name="occupation">television actress</field>
-<field name="deathcause">Pneumonia</field>
 <field name="deathplace">Woodland Hills, Los Angeles ,  California</field>
 <field name="birthdate">1935-10-03T00:00:00Z</field>
 <field name="birthname">Madeleine Roche</field>
@@ -6754,9 +6652,7 @@
 <field name="yearsactive">1928–1991</field>
 <field name="education">Finch College</field>
 <field name="birthplace">Boston, Massachusetts , U.S.</field>
-<field name="restingplace">Roosevelt Memorial Park Trevose, Pennsylvania , U.S.</field>
 <field name="deathplace">San Francisco, California , U.S.</field>
-<field name="deathcause">Alzheimer's ,  Cancer</field>
 <field name="nationality">American</field>
 <field name="spouse">Neil Agnew  (1935-1945; divorced) Martin Gabel   (1946-1986; widowed)</field>
 <field name="name">Arlene Francis</field>
@@ -6766,7 +6662,6 @@
 <field name="type">person</field>
 <field name="deathdate">1966-03-03T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Ovarian cancer</field>
 <field name="deathplace">Hollywood, Los Angeles, California , U.S.</field>
 <field name="birthdate">1917-10-16T00:00:00Z</field>
 <field name="birthname">Alicia Pearce</field>
@@ -6802,7 +6697,6 @@
 <field name="caption">Studio publicity photo</field>
 <field name="yearsactive">1923–1980</field>
 <field name="birthplace">Cardston ,  Alberta ,  Canada</field>
-<field name="restingplace">Hollywood Forever Cemetery  in  Los Angeles ,  California</field>
 </doc>
 <doc>
 <field name="id">4348344</field>
@@ -6851,7 +6745,6 @@
 <field name="id">368358</field>
 <field name="type">person</field>
 <field name="deathdate">2003-11-12T00:00:00Z</field>
-<field name="deathcause">Lung failure</field>
 <field name="deathplace">Sherman Oaks, California , U.S.</field>
 <field name="birthdate">1908-09-15T00:00:00Z</field>
 <field name="birthname">Marianna Dorothy Agnes Letitia McNulty</field>
@@ -6874,7 +6767,6 @@
 <field name="yearsactive">1922–88</field>
 <field name="birthplace">Amarillo ,  Texas ,  U.S.</field>
 <field name="birthname">Ann Lee Doran</field>
-<field name="restingplace">Cremated</field>
 </doc>
 <doc>
 <field name="id">2403871</field>
@@ -6903,9 +6795,7 @@
 <field name="yearsactive">1925–1982</field>
 <field name="education">Westlake School for Girls Venice High School</field>
 <field name="birthplace">Helena, Montana , U.S.</field>
-<field name="restingplace">Forestvale Cemetery, Helena, Montana</field>
 <field name="deathplace">New York City, New York, U.S.</field>
-<field name="deathcause">Surgical complications</field>
 <field name="nationality">American</field>
 <field name="spouse">Arthur Hornblow, Jr. (m. 1936–1942; divorced) John Hertz, Jr. (m. 1942–1944; divorced) Gene Markey (m. 1946–1950; divorced) Howland H. Sargeant (m. 1951–1960; divorced)</field>
 <field name="name">Myrna Loy</field>
@@ -6931,7 +6821,6 @@
 <field name="type">person</field>
 <field name="deathdate">1945-03-04T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Culver City, California ,  United States</field>
 <field name="birthdate">1872-11-07T00:00:00Z</field>
 <field name="name">Lucille La Verne</field>
@@ -6939,7 +6828,6 @@
 <field name="caption">Lucille La Verne</field>
 <field name="yearsactive">1888-1937</field>
 <field name="birthplace">Nashville, Tennessee ,  United States</field>
-<field name="restingplace">Inglewood Park Cemetery ,  United States</field>
 </doc>
 <doc>
 <field name="id">4552924</field>
@@ -6966,7 +6854,6 @@
 <field name="yearsactive">1915–1962</field>
 <field name="birthplace">Bar Harbor, Maine , U.S.</field>
 <field name="deathplace">Ventura, California , U.S.</field>
-<field name="deathcause">Heart attack</field>
 <field name="nationality">American</field>
 <field name="spouse">George Webb, Will Morgan, Ted Lloy</field>
 <field name="name">Esther Ralston</field>
@@ -7074,12 +6961,12 @@
 <field name="type">person</field>
 <field name="awards">Nominated: Best Performance by an Actress in a Mini-Series or Motion Picture Made for TV for  Lakota Woman: Siege at Wounded Knee  (1994)</field>
 <field name="occupation">Actress</field>
-<field name="residence">Alaska, United States</field>
+<field name="residenceplace">Alaska, United States</field>
 <field name="birthdate">1967-07-22T00:00:00Z</field>
 <field name="spouse">Denny Wilson (m.1993–present, filed for divorce; 1 child)</field>
 <field name="name">Irene Bedard</field>
 <field name="children">Quinn Wilson (b. 2003)</field>
-<field name="notablerole">Pocahontas  in  Pocahontas ' Suzy Song ' in  Smoke Signals ' Margaret ' in  Into the West</field>
+<field name="knownfor">Pocahontas  in  Pocahontas ' Suzy Song ' in  Smoke Signals ' Margaret ' in  Into the West</field>
 <field name="yearsactive">1994–present</field>
 <field name="birthplace">Anchorage ,  Alaska , U.S.</field>
 </doc>
@@ -7088,7 +6975,6 @@
 <field name="type">person</field>
 <field name="deathdate">2005-08-08T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Lung cancer</field>
 <field name="deathplace">Northeast Harbor, Maine , U.S.</field>
 <field name="birthdate">1922-10-31T00:00:00Z</field>
 <field name="website">http://www.barbarabelgeddes.com</field>
@@ -7146,7 +7032,6 @@
 <field name="name">Nikki Blonsky</field>
 <field name="image">Nikki Blonsky LF.JPG</field>
 <field name="caption">Blonsky at the Slim-Fast fashion show, January 8, 2008</field>
-<field name="birthname">Nicole Margaret Blonsky</field>
 <field name="yearsactive">2007–present</field>
 <field name="birthplace">Great Neck, New York , USA</field>
 </doc>
@@ -7217,7 +7102,6 @@
 <field name="education">Independence High School</field>
 <field name="birthplace">Cherryvale, Kansas , USA</field>
 <field name="deathplace">Belvedere, California , USA</field>
-<field name="deathcause">Bone cancer, secondary to breast cancer</field>
 <field name="spouse">Joseph Shearer Danneck, Jr. (1928-31) George Koch (1933-40) Philip Ober  (1941-1959) John Dodds (1961-79)</field>
 <field name="name">Vivian Vance</field>
 </doc>
@@ -7254,7 +7138,7 @@
 <field name="type">person</field>
 <field name="religion">Roman Catholic</field>
 <field name="nationality">Canadian</field>
-<field name="residence">Los Angeles ,  Californi</field>
+<field name="residenceplace">Los Angeles ,  Californi</field>
 <field name="birthdate">1972-01-01T00:00:00Z</field>
 <field name="website">http://alexrice.biz/</field>
 <field name="occupation">Actor</field>
@@ -7286,9 +7170,7 @@
 <field name="caption">Faye in 1941</field>
 <field name="yearsactive">1931–98</field>
 <field name="birthplace">New York City, New York ,  U.S.</field>
-<field name="restingplace">Forest Lawn Mausoleum, Cathedral City, California, U.S.</field>
 <field name="deathplace">Rancho Mirage, California , U.S.</field>
-<field name="deathcause">stomach cancer</field>
 <field name="spouse">Phil Harris  (1941–95) (his death) 2 children Tony Martin  (1937–40)</field>
 <field name="name">Alice Faye</field>
 </doc>
@@ -7398,7 +7280,6 @@
 <field name="yearsactive">1940–85</field>
 <field name="birthplace">Michigan City, Indiana ,  U.S.</field>
 <field name="deathplace">Guilford, New York , U.S.</field>
-<field name="deathcause">Brain aneurysm</field>
 <field name="spouse">John Hodiak, (divorced) 1 child Randolph Galt, (divorced) 2 children David Klee, (his death)</field>
 <field name="name">Anne Baxter</field>
 </doc>
@@ -7408,7 +7289,6 @@
 <field name="deathdate">2013-04-08T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
-<field name="deathcause">Complications from  multiple sclerosis</field>
 <field name="deathplace">Bakersfield, California , U.S.</field>
 <field name="birthdate">1942-10-22T00:00:00Z</field>
 <field name="birthname">Annette Joanne Funicello</field>
@@ -7432,7 +7312,7 @@
 <doc>
 <field name="id">707930</field>
 <field name="type">person</field>
-<field name="residence">Phoenix, Arizona , U.S.</field>
+<field name="residenceplace">Phoenix, Arizona , U.S.</field>
 <field name="birthdate">1931-08-23T00:00:00Z</field>
 <field name="website">http://www.barbaraeden.com</field>
 <field name="birthname">Barbara Jean Morehead</field>
@@ -7475,7 +7355,6 @@
 <field name="yearsactive">1922–1986</field>
 <field name="birthplace">Brooklyn, New York ,  U.S.</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
-<field name="deathcause">Congestive heart failure  and  chronic obstructive pulmonary disease</field>
 <field name="spouse">Frank Fay  (1928-1935) Robert Taylor  (1939-1951)</field>
 <field name="name">Barbara Stanwyck</field>
 </doc>
@@ -7603,12 +7482,10 @@
 <doc>
 <field name="id">166777</field>
 <field name="type">person</field>
-<field name="restingplace">Forest Lawn Memorial Park</field>
 <field name="deathdate">2009-12-20T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">voice artist</field>
-<field name="deathcause">Pneumonia  and  anaemia , possible poisoning.</field>
 <field name="deathplace">Los Angeles, California, U.S.</field>
 <field name="birthdate">1977-11-10T00:00:00Z</field>
 <field name="birthname">Brittany Anne Bertolotti</field>
@@ -7788,7 +7665,6 @@
 <field name="occupation">Film</field>
 <field name="occupation">stage</field>
 <field name="occupation">and television actress</field>
-<field name="deathcause">brain cancer</field>
 <field name="deathplace">Highlands, North Carolina</field>
 <field name="birthdate">1935-02-04T00:00:00Z</field>
 <field name="spouse">Walter Beakel  (divorced); Geoffrey Horne  (divorced); Scott Paxton  (1979–2009; her death) Children  Kimberly Horne ,  Michael G. Paxton , and  William Horne</field>
@@ -7923,7 +7799,6 @@
 <field name="name">Doris Packer</field>
 <field name="birthplace">Menominee ,  Michigan , USA</field>
 <field name="education">University of California, Los Angeles</field>
-<field name="restingplace">Forest Lawn Memorial Park  in Glendale</field>
 </doc>
 <doc>
 <field name="id">3968606</field>
@@ -7993,7 +7868,6 @@
 <field name="caption">circa 1940</field>
 <field name="yearsactive">1933–1995</field>
 <field name="birthplace">New Orleans ,  Louisiana , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park (Hollywood Hills)</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="spouse">Herbie Kay, William Ross Howard II</field>
@@ -8016,10 +7890,8 @@
 <doc>
 <field name="id">3793507</field>
 <field name="type">person</field>
-<field name="restingplace">Holy Cross Cemetery</field>
 <field name="deathdate">1957-04-08T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Woodland Hills, Los Angeles, California , U.S.</field>
 <field name="birthdate">1903-04-26T00:00:00Z</field>
 <field name="spouse">William Boyd, Harold Shapir</field>
@@ -8114,9 +7986,7 @@
 <doc>
 <field name="id">335026</field>
 <field name="type">person</field>
-<field name="restingplace">Grand View Memorial Park Cemetery  in  Glendale, California</field>
 <field name="deathdate">1958-01-11T00:00:00Z</field>
-<field name="deathcause">Throat cancer</field>
 <field name="deathplace">Hollywood, Los Angeles, California</field>
 <field name="birthdate">1895-10-21T00:00:00Z</field>
 <field name="spouse">John P. Squire (m.1938-1945)</field>
@@ -8131,7 +8001,6 @@
 <field name="type">person</field>
 <field name="deathdate">1991-03-15T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Pneumonia</field>
 <field name="deathplace">Marina del Rey, California</field>
 <field name="birthdate">1898-10-17T00:00:00Z</field>
 <field name="name">Eileen Sedgwick</field>
@@ -8197,9 +8066,7 @@
 <field name="yearsactive">1929–1987</field>
 <field name="education">Tamalpais High School</field>
 <field name="birthplace">Mill Valley, California , U.S.</field>
-<field name="restingplace">Westwood Village Memorial Park Cemetery</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Colorectal cancer  and  Heart disease</field>
 <field name="nationality">American</field>
 <field name="spouse">Ned Bergen, Brooks Wes</field>
 <field name="name">Eve Arden</field>
@@ -8311,7 +8178,6 @@
 <field name="type">person</field>
 <field name="deathdate">1933-08-28T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Arthritis</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1863-10-10T00:00:00Z</field>
@@ -8319,7 +8185,6 @@
 <field name="name">Helen Dunbar</field>
 <field name="yearsactive">1899–1926</field>
 <field name="birthplace">Philadelphia ,  Pennsylvania , U.S.</field>
-<field name="restingplace">Hollywood Cemetery</field>
 </doc>
 <doc>
 <field name="id">177771</field>
@@ -8392,7 +8257,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
-<field name="residence">Woodside, California , U.S.</field>
+<field name="residenceplace">Woodside, California , U.S.</field>
 <field name="birthdate">1958-04-29T00:00:00Z</field>
 <field name="birthname">Michelle Marie Pfeiffer</field>
 <field name="family">Dedee Pfeiffer  (sister)</field>
@@ -8425,7 +8290,6 @@
 <field name="type">person</field>
 <field name="deathdate">1979-06-22T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Heart failure</field>
 <field name="deathplace">Woodland Hills ,  Los Angeles California</field>
 <field name="birthdate">1896-06-07T00:00:00Z</field>
 <field name="name">Hope Summers</field>
@@ -8435,7 +8299,6 @@
 <field name="othernames">Hope Sommers</field>
 <field name="birthplace">Mattoon, Illinois , U.S.</field>
 <field name="birthname">Sarah Hope Summers</field>
-<field name="restingplace">Mountain View Cemetery in  Walla Walla ,  Washington</field>
 </doc>
 <doc>
 <field name="id">177745</field>
@@ -8494,7 +8357,6 @@
 <field name="image">Jane Withers Argentinean Magazine AD.jpg</field>
 <field name="yearsactive">1929-present</field>
 <field name="birthplace">Atlanta ,  Georgia , USA</field>
-<field name="boxwidth">255px</field>
 </doc>
 <doc>
 <field name="id">183753</field>
@@ -8510,7 +8372,6 @@
 <field name="yearsactive">1932–1993</field>
 <field name="birthplace">Saint Joseph, Missouri , U.S.</field>
 <field name="deathplace">Rancho Mirage, California , U.S.</field>
-<field name="deathcause">Natural causes</field>
 <field name="spouse">Myron Futterrman (m. 1937–1938; divorced) Ronald Reagan (m. 1940–1948; divorced) Fred Karger (m. 1952–1955, 1961–1965; divorced twice)</field>
 <field name="name">Jane Wyman</field>
 </doc>
@@ -8546,7 +8407,6 @@
 <field name="id">409842</field>
 <field name="type">person</field>
 <field name="deathdate">1967-06-29T00:00:00Z</field>
-<field name="signaturesize">100px</field>
 <field name="parents">Herbert William Palmer (1904–1936),Vera Jeffrey Palmer Peers (1903–2000)</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
@@ -8562,9 +8422,7 @@
 <field name="yearsactive">1954–67</field>
 <field name="education">Southern Methodist University ,  University of Texas at Austin ,  University of California, Los Angeles</field>
 <field name="birthplace">Bryn Mawr, Pennsylvania , U.S.</field>
-<field name="restingplace">Fairview Cemetery (Pen Argyl, Pennsylvania)</field>
 <field name="deathplace">Slidell, Louisiana , U.S.</field>
-<field name="deathcause">Traffic accident</field>
 <field name="awards">Theatre World Award  for  Promising Personality  (1956), Golden Globe  for  New Star Of The Year – Actress  (1957)</field>
 <field name="spouse">Paul Mansfield,,Miklós Hargitay,,Matt Cimbe</field>
 <field name="name">Jayne Mansfield</field>
@@ -8587,7 +8445,6 @@
 <field name="id">16883727</field>
 <field name="type">person</field>
 <field name="deathdate">1989-01-03T00:00:00Z</field>
-<field name="deathcause">Liver cancer</field>
 <field name="deathplace">Van Nuys , California. U.S.</field>
 <field name="birthdate">1923-04-15T00:00:00Z</field>
 <field name="birthname">Jean Donahue</field>
@@ -8655,7 +8512,6 @@
 <field name="name">Jessie Royce Landis</field>
 <field name="image">Jessie Royce Landis.jpg</field>
 <field name="birthplace">Chicago, Illinois , U.S.</field>
-<field name="restingplace">Branchville Cemetery, Ridgefield, Connecticut</field>
 </doc>
 <doc>
 <field name="id">14947154</field>
@@ -8863,7 +8719,7 @@
 <field name="birthdate">1914-01-16T00:00:00Z</field>
 <field name="name">Katy Hughes</field>
 <field name="yearsactive">1930s &amp; 1940s</field>
-<field name="notablerole">Gwen Andrews in  the first Dick Tracy serial</field>
+<field name="knownfor">Gwen Andrews in  the first Dick Tracy serial</field>
 <field name="othernames">Catherine Hughes</field>
 <field name="birthname">Catherine Mary Rhoads</field>
 <field name="birthplace">Irlam ,  Salford ,  United Kingdom</field>
@@ -9000,7 +8856,6 @@
 <field name="caption">Leila Hyams</field>
 <field name="yearsactive">1924 – 1936</field>
 <field name="birthplace">New York City, New York , U.S.</field>
-<field name="restingplace">Cremated, Ashes scattered</field>
 </doc>
 <doc>
 <field name="id">30789098</field>
@@ -9142,7 +8997,6 @@
 <field name="spouse">Grant Withers (m.1930–1931; annulled) Tom Lewis (m.1940–1969; divorced) Jean Louis (m.1993–1997; his death)</field>
 <field name="name">Loretta Young</field>
 <field name="partner">Clark Gable</field>
-<field name="restingplace">Holy Cross Cemetery</field>
 </doc>
 <doc>
 <field name="id">12727521</field>
@@ -9236,7 +9090,7 @@
 <field name="name">Lynda Day George</field>
 <field name="image">File:Peter Graves Greg Morris Lynda Day George Mission Impossible 1972.JPG</field>
 <field name="caption">George with  Peter Graves  and  Greg Morris  on  Mission: Impossible  in 1972.</field>
-<field name="notablerole">Lisa Casey  in Mission: Impossible Sue McSween  in Chisum Linda Quales  in Rich Man, Poor Man Fausta Grables  in Wonder Woman Terry Marsh  in Day of the Animals</field>
+<field name="knownfor">Lisa Casey  in Mission: Impossible Sue McSween  in Chisum Linda Quales  in Rich Man, Poor Man Fausta Grables  in Wonder Woman Terry Marsh  in Day of the Animals</field>
 <field name="yearsactive">1961–1989</field>
 <field name="birthplace">San Marcos, Texas , United States</field>
 </doc>
@@ -9248,7 +9102,6 @@
 <field name="occupation">director</field>
 <field name="occupation">screenwriter</field>
 <field name="occupation">producer</field>
-<field name="deathcause">Tuberculosis</field>
 <field name="deathplace">Monrovia, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1892-11-09T00:00:00Z</field>
@@ -9259,7 +9112,6 @@
 <field name="yearsactive">1910–1927</field>
 <field name="othernames">Mabel Normand-Cody</field>
 <field name="birthplace">New Brighton, Staten Island , U.S.</field>
-<field name="restingplace">Calvary Cemetery</field>
 </doc>
 <doc>
 <field name="id">12874930</field>
@@ -9280,7 +9132,6 @@
 <field name="type">person</field>
 <field name="deathdate">1947-11-04T00:00:00Z</field>
 <field name="occupation">Actor</field>
-<field name="deathcause">Pneumonia</field>
 <field name="deathplace">Hollywood, California</field>
 <field name="birthdate">1878-07-17T00:00:00Z</field>
 <field name="spouse">James Gordon (?-1941; his death)</field>
@@ -9404,7 +9255,6 @@
 <field name="occupation">film producer</field>
 <field name="occupation">screenwriter</field>
 <field name="occupation">philanthropist</field>
-<field name="deathcause">Stomach cancer</field>
 <field name="deathplace">Hollywood, Los Angeles, California, U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1897-01-03T00:00:00Z</field>
@@ -9416,7 +9266,6 @@
 <field name="yearsactive">1917–1937</field>
 <field name="family">Rosemary Davies  (sister) Reine Davies  (sister)</field>
 <field name="birthplace">Brooklyn , New York, U.S.</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 </doc>
 <doc>
 <field name="id">14616684</field>
@@ -9669,7 +9518,6 @@
 <field name="type">person</field>
 <field name="deathdate">2000-10-26T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Colorectal cancer</field>
 <field name="deathplace">Woodland Hills, Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1910-07-20T00:00:00Z</field>
@@ -9687,7 +9535,6 @@
 <field name="type">person</field>
 <field name="deathdate">1974-01-02T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cerebral thrombosis</field>
 <field name="deathplace">Palm Springs, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1894-04-03T00:00:00Z</field>
@@ -9697,7 +9544,6 @@
 <field name="yearsactive">1912–1930</field>
 <field name="othernames">Jean Dolores Genevieve Millett</field>
 <field name="birthplace">Argenta, Illinois , U.S.</field>
-<field name="restingplace">Desert Memorial Park</field>
 </doc>
 <doc>
 <field name="id">5027028</field>
@@ -9715,7 +9561,7 @@
 <field name="name">Noel Neill</field>
 <field name="image">Noel Neill.jpg</field>
 <field name="caption">Noel Neill in February 2008</field>
-<field name="notablerole">Lois Lane  on  The Adventures of Superman</field>
+<field name="knownfor">Lois Lane  on  The Adventures of Superman</field>
 <field name="yearsactive">1940–present</field>
 <field name="birthplace">Minneapolis, Minnesota</field>
 </doc>
@@ -9746,7 +9592,6 @@
 <field name="children">Arthur Patrick Lake Marion Rose Lake</field>
 <field name="othernames">Patricia Van Cleve Lake Patricia Van Cleeve Lake</field>
 <field name="birthplace">outside  Paris ,  France</field>
-<field name="restingplace">Douras mausoleum Hollywood Forever Cemetery</field>
 </doc>
 <doc>
 <field name="id">210214</field>
@@ -9762,11 +9607,9 @@
 <field name="education">Knoxville High School</field>
 <field name="birthplace">Packard, Kentucky ,  U.S.</field>
 <field name="education">Northwestern University</field>
-<field name="restingplace">Abbey of Regina Laudis</field>
 <field name="deathplace">Edgartown, Massachusetts ,  U.S.</field>
-<field name="deathcause">Lung Cancer</field>
 <field name="nationality">American</field>
-<field name="residence">Edgartown, Massachusetts</field>
+<field name="residenceplace">Edgartown, Massachusetts</field>
 <field name="spouse">Roald Dahl  (1953–1983; divorced)</field>
 <field name="name">Patricia Neal</field>
 <field name="partner">Gary Cooper</field>
@@ -9864,7 +9707,7 @@
 <field name="birthdate">1931-12-19T00:00:00Z</field>
 <field name="spouse">Alphonse Curon (divorced) Bozo Miller</field>
 <field name="name">Reiko Sato</field>
-<field name="notablerole">Helen Chao  in &lt;BR&gt;'' Flower Drum Song</field>
+<field name="knownfor">Helen Chao  in &lt;BR&gt;'' Flower Drum Song</field>
 <field name="yearsactive">1950-1963</field>
 <field name="birthplace">Los Angeles, California ,  USA</field>
 </doc>
@@ -9875,7 +9718,7 @@
 <field name="occupation">Actor</field>
 <field name="deathplace">Hollywood, California</field>
 <field name="birthdate">1894-10-02T00:00:00Z</field>
-<field name="imdbid">0354282</field>
+<field name="imdbe">0354282</field>
 <field name="name">Rhea Haines</field>
 <field name="image">Rhea Haines 01.JPG</field>
 <field name="caption">“Who’s Who in the Film World, 1914</field>
@@ -9909,7 +9752,6 @@
 <doc>
 <field name="id">2383372</field>
 <field name="type">person</field>
-<field name="restingplace">Holy Cross Cemetery, Culver City ,  Los Angeles County , California</field>
 <field name="deathdate">1965-10-31T00:00:00Z</field>
 <field name="deathplace">Hollywood, Los Angeles, California , U.S.</field>
 <field name="birthdate">1913-08-13T00:00:00Z</field>
@@ -9958,7 +9800,6 @@
 <field name="type">person</field>
 <field name="deathdate">1973-11-10T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Circulatory shock</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="birthdate">1892-04-08T00:00:00Z</field>
 <field name="spouse">Harry Myers Truitt Hughes</field>
@@ -9976,7 +9817,7 @@
 <field name="occupation">Actor</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1893-02-06T00:00:00Z</field>
-<field name="imdbid">0747329</field>
+<field name="imdbe">0747329</field>
 <field name="name">Ruth Royce</field>
 <field name="yearsactive">1919  -  1927</field>
 <field name="birthplace">Versailles, Missouri</field>
@@ -9985,7 +9826,6 @@
 <field name="id">16794555</field>
 <field name="type">person</field>
 <field name="deathdate">1969-12-03T00:00:00Z</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Perth Amboy, New Jersey, U.S.</field>
 <field name="birthdate">1914-04-24T00:00:00Z</field>
 <field name="name">Ruth White</field>
@@ -10076,9 +9916,7 @@
 <field name="caption">Shirley Mason 1923</field>
 <field name="birthplace">Brooklyn, New York</field>
 <field name="othernames">Leonie Flugrath</field>
-<field name="restingplace">Westwood Memorial Park in Los Angeles</field>
 <field name="deathplace">Los Angeles, California</field>
-<field name="deathcause">Cancer</field>
 <field name="name">Shirley Mason</field>
 <field name="yearsactive">1910-1929</field>
 </doc>
@@ -10135,7 +9973,6 @@
 <field name="caption">1973 promotional image of  Mannix</field>
 <field name="birthplace">New York City, New York ,  U.S.</field>
 <field name="deathplace">New York City, New York , U.S.</field>
-<field name="deathcause">Thrombosis</field>
 <field name="nationality">American</field>
 <field name="spouse">Christopher Jones  (1965-1968; divorced; 1 child)</field>
 <field name="name">Susan Strasberg</field>
@@ -10370,7 +10207,7 @@
 <field name="name">Rachel Korine</field>
 <field name="image">Rachel Korine, Spring Breakers 2013.jpg</field>
 <field name="caption">Rachel at the  Spring Breakers  premiere in Paris, 2013</field>
-<field name="brother">Cary Simon</field>
+<field name="siblings">Cary Simon</field>
 <field name="yearsactive">2007–present</field>
 </doc>
 <doc>
@@ -10405,7 +10242,7 @@
 <field name="name">Alison Becker</field>
 <field name="image">AlisonBecker06.jpg</field>
 <field name="caption">Becker in 2006</field>
-<field name="url">www.alisonbecker.com</field>
+<field name="website">www.alisonbecker.com</field>
 <field name="yearsactive">2003-present</field>
 <field name="birthplace">Allamuchy Township, New Jersey ,  U.S.</field>
 </doc>
@@ -10611,7 +10448,6 @@
 <field name="yearsactive">1964–1982</field>
 <field name="othernames">Brenda Benét</field>
 <field name="birthplace">Hollywood, California ,  U.S.</field>
-<field name="restingplace">Cremated</field>
 </doc>
 <doc>
 <field name="id">28257190</field>
@@ -10755,7 +10591,6 @@
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="occupation">photographer</field>
-<field name="deathcause">Airplane Hijacking and Crash ( American Airlines Flight 11 )</field>
 <field name="deathplace">World Trade Center ,  New York City, New York ,  U.S.</field>
 <field name="birthdate">1948-04-14T00:00:00Z</field>
 <field name="birthname">Berinthia Berenson</field>
@@ -10879,7 +10714,7 @@
 <field name="children">1</field>
 <field name="image">Greg Lauren and Elizabeth Berkley.jpg</field>
 <field name="caption">with husband Greg Lauren (2008)</field>
-<field name="goldenraspberryawards">Worst Actress ,1995  Showgirls ,' Worst New Star ',1995  Showgirls</field>
+<field name="awards">Worst Actress ,1995  Showgirls ,' Worst New Star ',1995  Showgirls</field>
 <field name="yearsactive">1986–present</field>
 <field name="birthplace">Farmington Hills, Michigan , United States</field>
 </doc>
@@ -10896,7 +10731,7 @@
 <field name="image">PaulaGarcésJulissaBermudezMar2011.jpg</field>
 <field name="caption">Bermudez (right) with  Paula Garcés  in March 2011</field>
 <field name="yearsactive">2005–present</field>
-<field name="notablerole">Former host of  106 &amp; Park</field>
+<field name="knownfor">Former host of  106 &amp; Park</field>
 <field name="birthplace">Dominican Republic</field>
 </doc>
 <doc>
@@ -10998,7 +10833,6 @@
 <field name="yearsactive">1971–2007</field>
 <field name="birthplace">Blue Island , Illinois, U.S.</field>
 <field name="deathplace">Los Angeles, California, U.S.</field>
-<field name="deathcause">Ovarian cancer</field>
 <field name="spouse">Jon Voight  (1971–1980)</field>
 <field name="name">Marcheline Bertrand</field>
 <field name="partner">Bill Day (1978–1989) John Trudell  (–2007)</field>
@@ -11149,9 +10983,7 @@
 <field name="image">Nina Foch in An American in Paris trailer.jpg</field>
 <field name="caption">from the trailer for  An American in Paris  (1951)</field>
 <field name="birthplace">Leiden ,  Netherlands</field>
-<field name="restingplace">Forest Lawn Memorial Park Cemetery  in  Glendale , California</field>
 <field name="deathplace">Los Angeles ,  California , USA</field>
-<field name="deathcause">Kidney disease</field>
 <field name="spouse">James Lipton  (1954–59; divorced),Dennis Brito (1959–63; divorced),Michael Dewell (1967–93; divorced)</field>
 <field name="name">Nina Foch</field>
 <field name="yearsactive">1943–2007</field>
@@ -11224,7 +11056,6 @@
 <field name="birthdate">1945-04-02T00:00:00Z</field>
 <field name="birthname">Lydia Susanna Hunter</field>
 <field name="name">Linda Hunt</field>
-<field name="sexualorientation">lesbian</field>
 <field name="partner">Karen Klein</field>
 <field name="yearsactive">1976–present</field>
 <field name="birthplace">Morristown, New Jersey , United States</field>
@@ -11467,7 +11298,7 @@
 <doc>
 <field name="id">6742412</field>
 <field name="type">person</field>
-<field name="aliasname">Cindy</field>
+<field name="othernames">Cindy</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1970-01-27T00:00:00Z</field>
 <field name="spouse">Ed Lin  (2002-present)</field>
@@ -11483,7 +11314,7 @@
 <field name="occupation">screenwriter</field>
 <field name="occupation">actress</field>
 <field name="parents">Francis Ford Coppola  (father) Eleanor Coppola  (mother)</field>
-<field name="othernamess">Domino Coppola</field>
+<field name="othernames">Domino Coppola</field>
 <field name="birthdate">1971-05-14T00:00:00Z</field>
 <field name="birthname">Sofia Carmina Coppola</field>
 <field name="image">Sofia Coppola Cannes 2013.jpg</field>
@@ -11510,7 +11341,6 @@
 <field name="image">Life Ball 2013 - magenta carpet Carmen Electra 05.jpg</field>
 <field name="caption">Carmen Electra at  Life Ball  2013,  Vienna .</field>
 <field name="birthplace">Sharonville, Ohio , U.S.</field>
-<field name="measurements">36C-23-35</field>
 <field name="nationality">American</field>
 <field name="awards">MTV Movie Award for Best Kiss</field>
 <field name="spouse">Dennis Rodman  (1998–1999; divorced) ,  Dave Navarro  (2003–2007; divorced)</field>
@@ -11567,10 +11397,8 @@
 <doc>
 <field name="id">765962</field>
 <field name="type">person</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="deathdate">1967-08-13T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">Woodland Hills ,  California , U.S.</field>
 <field name="birthdate">1879-10-15T00:00:00Z</field>
 <field name="name">Jane Darwell</field>
@@ -11586,7 +11414,6 @@
 <field name="deathdate">2010-11-05T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="deathplace">Lakeville, Connecticut , USA</field>
-<field name="deathcause">Leukemia</field>
 <field name="birthdate">1944-04-30T00:00:00Z</field>
 <field name="spouse">David Rabe, (her death)</field>
 <field name="name">Jill Clayburgh</field>
@@ -11594,7 +11421,6 @@
 <field name="caption">Jill Clayburgh in  Griffin and Phoenix  (1976)</field>
 <field name="yearsactive">1968–2010</field>
 <field name="birthplace">New York City, New York , USA</field>
-<field name="restingplace">Cremated</field>
 </doc>
 <doc>
 <field name="id">704972</field>
@@ -11634,7 +11460,7 @@
 <field name="birthname">Rachel Lemanski</field>
 <field name="spouse">Ayal Miodovnik</field>
 <field name="name">Rachel York</field>
-<field name="notablerole">Katherine in  Kiss Me, Kate</field>
+<field name="knownfor">Katherine in  Kiss Me, Kate</field>
 <field name="yearsactive">1990-present</field>
 <field name="birthplace">Orlando, Florida ,  USA</field>
 </doc>
@@ -11653,9 +11479,7 @@
 <field name="education">Minneapolis Central High School</field>
 <field name="birthplace">Valley City, North Dakota , U.S.</field>
 <field name="education">University of Washington</field>
-<field name="restingplace">Ketchum Cemetery</field>
 <field name="deathplace">Ketchum, Idaho , U.S.</field>
-<field name="deathcause">Heart failure</field>
 <field name="nationality">American</field>
 <field name="spouse">Roger Pryor (m.1936-1943) Robert Sterling  (m.1943-1949)</field>
 <field name="name">Ann Sothern</field>
@@ -11674,9 +11498,7 @@
 <field name="yearsactive">1982–1995</field>
 <field name="education">Beverly Hills High School Professional Children's School</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
-<field name="restingplace">Eden Memorial Park Cemetery</field>
 <field name="deathplace">Hollywood ,  Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Heart attack  caused by accidental drug overdose</field>
 <field name="nationality">American</field>
 <field name="spouse">Luca Scalisi, Joe Meyers (m. ?–2002)</field>
 <field name="name">Catya Sassoon</field>
@@ -11692,9 +11514,7 @@
 <field name="birthdate">1904-10-26T00:00:00Z</field>
 <field name="children">2</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
-<field name="restingplace">Milford Cemetery</field>
 <field name="deathplace">Old Brookville, New York , U.S.</field>
-<field name="deathcause">Asphyxia  due to  carbon monoxide poisoning</field>
 <field name="nationality">American</field>
 <field name="spouse">William Gasto</field>
 <field name="name">Rosamond Pinchot</field>
@@ -11705,7 +11525,6 @@
 <field name="id">3429112</field>
 <field name="type">person</field>
 <field name="deathdate">1941-05-11T00:00:00Z</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">North Hollywood, Los Angeles, California , U.S.</field>
 <field name="birthdate">1907-01-10T00:00:00Z</field>
 <field name="spouse">Alan Davis, Albert G. Robert</field>
@@ -11715,7 +11534,6 @@
 <field name="yearsactive">1923–1940</field>
 <field name="birthplace">Pine Bluff, Arkansas , U.S.</field>
 <field name="birthname">Winona Sammon</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 </doc>
 <doc>
 <field name="id">2242004</field>
@@ -11729,7 +11547,6 @@
 <field name="birthplace">Appalachia ,  Wise County Virginia , USA</field>
 <field name="othernames">Peggy Castle Peggie Call</field>
 <field name="deathplace">Hollywood ,  California</field>
-<field name="deathcause">Cirrhosis of the liver</field>
 <field name="spouse">Revis Call, Robert H. Rains, William McGarry, Arthur Morganster</field>
 <field name="name">Peggie Castle</field>
 <field name="birthname">Peggy Blair</field>
@@ -11874,7 +11691,6 @@
 <field name="yearsactive">1964–1999</field>
 <field name="birthplace">Boston, Massachusetts</field>
 <field name="deathplace">New York City, New York</field>
-<field name="deathcause">Ovarian cancer</field>
 <field name="spouse">John Hansbury (October–December 1999; her death)</field>
 <field name="name">Madeline Kahn</field>
 </doc>
@@ -11890,9 +11706,7 @@
 <field name="caption">1940s</field>
 <field name="yearsactive">1939–1965</field>
 <field name="birthplace">Dallas ,  Texas ,  U.S.</field>
-<field name="restingplace">Union Hill Cemetery</field>
 <field name="deathplace">Glenview, Illinois , U.S.</field>
-<field name="deathcause">Burns sustained in house fire</field>
 <field name="spouse">Peverell Marley  (m.1942-1951) 1 child Phillip Liebmann (m.1954-1955) Merle Roy Robertson (m.1957-1963)</field>
 <field name="name">Linda Darnell</field>
 <field name="partner">Giulliano Scicolone</field>
@@ -11949,9 +11763,7 @@
 <field name="image">Lottie Pickford.jpg</field>
 <field name="yearsactive">1909–1925</field>
 <field name="birthplace">Toronto ,  Ontario , Canada</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Heart attack</field>
 <field name="spouse">Alfred Rupp, Allan Forrest, Russel O. Gillard, John William Loc</field>
 <field name="name">Lottie Pickford</field>
 <field name="family">Mary Pickford  (sister) Jack Pickford  (brother)</field>
@@ -11976,7 +11788,6 @@
 <field name="type">person</field>
 <field name="deathdate">2002-03-21T00:00:00Z</field>
 <field name="occupation">Child actress</field>
-<field name="deathcause">Natural causes</field>
 <field name="deathplace">Granada Hills, California , U.S.</field>
 <field name="birthdate">1928-09-03T00:00:00Z</field>
 <field name="name">Jacquie Lyn</field>
@@ -12196,7 +12007,6 @@
 <field name="id">3267419</field>
 <field name="type">person</field>
 <field name="deathdate">1995-12-09T00:00:00Z</field>
-<field name="deathcause">congestive heart failure</field>
 <field name="deathplace">New York City, New York , U.S.</field>
 <field name="birthdate">1921-11-21T00:00:00Z</field>
 <field name="birthname">Vivian Stapleton</field>
@@ -12220,7 +12030,6 @@
 <field name="education">Manual Arts High School</field>
 <field name="birthplace">Sarnia ,  Ontario ,  Canada</field>
 <field name="deathplace">Hollywood ,  Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Acute alcoholism</field>
 <field name="nationality">Canadian American</field>
 <field name="spouse">Sonny Gerke, Kenneth Harla</field>
 <field name="name">Marie Prevost</field>
@@ -12236,9 +12045,7 @@
 <field name="caption">Virginia Rappe circa 1920</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
 <field name="othernames">Virginia Rappae</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 <field name="deathplace">San Francisco, California , U.S.</field>
-<field name="deathcause">Ruptured  bladder  and secondary  peritonitis</field>
 <field name="name">Virginia Rappe</field>
 <field name="yearsactive">1916-1921</field>
 </doc>
@@ -12252,9 +12059,7 @@
 <field name="image">Janet Blair Henry Fonda Smith Family 1970.JPG</field>
 <field name="caption">Blair and  Henry Fonda  from the television program  The Smith Family</field>
 <field name="birthplace">Altoona, Pennsylvania , U.S.</field>
-<field name="restingplace">Woodlawn Memorial Cemetery, Santa Monica</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Complications from  pneumonia</field>
 <field name="spouse">Lou Busch, Nick May</field>
 <field name="name">Janet Blair</field>
 <field name="birthname">Martha Jane Lafferty</field>
@@ -12321,7 +12126,6 @@
 <field name="occupation">Actress</field>
 <field name="occupation">director</field>
 <field name="occupation">producer</field>
-<field name="deathcause">Esophageal cancer</field>
 <field name="deathplace">Edgartown, Massachusetts , USA</field>
 <field name="birthdate">1926-02-20T00:00:00Z</field>
 <field name="birthname">Nancy Ann Whitney</field>
@@ -12336,14 +12140,12 @@
 <field name="deathdate">1969-06-19T00:00:00Z</field>
 <field name="occupation">Film</field>
 <field name="occupation">television actress</field>
-<field name="deathcause">Fall</field>
 <field name="deathplace">Pasadena ,  California , USA</field>
 <field name="birthdate">1899-05-31T00:00:00Z</field>
 <field name="family">Milburn Stone  (uncle)</field>
 <field name="name">Madge Blake</field>
 <field name="yearsactive">1949–69</field>
 <field name="birthplace">Kinsley ,  Kansas , USA</field>
-<field name="restingplace">Grand View Memorial Park Cemetery  in  Glendale ,  California , USA</field>
 </doc>
 <doc>
 <field name="id">12734599</field>
@@ -12372,7 +12174,7 @@
 <field name="type">person</field>
 <field name="deathdate">1959-10-21T00:00:00Z</field>
 <field name="deathplace">Los Angeles , U.S.</field>
-<field name="cildren">Betty Lou Nedell</field>
+<field name="children">Betty Lou Nedell</field>
 <field name="birthdate">1899-08-21T00:00:00Z</field>
 <field name="birthname">Olive Blakeney</field>
 <field name="spouse">Bernard Nedell  (?-1959) (her death) 1 child</field>
@@ -12479,7 +12281,6 @@
 <doc>
 <field name="id">2211870</field>
 <field name="type">person</field>
-<field name="genre">Country ,  rock ,  pop</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer-songwriter</field>
 <field name="occupation">model</field>
@@ -12487,7 +12288,6 @@
 <field name="name">Sasha Pieterse</field>
 <field name="image">Sasha_Pieterse_2013-11-18_23-21.jpg</field>
 <field name="yearsactive">2002–present</field>
-<field name="instrument">Vocals</field>
 <field name="birthplace">Johannesburg ,  Gauteng ,  South Africa</field>
 </doc>
 <doc>
@@ -12569,7 +12369,7 @@
 <field name="occupation">singer</field>
 <field name="occupation">writer</field>
 <field name="nationality">United States</field>
-<field name="residence">Los Angeles</field>
+<field name="residenceplace">Los Angeles</field>
 <field name="birthdate">1979-06-28T00:00:00Z</field>
 <field name="website">http://www.feliciaday.com/</field>
 <field name="birthname">Kathryn Felicia Day</field>
@@ -12618,7 +12418,7 @@
 <field name="name">Martha Byrne</field>
 <field name="image">ATWTafscheid4.jpg</field>
 <field name="caption">Byrne on the ATWT farewell event in Hilversum (The Netherlands).</field>
-<field name="notablerole">Lily Walsh Snyder ,  As the World Turns</field>
+<field name="knownfor">Lily Walsh Snyder ,  As the World Turns</field>
 <field name="birthplace">Ridgewood, New Jersey , U.S.</field>
 </doc>
 <doc>
@@ -12681,7 +12481,7 @@
 <field name="birthdate">1987-05-05T00:00:00Z</field>
 <field name="birthname">Samantha Christine Cope</field>
 <field name="name">Samantha Cope</field>
-<field name="notablerole">Andrea  in  Drake &amp; Josh ' Decoy ' in  To Catch a Predator  ( Dateline NBC ) ' Samantha ' in  Movin' In</field>
+<field name="knownfor">Andrea  in  Drake &amp; Josh ' Decoy ' in  To Catch a Predator  ( Dateline NBC ) ' Samantha ' in  Movin' In</field>
 <field name="yearsactive">2006 – present</field>
 <field name="birthplace">Salt Lake City ,  Utah , U.S.</field>
 </doc>
@@ -12698,7 +12498,6 @@
 <field name="yearsactive">1937–1986</field>
 <field name="education">Long Beach Polytechnic High School</field>
 <field name="birthplace">Roosevelt, Utah ,  U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park, Hollywood Hills</field>
 <field name="deathplace">Ivins, Utah , U.S.</field>
 <field name="nationality">American</field>
 <field name="spouse">Ray Hendricks, Leo Durocher, Michael Grilikhe</field>
@@ -12842,7 +12641,6 @@
 <field name="caption">(1954)</field>
 <field name="yearsactive">1941–1991</field>
 <field name="birthplace">Marysvale, Utah ,  U.S.</field>
-<field name="restingplace">Marysvale, Utah</field>
 <field name="deathplace">Beverly Hills, California , U.S.</field>
 <field name="spouse">Ted Steele (1946) annulled 1 stepson Jack Hupp (1954–2000, her death) 1 child</field>
 <field name="name">Marie Windsor</field>
@@ -12963,9 +12761,7 @@
 <field name="image">Annie Awards Lucille Bliss.jpg</field>
 <field name="caption">Lucille Bliss at the  34th Annie Awards</field>
 <field name="birthplace">New York City, New York , U.S.</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 <field name="deathplace">Costa Mesa, California , U.S.</field>
-<field name="deathcause">Natural causes   Lucille Bliss dies at 96; voice of Crusader Rabbit and Smurfette  Los Angeles Times. Retrieved November 15, 2012.</field>
 <field name="name">Lucille Bliss</field>
 <field name="yearsactive">1935–2012</field>
 </doc>
@@ -13128,7 +12924,7 @@
 <field name="birthdate">1977-09-24T00:00:00Z</field>
 <field name="spouse">Lukas Reiter  (2005 - present) Neil Shapiro (2000 - 2002)</field>
 <field name="name">Elizabeth Bogush</field>
-<field name="notablerole">Alison Rowan  in  October Road</field>
+<field name="knownfor">Alison Rowan  in  October Road</field>
 <field name="birthplace">Perth Amboy, New Jersey</field>
 </doc>
 <doc>
@@ -13180,7 +12976,6 @@
 <field name="caption">The Unholy Wife  (1957)</field>
 <field name="yearsactive">1895–1976</field>
 <field name="birthplace">Valparaiso, Indiana , U.S.</field>
-<field name="restingplace">Cremated; ashes scattered into the  Pacific Ocean</field>
 </doc>
 <doc>
 <field name="id">15765317</field>
@@ -13219,7 +13014,6 @@
 <field name="yearsactive">1920–1929</field>
 <field name="othernames">Priscilla B. Woolfan</field>
 <field name="birthplace">Washington, D.C. , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park, Hollywood Hills</field>
 </doc>
 <doc>
 <field name="id">9048</field>
@@ -13234,7 +13028,6 @@
 <field name="yearsactive">1971–1999</field>
 <field name="birthplace">Maywood, California , U.S.</field>
 <field name="deathplace">Moore, Oklahoma , U.S.</field>
-<field name="deathcause">Suicide</field>
 <field name="spouse">Lanny Lamber</field>
 <field name="name">Dana Plato</field>
 </doc>
@@ -13294,7 +13087,7 @@
 <field name="name">Noreen Corcoran</field>
 <field name="image">Bachelor father 1961.jpg</field>
 <field name="caption">Corcoran with  John Forsythe  on  Bachelor Father  (1961)</field>
-<field name="notablerole">Kelly Gregg on  Bachelor Father</field>
+<field name="knownfor">Kelly Gregg on  Bachelor Father</field>
 <field name="birthname">Noreen M. Corcoran</field>
 <field name="birthplace">Quincy ,  Massachusetts ,  USA</field>
 </doc>
@@ -13562,7 +13355,7 @@
 <field name="spouse">Zubin Mehta  (1969-present) (2 children)</field>
 <field name="name">Nancy Kovack</field>
 <field name="image">thumb</field>
-<field name="notablerole">Medea  in  Jason and the Argonauts</field>
+<field name="knownfor">Medea  in  Jason and the Argonauts</field>
 <field name="yearsactive">1959–1976</field>
 <field name="birthplace">Flint, Michigan , United States</field>
 </doc>
@@ -13579,13 +13372,11 @@
 <field name="caption">from the trailer for  The Mating Season  (1951)</field>
 <field name="yearsactive">1947–68</field>
 <field name="birthplace">Brooklyn, New York , U.S.</field>
-<field name="restingplace">Cremated</field>
 </doc>
 <doc>
 <field name="id">2861064</field>
 <field name="type">person</field>
 <field name="deathdate">2001-05-26T00:00:00Z</field>
-<field name="deathcause">Heart Failure</field>
 <field name="deathplace">Studio City, Los Angeles, California , U.S.</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1934-03-04T00:00:00Z</field>
@@ -13638,7 +13429,7 @@
 <field name="awards">Two Young Artist Awards for Leading Young Actress in a Comedy and Drama,Top Ten Talented Poets of North America</field>
 <field name="name">Masiela Lusha</field>
 <field name="knownfor">Drinking the Moon ''The Besa'' ''Inner Thoughts''</field>
-<field name="url">http://www.masielalusha.com</field>
+<field name="website">http://www.masielalusha.com</field>
 <field name="ethnicity">Albanian</field>
 </doc>
 <doc>
@@ -13679,9 +13470,7 @@
 <field name="caption">in 1930</field>
 <field name="yearsactive">1919–1937</field>
 <field name="birthplace">Louisville, Kentucky , U.S.</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 <field name="deathplace">Hollywood ,  California , U.S.</field>
-<field name="deathcause">Barbiturate overdose</field>
 <field name="nationality">American</field>
 <field name="spouse">Wallace T. Macrer</field>
 <field name="name">Mary Nolan</field>
@@ -13820,7 +13609,6 @@
 <field name="id">2847217</field>
 <field name="type">person</field>
 <field name="deathdate">1947-10-01T00:00:00Z</field>
-<field name="deathcause">Stomach ailment and  pneumonia</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="birthdate">1906-07-14T00:00:00Z</field>
 <field name="spouse">Theodore Spector, John Moelle</field>
@@ -13828,7 +13616,6 @@
 <field name="image">Olive Borden Stars of the Photoplay.jpg</field>
 <field name="yearsactive">1924–1934</field>
 <field name="birthplace">Richmond, Virginia , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 </doc>
 <doc>
 <field name="id">3785860</field>
@@ -13866,7 +13653,6 @@
 <field name="birthdate">1914-02-25T00:00:00Z</field>
 <field name="spouse">Vernon J. Parten (1937-1994) (her death)</field>
 <field name="name">Carroll Borland</field>
-<field name="grandchildren">Thomas Nelson, Robert Nelson</field>
 <field name="children">Anne Parten (b. 1952)</field>
 <field name="birthplace">San Francisco, California , U.S.</field>
 </doc>
@@ -13913,7 +13699,6 @@
 <doc>
 <field name="id">59216</field>
 <field name="type">person</field>
-<field name="genre(s)">Traditional pop, Jazz, Broadway, Pop rock, Dance</field>
 <field name="parents">Judy Garland , Vincente Minnelli</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
@@ -13922,7 +13707,6 @@
 <field name="birthdate">1946-03-12T00:00:00Z</field>
 <field name="birthname">Liza May Minnelli</field>
 <field name="image">Liza Minnelli Cabaret 1972 crop.JPG</field>
-<field name="label(s)">Capitol Records  (1964–1966),  A&amp;M Records  (1968–1973),  Columbia Records  (1977),  Decca Label  (2010–Present)</field>
 <field name="caption">Liza Minnelli as  Sally Bowles  in  Cabaret</field>
 <field name="yearsactive">1949–present</field>
 <field name="birthplace">Hollywood ,  California , USA</field>
@@ -13939,7 +13723,7 @@
 <field name="name">Diane Neal</field>
 <field name="image">Diane Neal - Monte-Carlo Television Festival.JPG</field>
 <field name="caption">Neal at the Monte-Carlo Television Festival in June 2012.</field>
-<field name="notablerole">Casey Novak  on  Law &amp; Order: Special Victims Unit</field>
+<field name="knownfor">Casey Novak  on  Law &amp; Order: Special Victims Unit</field>
 <field name="birthplace">Alexandria ,  Virginia</field>
 <field name="website">http://www.dianeneal.com</field>
 </doc>
@@ -14066,7 +13850,6 @@
 <field name="caption">Eve Brent and Jacques Scott in  Journey to Freedom  (1957)</field>
 <field name="yearsactive">1955–2011</field>
 <field name="birthplace">Houston, Texas , U.S.</field>
-<field name="restingplace">Cremated</field>
 <field name="knownfor">Jane  in  Tarzan's Fight for Life  (1958)</field>
 <field name="deathplace">Sun Valley, California , U.S.</field>
 <field name="nationality">American</field>
@@ -14101,7 +13884,6 @@
 <field name="image">Ruth Clifford Who's Who on the Screen.jpg</field>
 <field name="yearsactive">1915-1977</field>
 <field name="birthplace">Pawtucket, Rhode Island ,  U.S.</field>
-<field name="restingplace">Holy Cross Cemetery</field>
 </doc>
 <doc>
 <field name="id">4136172</field>
@@ -14536,7 +14318,6 @@
 <doc>
 <field name="id">155044</field>
 <field name="type">person</field>
-<field name="genre">Pop</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">songwriter</field>
@@ -14545,13 +14326,10 @@
 <field name="birthname">Christy Michelle Romano</field>
 <field name="alias">Christy Romano</field>
 <field name="image">Christy Carlson Romano 2009.jpg</field>
-<field name="label">Walt Disney ,  Virgin ,  Atlantic</field>
 <field name="caption">Romano on April 17, 2009</field>
-<field name="instrument">Vocals ,  guitar</field>
 <field name="yearsactive">1996–present</field>
 <field name="birthplace">Milford, Connecticut , U.S.</field>
 <field name="name">Christy Carlson Romano</field>
-<field name="background">solo_singer</field>
 </doc>
 <doc>
 <field name="id">937621</field>
@@ -14615,7 +14393,7 @@
 <field name="image">Deborah Walley.JPG</field>
 <field name="caption">Walley in the late 1960s</field>
 <field name="yearsactive">19601999</field>
-<field name="notablerole">Gidget  in  Gidget Goes Hawaiian ,' Suzie Hubbard Buell ' in  The Mothers-in-Law</field>
+<field name="knownfor">Gidget  in  Gidget Goes Hawaiian ,' Suzie Hubbard Buell ' in  The Mothers-in-Law</field>
 <field name="birthplace">Bridgeport ,  Connecticut ,  U.S.</field>
 </doc>
 <doc>
@@ -14623,7 +14401,6 @@
 <field name="type">person</field>
 <field name="deathdate">1981-09-24T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Woodland Hills, Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1910-01-12T00:00:00Z</field>
@@ -14633,7 +14410,6 @@
 <field name="caption">Kelly in  Topper Returns  (1941)</field>
 <field name="yearsactive">1929–1979</field>
 <field name="birthplace">Brooklyn ,  New York , U.S.</field>
-<field name="restingplace">Calvary Cemetery, Queens</field>
 </doc>
 <doc>
 <field name="id">723323</field>
@@ -14671,10 +14447,8 @@
 <field name="yearsactive">1921–1933</field>
 <field name="education">P.S. 111 P.S. 9 P.S. 98 H.S. Bay Ridge</field>
 <field name="birthplace">Brooklyn ,  New York , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 <field name="knownfor">The original "IT-girl"</field>
 <field name="deathplace">Culver City, California , U.S.</field>
-<field name="deathcause">Heart attack</field>
 <field name="nationality">American</field>
 <field name="spouse">Rex Bell, his death</field>
 <field name="name">Clara Bow</field>
@@ -14961,13 +14735,13 @@
 <field name="image">Angelica Bridges 2007.jpg</field>
 <field name="caption">Angelica Bridges New Years Eve 2007-08</field>
 <field name="yearsactive">1996-present.</field>
-<field name="url">http://www.angelicabridges.com</field>
+<field name="website">http://www.angelicabridges.com</field>
 <field name="birthplace">Harrisonville, Missouri</field>
 </doc>
 <doc>
 <field name="id">9599959</field>
 <field name="type">person</field>
-<field name="notablerole">Lily Winters Romalotti '' The Young and the Restless '' (1996-1998, 2000)</field>
+<field name="knownfor">Lily Winters Romalotti '' The Young and the Restless '' (1996-1998, 2000)</field>
 <field name="birthdate">1991-08-05T00:00:00Z</field>
 <field name="name">Brooke Marie Bridges</field>
 <field name="othernames">Brooke Bridges</field>
@@ -14992,7 +14766,6 @@
 <field name="deathdate">2009-02-16T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">poet</field>
-<field name="deathcause">Natural causes</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1915-09-19T00:00:00Z</field>
 <field name="birthname">Dorothy Louise Simpson</field>
@@ -15070,11 +14843,9 @@
 <field name="birthdate">1991-02-10T00:00:00Z</field>
 <field name="website">http://www.emmaroberts.net</field>
 <field name="birthname">Emma Rose Roberts</field>
-<field name="labels">Columbia Records, Sony Music Enterteiment</field>
 <field name="image">Emma Roberts 2011. 3.jpg</field>
 <field name="caption">Roberts at the Denim Habit Store Opening 2011.</field>
 <field name="yearsactive">2001–present</field>
-<field name="associatedacts">Rory Culkin</field>
 <field name="birthplace">Rhinebeck, New York , U.S.</field>
 <field name="family">Eric Roberts  (father) Julia Roberts  (aunt)</field>
 <field name="name">Emma Roberts</field>
@@ -15107,7 +14878,7 @@
 <field name="spouse">Jeremy Gilbert (m. 2008–present)</field>
 <field name="name">Wendy Calio</field>
 <field name="yearsactive">1981–present</field>
-<field name="url">www.wendycalio.com</field>
+<field name="website">www.wendycalio.com</field>
 <field name="othernames">Sabrina Calio</field>
 <field name="birthplace">1977-08-07T00:00:00Z, Wahiawa, Hawaii , United States</field>
 </doc>
@@ -15283,7 +15054,7 @@
 <field name="deathplace">Kingman ,  Arizona ,  United States</field>
 <field name="spouse">Dr. Maurice Boyd Ruland (1973-1988) (her death)</field>
 <field name="name">Karen Steele</field>
-<field name="notablerole">Virginia  in  Marty , Mrs Lane  in  Ride Lonesome   Eve McHuron  in  Star Trek , " Mudd's Women "</field>
+<field name="knownfor">Virginia  in  Marty , Mrs Lane  in  Ride Lonesome   Eve McHuron  in  Star Trek , " Mudd's Women "</field>
 <field name="yearsactive">1953–1972</field>
 </doc>
 <doc>
@@ -15313,7 +15084,7 @@
 <field name="birthname">Megan Marie Ward</field>
 <field name="spouse">Michael Shore (1995–present)</field>
 <field name="name">Megan Ward</field>
-<field name="notablerole">Kate Howard  on  General Hospital</field>
+<field name="knownfor">Kate Howard  on  General Hospital</field>
 <field name="yearsactive">1978–present</field>
 <field name="birthplace">Los Angeles, California ,  U.S.</field>
 </doc>
@@ -15410,12 +15181,12 @@
 <field name="id">674930</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="sagawards">Best Ensemble&amp;nbsp;– Drama Series 2005  Lost</field>
+<field name="awards">Best Ensemble&amp;nbsp;– Drama Series 2005  Lost</field>
 <field name="birthdate">1968-09-02T00:00:00Z</field>
 <field name="birthname">Cynthia Michele Watros</field>
 <field name="spouse">Curtis "Curt" Gilliland (1996–present) 2 children</field>
 <field name="name">Cynthia Watros</field>
-<field name="emmyawards">Best Lead Actress in a Drama Series 1998  Guiding Light</field>
+<field name="awards">Best Lead Actress in a Drama Series 1998  Guiding Light</field>
 <field name="image">Cynthia Watros Iraq 1.jpg</field>
 <field name="yearsactive">1994–present</field>
 <field name="birthplace">Lake Orion, Michigan ,  U.S.</field>
@@ -15447,7 +15218,7 @@
 <field name="website">http://www.karenziemba.com</field>
 <field name="spouse">Bill Tatum (1984-present)</field>
 <field name="name">Karen Ziemba</field>
-<field name="tonyawards">Best Featured Actress in a Musical 2000  Contact</field>
+<field name="awards">Best Featured Actress in a Musical 2000  Contact</field>
 <field name="yearsactive">1980s-present</field>
 <field name="birthplace">St. Joseph, Michigan , United States</field>
 </doc>
@@ -15658,7 +15429,6 @@
 <field name="education">American Academy of Dramatic Arts</field>
 <field name="knownfor">Samantha Stephens on  Bewitched</field>
 <field name="deathplace">Beverly Hills, California , U.S.</field>
-<field name="deathcause">Colorectal cancer</field>
 <field name="nationality">American</field>
 <field name="spouse">Frederick Gallatin Cammann (m.1954-1955) Gig Young  (m.1956-1963) William Asher  (1963-1973) Robert Foxworth  (m.1993-1995)</field>
 <field name="name">Elizabeth Montgomery</field>
@@ -15707,9 +15477,7 @@
 <field name="caption">(c.1926)</field>
 <field name="yearsactive">1925–1938</field>
 <field name="birthplace">Cherryvale, Kansas , U.S.</field>
-<field name="restingplace">Holy Sepulchre Cemetery</field>
 <field name="deathplace">Rochester, New York , U.S.</field>
-<field name="deathcause">Heart attack</field>
 <field name="nationality">American</field>
 <field name="spouse">A. Edward Sutherland, Deering Davi</field>
 <field name="name">Louise Brooks</field>
@@ -15773,7 +15541,6 @@
 <field name="birthplace">Bemidji, Minnesota ,  U.S.</field>
 <field name="religion">Born Again Christian</field>
 <field name="deathplace">Santa Maria, California , U.S.</field>
-<field name="deathcause">Respiratory failure</field>
 <field name="nationality">American</field>
 <field name="spouse">Bob Waterfield (m.1943–1967; divorced) Roger Barrett (m.1968; his death) John Calvin Peoples (m.1974–1999; his death)</field>
 <field name="name">Jane Russell</field>
@@ -15832,7 +15599,7 @@
 <field name="yearsactive">1926–1943, 1997</field>
 <field name="birthplace">Düsseldorf ,  Germany</field>
 <field name="nationality">German</field>
-<field name="residence">London, England, UK</field>
+<field name="residenceplace">London, England, UK</field>
 <field name="spouse">Clifford Odets  (1937–40)</field>
 <field name="name">Luise Rainer</field>
 <field name="ethnicity">Jewish</field>
@@ -15861,7 +15628,6 @@
 <field name="type">person</field>
 <field name="deathdate">1934-07-28T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Santa Barbara, California , U.S.</field>
 <field name="birthdate">1868-11-09T00:00:00Z</field>
 <field name="birthname">Leila Marie Koerber</field>
@@ -15872,7 +15638,6 @@
 <field name="caption">Portrait of Dressler in 1909</field>
 <field name="yearsactive">1892–1934</field>
 <field name="birthplace">Cobourg, Ontario , Canada</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 </doc>
 <doc>
 <field name="id">34005529</field>
@@ -15908,9 +15673,7 @@
 <field name="image">Margaux Hemingway.jpg</field>
 <field name="caption">Margaux Hemingway</field>
 <field name="birthplace">Portland, Oregon , U.S.</field>
-<field name="restingplace">Ketchum Cemetery</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
-<field name="deathcause">Suicide by drug overdose</field>
 <field name="spouse">Erroll Wetanson, Bernard Fouche</field>
 <field name="name">Margaux Hemingway</field>
 <field name="family">Mariel Hemingway  (sister) Ernest Hemingway  (grandfather) Cindy Crawford  (tenth cousin)</field>
@@ -15973,7 +15736,7 @@
 <field name="name">Ona Munson</field>
 <field name="image">Ona Munson in The Red House.jpg</field>
 <field name="caption">Ona Munson in  The Red House , her last film</field>
-<field name="notablerole">Belle Watling in  Gone with the Wind</field>
+<field name="knownfor">Belle Watling in  Gone with the Wind</field>
 <field name="yearsactive">1928–1953</field>
 <field name="birthplace">Portland, Oregon ,  U.S.</field>
 <field name="birthname">Owena Wolcott</field>
@@ -16009,7 +15772,6 @@
 <field name="type">person</field>
 <field name="deathdate">1976-04-14T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Uremic poisoning</field>
 <field name="deathplace">Pasadena, California , U.S.</field>
 <field name="birthdate">1914-10-25T00:00:00Z</field>
 <field name="spouse">Charles Fillmore Prickett II (?-1954) (his death) 2 children Eakle W. Cartwright (1961-1962) (his death) Cyril Bernard Cooper (1966-1971) (his death)</field>
@@ -16019,7 +15781,6 @@
 <field name="yearsactive">1938–1974</field>
 <field name="othernames">Maud Prickett Maude Prickett</field>
 <field name="birthplace">Portland, Oregon , U.S.</field>
-<field name="restingplace">Mountain View Cemetery in  Altadena, California</field>
 </doc>
 <doc>
 <field name="id">14159932</field>
@@ -16171,7 +15932,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="name">Kipleigh Brown</field>
-<field name="notablerole">"Jane Taylor" in  Star Trek: Enterprise ; "Hoyle" in  Yesterday Was a Lie</field>
+<field name="knownfor">"Jane Taylor" in  Star Trek: Enterprise ; "Hoyle" in  Yesterday Was a Lie</field>
 <field name="yearsactive">2002–present</field>
 </doc>
 <doc>
@@ -16246,7 +16007,6 @@
 <field name="type">person</field>
 <field name="deathdate">1960-04-05T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Natural causes</field>
 <field name="deathplace">Seattle, Washington , USA</field>
 <field name="birthdate">1868-09-13T00:00:00Z</field>
 <field name="name">Alma Kruger</field>
@@ -16331,7 +16091,6 @@
 <field name="yearsactive">1944–1980</field>
 <field name="birthplace">Vienna, Austria</field>
 <field name="birthname">Smylla Brynd</field>
-<field name="restingplace">Cremation</field>
 </doc>
 <doc>
 <field name="id">8307909</field>
@@ -16516,7 +16275,6 @@
 <field name="image">Nana_Bryant.jpg</field>
 <field name="yearsactive">1935-1955</field>
 <field name="birthplace">Cincinnati, Ohio , U.S.</field>
-<field name="restingplace">Valhalla Memorial Park Cemetery</field>
 </doc>
 <doc>
 <field name="id">34547286</field>
@@ -16600,7 +16358,6 @@
 <field name="yearsactive">1913–1952</field>
 <field name="family">Stephen G. Burbridge , grandfather</field>
 <field name="birthplace">San Diego, California</field>
-<field name="restingplace">Angelus-Rosedale Cemetery</field>
 </doc>
 <doc>
 <field name="id">21424406</field>
@@ -16677,6 +16434,7 @@
 <field name="parents">Joe Simpson</field>
 <field name="occupation">Singer Songwriter performer actress businesswoman</field>
 <field name="birthdate">1980-07-10T00:00:00Z</field>
+<field name="website">jessicasimpson.com }}</field>
 <field name="birthname">Jessica Ann Simpson</field>
 <field name="image">Jessica Simpson Joining Forces with the Rockies April 2011.JPG</field>
 <field name="children">2</field>
@@ -16734,7 +16492,6 @@
 <doc>
 <field name="id">249662</field>
 <field name="type">person</field>
-<field name="genre">Sketch comedy , satire</field>
 <field name="occupation">Actress</field>
 <field name="occupation">comedian</field>
 <field name="occupation">singer</field>
@@ -16749,7 +16506,6 @@
 <field name="caption">Carol Burnett, receiving a  Presidential Medal of Freedom  in 2005</field>
 <field name="yearsactive">1955–present</field>
 <field name="birthplace">San Antonio ,  Texas , U.S.</field>
-<field name="medium">Stand-up, television, film, music, dancing</field>
 </doc>
 <doc>
 <field name="id">14967294</field>
@@ -16894,7 +16650,6 @@
 <field name="yearsactive">1904–1968</field>
 <field name="birthplace">Colorado Springs, Colorado ,  U.S.</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Cancer</field>
 <field name="nationality">American</field>
 <field name="spouse">Roy Carey Chandle</field>
 <field name="name">Spring Byington</field>
@@ -16933,9 +16688,7 @@
 <field name="image">SusanCabot.jpg</field>
 <field name="caption">Susan Cabot, circa 1950</field>
 <field name="birthplace">Boston, Massachusetts , U.S.</field>
-<field name="restingplace">Hillside Memorial Park Cemetery</field>
 <field name="deathplace">Encino, California , U.S.</field>
-<field name="deathcause">Homicide</field>
 <field name="spouse">Martin Sacker, Michael Roma</field>
 <field name="name">Susan Cabot</field>
 <field name="yearsactive">1947–1970</field>
@@ -16961,7 +16714,6 @@
 <field name="birthplace">New Orleans ,  Louisiana , U.S.</field>
 <field name="othernames">Cheryl Reventlow Post</field>
 <field name="deathplace">Santa Monica, California , U.S</field>
-<field name="deathcause">Lung cancer</field>
 <field name="spouse">Lance Reventlow,,Albert James Skarda,,Manning J. Pos</field>
 <field name="name">Cheryl Holdridge</field>
 <field name="yearsactive">1955–2000</field>
@@ -17138,7 +16890,7 @@
 <field name="id">2020240</field>
 <field name="type">person</field>
 <field name="name">Alaina Capri</field>
-<field name="notablerole">Angel Boland  in  Good Morning... and Goodbye! ,  Sheila Ross  in  Common Law Cabin</field>
+<field name="knownfor">Angel Boland  in  Good Morning... and Goodbye! ,  Sheila Ross  in  Common Law Cabin</field>
 <field name="yearsactive">1957, 1967</field>
 <field name="othernames">Aeilana Tuccinardi</field>
 </doc>
@@ -17225,9 +16977,8 @@
 <field name="birthdate">1971-06-28T00:00:00Z</field>
 <field name="website">www.aileenquinn.com</field>
 <field name="awards">Best Actress - Youth in Film Awards</field>
-<field name="birthplacehi">Yardley ,  Pennsylvania , USA</field>
+<field name="birthplace">Yardley ,  Pennsylvania , USA</field>
 <field name="name">Aileen Quinn</field>
-<field name="label">Quinnovation Records Columbia Records  (1982-1993) Interscope Records  (1993-1997) Warner Bros. Records  (1997-2006) Epic Records  (2006-present)</field>
 <field name="yearsactive">1982–present</field>
 <field name="birthname">Aileen M Quinn</field>
 </doc>
@@ -17295,7 +17046,7 @@
 <field name="caption">Parvathi Melton</field>
 <field name="birthplace">California ,  USA</field>
 <field name="nationality">American</field>
-<field name="residence">Mumbai , Maharashtra, India ,  Hyderabad , Andhra Pradesh, India</field>
+<field name="residenceplace">Mumbai , Maharashtra, India ,  Hyderabad , Andhra Pradesh, India</field>
 <field name="name">Parvathi Melton</field>
 <field name="ethnicity">Indian ,  German</field>
 <field name="yearsactive">2004 – present</field>
@@ -17359,20 +17110,6 @@
 <field name="birthname">Hannah Gayle Marks</field>
 </doc>
 <doc>
-<field name="id">455459</field>
-<field name="type">person</field>
-<field name="occupation">Actor</field>
-<field name="occupation">director</field>
-<field name="birthdate">1964-09-22T00:00:00Z</field>
-<field name="birthname">Roxann Caballero</field>
-<field name="spouse">Casey Biggs  (divorced) Eric Dawson (m. 1994) "Biography" . The Official Roxann Dawson Website. Retrieved January 19, 2013.</field>
-<field name="name">Roxann Dawson</field>
-<field name="image">Roxann Dawson.JPG</field>
-<field name="yearsactive">1985–present</field>
-<field name="othernames">Roxann Biggs, Roxann Biggs-Dawson</field>
-<field name="birthplace">Los Angeles ,  California ,  U.S.</field>
-</doc>
-<doc>
 <field name="id">27032822</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
@@ -17390,7 +17127,7 @@
 <field name="name">Allison Balson</field>
 <field name="yearsactive">1978–present</field>
 <field name="birthplace">Los Angeles, California , USA</field>
-<field name="notablerole">Nancy Oleson in  Little House on the Prairie</field>
+<field name="knownfor">Nancy Oleson in  Little House on the Prairie</field>
 </doc>
 <doc>
 <field name="id">678319</field>
@@ -17432,7 +17169,7 @@
 <field name="occupation">Yorkshire terrier   breeder</field>
 <field name="occupation">columnist</field>
 <field name="birthdate">1980-04-10T00:00:00Z</field>
-<field name="residence">Beverly Hills</field>
+<field name="residenceplace">Beverly Hills</field>
 <field name="name">Sabrina A. Parisi</field>
 <field name="image">Sabrina A. Parisi.jpg</field>
 <field name="caption">Sabrina A. Parisi</field>
@@ -17481,12 +17218,12 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">voice actress</field>
-<field name="residence">Prague, Czech Republic</field>
+<field name="residenceplace">Prague, Czech Republic</field>
 <field name="birthdate">1984-05-14T00:00:00Z</field>
 <field name="name">Jessica Boone</field>
 <field name="image">Jessica Boone.JPG</field>
 <field name="yearsactive">1992–present</field>
-<field name="url">http://www.jessicaboone.net/</field>
+<field name="website">http://www.jessicaboone.net/</field>
 <field name="birthplace">La Porte ,  Texas , USA</field>
 </doc>
 <doc>
@@ -17630,7 +17367,6 @@
 <field name="type">person</field>
 <field name="deathdate">1960-09-23T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">heart attack</field>
 <field name="deathplace">Hollywood, California , U.S.</field>
 <field name="birthdate">1879-05-31T00:00:00Z</field>
 <field name="name">Kathlyn Williams</field>
@@ -17764,7 +17500,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
-<field name="residence">Pacific Palisades, California , U.S.</field>
+<field name="residenceplace">Pacific Palisades, California , U.S.</field>
 <field name="birthdate">1970-04-28T00:00:00Z</field>
 <field name="name">Bridget Moynahan</field>
 <field name="children">1</field>
@@ -17809,7 +17545,6 @@
 <field name="type">person</field>
 <field name="deathdate">2012-07-15T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">New York City, New York, U.S.</field>
 <field name="birthdate">1917-04-29T00:00:00Z</field>
 <field name="spouse">Ralph Nelson (m.1936-1939; divorced) Francis Davies (m.1940-1945; divorced) A. Schuyler Dunning (m.1946-1952; divorced) Wesley Addy (m.1961-1996; his death) Frank Basile (m.2004-2012; her death)</field>
@@ -17928,7 +17663,6 @@
 <doc>
 <field name="id">695909</field>
 <field name="type">person</field>
-<field name="genre">Jazz ,  pop</field>
 <field name="deathdate">2007-01-08T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
@@ -17937,16 +17671,12 @@
 <field name="birthname">Margaret Yvonne Middleton</field>
 <field name="image">Yvonne de carlo - 1951.jpg</field>
 <field name="children">Bari Lee (1947- ) (stepdaughter) Bruce Ross (1956- ) Michael (1957-1997)</field>
-<field name="label">Masterseal</field>
 <field name="caption">de Carlo in 1951</field>
 <field name="yearsactive">1941–1995</field>
 <field name="birthplace">Vancouver ,  British Columbia ,  Canada</field>
-<field name="restingplace">Cremation</field>
 <field name="deathplace">Woodland Hills ,  Los Angeles California , USA</field>
 <field name="spouse">Robert Drew Morgan (1955-1968)</field>
 <field name="name">Yvonne De Carlo</field>
-<field name="background">solo_singer</field>
-<field name="instruments">vocals</field>
 </doc>
 <doc>
 <field name="id">4631936</field>
@@ -18254,7 +17984,6 @@
 <doc>
 <field name="id">182795</field>
 <field name="type">person</field>
-<field name="restingplace">Hollywood Forever Cemetery, Hollywood</field>
 <field name="deathdate">1938-12-28T00:00:00Z</field>
 <field name="parents">George and Charlotte A. Bridgwood</field>
 <field name="deathplace">West Hollywood, Los Angeles, California , U.S.</field>
@@ -18339,7 +18068,7 @@
 <field name="id">1747254</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="residence">Pasadena ,  California , USA</field>
+<field name="residenceplace">Pasadena ,  California , USA</field>
 <field name="birthdate">1938-09-12T00:00:00Z</field>
 <field name="spouse">John Sherlock (1968-1969),Robert Viharo (1971-1979)</field>
 <field name="name">Anne Helm</field>
@@ -18356,7 +18085,7 @@
 <field name="occupation">model</field>
 <field name="birthdate">1993-11-08T00:00:00Z</field>
 <field name="birthname">Lauren Anne Young</field>
-<field name="notablerole">Nelle  in  Abt Ur Luv</field>
+<field name="knownfor">Nelle  in  Abt Ur Luv</field>
 <field name="name">Lauren Young</field>
 <field name="image">225px</field>
 <field name="family">Megan Young  (sister)</field>
@@ -18470,7 +18199,7 @@
 <field name="occupation">Producer</field>
 <field name="occupation">actress</field>
 <field name="nationality">American</field>
-<field name="residence">Mill Valley, California ,  U.S.</field>
+<field name="residenceplace">Mill Valley, California ,  U.S.</field>
 <field name="birthdate">1992-12-18T00:00:00Z</field>
 <field name="website">bridgitmendlermusic.com</field>
 <field name="birthname">Bridgit Claire Mendler</field>
@@ -18530,7 +18259,6 @@
 <field name="type">person</field>
 <field name="deathdate">1972-10-09T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Heart Attack</field>
 <field name="deathplace">New York City, New York , U.S.</field>
 <field name="birthdate">1902-10-18T00:00:00Z</field>
 <field name="birthname">Ellen Miriam Hopkins</field>
@@ -18889,7 +18617,6 @@
 <field name="id">184463</field>
 <field name="type">person</field>
 <field name="deathdate">1983-12-02T00:00:00Z</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">Woodland Hills ,  Los Angeles California , USA</field>
 <field name="birthdate">1904-04-16T00:00:00Z</field>
 <field name="birthname">Marie-Rose Angelina Yvonne Lussier</field>
@@ -18898,7 +18625,6 @@
 <field name="image">Fifi d'Orsay.jpg</field>
 <field name="yearsactive">1929-1973</field>
 <field name="birthplace">Montreal ,  Quebec ,  Canada</field>
-<field name="restingplace">Forest Lawn Memorial Park Cemetery  in  Glendale , California</field>
 </doc>
 <doc>
 <field name="id">1374697</field>
@@ -18919,7 +18645,7 @@
 <field name="type">person</field>
 <field name="birthdate">1978-10-18T00:00:00Z</field>
 <field name="name">Gloria Garayua</field>
-<field name="notablerole">Intern Graciella  in  Grey's Anatomy</field>
+<field name="knownfor">Intern Graciella  in  Grey's Anatomy</field>
 <field name="yearsactive">2004  - current</field>
 <field name="birthplace">Bronx ,  New York City ,  New York ,  USA</field>
 </doc>
@@ -18964,7 +18690,7 @@
 <field name="birthname">Kathia J. Rodriguez Rosario</field>
 <field name="name">Kathia Rodriguez</field>
 <field name="caption">Kathia Rodriguez</field>
-<field name="imdb">http://www.imdb.com/name/nm2479889/</field>
+<field name="imdbe">http://www.imdb.com/name/nm2479889/</field>
 <field name="birthplace">Barceloneta ,  Puerto Rico</field>
 </doc>
 <doc>
@@ -19162,7 +18888,6 @@
 <field name="education">Fairfax High School</field>
 <field name="birthplace">Vancouver, British Columbia, Canada</field>
 <field name="deathplace">Beverly Hills, California ,  U.S</field>
-<field name="deathcause">Heart failure</field>
 <field name="nationality">Canadian-American</field>
 <field name="spouse">David May (m.1942–1953; divorced) William Dozier  (m.1953–1991; his death)</field>
 <field name="name">Ann Rutherford</field>
@@ -19314,7 +19039,7 @@
 <field name="birthplace">Laguna Beach, California , U.S.</field>
 <field name="education">Fashion Institute of Design &amp; Merchandising</field>
 <field name="networth">US$ 12 million</field>
-<field name="residence">Westwood, Los Angeles , California, U.S.</field>
+<field name="residenceplace">Westwood, Los Angeles , California, U.S.</field>
 <field name="name">Lauren Conrad</field>
 <field name="partner">William Tell  (2012–present)</field>
 <field name="othernames">L.C.</field>
@@ -19329,7 +19054,7 @@
 <field name="spouse">Mel Metcalfe   (1996–1999; divorced) Ellen DeGeneres   (m. 2008)</field>
 <field name="name">Portia de Rossi</field>
 <field name="image">Portia de Rossi.jpg</field>
-<field name="partner(s)">Francesca Gregorini   (2000–2004)</field>
+<field name="partner">Francesca Gregorini   (2000–2004)</field>
 <field name="caption">de Rossi in February 2007</field>
 <field name="yearsactive">1994–present</field>
 <field name="birthplace">Horsham ,  Victoria , Australia</field>
@@ -19369,7 +19094,6 @@
 <field name="occupation">Comedienne</field>
 <field name="birthdate">1947-09-06T00:00:00Z</field>
 <field name="birthname">Jane Therese Curtin</field>
-<field name="death">march,3,2013</field>
 <field name="spouse">Patrick Lynch (1975–present; 1 child)</field>
 <field name="name">Jane Curtin</field>
 <field name="children">Tess Lynch (b. 1983)</field>
@@ -19450,7 +19174,7 @@
 <field name="id">905174</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="otherstagename">Stacy Keanan Stacy Keenan Staci Love</field>
+<field name="othernames">Stacy Keanan Stacy Keenan Staci Love</field>
 <field name="birthdate">1975-06-06T00:00:00Z</field>
 <field name="name">Staci Keanan</field>
 <field name="yearsactive">1987—present</field>
@@ -19508,7 +19232,6 @@
 <field name="caption">circa mid-1960s</field>
 <field name="yearsactive">1905–1968; her death</field>
 <field name="birthplace">West Pittston, Pennsylvania , U.S.</field>
-<field name="restingplace">Ferncliff Cemetery Greenburgh, New York , U.S.</field>
 </doc>
 <doc>
 <field name="id">31951261</field>
@@ -19568,7 +19291,6 @@
 <field name="type">person</field>
 <field name="deathdate">1987-11-14T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">Vernon, Texas</field>
 <field name="birthdate">1905-05-31T00:00:00Z</field>
 <field name="name">Ann Christy</field>
@@ -19581,7 +19303,6 @@
 <field name="type">person</field>
 <field name="deathdate">1940-12-25T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cerebral hemorrhage</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="birthdate">1898-04-04T00:00:00Z</field>
 <field name="birthname">Agnes Eyre Henkel</field>
@@ -19591,12 +19312,10 @@
 <field name="yearsactive">1914–1937</field>
 <field name="othernames">Agnes Eyre</field>
 <field name="birthplace">Carbondale, Illinois , U.S.</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 </doc>
 <doc>
 <field name="id">27522794</field>
 <field name="type">person</field>
-<field name="restingplace">Pacific View Memorial Park</field>
 <field name="deathdate">1981-10-04T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
@@ -19671,9 +19390,7 @@
 <field name="yearsactive">1915–1954</field>
 <field name="education">New Orleans Convent of the Sacred Heart</field>
 <field name="birthplace">New Orleans ,  Louisiana , U.S.</field>
-<field name="restingplace">Saint Savior Episcopal Churchyard</field>
 <field name="deathplace">Riverdale, Bronx ,  New York , U.S.</field>
-<field name="deathcause">Acute  anemia</field>
 <field name="nationality">American</field>
 <field name="spouse">John Gilbert, William S. Hook, Arthur Kem Westermar</field>
 <field name="name">Leatrice Joy</field>
@@ -19789,7 +19506,7 @@
 <field name="occupation">Singer</field>
 <field name="occupation">Performer</field>
 <field name="nationality">American</field>
-<field name="residence">New York City ,  New York</field>
+<field name="residenceplace">New York City ,  New York</field>
 <field name="birthdate">1938-01-13T00:00:00Z</field>
 <field name="birthname">Sandra Church</field>
 <field name="spouse">Norman Twain (1964-1975)</field>
@@ -19826,7 +19543,7 @@
 <field name="birthname">Mary Elizabeth Clarke</field>
 <field name="name">Emmy Clarke</field>
 <field name="yearsactive">2003-present</field>
-<field name="notablerole">Julie Teeger  in  Monk ' Aimee ' in  My House in Umbria</field>
+<field name="knownfor">Julie Teeger  in  Monk ' Aimee ' in  My House in Umbria</field>
 <field name="birthplace">Mineola ,  New York ,  U.S.</field>
 </doc>
 <doc>
@@ -19848,7 +19565,7 @@
 <field name="spouse">Kenneth Peach  (1922–1988, his death, 3 children)</field>
 <field name="name">Pauline Curley Peach</field>
 <field name="children">Kenneth, Martin and Pauline.</field>
-<field name="causeofdeath">pneumonia</field>
+<field name="deathcause">pneumonia</field>
 <field name="image">Pauline Curley Who's Who on the Screen.jpg</field>
 <field name="yearsactive">1912–1929</field>
 <field name="othernames">Pauline Peach</field>
@@ -19987,7 +19704,7 @@
 <field name="occupation">Actor</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1893-08-13T00:00:00Z</field>
-<field name="spouse#2">John C. Howard 1922-1924 divorced</field>
+<field name="spouse">John C. Howard 1922-1924 divorced</field>
 <field name="name">Ora Carew</field>
 <field name="image">Ora Carew from Who's Who on the Screen.jpg</field>
 <field name="yearsactive">1915  -  1925</field>
@@ -20304,7 +20021,7 @@
 <field name="spouse">John Bromfield   (1955–1959) ,Bruce Hoy  (1963–2013; her death)</field>
 <field name="name">Larri Thomas</field>
 <field name="caption">Larri Thomas in  Guys and Dolls</field>
-<field name="notablerole">The Dean Martin Show</field>
+<field name="knownfor">The Dean Martin Show</field>
 <field name="yearsactive">1953–1993</field>
 <field name="birthplace">Wayne, Pennsylvania , USA</field>
 </doc>
@@ -20367,9 +20084,7 @@
 <field name="education">Cloverdale High School</field>
 <field name="birthplace">Long Beach, California , U.S.</field>
 <field name="education">Pacific Union College</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 <field name="deathplace">Alhambra, California , U.S.</field>
-<field name="deathcause">Murder</field>
 <field name="nationality">American</field>
 <field name="name">Lana Clarkson</field>
 <field name="family">Jesse J. Clarkson  (brother) Fawn Clarkson (sister)</field>
@@ -20501,9 +20216,7 @@
 <field name="yearsactive">1913–1929</field>
 <field name="education">Sacred Heart Convent</field>
 <field name="birthplace">San Francisco ,  California , U.S.</field>
-<field name="restingplace">Ararat Cemetery</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Pneumonia</field>
 <field name="nationality">American</field>
 <field name="spouse">Franklyn Farnum, Daniel Carson Goodman, Ricardo Corte</field>
 <field name="name">Alma Rubens</field>
@@ -20724,10 +20437,7 @@
 <field name="caption">O'Rourke in her last production,  Poltergeist III</field>
 <field name="yearsactive">1982–1988</field>
 <field name="birthplace">San Diego ,  California , US</field>
-<field name="boxwidth">320px</field>
-<field name="restingplace">Westwood Village Memorial Park Cemetery</field>
 <field name="deathplace">San Diego, California, US</field>
-<field name="deathcause">Cardiac arrest  caused by,  septic shock  due to intestinal  stenosis</field>
 <field name="name">Heather O'Rourke</field>
 <field name="knownfor">''Poltergeist'' film trilogy</field>
 <field name="family">Tammy O'Rourke (sister)</field>
@@ -20776,7 +20486,7 @@
 <field name="id">27063641</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="residence">Los Angeles, California</field>
+<field name="residenceplace">Los Angeles, California</field>
 <field name="birthdate">1999-02-10T00:00:00Z</field>
 <field name="name">Tiffany Espensen</field>
 <field name="yearsactive">2007–present</field>
@@ -20910,7 +20620,6 @@
 <field name="deathdate">1925-03-13T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
-<field name="deathcause">Tuberculosis</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1910-08-22T00:00:00Z</field>
@@ -20920,7 +20629,6 @@
 <field name="yearsactive">1913–1923</field>
 <field name="othernames">Lucille Rickson</field>
 <field name="birthplace">Chicago ,  Illinois , U.S.</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 </doc>
 <doc>
 <field name="id">30219313</field>
@@ -21197,7 +20905,6 @@
 <field name="type">person</field>
 <field name="deathdate">1966-12-14T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Stroke</field>
 <field name="deathplace">North Hollywood , California</field>
 <field name="birthdate">1890-07-20T00:00:00Z</field>
 <field name="birthname">Verna Felton Millar</field>
@@ -21206,7 +20913,6 @@
 <field name="image">Vfelton.jpg</field>
 <field name="birthplace">Salinas ,  California , USA</field>
 <field name="yearsactive">1917–1966</field>
-<field name="restingplace">Grandview Memorial Park in  Glendale , California</field>
 </doc>
 <doc>
 <field name="id">2837444</field>
@@ -21233,7 +20939,7 @@
 <doc>
 <field name="id">19275179</field>
 <field name="type">person</field>
-<field name="residence">San Antonio / Austin ,  Texas</field>
+<field name="residenceplace">San Antonio / Austin ,  Texas</field>
 <field name="birthdate">1968-10-21T00:00:00Z</field>
 <field name="website">www.newmanartista.com,www.chouchoujewelry.com</field>
 <field name="birthname">Celia Maria Newman</field>
@@ -21265,7 +20971,6 @@
 <field name="caption">1934</field>
 <field name="yearsactive">1923–1966</field>
 <field name="birthplace">Covington, Kentucky , U.S.</field>
-<field name="restingplace">Highland Cemetery, Kentucky</field>
 </doc>
 <doc>
 <field name="id">9554168</field>
@@ -21331,10 +21036,8 @@
 <field name="image">Phyllis Thaxter in Bewitched trailer.jpg</field>
 <field name="caption">From the film  Bewitched  (1945)</field>
 <field name="birthplace">Portland, Maine , U.S.</field>
-<field name="restingplace">Cremated</field>
 <field name="knownfor">Ma Kent  in  Superman , ' Ellen Lawson ' in  Thirty Seconds Over Tokyo</field>
 <field name="deathplace">Longwood, Florida , U.S.</field>
-<field name="deathcause">Alzheimer's disease</field>
 <field name="spouse">James Thomas Aubrey, Jr.  (1944 – 1962; divorced); 2 children</field>
 <field name="name">Phyllis Thaxter</field>
 <field name="yearsactive">1940–1992</field>
@@ -21389,9 +21092,7 @@
 <field name="yearsactive">1979–1982</field>
 <field name="education">Taft School Harvard-Westlake School Fountain Valley School</field>
 <field name="birthplace">Santa Monica, California , U.S.</field>
-<field name="restingplace">Westwood Village Memorial Park Cemetery</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Strangulation</field>
 <field name="nationality">American</field>
 <field name="name">Dominique Dunne</field>
 <field name="family">Griffin Dunne  (brother) John Gregory Dunne  (uncle) Joan Didion  (aunt)</field>
@@ -21424,7 +21125,7 @@
 <field name="education">Taft High School</field>
 <field name="birthplace">Chicago, Illinois , U.S.</field>
 <field name="education">University of Illinois at Urbana-Champaign</field>
-<field name="residence">Los Angeles, California</field>
+<field name="residenceplace">Los Angeles, California</field>
 <field name="name">Donna Mills</field>
 </doc>
 <doc>
@@ -21484,7 +21185,6 @@
 <field name="caption">Warwick as Phoebe Tyler, 1973.</field>
 <field name="yearsactive">1941–2005</field>
 <field name="birthplace">Saint Joseph, Missouri ,  U.S.</field>
-<field name="restingplace">Church of the Transfiguration, Roman Catholic (Manhattan)</field>
 </doc>
 <doc>
 <field name="id">4421977</field>
@@ -21555,7 +21255,7 @@
 <field name="type">person</field>
 <field name="birthdate">1942-01-13T00:00:00Z</field>
 <field name="name">Anitra Ford</field>
-<field name="notablerole">Melissa: The Longest Yard"</field>
+<field name="knownfor">Melissa: The Longest Yard"</field>
 <field name="birthplace">California</field>
 </doc>
 <doc>
@@ -21639,7 +21339,6 @@
 <field name="type">person</field>
 <field name="deathdate">1938-09-19T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Asthma attack</field>
 <field name="deathplace">Beverly Hills, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1883-08-12T00:00:00Z</field>
@@ -21650,7 +21349,6 @@
 <field name="yearsactive">1902–1937</field>
 <field name="education">Miss Blachard's Finishing School</field>
 <field name="birthplace">Boston ,  Massachusetts , U.S.</field>
-<field name="restingplace">Grand View Memorial Park Cemetery</field>
 </doc>
 <doc>
 <field name="id">1530083</field>
@@ -21717,7 +21415,6 @@
 <field name="yearsactive">1937-1954</field>
 <field name="birthplace">Long Beach, California</field>
 <field name="deathplace">Pasadena, California</field>
-<field name="deathcause">emphysema</field>
 <field name="spouse">James Dunn (m.1938-1942; divorced)</field>
 <field name="name">Frances Gifford</field>
 </doc>
@@ -21758,7 +21455,6 @@
 <field name="birthplace">Seattle ,  Washington , USA</field>
 <field name="education">The Evergreen State College  (1997)</field>
 <field name="knownfor">Sleater-Kinney ,  Wild Flag</field>
-<field name="style">Alternative rock ,  indie rock ,  punk rock</field>
 <field name="name">Carrie Brownstein</field>
 </doc>
 <doc>
@@ -21848,7 +21544,7 @@
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">columnist</field>
-<field name="residence">Los Angeles</field>
+<field name="residenceplace">Los Angeles</field>
 <field name="birthdate">1981-06-20T00:00:00Z</field>
 <field name="spouse">Brian Autenrieth (m. 2012)</field>
 <field name="name">Alisan Porter</field>
@@ -21914,9 +21610,7 @@
 <field name="education">Elmwood Elementary School Mediapolis High School</field>
 <field name="birthplace">Stanton ,  Iowa , USA</field>
 <field name="education">University of California, Los Angeles</field>
-<field name="restingplace">Mount Sinai Memorial Park Cemetery</field>
 <field name="deathplace">Brentwood ,  Los Angeles California</field>
-<field name="deathcause">Cardiovascular disease</field>
 <field name="nationality">American</field>
 <field name="spouse">Fritz Fel</field>
 <field name="name">Virginia Christine</field>
@@ -21930,7 +21624,7 @@
 <field name="birthdate">1947-07-24T00:00:00Z</field>
 <field name="name">Alexandra Hay</field>
 <field name="yearsactive">1967–1978</field>
-<field name="notablerole">played angela thorne in the movie 1,000 convicts and a woman in 1971</field>
+<field name="knownfor">played angela thorne in the movie 1,000 convicts and a woman in 1971</field>
 <field name="othernames">Alexandra Lynn Hay</field>
 <field name="birthplace">Los Angeles ,  California</field>
 </doc>
@@ -22041,7 +21735,6 @@
 <field name="yearsactive">1933–1987</field>
 <field name="birthplace">Brooklyn, New York , U.S.</field>
 <field name="deathplace">Newport Beach, California , U.S.</field>
-<field name="deathcause">respiratory failure</field>
 <field name="spouse">Clark Andrews (1938-1942) Cylos William Dunsmoore (1943-1947); 1 son Milton H. Bren  (1948-1979; his death)</field>
 <field name="name">Claire Trevor</field>
 </doc>
@@ -22088,7 +21781,6 @@
 <doc>
 <field name="id">1831599</field>
 <field name="type">person</field>
-<field name="divorced">Paul DeRobbio- divorced 2008</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1958-12-12T00:00:00Z</field>
 <field name="birthname">Sheree Julienne Wilson</field>
@@ -22368,7 +22060,6 @@
 <field name="type">person</field>
 <field name="deathdate">1998-12-20T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cardiovascular disease</field>
 <field name="deathplace">Woodland Hills, Los Angeles, California , U.S.</field>
 <field name="birthdate">1909-07-11T00:00:00Z</field>
 <field name="birthname">Beulah Irene Herwick</field>
@@ -22382,7 +22073,7 @@
 <field name="id">15250186</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="residence">Los Angeles, California</field>
+<field name="residenceplace">Los Angeles, California</field>
 <field name="birthdate">1978-12-29T00:00:00Z</field>
 <field name="website">Official web site</field>
 <field name="birthname">Alecia Hillis</field>
@@ -22450,11 +22141,10 @@
 <field name="birthname">Victoria Horne</field>
 <field name="spouse">Jack Oakie  (1950 - 1978)</field>
 <field name="name">Victoria Horne</field>
-<field name="notablerole">Myrtle Mae Simmons  in  Harvey  (1950)</field>
+<field name="knownfor">Myrtle Mae Simmons  in  Harvey  (1950)</field>
 <field name="yearsactive">1944 - 1959</field>
 <field name="othernames">Victoria Horne Oakie</field>
 <field name="birthplace">New York City ,  New York ,  USA</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 </doc>
 <doc>
 <field name="id">16757261</field>
@@ -22491,7 +22181,6 @@
 <field name="education">Beverly Hills High School</field>
 <field name="birthplace">New York City, New York , U.S.</field>
 <field name="birthname">Alexa Jordan Kenin</field>
-<field name="restingplace">New Montefiore Cemetery</field>
 </doc>
 <doc>
 <field name="id">14495870</field>
@@ -22512,7 +22201,7 @@
 <field name="birthdate">1955-06-14T00:00:00Z</field>
 <field name="birthname">Kim Lankford</field>
 <field name="name">Kim Lankford</field>
-<field name="active">1986–present</field>
+<field name="yearsactive">1986–present</field>
 <field name="birthplace">Montebello, California ,  United States</field>
 </doc>
 <doc>
@@ -22751,9 +22440,7 @@
 <field name="education">Chateau Mont-Choisi</field>
 <field name="birthplace">New Orleans ,  Louisiana , U.S.</field>
 <field name="education">University of Paris London School of Economics Royal Academy of Dramatic Art</field>
-<field name="restingplace">Ferncliff Cemetery</field>
 <field name="deathplace">New York City ,  New York , U.S.</field>
-<field name="deathcause">Congestive heart failure</field>
 <field name="nationality">American</field>
 <field name="spouse">Moss Har</field>
 <field name="name">Kitty Carlisle</field>
@@ -22913,7 +22600,6 @@
 <field name="yearsactive">1938–1993</field>
 <field name="birthplace">Port Arthur, Texas ,  U.S.</field>
 <field name="deathplace">Peppers Estate Care Home in  Montecito, California , U.S.</field>
-<field name="deathcause">uterine cancer  and  Alzheimer's disease</field>
 <field name="spouse">Barton Bainbridge (m.1938–1940; his death) Charles Vidor  (m.1944–1945; divorced) John Huston  (m.1946–1950; divorced) Artie Shaw  (m.1957–1985; divorced)</field>
 <field name="name">Evelyn Keyes</field>
 <field name="partner">Michael Todd  (1953–1956)</field>
@@ -23055,7 +22741,6 @@
 <field name="occupation">film producer</field>
 <field name="occupation">dancer</field>
 <field name="occupation">model</field>
-<field name="deathcause">Heart failure</field>
 <field name="deathplace">Ronco sopra Ascona ,  Ticino , Switzerland</field>
 <field name="nationality">American</field>
 <field name="birthdate">1910-06-03T00:00:00Z</field>
@@ -23066,7 +22751,6 @@
 <field name="caption">Goddard in a studio publicity portrait, date unknown.</field>
 <field name="yearsactive">1929–1972</field>
 <field name="birthplace">Whitestone Landing,  Queens , New York, U.S.</field>
-<field name="restingplace">Ronco Village Cemetery</field>
 </doc>
 <doc>
 <field name="id">6014663</field>
@@ -23098,7 +22782,6 @@
 <field name="caption">Mae Murray (Photoplay 1917)</field>
 <field name="yearsactive">1916–1931</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
-<field name="restingplace">Valhalla Memorial Park Cemetery</field>
 </doc>
 <doc>
 <field name="id">15715722</field>
@@ -23190,7 +22873,6 @@
 <field name="deathdate">1999-12-01T00:00:00Z</field>
 <field name="knownfor">"Little Maria" in  Frankenstein</field>
 <field name="occupation">Child actress</field>
-<field name="deathcause">Cancer  and  heart failure</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1924-07-17T00:00:00Z</field>
@@ -23330,7 +23012,7 @@
 <field name="birthdate">1904-01-01T00:00:00Z</field>
 <field name="birthname">Florence Silverlake</field>
 <field name="name">Florence Lake</field>
-<field name="notablerole">Mrs. Kennedy ,Jenny, the Claverton telephone operator in  Lassie</field>
+<field name="knownfor">Mrs. Kennedy ,Jenny, the Claverton telephone operator in  Lassie</field>
 <field name="birthplace">Charleston, South Carolina , U.S.</field>
 </doc>
 <doc>
@@ -23355,7 +23037,7 @@
 <field name="birthname">Natalie Jenette Lander</field>
 <field name="name">Natalie Lander</field>
 <field name="yearsactive">2004–present</field>
-<field name="notablerole">"Debbie" on " The Middle " and  Kisala  in  Rouge Galaxy</field>
+<field name="knownfor">"Debbie" on " The Middle " and  Kisala  in  Rouge Galaxy</field>
 <field name="birthplace">Hollywood, California ,  U.S.</field>
 </doc>
 <doc>
@@ -23381,7 +23063,6 @@
 <field name="id">175020</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Aneurysm</field>
 <field name="deathplace">New York City</field>
 <field name="birthdate">1903-11-19T00:00:00Z</field>
 <field name="birthname">Ann Veronica Lahiff</field>
@@ -23390,7 +23071,6 @@
 <field name="image">Nancy Carroll from Stars of the Photoplay.jpg</field>
 <field name="yearsactive">1923–1965</field>
 <field name="birthplace">New York City ,  New York , USA</field>
-<field name="restingplace">Calvary Cemetery  in  Queens , New York City</field>
 </doc>
 <doc>
 <field name="id">35028792</field>
@@ -23423,7 +23103,6 @@
 <field name="type">person</field>
 <field name="deathdate">1982-07-22T00:00:00Z</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
-<field name="deathcause">pneumonia</field>
 <field name="birthdate">1928-03-02T00:00:00Z</field>
 <field name="birthname">Barbara Jean Bly</field>
 <field name="spouse">William McCorkle (1946-1952; divorced) Alan Wells (1956-1958; annulled) John George (1967-1972; divorced)</field>
@@ -23458,9 +23137,7 @@
 <field name="image">ClarkMarguerite1916.jpg</field>
 <field name="education">Ursuline Academy</field>
 <field name="birthplace">Avondale, Cincinnati ,  Ohio , U.S.</field>
-<field name="restingplace">Metairie Cemetery</field>
 <field name="deathplace">New York City ,  New York , U.S.</field>
-<field name="deathcause">Pneumonia</field>
 <field name="nationality">American</field>
 <field name="spouse">Harry Palmerston William</field>
 <field name="name">Marguerite Clark</field>
@@ -23538,7 +23215,6 @@
 <field name="occupation">Actress</field>
 <field name="occupation">writer</field>
 <field name="occupation">speaker</field>
-<field name="deathcause">Stroke</field>
 <field name="deathplace">Charlottesville ,  Virginia , United States</field>
 <field name="birthdate">1891-11-07T00:00:00Z</field>
 <field name="spouse">Raoul Wals</field>
@@ -23616,7 +23292,6 @@
 <field name="image">Violadana 2.jpg</field>
 <field name="yearsactive">1900–1933</field>
 <field name="birthplace">Brooklyn ,  New York , U.S.</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 </doc>
 <doc>
 <field name="id">419039</field>
@@ -23923,10 +23598,8 @@
 <doc>
 <field name="id">4400174</field>
 <field name="type">person</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 <field name="deathdate">1966-04-06T00:00:00Z</field>
 <field name="occupation">actress</field>
-<field name="deathcause">cancer</field>
 <field name="deathplace">Hollywood, Los Angeles, California , U.S.</field>
 <field name="birthdate">1892-09-24T00:00:00Z</field>
 <field name="name">Julia Faye</field>
@@ -24037,10 +23710,8 @@
 <doc>
 <field name="id">1149254</field>
 <field name="type">person</field>
-<field name="restingplace">Buried next to her husband in  Westwood Village Memorial Park Cemetery</field>
 <field name="deathdate">1982-10-14T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">emphysema  and  cerebral thrombosis</field>
 <field name="deathplace">Palm Springs, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1902-04-02T00:00:00Z</field>
@@ -24102,7 +23773,6 @@
 <field name="image">Thelma morgan furness 1955.jpg</field>
 <field name="caption">Thelma, Viscountess Furness, in 1955.</field>
 <field name="birthplace">Hotel Nationale,  Lucerne ,  Switzerland</field>
-<field name="restingplace">Holy Cross Cemetery</field>
 </doc>
 <doc>
 <field name="id">10619170</field>
@@ -24233,7 +23903,7 @@
 <field name="image">Evening Primrose Anthony Perkins Charmian Carr 1966 redone.jpg</field>
 <field name="caption">Carr with  Anthony Perkins  in  Evening Primrose  (1966)</field>
 <field name="yearsactive">1965–present</field>
-<field name="notablerole">Liesl von Trapp  in  The Sound of Music</field>
+<field name="knownfor">Liesl von Trapp  in  The Sound of Music</field>
 <field name="birthplace">Chicago, Illinois , U.S.</field>
 </doc>
 <doc>
@@ -24276,7 +23946,6 @@
 <field name="deathdate">2012-05-22T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
-<field name="deathcause">Brain tumor</field>
 <field name="deathplace">New York City, New York , U.S.</field>
 <field name="birthdate">1940-12-24T00:00:00Z</field>
 <field name="website">janetcarroll.net</field>
@@ -24316,7 +23985,7 @@
 <doc>
 <field name="id">11562222</field>
 <field name="type">person</field>
-<field name="residence">Los Angeles ,  California , United States</field>
+<field name="residenceplace">Los Angeles ,  California , United States</field>
 <field name="birthdate">1967-06-24T00:00:00Z</field>
 <field name="website">http://crystalcarson.com/</field>
 <field name="name">Crystal Carson</field>
@@ -24352,12 +24021,10 @@
 <field name="education">Rhodes College</field>
 <field name="birthplace">McLemoresville, Tennessee , U.S.</field>
 <field name="education">University of Tennessee at Knoxville , University of Memphis</field>
-<field name="restingplace">McLemoresville Cemetery, McLemoresville, Tennessee</field>
 <field name="knownfor">Julia Sugarbaker , Randi King, Gloria Hodge</field>
 <field name="deathplace">Houston, Texas , U.S.</field>
-<field name="deathcause">Endometrial cancer</field>
 <field name="nationality">American</field>
-<field name="residence">Beverly Hills, California , McLemoresville, Tennessee</field>
+<field name="residenceplace">Beverly Hills, California , McLemoresville, Tennessee</field>
 <field name="awards">''See Awards and Nominations''</field>
 <field name="family">Melba Helen Heath (sister)</field>
 <field name="spouse">Arthur L. Carter, (divorced; 2 daughters) George Hearn, (divorced) Hal Holbrook, (her death)</field>
@@ -24381,7 +24048,6 @@
 <field name="id">3770842</field>
 <field name="type">person</field>
 <field name="deathdate">1994-07-30T00:00:00Z</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">Durham, North Carolina , U.S.</field>
 <field name="birthdate">1913-10-10T00:00:00Z</field>
 <field name="birthname">Janis Dremann</field>
@@ -24414,7 +24080,6 @@
 <field name="type">person</field>
 <field name="deathdate">1984-09-14T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Pneumonia</field>
 <field name="deathplace">Palm Springs ,  California ,,United States</field>
 <field name="birthdate">1906-10-06T00:00:00Z</field>
 <field name="birthname">Laura Augusta Gainor</field>
@@ -24424,14 +24089,12 @@
 <field name="caption">in  Servant's Entrance  (1934)</field>
 <field name="yearsactive">1924–1981</field>
 <field name="birthplace">Germantown ,  Pennsylvania ,,United States</field>
-<field name="restingplace">Hollywood Forever Cemetery</field>
 </doc>
 <doc>
 <field name="id">400778</field>
 <field name="type">person</field>
 <field name="deathdate">1998-11-17T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Complications from diabetes</field>
 <field name="deathplace">Culver City, California ,  U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1920-11-08T00:00:00Z</field>
@@ -24440,7 +24103,6 @@
 <field name="image">EstherRolle.jpg</field>
 <field name="yearsactive">1964–1998</field>
 <field name="birthplace">Pompano Beach, Florida ,  U.S.</field>
-<field name="restingplace">Westview Community Cemetery</field>
 </doc>
 <doc>
 <field name="id">2661365</field>
@@ -24563,7 +24225,6 @@
 <field name="occupation">Actress</field>
 <field name="occupation">producer</field>
 <field name="occupation">author</field>
-<field name="deathcause">Heart failure</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1894-11-21T00:00:00Z</field>
@@ -24586,7 +24247,6 @@
 <field name="id">11381468</field>
 <field name="type">person</field>
 <field name="deathdate">1936-07-11T00:00:00Z</field>
-<field name="signaturesize">200px</field>
 <field name="occupation">Actress</field>
 <field name="birthdate">1876-07-11T00:00:00Z</field>
 <field name="birthname">Laura Barnhurst</field>
@@ -24597,13 +24257,11 @@
 <field name="deathplace">New Rochelle, New York</field>
 <field name="spouse">Ned Howard Fowler</field>
 <field name="name">Laura Nelson Hall</field>
-<field name="signaturealt">American Vaudeville and Silent Movie Actress Laura Nelson Hall's Signature</field>
 </doc>
 <doc>
 <field name="id">6246722</field>
 <field name="type">person</field>
 <field name="deathdate">1948-08-13T00:00:00Z</field>
-<field name="deathcause">car accident</field>
 <field name="deathplace">Tijuana, Mexico</field>
 <field name="birthdate">1897-06-16T00:00:00Z</field>
 <field name="spouse">Alan Crosland (m.1925–1930; divorced) James Walter Kays (m. ?-1948; their deaths)</field>
@@ -24698,7 +24356,6 @@
 <field name="type">person</field>
 <field name="deathdate">1955-08-12T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Cancer</field>
 <field name="deathplace">New York City, New York , United States</field>
 <field name="birthdate">1916-09-13T00:00:00Z</field>
 <field name="spouse">William Mullaney (1948–1955)</field>
@@ -24731,8 +24388,6 @@
 <field name="birthdate">1916-05-06T00:00:00Z</field>
 <field name="image">Adriana Caselotti.jpg</field>
 <field name="birthplace">Bridgeport, Connecticut</field>
-<field name="restingplace">Newport Beach, California  ( Ashes )</field>
-<field name="deathcause">Respiratory failure  from  lung cancer</field>
 <field name="deathplace">Los Angeles ,  California</field>
 <field name="nationality">American</field>
 <field name="family">Louise Caselotti  (sister)</field>
@@ -24891,7 +24546,6 @@
 <field name="type">person</field>
 <field name="deathdate">2003-12-17T00:00:00Z</field>
 <field name="occupation">Child actor</field>
-<field name="deathcause">Heart attack</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1923-01-14T00:00:00Z</field>
 <field name="name">Mary Ann Jackson</field>
@@ -25200,7 +24854,6 @@
 <field name="type">person</field>
 <field name="deathdate">1990-08-12T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="deathcause">Renal failure</field>
 <field name="deathplace">Honolulu ,  Hawaii , U.S.</field>
 <field name="birthdate">1903-03-04T00:00:00Z</field>
 <field name="spouse">Lothar Mendes, Neil Miller, Harold Patterso</field>
@@ -25295,7 +24948,6 @@
 <field name="id">2314814</field>
 <field name="type">person</field>
 <field name="deathdate">1968-02-13T00:00:00Z</field>
-<field name="deathcause">Drowning  from sunken Cruise Ship</field>
 <field name="occupation">Film actress</field>
 <field name="deathplace">Hermosa Beach ,  California , U.S.</field>
 <field name="birthdate">1894-11-09T00:00:00Z</field>
@@ -25311,7 +24963,6 @@
 <field name="id">14927324</field>
 <field name="type">person</field>
 <field name="deathdate">2004-02-26T00:00:00Z</field>
-<field name="deathcause">Breast cancer</field>
 <field name="deathplace">Glendale, California , USA</field>
 <field name="birthdate">1925-03-28T00:00:00Z</field>
 <field name="name">Connie Cezon</field>
@@ -25319,7 +24970,6 @@
 <field name="caption">Cezon (second from left) hams it up with  Moe Howard  and  Larry Fine  in the  Three Stooges  film  Hot Stuff</field>
 <field name="yearsactive">1951 – 1966</field>
 <field name="birthplace">Oakland, California ,  USA</field>
-<field name="restingplace">Forest Lawn Memorial Park, Glendale</field>
 </doc>
 <doc>
 <field name="id">1245151</field>
@@ -25478,7 +25128,7 @@
 <field name="image">Bessmeredyth2.jpg</field>
 <field name="caption">Bess Meredyth</field>
 <field name="birthplace">Buffalo, New York , U.S.</field>
-<field name="footnotes">Award winning filmwriter</field>
+<field name="knownfor">Award winning filmwriter</field>
 </doc>
 <doc>
 <field name="id">6870240</field>
@@ -25541,7 +25191,7 @@
 <field name="occupation">Film actress</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1898-11-07T00:00:00Z</field>
-<field name="imdbid">0606761</field>
+<field name="imdbe">0606761</field>
 <field name="name">Margaret Morris</field>
 <field name="yearsactive">1920  -  1937</field>
 <field name="birthplace">Minneapolis, Minnesota</field>
@@ -25561,7 +25211,6 @@
 <field name="caption">in  Heedless Moths  1921</field>
 <field name="yearsactive">1906–1920</field>
 <field name="birthplace">Rochester, New York , U.S.</field>
-<field name="restingplace">New Haven Cemetery</field>
 </doc>
 <doc>
 <field name="id">13184392</field>
@@ -25977,7 +25626,6 @@
 <field name="deathdate">1977-02-27T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">model</field>
-<field name="deathcause">leukemia  or lead poisoning</field>
 <field name="deathplace">San Diego, California , U.S.</field>
 <field name="birthdate">1930-03-06T00:00:00Z</field>
 <field name="name">Allison Hayes</field>
@@ -26367,9 +26015,7 @@
 <field name="birthname">Lanita Rose Agrati</field>
 <field name="yearsactive">1969–1990</field>
 <field name="birthplace">Walnut Creek, California , U.S.</field>
-<field name="restingplace">Cremated and ashes scattered in Hawaii</field>
 <field name="deathplace">Valencia, California , U.S.</field>
-<field name="deathcause">Drug Overdose</field>
 <field name="nationality">American</field>
 <field name="family">Don Grady  (brother)</field>
 <field name="name">Lani O'Grady</field>
@@ -26419,9 +26065,7 @@
 <field name="caption">in  Split Second  (1953)</field>
 <field name="yearsactive">1947–1988</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
-<field name="restingplace">Garden of Actors Churchyard Cemetery in  London ,  England</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
-<field name="deathcause">Diabetes  and stroke</field>
 <field name="spouse">John Merivale  (1941–1948) Paul Douglas  (1950–1959, his death)</field>
 <field name="name">Jan Sterling</field>
 </doc>
@@ -26442,7 +26086,7 @@
 <field name="type">person</field>
 <field name="television">'' Johnny Ringo ''</field>
 <field name="occupation">Film and television  actress  and producer</field>
-<field name="residence">Los Angeles ,  California</field>
+<field name="residenceplace">Los Angeles ,  California</field>
 <field name="birthdate">1934-09-20T00:00:00Z</field>
 <field name="birthname">Karen Kay Sharpe</field>
 <field name="spouse">Stanley Kramer  (married 1966-2001; his death)</field>
@@ -26470,7 +26114,6 @@
 <field name="deathdate">2004-07-18T00:00:00Z</field>
 <field name="occupation">Dancer</field>
 <field name="occupation">Actor</field>
-<field name="deathcause">Natural Causes</field>
 <field name="deathplace">Malibu ,  California , USA</field>
 <field name="nationality">American</field>
 <field name="birthdate">1931-01-14T00:00:00Z</field>
