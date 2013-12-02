@@ -21,6 +21,7 @@ button { width:100%!important;}
 .top_border {
     border-top: 1px solid #eee;
 }
+#map-canvas { height:200px; width:200px; }
 
 </style>
 {% endblock other_css %}
@@ -75,14 +76,19 @@ button { width:100%!important;}
     </form>
    
     <div class="row top-buffer">
-    {% if author %}
+    <!--{% if author %}
     <div class="col-md-1 col-md-offset-2 top-buffer">
         <small><strong>Author:</strong> Author Name</small>
     </div>
     <div class="col-md-6" style="font-size: 20px;">
     {% else %}
     <div class="col-md-6 col-md-offset-3" style="font-size: 20px;">
-    {% endif %}
+    {% endif %}-->
+    <div class="col-md-2 col-md-offset-1 top_buffer">
+      <div id="map-canvas">
+      </div>
+    </div>
+    <div class="col-md-6" style="font-size: 20px;">
       {% if alternatives|is_false %}
           {% autoescape off %}{{response_text}}{% endautoescape %}
       {% else %}
@@ -127,4 +133,47 @@ button { width:100%!important;}
 {% endblock content %}
 {% block other_js %}
 <script src="{% static "js/similarity.js" %}" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script>
+function initialize() {
+  var map_canvas = document.getElementById('map-canvas');
+  var myLatLng = new google.maps.LatLng(41,14);
+  var map_options = {
+    center: myLatLng,
+    zoom: 10,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+  
+  map = new google.maps.Map(map_canvas, map_options)
+
+  marker = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          draggable: false
+  });
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+
+function moveMarkUp(lat, lng){
+    var newLatLang = new google.maps.LatLng(lat, lng);
+    map.panTo(newLatLang);
+    marker.setPosition(newLatLang); 
+}
+$.ajax({
+    type: 'get',
+    url: "http://maps.googleapis.com/maps/api/geocode/json?address=buffalo&sensor=false",
+    success: function(jsonData){
+                 //var jsonData = JSON.parse(data);
+                 console.log(jsonData);
+                 var lat = jsonData.results[0].geometry.location.lat;
+                 var lng = jsonData.results[0].geometry.location.lng;
+                 console.log(lat);
+                 console.log(lng);
+                 moveMarkUp(lat, lng);
+            },
+    error: function(data){
+               console.log("Failed");
+               }
+});
+</script>
 {% endblock other_js %}
