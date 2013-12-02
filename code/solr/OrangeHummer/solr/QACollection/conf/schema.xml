@@ -191,7 +191,7 @@
    <field  name="distributor"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="runtime"  type="string" indexed="true" stored="true" omitNorms = "True"/>
    <!-- common field for places -->
-   <field  name="country"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
+   <field  name="country"  type="text_general" indexed="true" stored="true" omitNorms = "True" multiValued="true"/>
    <field  name="language"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="budget"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="gross"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>

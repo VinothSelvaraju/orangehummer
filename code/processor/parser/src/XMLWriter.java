@@ -131,7 +131,28 @@ public class XMLWriter {
 							Boolean flag = false;
 							String newKey = pairs.getKey().toString().replaceAll("_", "");
 							newKey = newKey.trim().replaceAll(" *", "");
-							String [] matchTypes = {"imagesize",	"alt",	"bgcolour",	"term",	"honorificsuffix",	"honorificprefix",	"hometown",	"signature",	"wrestlingweight",	"abbr",	"hangul",	"module",	"mr",	"rrborn",	"hangulborn",	"color",	"rr",	"mrborn",	"child",	"size",	"embed",	"filename",	"description",	"work",	"accessdate",	"date",	"agent",	"origin",	"eyecolor",	"haircolor",	"naturalbust",	"df",	"issue",	"m",	"othernameslang",	"precision",	"criminalstatus",	"criminalpenalty",	"criminalcharge",	"publisher",	"imagesize",	"dead",	"age",	"alive","type", "ft", "in", "nativenamelang", "died"};
+							String[] matchTypes = { "imagesize", "alt",
+									"bgcolour", "term", "honorificsuffix",
+									"honorificprefix", "hometown", "signature",
+									"wrestlingweight", "abbr", "hangul",
+									"module", "mr", "rrborn", "hangulborn",
+									"color", "rr", "mrborn", "child", "size",
+									"embed", "filename", "description", "work",
+									"accessdate", "date", "agent", "origin",
+									"eyecolor", "haircolor", "naturalbust",
+									"df", "issue", "m", "othernameslang",
+									"precision", "criminalstatus",
+									"criminalpenalty", "criminalcharge",
+									"publisher", "imagesize", "dead", "age",
+									"alive", "type", "ft", "in",
+									"nativenamelang", "died", "restingplace",
+									"deathcause", "signaturealt", "genre(s)",
+									"genre", "label", "instrument",
+									"associatedacts", "background",
+									"tradchinesename", "simpchinesename",
+									"pinyinchinesename", "boxwidth",
+									"signaturesize", "sexualorientation",
+									"measurements", "grandchildren", "label(s)","labels","medium","instruments","death","style","divorced" };
 							String tagName = newKey.toLowerCase();
 							//System.out.println("TAG NAME: "+tagName);
 							for(int k = 0; k<matchTypes.length;k++){

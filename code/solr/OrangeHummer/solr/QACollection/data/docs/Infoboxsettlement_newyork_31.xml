@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<add>
+<doc>
+<field name="id">520282</field>
+<field name="type">person</field>
+<field name="establisheddate">1842</field>
+<field name="areacode">607</field>
+<field name="establisheddate1">1908</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype2">County</field>
+<field name="longd">longd=75,</field>
+<field name="subdivisiontype1">State</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="longm">longm=3,</field>
+<field name="longs">longs=44,</field>
+<field name="blankinfo">36-54881</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Incorporated (village)</field>
+<field name="name">Oneonta</field>
+<field name="leadername">Richard P. Miller, Jr. ( I )</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="settlementtype">City</field>
+<field name="latns">N</field>
+<field name="blankname">FIPS code</field>
+<field name="pushpinmap">New York</field>
+<field name="imageseal">Seal of Oneonta, New York.png</field>
+<field name="lats">lats=21,</field>
+<field name="website">Official website</field>
+<field name="nickname">"City of the Hills"</field>
+<field name="establishedtitle1">Incorporated (city)</field>
+<field name="populationasof">2010</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="latd">latd=42,</field>
+<field name="pushpinmapcaption">Location of Oneonta in New York</field>
+<field name="unitpref">Imperial</field>
+<field name="populationtotal">13,901</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="postalcode">13820</field>
+<field name="subdivisionname2">Otsego</field>
+<field name="governmenttype">Mayor-Council</field>
+<field name="latm">latm=27,</field>
+</doc>
+<doc>
+<field name="id">126473</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate1">March 19, 1890</field>
+<field name="elevationft">820</field>
+<field name="longd">longd=74,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=21,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="leadername">Dayton J. King (I)</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="officialname">City of Gloversville</field>
+<field name="areatotalsqmi">5.10</field>
+<field name="populationdensitysqmi">3027.0</field>
+<field name="blankname">FIPS code</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">1168.7</field>
+<field name="titlestyle">&lt;!-- (optional) --&gt;</field>
+<field name="3">• W2:</field>
+<field name="2">• W1: Robin Wentworth (Democratic Party (United States)</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="1">• At-Large: James Robinson (Republican Party (United States)</field>
+<field name="7">• W6:  }}</field>
+<field name="populationtotal">15,665</field>
+<field name="latd">latd=43,</field>
+<field name="6">• W5: Jay Zarrelli (Republican Party (United States)</field>
+<field name="5">• W4: Ellen Anadio (Republican Party (United States)</field>
+<field name="postalcode">12078</field>
+<field name="4">• W3:</field>
+<field name="elevationm">250</field>
+<field name="latm">latm=3,</field>
+<field name="arealandsqmi">5.09</field>
+<field name="establisheddate">1853</field>
+<field name="areacode">518  Exchanges: 725,773,775</field>
+<field name="pushpinlabelposition">left</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0951265</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-29443</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Incorporated (village)</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Gloversville, New York</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">http://www.cityofgloversville.com</field>
+<field name="areawatersqmi">0.01</field>
+<field name="establishedtitle1">Incorporated (city)</field>
+<field name="framestyle">border:none; padding: 0;</field>
+<field name="utcoffset">-5</field>
+<field name="liststyle">text-align:left;display:none;</field>
+<field name="pushpinmapcaption">Location in the state of New York</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Fulton</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">208367</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">7.7</field>
+<field name="elevationft">285</field>
+<field name="longd">longd=76,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=30,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=24,</field>
+<field name="leadername">Thomas W. Gillen ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">11.2</field>
+<field name="officialname">City of Oswego</field>
+<field name="populationdensitysqmi">2343.4</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=17,</field>
+<field name="nickname">The Port City</field>
+<field name="caption">Market House, Oswego, NY</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">905.0</field>
+<field name="latd">latd=43,</field>
+<field name="populationtotal">18,142</field>
+<field name="postalcode">13126</field>
+<field name="populationurban">18,096 (2000 census)</field>
+<field name="elevationm">87</field>
+<field name="latm">latm=27,</field>
+<field name="arealandsqmi">7.7</field>
+<field name="establisheddate">1796</field>
+<field name="areacode">315</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0959525</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-55574</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Oswego</field>
+<field name="coordinatesdisplay">1</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">31</field>
+<field name="imageskyline">Market House Oswego NY Nov 08.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">www.oswegony.org</field>
+<field name="areawatersqmi">3.6</field>
+<field name="areawaterkm2">3.6</field>
+<field name="zipcode">13126</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="areatotalkm2">29.1</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Oswego</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">127573</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">11.4</field>
+<field name="elevationft">108</field>
+<field name="longd">longd=73,</field>
+<field name="timezone">Eastern</field>
+<field name="longm">longm=49,</field>
+<field name="longs">longs=50,</field>
+<field name="leadername">Ernest D. Davis ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="imageseal">City of Mount Vernon Seal.png</field>
+<field name="blankname">FIPS code</field>
+<field name="areamagnitude">1 E9</field>
+<field name="lats">lats=51,</field>
+<field name="mapcaption">Location within Westchester County</field>
+<field name="imagemap">MountVernon.PNG</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">5902.8</field>
+<field name="populationtotal">67292</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">10550, 10552, 10553</field>
+<field name="motto">The City of Homes, The City of Pride and Greatness, The Vern, Money Earnin' Mount Vernon</field>
+<field name="elevationm">33</field>
+<field name="latm">latm=54,</field>
+<field name="areacode">914</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0957917</field>
+<field name="subdivisiontype2">County</field>
+<field name="pushpinlabel">Mount Vernon</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-49121</field>
+<field name="timezonedst">Eastern</field>
+<field name="longew">W</field>
+<field name="name">Mount Vernon, New York</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">cmvny.com</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location within state of New York</field>
+<field name="areatotalkm2">11.4</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Westchester</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">127058</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationminft">0</field>
+<field name="establisheddate3">1816</field>
+<field name="imagemap1">RensselaerCounty Troy with NY.svg</field>
+<field name="establisheddate2">1793</field>
+<field name="timezone1dst">EDT</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=41,</field>
+<field name="longs">longs=33,</field>
+<field name="leadername">Lou Rosamilia</field>
+<field name="leaderparty">D</field>
+<field name="namedfor">Classical  Troy</field>
+<field name="settlementtype">City</field>
+<field name="populationdensitysqmi">4470</field>
+<field name="officialname">City of Troy</field>
+<field name="founder">Van Der Heyeden and Lansing families</field>
+<field name="areatotalsqmi">11</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">TroyNYSeal.svg</field>
+<field name="lats">lats=54,</field>
+<field name="nickname">Collar City</field>
+<field name="mapcaption">Map of Troy and its major thoroughfares</field>
+<field name="populationest">50,129</field>
+<field name="caption">The Troy waterfront and  Hudson River , 2009</field>
+<field name="imagemap">Troy, New York Map.png</field>
+<field name="populationasof">2010</field>
+<field name="popestasof">2010</field>
+<field name="populationdemonym">Trojan</field>
+<field name="populationtotal">50,129</field>
+<field name="latd">latd=42,</field>
+<field name="elevationmaxft">500</field>
+<field name="utcoffset1dst">-4</field>
+<field name="postalcode">12179–12182</field>
+<field name="motto">Ilium fuit, Troja est                       (Latin for "Ilium was, Troy is" also translated as "Troy was, Troy is")</field>
+<field name="timezone1">EST</field>
+<field name="latm">latm=43,</field>
+<field name="arealandsqmi">10.4</field>
+<field name="establisheddate">1787</field>
+<field name="areacode">518</field>
+<field name="pushpinlabelposition">left</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City Council</field>
+<field name="blank1info">0967902</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="mapcaption1">Location of Troy within  Rensselaer County  and  New York</field>
+<field name="blankinfo">36-75484</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Settled</field>
+<field name="name">Troy</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">5.45</field>
+<field name="latns">N</field>
+<field name="imageskyline">TroyWaterfrontPano.jpg</field>
+<field name="pushpinmap">New York</field>
+<field name="website">www.troyny.gov</field>
+<field name="establishedtitle3">City</field>
+<field name="areawatersqmi">0.6</field>
+<field name="establishedtitle2">Village</field>
+<field name="pushpinmapcaption">Location within  New York</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Rensselaer</field>
+<field name="governmenttype">Mayor-council</field>
+<field name="utcoffset1">-5</field>
+</doc>
+<doc>
+<field name="id">85435</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">42.3</field>
+<field name="elevationft">456</field>
+<field name="longd">longd=75,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=13,</field>
+<field name="longs">longs=55,</field>
+<field name="leadername">Robert M. Palmieri ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">16.6</field>
+<field name="populationdensitysqmi">3818.1</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=48,</field>
+<field name="nickname">Handshake City, Renaissance City, Second Chance City</field>
+<field name="caption">Looking south on Utica's Genesee Street</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">1471.3</field>
+<field name="populationtotal">62235</field>
+<field name="latd">latd=43,</field>
+<field name="postalcode">13500-13599</field>
+<field name="elevationm">139</field>
+<field name="latm">latm=5,</field>
+<field name="arealandsqmi">16.3</field>
+<field name="establisheddate">1832</field>
+<field name="areacode">315</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0968324</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-76540</field>
+<field name="establishedtitle">Incorporated</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Utica</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Utica 97 002.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="areawatersqmi">0.3</field>
+<field name="areawaterkm2">0.7</field>
+<field name="utcoffset">-5</field>
+<field name="areatotalkm2">43.0</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Oneida</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">259673</field>
+<field name="type">person</field>
+<field name="establisheddate">1880 (officially incorporated)</field>
+<field name="areacode">716</field>
+<field name="elevationft">617</field>
+<field name="arealandkm2">11.7</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="longd">longd=79,</field>
+<field name="subdivisiontype1">State</field>
+<field name="postalcodetype">ZIP Code</field>
+<field name="longm">longm=20,</field>
+<field name="longs">longs=02,</field>
+<field name="blankinfo">36-21105</field>
+<field name="longew">W</field>
+<field name="name">Dunkirk</field>
+<field name="leadername">Anthony J. Dolce ( D )</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="settlementtype">City</field>
+<field name="latns">N</field>
+<field name="imageskyline">Dunkirk New York aerial view.jpg</field>
+<field name="blankname">FIPS code</field>
+<field name="pushpinmap">New York</field>
+<field name="lats">lats=46,</field>
+<field name="website">www.cityofdunkirk.com</field>
+<field name="areawaterkm2">0.1</field>
+<field name="caption">Aerial view of Dunkirk, facing north over Lake Erie.</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">auto</field>
+<field name="populationtotal">12,563</field>
+<field name="unitpref">Imperial</field>
+<field name="latd">latd=42,</field>
+<field name="pushpinmapcaption">Location of Dunkirk in New York</field>
+<field name="areatotalkm2">11.8</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="postalcode">14048</field>
+<field name="othernames">Chadwicks Bay, Ganadawao</field>
+<field name="subdivisionname2">Chautauqua</field>
+<field name="governmenttype">Mayor-Council</field>
+<field name="elevationm">188</field>
+<field name="latm">latm=28,</field>
+</doc>
+<doc>
+<field name="id">126417</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">15.9</field>
+<field name="elevationft">623</field>
+<field name="longd">longd=78,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="populationmetro">1254066</field>
+<field name="longm">longm=49,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=32,</field>
+<field name="leadername">Geoffrey M. Szymanski ( D )</field>
+<field name="longitude">78°49'32" W</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">−4</field>
+<field name="areatotalsqmi">6.1</field>
+<field name="blankname">FIPS code</field>
+<field name="areamagnitude">1 E9</field>
+<field name="lats">lats=10,</field>
+<field name="mapcaption">Location of Lackawanna in Erie County</field>
+<field name="caption">Lackawanna's City Hall</field>
+<field name="imagemap">Erie-Lackawanna.png</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">1198.8</field>
+<field name="latd">latd=42,</field>
+<field name="populationtotal">18,141</field>
+<field name="postalcode">14218</field>
+<field name="latitude">42°49'10" N</field>
+<field name="elevationm">190</field>
+<field name="latm">latm=49,</field>
+<field name="arealandsqmi">6.1</field>
+<field name="areacode">716</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0954863</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-40189</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Lackawanna</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Lackawanna's City Hall.jpg</field>
+<field name="populationfootnotes">Metropolitan &amp; Central City Population: 2000-2005 .  Demographia.com , accessed September 3, 2006.</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">Lackawanna, NY</field>
+<field name="areawatersqmi">0.0</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">0.0</field>
+<field name="utcoffset">−5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">15.9</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Erie</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">126182</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">21.7</field>
+<field name="elevationft">686</field>
+<field name="longd">longd=76,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=34,</field>
+<field name="leadername1">Douglas A.Selby</field>
+<field name="leadername">Michael D Quill Sr ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">8.4</field>
+<field name="blankname">FIPS code</field>
+<field name="nickname">History's Hometown</field>
+<field name="caption">Memorial City Hall (2012)</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">auto</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">27687</field>
+<field name="latd">latd=42,</field>
+<field name="postalcode">13021, 13022, 13024</field>
+<field name="elevationm">209</field>
+<field name="latm">latm=56,</field>
+<field name="arealandsqmi">8.4</field>
+<field name="establisheddate">1815 (village),1848 (city)</field>
+<field name="areacode">315</field>
+<field name="leadertitle1">City Manager</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0942692</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-03078</field>
+<field name="establishedtitle">Incorporated</field>
+<field name="leadertitle2">City Council</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Auburn, New York</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Auburn City Hall Auburn.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">ci.auburn.ny.us</field>
+<field name="areawatersqmi">0.0</field>
+<field name="areawaterkm2">0.1</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="pushpinmapcaption">Location in the state of New York</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">21.8</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Cayuga</field>
+<field name="governmenttype">Council-Manager</field>
+</doc>
+<doc>
+<field name="id">127118</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate1">1859</field>
+<field name="elevationft">104</field>
+<field name="arealandkm2">2.2</field>
+<field name="establisheddate2">1915</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=41,</field>
+<field name="leadername3">Roy McDonald  ( R ) (2009)</field>
+<field name="longs">longs=26,</field>
+<field name="leadername4">Chris Gibson  ( R )</field>
+<field name="leadername2">Tony Jordan  ( R ) (2009)</field>
+<field name="leadername">Anthony J. Sylvester, Sr. ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">0.9</field>
+<field name="populationdensitysqmi">5576.67</field>
+<field name="blankname">FIPS code</field>
+<field name="areamagnitude">1 E9</field>
+<field name="lats">lats=14,</field>
+<field name="mapcaption">Location within Saratoga County</field>
+<field name="imagemap">Mechanicville Saratoga NY.png</field>
+<field name="populationdensitykm2">2091.25</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">5196</field>
+<field name="latd">latd=42,</field>
+<field name="postalcode">12118</field>
+<field name="elevationm">31.7</field>
+<field name="latm">latm=54,</field>
+<field name="arealandsqmi">0.8</field>
+<field name="establisheddate">1764</field>
+<field name="areacode">518</field>
+<field name="pushpinlabelposition">left</field>
+<field name="leadertitle1">City Commission</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0956897</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="leadertitle4">U.S. House</field>
+<field name="blankinfo">36-46360</field>
+<field name="establishedtitle">First settled</field>
+<field name="leadertitle2">State Assembly</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="leadertitle3">State Senate</field>
+<field name="name">Mechanicville</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">PostcardSpringStMechanicvilleNY1910.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">mechanicville.com</field>
+<field name="areawatersqmi">0.1</field>
+<field name="establishedtitle2">Incorporated  (city)</field>
+<field name="establishedtitle1">Incorporated  (village)</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">0.2</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">2.4</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Saratoga</field>
+<field name="governmenttype">City Commission</field>
+</doc>
+<doc>
+<field name="id">259795</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate1">1803 (village) 1895 (city)</field>
+<field name="arealandkm2">12.6</field>
+<field name="elevationft">673</field>
+<field name="longd">longd=74,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=22,</field>
+<field name="longs">longs=20,</field>
+<field name="leadername">Sarah J. Slingerland ( R )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="founder">Sir William Johnson</field>
+<field name="areatotalsqmi">4.9</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=26,</field>
+<field name="caption">Johnson Hall, home of Sir William Johnson, New York State Historic Site</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">auto</field>
+<field name="populationtotal">8,743</field>
+<field name="latd">latd=43,</field>
+<field name="postalcode">12095</field>
+<field name="elevationm">205</field>
+<field name="latm">latm=0,</field>
+<field name="arealandsqmi">4.9</field>
+<field name="establisheddate">1758</field>
+<field name="areacode">518</field>
+<field name="pushpinlabelposition">left</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0954147</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-38781</field>
+<field name="establishedtitle">Settled</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Johnstown</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Johnson Hall, Johnstown, NY.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="areawatersqmi">0.0</field>
+<field name="establishedtitle1">Incorporated</field>
+<field name="areawaterkm2">0.0</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">12.6</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Fulton</field>
+<field name="governmenttype">( Mayor-Council )</field>
+</doc>
+<doc>
+<field name="id">260184</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">15.0</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=41,</field>
+<field name="longs">longs=02,</field>
+<field name="leadername1">vacant</field>
+<field name="leadername">Douglas H. French ( R )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">20.0</field>
+<field name="populationdensitysqmi">2,710</field>
+<field name="imageseal">rye-city-seal.jpg</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=52,</field>
+<field name="mapcaption">Location within Westchester County</field>
+<field name="caption">Peter Augustus Jay House, Rye, NY</field>
+<field name="imagemap">Map_of_Westchester_County,_NY,_highlighting_city_of_Rye.png</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">auto</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">15720</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">10580</field>
+<field name="latm">latm=58,</field>
+<field name="arealandsqmi">5.8</field>
+<field name="areacode">914</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-64309</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Rye</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">http://www.ryeny.gov</field>
+<field name="areawatersqmi">14.2</field>
+<field name="areawaterkm2">36.9</field>
+<field name="mapsize">180px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="areatotalkm2">51.9</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Westchester</field>
+<field name="governmenttype">Council-Manager</field>
+</doc>
+<doc>
+<field name="id">259718</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate1">1815 (village) 1902 (city)</field>
+<field name="arealandkm2">13.1</field>
+<field name="elevationft">138</field>
+<field name="longd">longd=73,</field>
+<field name="timezone1dst">EDT</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="longm">longm=27,</field>
+<field name="longs">longs=30,</field>
+<field name="leadername">Donald Kasprzak ( R )</field>
+<field name="namedfor">Zephaniah Platt</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">6.6</field>
+<field name="populationdensitysqmi">3919.4</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Seal of Plattsburgh.png</field>
+<field name="lats">lats=43,</field>
+<field name="nickname">"The Lake City" "(La Ville sur le Lac)"</field>
+<field name="mapcaption">Map of Plattsburgh city</field>
+<field name="caption">MacDonough Monument in front of City Hall</field>
+<field name="imagemap">Plattsburgh city border map.gif</field>
+<field name="populationasof">2010 Census</field>
+<field name="populationdensitykm2">1525.9</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">19989</field>
+<field name="latd">latd=44,</field>
+<field name="utcoffset1dst">-4</field>
+<field name="postalcode">12901, 12903</field>
+<field name="motto">''Ipsa Sibi Præmium Virtus'' (“Virtue is its own reward.”)</field>
+<field name="elevationm">42</field>
+<field name="timezone1">Eastern</field>
+<field name="latm">latm=41,</field>
+<field name="arealandsqmi">5.1</field>
+<field name="establisheddate">1785</field>
+<field name="areacode">518</field>
+<field name="pushpinlabelposition">left</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0960698</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-58574</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Settled</field>
+<field name="name">Plattsburgh</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="areawaterpercent">23.4</field>
+<field name="latns">N</field>
+<field name="imageskyline">Plattsburgh_monument.jpg</field>
+<field name="pushpinmap">New York</field>
+<field name="website">CityofPlattsburgh-NY.gov</field>
+<field name="areawatersqmi">1.5</field>
+<field name="establishedtitle1">Incorporated</field>
+<field name="areawaterkm2">4.0</field>
+<field name="pushpinmapcaption">Location within state of New York</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">17.0</field>
+<field name="subdivisionname2">Clinton</field>
+<field name="governmenttype">Council-Manager</field>
+<field name="utcoffset1">-5</field>
+</doc>
+<doc>
+<field name="id">14973</field>
+<field name="type">person</field>
+<field name="arealandkm2">14.1</field>
+<field name="establisheddate2">1888</field>
+<field name="longd">longd=76,</field>
+<field name="populationmetro">101,564</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=30,</field>
+<field name="longs">longs=0,</field>
+<field name="leadername">Svante Myrick  ( D )</field>
+<field name="longitude">76° 30' 0'' W</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">−4</field>
+<field name="areatotalsqmi">6.1</field>
+<field name="blankname">FIPS code</field>
+<field name="areamagnitude">1 E8</field>
+<field name="lats">lats=36,</field>
+<field name="caption">From top left: Ithaca during winter, Ithaca during autumn, Cornell University, Ithaca Commons (downtown), Hemlock Gorge in Ithaca, Ithaca Falls</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">2071.0</field>
+<field name="populationtotal">30014 (city proper)</field>
+<field name="latd">latd=42,</field>
+<field name="latitude">42° 26' 36'' N</field>
+<field name="elevationm">136</field>
+<field name="latm">latm=26,</field>
+<field name="arealandsqmi">5.5</field>
+<field name="establisheddate">1790</field>
+<field name="areacode">607</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">US state</field>
+<field name="blankinfo">36-38077</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Ithaca</field>
+<field name="subdivisionname">United States</field>
+<field name="populationblank1">Ithacan</field>
+<field name="imageskyline">Ithaca Montage.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">www.cityofithaca.org</field>
+<field name="areawatersqmi">0.6</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="areawaterkm2">1.6</field>
+<field name="utcoffset">−5</field>
+<field name="areatotalkm2">15.7</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Tompkins</field>
+<field name="populationblank1title">Demonym</field>
+</doc>
+<doc>
+<field name="id">59403</field>
+<field name="type">person</field>
+<field name="establisheddate1">1834 (village),1867 (city)</field>
+<field name="elevationft">850</field>
+<field name="timezone1dst">EDT</field>
+<field name="longd">longd=75,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="populationmetro">251725</field>
+<field name="longm">longm=54,</field>
+<field name="longs">longs=42,</field>
+<field name="leadername">Matthew T. Ryan  ( D )</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">11.14</field>
+<field name="populationdensitysqmi">4,516.8</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=08,</field>
+<field name="nickname">"The Parlor City" ,  "Carousel Capital of the World" ,  "Valley of Opportunity"</field>
+<field name="caption">Clockwise from top: Binghamton skyline, the  Endicott Johnson   Square Deal Arch , the  South Washington Street Bridge , the  Ross Park Zoo  carousel,  Court Street Historic District , downtown in winter, and the  Spiedie  Fest and Balloon Rally.</field>
+<field name="populationasof">2010 census</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdemonym">Binghamtonian</field>
+<field name="populationtotal">47376</field>
+<field name="latd">latd=42,</field>
+<field name="utcoffset1dst">-4</field>
+<field name="motto">Restoring the Pride.</field>
+<field name="timezone1">EST</field>
+<field name="latm">latm=6,</field>
+<field name="arealandsqmi">10.49</field>
+<field name="establisheddate">1802</field>
+<field name="areacode">607</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-06607</field>
+<field name="establishedtitle">Settled</field>
+<field name="longew">W</field>
+<field name="name">Binghamton</field>
+<field name="coordinatesdisplay">inline, title</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">5.83</field>
+<field name="imageskyline">Binghamton Montage.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">http://www.cityofbinghamton.com</field>
+<field name="areawatersqmi">0.65</field>
+<field name="establishedtitle1">Incorporated</field>
+<field name="pushpinmapcaption">Location in the state of New York</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Broome</field>
+<field name="governmenttype">Mayor-Council</field>
+<field name="utcoffset1">-5</field>
+</doc>
+<doc>
+<field name="id">126365</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">12.4</field>
+<field name="elevationft">138</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="longm">longm=57,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=56,</field>
+<field name="leadername">Randy J. Casale ( R )</field>
+<field name="longitude">73°57'56" W</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">4.9</field>
+<field name="populationdensitysqmi">3333</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">BeaconSeal.png</field>
+<field name="areamagnitude">1 E9</field>
+<field name="lats">lats=15,</field>
+<field name="nickname">Tree City, Beaclyn, North Brooklyn</field>
+<field name="mapcaption">Location in the state of  New York</field>
+<field name="imagemap">Beacon.svg</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">2072</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="latd">latd=41,</field>
+<field name="populationtotal">15,541 Living and 25,000 Working/ Tourism ( city proper )</field>
+<field name="postalcode">12508</field>
+<field name="latitude">41°30'15" N</field>
+<field name="elevationm">42</field>
+<field name="latm">latm=30,</field>
+<field name="arealandsqmi">4.8</field>
+<field name="areacode">845</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0977521</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-05100</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Beacon</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Beaconpic.jpg</field>
+<field name="latns">N</field>
+<field name="website">City of Beacon</field>
+<field name="areawatersqmi">0.1</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">0.3</field>
+<field name="utcoffset">-5</field>
+<field name="areatotalkm2">12.7</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Dutchess</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">126952</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1907</field>
+<field name="arealandkm2">6.6</field>
+<field name="elevationft">400</field>
+<field name="establisheddate2">1853</field>
+<field name="longd">longd=74,</field>
+<field name="postalcodetype">Postal code</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=41,</field>
+<field name="longs">longs=20,</field>
+<field name="leadername">Russell R. Potter ( R ,  C ,  I )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">2.7</field>
+<field name="blankname">FIPS code</field>
+<field name="areamagnitude">1 E8</field>
+<field name="lats">lats=32,</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationtotal">8,828</field>
+<field name="latd">latd=41,</field>
+<field name="postalcode">12771</field>
+<field name="motto">Gateway to the Upper Delaware River</field>
+<field name="elevationm">122</field>
+<field name="latm">latm=22,</field>
+<field name="arealandsqmi">2.5</field>
+<field name="establisheddate">1690</field>
+<field name="areacode">845</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0960971</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-59388</field>
+<field name="establishedtitle">Settled</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Port Jervis</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">6.64</field>
+<field name="imageskyline">Port Jervis city hall.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">City of Port Jervis Website</field>
+<field name="establishedtitle3">City</field>
+<field name="areawatersqmi">0.6</field>
+<field name="establishedtitle2">Village</field>
+<field name="areawaterkm2">0.5</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">7</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Orange</field>
+<field name="governmenttype">Mayor-council</field>
+</doc>
+<doc>
+<field name="id">645042</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate1">1898</field>
+<field name="elevationft">33</field>
+<field name="timezone1dst">EDT</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code(s)</field>
+<field name="populationmetro">19,831,858 ( 1st )</field>
+<field name="longm">longm=56.4,</field>
+<field name="leadername">Michael Bloomberg  ( I ), term ends December 31, 2013; to be succeeded by  Bill de Blasio  ( D )</field>
+<field name="totaltype">Total</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of New York</field>
+<field name="areatotalsqmi">468.5</field>
+<field name="populationdensitysqmi">27550</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Seal of New York City.svg</field>
+<field name="mapcaption">Location in  New York State</field>
+<field name="caption">Clockwise from top:  Midtown Manhattan , the  United Nations Headquarters , the  Statue of Liberty , the  Brooklyn Bridge ,  Central Park ,  Times Square , and the  Unisphere  in  Queens</field>
+<field name="imagemap">Map of New York Highlighting New York City.svg</field>
+<field name="populationest">8,336,697</field>
+<field name="governingbody">New York City Council</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="popestasof">2012</field>
+<field name="populationdemonym">New Yorker</field>
+<field name="latd">latd=40,</field>
+<field name="utcoffset1dst">-4</field>
+<field name="postalcode">100xx–104xx, 11004–05, 111xx–114xx, 116xx</field>
+<field name="timezone1">Eastern (EST)</field>
+<field name="elevationm">10</field>
+<field name="imageflag">Flag of New York City.svg</field>
+<field name="latm">latm=40.2,</field>
+<field name="arealandsqmi">302.6</field>
+<field name="establisheddate">1624</field>
+<field name="areametrosqmi">13318</field>
+<field name="areacode">212 ,  347 ,  646 ,  718 ,  917 ,  929</field>
+<field name="pushpinlabelposition">left</field>
+<field name="subdivisiontype4">Historic colony</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype3">Counties</field>
+<field name="blank1info">975772</field>
+<field name="pushpinlabel">New York</field>
+<field name="subdivisiontype2">State</field>
+<field name="coordinatesformat">dms</field>
+<field name="blankinfo">36-51000</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Settled</field>
+<field name="name">New York City</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="populationblank1">23,362,099 ( 1st )</field>
+<field name="latns">N</field>
+<field name="imageskyline">NYC Montage 2011.jpg</field>
+<field name="pushpinmap">USA</field>
+<field name="website">www.nyc.gov</field>
+<field name="areawatersqmi">165.8</field>
+<field name="establishedtitle1">Incorporated</field>
+<field name="populationrank">1st, U.S.</field>
+<field name="pushpinmapcaption">Location in the  United States</field>
+<field name="subdivisionname3">Bronx ,  Kings ,  New York ,  Queens ,  Richmond -</field>
+<field name="unitpref">US</field>
+<field name="subdivisionname4">Province of New York ,  New Netherland</field>
+<field name="leadertitle">Mayor</field>
+<field name="governmenttype">Mayor–Council</field>
+<field name="populationblank1title">CSA</field>
+<field name="utcoffset1">-5</field>
+</doc>
+<doc>
+<field name="id">259700</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">5.3</field>
+<field name="elevationft">1014</field>
+<field name="longd">longd=75,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=31,</field>
+<field name="longs">longs=18,</field>
+<field name="leadername">Joseph Maiurano ( R )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">2.0</field>
+<field name="populationdensitysqmi">auto</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=55,</field>
+<field name="populationasof">2010</field>
+<field name="populationdensitykm2">auto</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">7,190</field>
+<field name="latd">latd=42,</field>
+<field name="postalcode">13815</field>
+<field name="elevationm">309</field>
+<field name="latm">latm=31,</field>
+<field name="arealandsqmi">2.0</field>
+<field name="areacode">607</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0959025</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-53979</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Norwich</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">City of Norwich in New York State 41 downtown green.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="areawatersqmi">0.0</field>
+<field name="areawaterkm2">0.0</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="areatotalkm2">5.3</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Chenango</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">127497</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationft">344</field>
+<field name="arealandkm2">9.9</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="populationmetro">128,774</field>
+<field name="areaurbansqmi">35.35</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=38,</field>
+<field name="longs">longs=54,</field>
+<field name="leadername">John "Jack" Diamond ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">3.9</field>
+<field name="populationdensitysqmi">3752.2</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=44,</field>
+<field name="nickname">Hometown U.S.A.</field>
+<field name="mapcaption">Location of Glens Falls in Warren County</field>
+<field name="caption">Centennial Circle , a five-leg roundabout located in downtown Glens Falls</field>
+<field name="imagemap">Glens Falls New York.PNG</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">1477.0</field>
+<field name="populationtotal">14,700</field>
+<field name="latd">latd=43,</field>
+<field name="postalcode">12801, 12804</field>
+<field name="areaurbankm2">91.55</field>
+<field name="elevationm">105</field>
+<field name="latm">latm=18,</field>
+<field name="arealandsqmi">3.8</field>
+<field name="establisheddate">1839 (village), 1908 (city)</field>
+<field name="areacode">518</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0951223</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-29333</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Incorporated</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Glens Falls</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">2.54</field>
+<field name="imageskyline">Downtown Glens Falls New York roundabout.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">http://www.cityofglensfalls.com</field>
+<field name="areawatersqmi">0.1</field>
+<field name="mapsize">250px</field>
+<field name="areawaterkm2">0.3</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">10.2</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Warren</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">28079020</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="areacode">845</field>
+<field name="elevationft">476</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">Common Council</field>
+<field name="blank1info">0979119</field>
+<field name="subdivisiontype2">County</field>
+<field name="longd">longd=74,</field>
+<field name="subdivisiontype1">State</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="populationmetro">177749</field>
+<field name="longm">longm=0,</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=00,</field>
+<field name="blankinfo">36-39727</field>
+<field name="longew">W</field>
+<field name="timezonedst">EDT</field>
+<field name="name">Kingston</field>
+<field name="leadername">Shayne Gallo ( D )</field>
+<field name="coordinatesdisplay">1</field>
+<field name="subdivisionname">United States</field>
+<field name="settlementtype">town state</field>
+<field name="utcoffsetdst">-4</field>
+<field name="latns">N</field>
+<field name="imageskyline">Stockade District, Kingston, NY.jpg</field>
+<field name="blankname">FIPS code</field>
+<field name="pushpinmap">New York</field>
+<field name="lats">lats=30,</field>
+<field name="nickname">K- Town</field>
+<field name="caption">Stockade District, Kingston, NY</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="utcoffset">-5</field>
+<field name="latd">latd=41,</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="populationtotal">23,893</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="postalcode">12401-12402</field>
+<field name="subdivisionname2">Ulster</field>
+<field name="elevationm">145</field>
+<field name="latm">latm=55,</field>
+</doc>
+<doc>
+<field name="id">259891</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate1">1885</field>
+<field name="arealandkm2">15.4</field>
+<field name="elevationft">361</field>
+<field name="longd">longd=74,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=11,</field>
+<field name="longs">longs=25,</field>
+<field name="leadername">Ann Thane ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">−04</field>
+<field name="areatotalsqmi">6.3</field>
+<field name="populationdensitysqmi">3176.3</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=36,</field>
+<field name="nickname">Amsterico, The city that sleeps at night</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationtotal">18,620</field>
+<field name="latd">latd=42,</field>
+<field name="postalcode">12010</field>
+<field name="motto">Viva Amsterico</field>
+<field name="elevationm">110</field>
+<field name="latm">latm=56,</field>
+<field name="arealandsqmi">5.9</field>
+<field name="establisheddate">1830</field>
+<field name="areacode">518</field>
+<field name="leadertitle1">City council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0942450</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-02066</field>
+<field name="establishedtitle">Incorporated (village)</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Amsterdam</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Amsterdam NY View.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="areawatersqmi">0.3</field>
+<field name="establishedtitle1">Incorporated (city)</field>
+<field name="areawaterkm2">0.9</field>
+<field name="utcoffset">−05</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">16.3</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Montgomery</field>
+<field name="governmenttype">Mayor-council</field>
+</doc>
+<doc>
+<field name="id">259851</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationft">466</field>
+<field name="arealandkm2">23.2</field>
+<field name="longd">longd=75,</field>
+<field name="postalcodetype">Zip Code</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=54,</field>
+<field name="longs">longs=23,</field>
+<field name="leadername1">Sharon Addison</field>
+<field name="leadername">Jeffrey E. Graham</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">9.3</field>
+<field name="populationdensitysqmi">2996</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Watertownseal.jpg</field>
+<field name="lats">lats=32,</field>
+<field name="nickname">The Garland City</field>
+<field name="caption">Watertown public square</field>
+<field name="populationasof">2010</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">27023</field>
+<field name="latd">latd=43,</field>
+<field name="postalcode">13601, 13602</field>
+<field name="elevationm">142</field>
+<field name="latm">latm=58,</field>
+<field name="arealandsqmi">9</field>
+<field name="establisheddate">1800</field>
+<field name="areacode">315</field>
+<field name="leadertitle1">City Manager</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0968914</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-78608</field>
+<field name="establishedtitle">Settled</field>
+<field name="leadertitle2">City Council</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Watertown</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Publicsquareeast2008.JPG</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">www.citywatertown.org</field>
+<field name="areawatersqmi">0.3</field>
+<field name="areawaterkm2">0.8</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location in the state of New York</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">24.0</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Jefferson</field>
+<field name="governmenttype">Council-Manager</field>
+</doc>
+<doc>
+<field name="id">93557</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationft">82</field>
+<field name="arealandkm2">46.8</field>
+<field name="establisheddate2">1872 (city)</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=51,</field>
+<field name="longs">longs=52,</field>
+<field name="leadername">Mike Spano  ( D )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">20.3</field>
+<field name="populationdensitysqmi">10827.4</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Yonkers seal.svg</field>
+<field name="lats">lats=29,</field>
+<field name="nickname">The Central City, The Land of Hudson, The Terrace City, The City of Hills, The City of Vision, The Sixth Borough, The City of Gracious Living.</field>
+<field name="mapcaption">Location in the State of  New York</field>
+<field name="caption">View of Yonkers from the New Jersey Palisades</field>
+<field name="imagemap">Yonkers NewYork.svg</field>
+<field name="governingbody">Yonkers City Council</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">4187.5</field>
+<field name="populationdemonym">Yonkersonian Yonkersite</field>
+<field name="populationtotal">195,976</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">10701, 10702 (post office), 10703, 10704, 10705, 10707 (shared with  Tuckahoe, NY ), 10708 (shared with  Bronxville, NY ) 10710</field>
+<field name="elevationm">25</field>
+<field name="imageflag">Yonkers flag.svg</field>
+<field name="latm">latm=56,</field>
+<field name="arealandsqmi">18.1</field>
+<field name="establisheddate">1646 (village)</field>
+<field name="areacode">914</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0971828</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="sister-cities">Ternopil</field>
+<field name="blankinfo">36-84000</field>
+<field name="establishedtitle">Founded</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Yonkers, New York</field>
+<field name="imageskyline">View of Yonkers from the New Jersey Palisades.jpg</field>
+<field name="latns">N</field>
+<field name="website">www.yonkersny.gov</field>
+<field name="areawatersqmi">2.2</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">250x150px</field>
+<field name="areawaterkm2">5.8</field>
+<field name="utcoffset">-5</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">52.6</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Westchester</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">259905</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">22.1</field>
+<field name="elevationft">614</field>
+<field name="longd">longd=78,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=41,</field>
+<field name="longs">longs=28,</field>
+<field name="leadername">Michael W. Tucker ( R )</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">-4</field>
+<field name="areatotalsqmi">8.6</field>
+<field name="populationdensitysqmi">2519.7</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=11,</field>
+<field name="nickname">The Lock City</field>
+<field name="mapcaption">Location within Niagara County</field>
+<field name="imagemap">Niagara-Lockport (city).png</field>
+<field name="populationasof">2010</field>
+<field name="coordinatestype">region:US_type:city</field>
+<field name="populationtotal">21,165</field>
+<field name="latd">latd=43,</field>
+<field name="postalcode">14094-14095</field>
+<field name="elevationm">187</field>
+<field name="latm">latm=10,</field>
+<field name="arealandsqmi">8.5</field>
+<field name="areacode">716 ,  585</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0955783</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-43082</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Lockport</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Lockport Arts Fest on Main St.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="areawatersqmi">0.1</field>
+<field name="areawaterkm2">0.3</field>
+<field name="mapsize">250px</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="pushpinmapcaption">Location within the state of New York</field>
+<field name="areatotalkm2">22.4</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Niagara</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">28443</field>
+<field name="type">person</field>
+<field name="twin3">Taiz</field>
+<field name="twin2">Fuzhou ,  Fujian</field>
+<field name="twin1">Chiayi City</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="elevationft">380</field>
+<field name="arealandkm2">65</field>
+<field name="twin4">Tampere</field>
+<field name="establisheddate2">1847 (city)</field>
+<field name="longd">longd=76,</field>
+<field name="populationmetro">662,577</field>
+<field name="timezone">Eastern</field>
+<field name="longm">longm=08,</field>
+<field name="longs">longs=39,</field>
+<field name="leadername">Stephanie A. Miner  ( D )</field>
+<field name="demonym">Syracusan</field>
+<field name="settlementtype">City</field>
+<field name="utcoffsetdst">−4</field>
+<field name="areatotalsqmi">26.6</field>
+<field name="populationdensitysqmi">5583.5</field>
+<field name="blankname">FIPS code</field>
+<field name="lats">lats=49,</field>
+<field name="nickname">The 'Cuse, Salt City, Emerald City, The Heart of New York</field>
+<field name="mapcaption">Location of Syracuse within the state of New York</field>
+<field name="caption">A view of the downtown Syracuse skyline</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">2233.4</field>
+<field name="populationtotal">145,170</field>
+<field name="latd">latd=43,</field>
+<field name="elevationm">116</field>
+<field name="latm">latm=02,</field>
+<field name="arealandsqmi">26</field>
+<field name="establisheddate">1825 (village)</field>
+<field name="areacode">315</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0966966</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-73000</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Incorporated</field>
+<field name="timezonedst">Eastern Daylight Time</field>
+<field name="name">Syracuse, New York</field>
+<field name="subdivisionname">United States</field>
+<field name="areawaterpercent">2.15</field>
+<field name="imageskyline">Syracuse skyline.jpg</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">www.Syracuse.ny.us</field>
+<field name="areawatersqmi">0.6</field>
+<field name="establishedtitle2">Incorporated</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">1.4</field>
+<field name="utcoffset">−5</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">66.4</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Onondaga</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">126989</field>
+<field name="type">person</field>
+<field name="establisheddate">1835</field>
+<field name="establisheddate1">1902</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype2">County</field>
+<field name="longd">longd=76,</field>
+<field name="subdivisiontype1">State</field>
+<field name="longm">longm=25,</field>
+<field name="longs">longs=06,</field>
+<field name="blankinfo">36-27815</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Incorporated (village)</field>
+<field name="name">Fulton</field>
+<field name="leadername">Ronald Woodward ( R )</field>
+<field name="subdivisionname">United States</field>
+<field name="settlementtype">City</field>
+<field name="latns">N</field>
+<field name="blankname">FIPS code</field>
+<field name="pushpinmap">New York</field>
+<field name="lats">lats=58,</field>
+<field name="establishedtitle1">Incorporated (city)</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="pushpinmapcaption">Location of Fulton in New York</field>
+<field name="unitpref">Imperial</field>
+<field name="populationtotal">11,896</field>
+<field name="latd">latd=43,</field>
+<field name="leadertitle">Mayor</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Oswego</field>
+<field name="governmenttype">Mayor-Council</field>
+<field name="latm">latm=18,</field>
+</doc>
+<doc>
+<field name="id">3985</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="establisheddate3">1832</field>
+<field name="imagemap1">MapOfBuffalo.jpg</field>
+<field name="arealandkm2">105.2</field>
+<field name="elevationft">600</field>
+<field name="establisheddate2">1801</field>
+<field name="longd">longd=78,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="populationblank2title">CSA</field>
+<field name="populationmetro">1,134,210 (US:  49th )</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=50,</field>
+<field name="longs">longs=58,</field>
+<field name="leadername">Byron Brown  ( D )</field>
+<field name="utcoffsetdst">−4</field>
+<field name="settlementtype">City</field>
+<field name="populationdensitysqmi">6436.2</field>
+<field name="officialname">City of Buffalo</field>
+<field name="areatotalsqmi">52.5</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Buffalo Seal 2.svg</field>
+<field name="areamagnitude">1 E9</field>
+<field name="lats">lats=17,</field>
+<field name="nickname">The City of Good Neighbors, The Queen City, The City of No Illusions, The Nickel City, Queen City of the Lakes, City of Light</field>
+<field name="mapcaption">Location of Buffalo in New York State</field>
+<field name="caption">Clockwise: Buffalo skyline from I-190 North entering downtown, Buffalo skyline at dusk,  Peace Bridge , Buffalo Savings Bank, Erie County hall, Niagara Sqaure, and the art deco  Buffalo City Hall</field>
+<field name="imagemap">Map_of_New_York_highlighting_Buffalo.svg</field>
+<field name="populationasof">2012</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="footnotes">The Village of Buffalo 1801 to 1832 .  The Buffalonian . Retrieved April 15, 2008.</field>
+<field name="populationdensitykm2">2568.8</field>
+<field name="populationdemonym">Buffalonian</field>
+<field name="populationtotal">259,384 (US:  73rd )</field>
+<field name="latd">latd=42,</field>
+<field name="postalcode">14200</field>
+<field name="populationurban">935,906 (US:  46th )</field>
+<field name="elevationm">183</field>
+<field name="imageflag">Flag of Buffalo, New York.svg</field>
+<field name="latm">latm=54,</field>
+<field name="populationblank2">1,213,668 (US:  44th )</field>
+<field name="arealandsqmi">40.6</field>
+<field name="establisheddate">1789</field>
+<field name="mapsize1">200x200px</field>
+<field name="areacode">716</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">Common Council</field>
+<field name="blank1info">0973345</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="mapcaption1">City of Buffalo street map</field>
+<field name="blankinfo">36-11000</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="establishedtitle">First Settled (village)</field>
+<field name="name">Buffalo, New York</field>
+<field name="coordinatesdisplay">inline,title</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">BuffaloMontage1.jpg</field>
+<field name="latns">N</field>
+<field name="website">www.city-buffalo.com</field>
+<field name="establishedtitle3">Incorporated (City)</field>
+<field name="areawatersqmi">11.9</field>
+<field name="establishedtitle2">Founded</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">30.8</field>
+<field name="utcoffset">−5</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">136.0</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Erie</field>
+</doc>
+<doc>
+<field name="id">126641</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="arealandkm2">92.8</field>
+<field name="elevationft">505</field>
+<field name="longd">longd=77,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="populationmetro">1,082,284 (US:  51st )</field>
+<field name="longm">longm=36,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=41,</field>
+<field name="leadername">Thomas Richards  ( D ), to be succeeded by  Lovely Warren  ( D )</field>
+<field name="longitude">77°36'41" W</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">37.1</field>
+<field name="populationdensitysqmi">6132.9</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Rochester NY city seal.png</field>
+<field name="areamagnitude">1 E9</field>
+<field name="lats">lats=56,</field>
+<field name="nickname">"The Flour City", "The Flower City", "The World's Image Center", "ROC City"</field>
+<field name="caption">Images from left to right; Rochester Skyline, The  Eastman Theatre , the  University of Rochester ,  High Falls  district, Eastman Kodak research facility on the  Genesee River</field>
+<field name="populationasof">2012</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">2368.3</field>
+<field name="populationdemonym">Rochesterian</field>
+<field name="latd">latd=43,</field>
+<field name="populationtotal">210,532 (US:  101st )</field>
+<field name="latitude">43°9'56" N</field>
+<field name="motto">Rochester: Made for Living</field>
+<field name="populationurban">720,572 (US:  60th )</field>
+<field name="elevationm">154</field>
+<field name="imageflag">Flag of Rochester, New York.svg</field>
+<field name="latm">latm=9,</field>
+<field name="arealandsqmi">35.8</field>
+<field name="areacode">585</field>
+<field name="leadertitle1">City Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="blank1info">0962684</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-63000</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="name">Rochester</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">RochesterCollage2.JPG</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York</field>
+<field name="website">www.cityofrochester.gov</field>
+<field name="areawatersqmi">1.3</field>
+<field name="areawaterkm2">3.3</field>
+<field name="utcoffset">-5</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">96.1</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Monroe</field>
+<field name="governmenttype">Mayor-Council</field>
+</doc>
+<doc>
+<field name="id">126740</field>
+<field name="type">person</field>
+<field name="blank1name">GNIS  feature ID</field>
+<field name="mottoeng">A city at the sea</field>
+<field name="establisheddate1">1913</field>
+<field name="arealandkm2">5.5</field>
+<field name="elevationft">0</field>
+<field name="establisheddate2">1922</field>
+<field name="longd">longd=73,</field>
+<field name="postalcodetype">ZIP code</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=41,</field>
+<field name="longs">longs=17,</field>
+<field name="leadername">Jack Schnirman</field>
+<field name="longitude">73°40' W</field>
+<field name="utcoffsetdst">-4</field>
+<field name="settlementtype">City</field>
+<field name="officialname">City of Long Beach</field>
+<field name="founder">William J. Reynolds</field>
+<field name="areatotalsqmi">3.9</field>
+<field name="blankname">FIPS code</field>
+<field name="imageseal">Long_Beach,_New_York_seal_large.png</field>
+<field name="lats">lats=17,</field>
+<field name="nickname">The City by the Sea</field>
+<field name="mapcaption">Location in  Nassau County .,' Note: ' Does not indicate the separation of Long Beach from Long Island by  Reynolds Channel .</field>
+<field name="caption">Kennedy Plaza in Central Long Beach</field>
+<field name="imagemap">Map of Nassau County, New York,highlighting Long Beach.png</field>
+<field name="populationasof">2010</field>
+<field name="coordinatesregion">US-NY</field>
+<field name="populationdensitykm2">6398.1</field>
+<field name="populationtotal">33,275</field>
+<field name="latd">latd=40,</field>
+<field name="postalcode">11561</field>
+<field name="populationnote">List of United States cities by population density</field>
+<field name="latitude">40°35' N</field>
+<field name="motto">Civitas ad mare</field>
+<field name="elevationm">0</field>
+<field name="imageflag">Long_Beach,_New_York_flag_large.png</field>
+<field name="latm">latm=35,</field>
+<field name="arealandsqmi">2.1</field>
+<field name="establisheddate">1623</field>
+<field name="areacode">516</field>
+<field name="pushpinlabelposition">none</field>
+<field name="subdivisiontype">Country</field>
+<field name="leadertitle1">City Council</field>
+<field name="blank1info">0955835</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blankinfo">36-43335</field>
+<field name="timezonedst">EDT</field>
+<field name="longew">W</field>
+<field name="establishedtitle">Settled</field>
+<field name="name">Long Beach, New York</field>
+<field name="subdivisionname">United States</field>
+<field name="imageskyline">Memorial City Hall Long Beach jeh.JPG</field>
+<field name="latns">N</field>
+<field name="pushpinmap">New York City</field>
+<field name="website">City of Long Beach</field>
+<field name="areawatersqmi">1.8</field>
+<field name="establishedtitle2">City of Long Beach</field>
+<field name="establishedtitle1">Incorporated Village</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">4.6</field>
+<field name="utcoffset">-5</field>
+<field name="pushpinmapcaption">Location relative to New York City</field>
+<field name="leadertitle">City Manager</field>
+<field name="areatotalkm2">10.1</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Nassau</field>
+<field name="governmenttype">Council-Manager</field>
+</doc>
+<doc>
+<field name="id">126247</field>
+<field name="type">person</field>
+<field name="twin3">Cantù</field>
+<field name="twin2">Đakovica</field>
+<field name="twin2country">Kosovo</field>
+<field name="twin1">Jakobstad</field>
+<field name="establisheddate1">1827</field>
+<field name="arealandkm2">22.94</field>
+<field name="elevationft">1378</field>
+<field name="establisheddate2">April 19, 1886</field>
+<field name="twin3country">Italy</field>
+<field name="timezone1dst">EDT</field>
+<field name="longd">longd=79,</field>
+<field name="postalcodetype">ZIP code s</field>
+<field name="longm">longm=14,</field>
+<field name="longs">longs=19,</field>
+<field name="leadername">Samuel Teresi  ( D )</field>
+<field name="settlementtype">City</field>
+<field name="areatotalsqmi">9.1</field>
+<field name="populationdensitysqmi">3534.6</field>
+<field name="blankinfosec1">36-38264</field>
+<field name="lats">lats=44,</field>
+<field name="nickname">The Pearl City</field>
+<field name="caption">Main Street, 1914 postcard</field>
+<field name="imagemap">Highlighted Jamestown, New York.PNG</field>
+<field name="populationasof">Census 2010</field>
+<field name="populationdensitykm2">1364.3</field>
+<field name="populationtotal">31,146</field>
+<field name="latd">latd=42,</field>
+<field name="utcoffset1dst">-4</field>
+<field name="postalcode">14701, 14702</field>
+<field name="elevationm">420</field>
+<field name="timezone1">EST</field>
+<field name="latm">latm=5,</field>
+<field name="arealandsqmi">9.0</field>
+<field name="establisheddate">1810</field>
+<field name="areacode">716</field>
+<field name="leadertitle1">Common Council</field>
+<field name="subdivisiontype">Country</field>
+<field name="subdivisiontype2">County</field>
+<field name="subdivisiontype1">State</field>
+<field name="blanknamesec1">FIPS code</field>
+<field name="twin1country">Finland</field>
+<field name="blank1infosec1">0953925</field>
+<field name="establishedtitle">Founded</field>
+<field name="longew">W</field>
+<field name="name">Jamestown</field>
+<field name="subdivisionname">United States</field>
+<field name="blank1namesec1">GNIS  feature ID</field>
+<field name="imageskyline">PostcardDownMainStJamestownNY1914.jpg</field>
+<field name="latns">N</field>
+<field name="areawatersqmi">0.1</field>
+<field name="establishedtitle2">Incorporated (city)</field>
+<field name="establishedtitle1">Incorporated (village)</field>
+<field name="mapsize">250x200px</field>
+<field name="areawaterkm2">0.217</field>
+<field name="unitpref">Imperial</field>
+<field name="leadertitle">Mayor</field>
+<field name="areatotalkm2">23.5</field>
+<field name="subdivisionname1">New York</field>
+<field name="subdivisionname2">Chautauqua</field>
+<field name="governmenttype">Mayor-Council</field>
+<field name="utcoffset1">-5</field>
+</doc>
+</add>
