@@ -213,7 +213,7 @@
    <field  name="longm"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="longs"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="longew"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
-   <field  name="coordinates" type="string" indexed="true" stored="true" omitNorms="true" />
+   <field  name="coordinates" type="string" indexed="true" stored="true" omitNorms="true" multiValued="true"/>
    <copyField source="latd" dest="coordinates"/>
    <copyField source="latm" dest="coordinates"/>
    <copyField source="lats" dest="coordinates"/>

@@ -38,10 +38,10 @@ public class QueryMltHorExp {
 		
 		if(queryStrArr[0].toLowerCase().equalsIgnoreCase("person")) {
 			tags=Arrays.asList(QueryConstants.personTags);
-		} else if(queryStrArr[0].toLowerCase().equalsIgnoreCase("place")) {
-			tags=Arrays.asList(QueryConstants.personTags);
+		} else if(queryStrArr[0].toLowerCase().equalsIgnoreCase("places")) {
+			tags=Arrays.asList(QueryConstants.placeTags);
 		} else if(queryStrArr[0].toLowerCase().equalsIgnoreCase("film")) {
-			tags=Arrays.asList(QueryConstants.personTags);
+			tags=Arrays.asList(QueryConstants.filmTags);
 		} 
 		
 		fieldsQueried = QueryMapper.fieldMapper(queryStrArr);

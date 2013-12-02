@@ -63,6 +63,8 @@ public class QueryConstants {
 	static {
 		facettagger = new HashMap<String, String>();
 		facettagger.put("person", "occupation");
+		facettagger.put("film", "director");
+		facettagger.put("places", "state");
 
 	}
 
@@ -71,7 +73,8 @@ public class QueryConstants {
 	static {
 		mlttagger = new HashMap<String, String>();
 		mlttagger.put("person", "occupation");
-
+		mlttagger.put("film", "director");
+		mlttagger.put("places", "state");
 	}
 
 	static Map<String, String> facetFileTagger;
@@ -94,4 +97,16 @@ public class QueryConstants {
 			"predecessor", "salary", "alias", "employer", "season", "tribe",
 			"television", "movement", "status", "ethnicity", "siblings",
 			"citizenship" };
+	
+	static String[] filmTags = { "releaseddate", "director", "producer",
+		"writer", "screenplay", "story", "basedon",
+		"narrator", "starring", "music", "cinematographer", "editor", "studio",
+		"distributor", "runtime", "country", "language", "budget",
+		"gross" };
+	
+	static String[] placeTags = { "settlementtype", "nativename", "nickname",
+		"officialname", "leader", "state", "county",
+		"coordinates", "founder", "area", "population", "populationdensity", "timezone",
+		"postalcode", "establisheddate", "motto" };
+	
 }
