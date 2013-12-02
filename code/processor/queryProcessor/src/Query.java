@@ -30,6 +30,8 @@ public class Query {
 	private boolean hlUsePhraseHighlighter;
 	private boolean spellCheck;
 	private boolean spellCheckBuild;
+	private Integer rows;
+	
 	
 	public Query() {
 		field = new ArrayList<String>();
@@ -40,6 +42,15 @@ public class Query {
 		hl = false;
 		spellCheck = false;
 	}
+	
+	public Integer getRows() {
+		return rows;
+	}
+
+	public void setRows(Integer rows) {
+		this.rows = rows;
+	}
+
 	
 	public boolean isSpellCheck() {
 		return spellCheck;

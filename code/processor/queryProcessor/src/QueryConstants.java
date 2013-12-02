@@ -55,6 +55,15 @@ public class QueryConstants {
 		fieldtagger.put("live", "live");
 		fieldtagger.put("do", "occupation");
 		fieldtagger.put("residence", "residence");
+		fieldtagger.put("runningtime", "runtime");
+		fieldtagger.put("revenue", "gross");
+		fieldtagger.put("boxofficereturn", "gross");
+		fieldtagger.put("shot", "studio");
+		fieldtagger.put("filmeditor", "editor");
+		fieldtagger.put("scriptwriter", "screenplay");
+		fieldtagger.put("released", "released");
+		
+		
 		
 		
 	}

@@ -122,6 +122,10 @@ public class QuerySearch {
 
 			}
 			
+			if(query.getRows() != null)
+				urlParameters += "&rows="
+						+ URLEncoder.encode(String.valueOf(query.getRows()),
+								QueryConstants.solrEncodeType);
 			//For faceting
 			if (query.getFacet())
 				urlParameters += "&facet="
