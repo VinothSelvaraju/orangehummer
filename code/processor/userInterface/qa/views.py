@@ -15,8 +15,12 @@ class HomePageView(FormView):
     success_url = '/thanks/'
 
     def get(self, request, *args, **kwargs):
-        form = self.form_class()
-        return render(request, self.template_name, {'form': form})
+        print "REEEEEE-------->>>>>>>>>>", request.META.get('HTTP_REFERER')
+        if request.META.get('HTTP_REFERER') and 'facet' in request.META.get('HTTP_REFERER'):
+            form = self.form_class(initial={'noun':request.COOKIES.get('noun')})
+        else:
+            form = self.form_class()
+        return render(request, self.template_name, {'form': form, 'recent':{}})
 
     def post(self, request, *args, **kwargs):
         print request.POST
@@ -34,7 +38,7 @@ class HomePageView(FormView):
         #else:
             #print "Invalid"
         print form.errors
-        return render(request, self.template_name, {'form': form})
+        return render(request, self.template_name, {'form': form, 'recent':{}})
 
 
 def resultsPage(request):
@@ -43,7 +47,10 @@ def resultsPage(request):
                 'col2' : request.COOKIES.get('col2'),
                 'noun' : request.COOKIES.get('noun'),
                 'last_col' : request.COOKIES.get('last_col'),}
-
+    print dataDict
+    if not (dataDict.get('qtype') and dataDict.get('fiveW') and dataDict.get('col2') and dataDict.get('noun') and dataDict.get('last_col')):
+        return HttpResponseRedirect('/')
+    dataDict['noun']=dataDict['noun'].title()
     form = QuestionForm(dataDict)
     print "VALID"
     alternative_text = []
@@ -99,7 +106,13 @@ def resultsPage(request):
         print traceback.format_exc()
         response_text = responseMessages['exception']
     template_name = "qa/results.html"
-    return render(request, template_name, {'form': form,'json_resp':t, 'response_text':response_text, 'alternatives':alternative_text, 'dataDict':dataDict})
+    response = render(request, template_name, {'form': form,'json_resp':t, 'response_text':response_text, 'alternatives':alternative_text, 'dataDict':dataDict, 'recent':{}})
+    response.delete_cookie('qtype')
+    response.delete_cookie('fiveW')
+    response.delete_cookie('col2')
+    response.delete_cookie('noun')
+    response.delete_cookie('last_col')
+    return response
     
 
 def ask(request):
@@ -110,5 +123,16 @@ def ask(request):
     response.set_cookie('col2',request.GET.get('col2'))
     response.set_cookie('noun',request.GET.get('noun'))
     response.set_cookie('last_col',request.GET.get('last_col'))
+            
+    return response
+
+def facetShow(request):
+    print request.GET.copy()
+    response = HttpResponseRedirect('/')
+    response.set_cookie('qtype',request.GET.get('qtype'))
+    response.delete_cookie('fiveW')
+    response.delete_cookie('col2')
+    response.set_cookie('noun',request.GET.get('noun'))
+    response.delete_cookie('last_col')
             
     return response

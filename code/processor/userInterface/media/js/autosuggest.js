@@ -8,9 +8,9 @@ $('input#id_noun').typeahead({
     dataType: "json",
     filter: function(data){
       //alert("Filtering results");
-      var new_data = JSON.parse(data);
+//      var new_data = JSON.parse(data);
       //alert(new_data);
-      var resultList = new_data.spellcheck.suggestions[1].suggestion;
+      var resultList = data.spellcheck.suggestions[1].suggestion;
       //alert(resultList);
       return resultList;
     }

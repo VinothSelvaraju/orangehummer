@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+{% load mytags %}
+
+{% block other_css %}
+<style>
+.form-group { width:100%!important;}
+button { width:100%!important;}
+.id_qtype { display: none;}
+.id_num_col { display: none;}
+.mybtn:hover { background-color: #8262B3; color:#FFFFFF;}
+.mybtn { background-color: #936FC9; color:#FFFFFF;}
+.twitter-typeahead { width:100%; }
+.facetLink { cursor:pointer; }
+</style>
+{% endblock other_css %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-md-9 col-md-offset-1">
+  	<div>
+  		Please choose a type below
+  	</div>
+  	<br/>
+<ul id="myTab" class="nav nav-tabs">
+  <li class="active"><a class="topic" id="person" data-toggle="tab">Person</a></li>
+  <li><a class="topic" id="places" data-toggle="tab">Places</a></li>
+  <li><a class="topic" id="movies" data-toggle="tab">Movies</a></li>
+</ul>
+</div>
+</div>
+
+<div id="myTabContent" class="tab-content">
+      <div class="row top-buffer">
+        <div class="col-md-2 col-md-offset-2">
+          <div class="myContent">
+          </div>
+        </div>
+        <div class="col-md-2 col-md-offset-1">
+          <div class="myExpansion">
+            
+          </div>
+        </div>
+      </div>
+      <div class="row top-buffer">
+      </div>
+</div>
+{% endblock content %}
+{% block other_js %}
+<script type="text/javascript">
+function capitaliseFirstLetter(string)
+{
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+$('.topic').click(function (e) {
+    //e.preventDefault();
+    //var id = $(this).attr('id');
+    var id = this.id;
+    $.ajax({
+       type: 'get',
+       url: 'facetList',
+       data:'qtype='.concat(id),
+       success: function(data){
+                    var htmlString = "<p>Select a category below</p><ul>";
+                    //console.log("Success");
+                    //console.log(data);
+                    $.each(data, function(key, value){
+                        //console.log(key);
+                        //console.log(value[0]);
+                        //console.log(value[1]);
+                        htmlString+="<li><a id='"+value[0]+"' onclick='linkCall(this)' class='facetLink'>"+capitaliseFirstLetter(value[0])+" ("+value[1].toString()+")</a></li>";
+                    });
+                    htmlString+="</ul>";
+                    //console.log(htmlString);
+                    $('.myContent').html(htmlString);
+                },
+        error: function(data){
+                    ////console.log("Error");
+                    console.log(data);
+                }
+    });
+});
+//$('.facetLink').click(function(e){
+function linkCall(elem){
+    var id = $(elem).attr('id');
+    //var qtype = $('.active').attr(id);
+    var qtype = $("ul#myTab li.active a").html().toLowerCase();
+    $.ajax({
+        type: 'get',
+        url: 'facetExpansion',
+        data: 'qtype='+qtype+'&expand='+id,
+        success: function(data){
+                     console.log("Expansion Success");
+                     var htmlString = "<p>Select a value below</p><ul>"
+                    console.log("Success");
+                    //console.log(data);
+                    $.each(data, function(key, value){
+                        console.log(key);
+                        console.log(value['name']);
+//<a href="/ask?qtype={{dataDict.qtype}}&fiveW={{dataDict.fiveW}}&col2={{dataDict.col2}}&noun={{val}}&last_col={{dataDict.last_col}}">{{dataDict.fiveW|capfirst}} {{dataDict.col2}} {{val}} {{dataDict.last_col}}</a>
+                        htmlString+="<li><a href='facetShow?qtype="+qtype+"&noun="+value['name']+"' id='"+value['name']+"' class='facetLink'>"+capitaliseFirstLetter(value['name'])+"</a></li>";
+                    });
+                    htmlString+="</ul>";
+                    //console.log(htmlString);
+                    $('.myExpansion').html(htmlString);
+
+                     //$('.myExpansion').html(data);
+                     console.log(data);
+                 },
+        error: function(data){
+                   console.log("Error in expansion");
+                   console.log(data);
+               }
+    });
+
+};
+</script> 
+{% endblock other_js %}

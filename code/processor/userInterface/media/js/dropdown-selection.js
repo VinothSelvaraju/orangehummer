@@ -1,4 +1,19 @@
 //Works under the assumption that dropdown-options.js is called before this file
+var resetAll = function(){
+         $('#id_fiveW').val('');
+         var this_col2_options = {'Please select in order': ''};
+        $.each(this_col2_options, function(key, value) {
+          $('#id_col2').append($("<option></option>")
+               .attr("value", value).text(key));
+               });
+          $('#id_col2').val('');
+         var this_col_options = {'Please select in order':''};
+         $.each(this_col_options, function(key, value) {
+           $('#id_last_col').append($('<option></option>')
+               .attr('value', value).text(key));
+            });
+          $('#id_last_col').val(''); 
+}
 $(document).ready(function(){
   var fiveW_onload =$('#id_fiveW').val();
   var col2_onload =$('#id_col2').val();
