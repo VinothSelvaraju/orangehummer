@@ -96,7 +96,7 @@ public class XMLWriter {
 					field1.setAttribute("name", "id");
 					document.appendChild(field1);
 					Element field2 = doc.createElement("field");
-					field2.appendChild(doc.createTextNode("person"));
+					field2.appendChild(doc.createTextNode("places"));
 					field2.setAttribute("name", "type");
 					document.appendChild(field2);
 					
@@ -162,8 +162,7 @@ public class XMLWriter {
 									"areatotalkm2", "areawaterpercent",
 									"timezonedst", "populationurban",
 									"populationdensitykm2",
-									"coordinatesregion", "establisheddate",
-									"arealandkm2", "utcoffset", "mapsize",
+									"coordinatesregion", "arealandkm2", "utcoffset", "mapsize",
 									"areawaterkm2", "areamagnitude",
 									"mapcaption1", "establishedtitle3",
 									"establishedtitle2", "populationfootnotes",
@@ -201,6 +200,7 @@ public class XMLWriter {
 								Element field = doc.createElement("field");
 								field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
 								field.setAttribute("name", inputKey);
+								//System.out.println("Key to the file"+inputKey);
 								document.appendChild(field);
 								System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
 							}	

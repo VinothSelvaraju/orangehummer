@@ -259,7 +259,9 @@ public class XMLContentHandler extends DefaultHandler {
 											size - 2);
 								}
 								if(cleanedKey.toLowerCase().contains("established_date")){
-									cleanedValue=mk.parseSettlementDate(cleanedValue);
+									cleanedValue=mk.parseSettlementDate(cleanedValue).trim();
+									System.out.println("CLEANED KEY" + cleanedKey);
+									System.out.println("CLEANED VALUE" + cleanedValue);
 								}
 								entryMap.put(cleanedKey, cleanedValue);
 							}	
