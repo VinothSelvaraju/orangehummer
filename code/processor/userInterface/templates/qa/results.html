@@ -165,23 +165,6 @@ function moveMarkUp(lat, lng){
     map.panTo(newLatLang);
     marker.setPosition(newLatLang); 
 }
-$.ajax({
-    type: 'get',
-    url: "http://maps.googleapis.com/maps/api/geocode/json?address=buffalo&sensor=false",
-    success: function(jsonData){
-                 //var jsonData = JSON.parse(data);
-                 console.log(jsonData);
-                 var lat = jsonData.results[0].geometry.location.lat;
-                 var lng = jsonData.results[0].geometry.location.lng;
-                 console.log(lat);
-                 console.log(lng);
-                 moveMarkUp(lat, lng);
-                 $('#map-canvas').show();
-            },
-    error: function(data){
-               console.log("Failed");
-               }
-});
 </script>
 <script>
 function getPoster(title){
@@ -198,8 +181,35 @@ function getPoster(title){
     });
 };
 //alert("Calling Poster");
-getPoster('gladiator');
-
+$(document).ready(function(){
+    var qtype = $('#id_qtype');
+    if(qtype=="movies"){
+        getPoster('gladiator');
+    }
+    else if(qtype=="places"){
+        $.ajax({
+            type: 'get',
+            url: "http://maps.googleapis.com/maps/api/geocode/json?address=buffalo&sensor=false",
+            success: function(jsonData){
+                         //var jsonData = JSON.parse(data);
+                         console.log(jsonData);
+                         var lat = jsonData.results[0].geometry.location.lat;
+                         var lng = jsonData.results[0].geometry.location.lng;
+                         console.log(lat);
+                         console.log(lng);
+                         moveMarkUp(lat, lng);
+                         $('#map-canvas').show();
+                    },
+            error: function(data){
+                       console.log("Failed");
+                       }
+        });
+    }
+    else {
+    console.log("Its just places :-)");
+    }
+        
+});
 </script>
 
 {% endblock other_js %}
