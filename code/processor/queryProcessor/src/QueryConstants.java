@@ -45,6 +45,8 @@ public class QueryConstants {
 
 	static {
 		fieldtagger = new HashMap<String, String>();
+		
+		//person
 		fieldtagger.put("where", "place");
 		fieldtagger.put("when", "date");
 		fieldtagger.put("born", "birth");
@@ -55,6 +57,10 @@ public class QueryConstants {
 		fieldtagger.put("live", "live");
 		fieldtagger.put("do", "occupation");
 		fieldtagger.put("residence", "residence");
+		fieldtagger.put("almamater", "education");
+		fieldtagger.put("nicknames", "othernames");
+		
+		//films
 		fieldtagger.put("runningtime", "runtime");
 		fieldtagger.put("revenue", "gross");
 		fieldtagger.put("boxofficereturn", "gross");
@@ -63,7 +69,7 @@ public class QueryConstants {
 		fieldtagger.put("scriptwriter", "screenplay");
 		fieldtagger.put("released", "released");
 		
-		
+		//places
 		
 		
 	}
@@ -99,13 +105,12 @@ public class QueryConstants {
 
 	static String[] personTags = { "birthname", "education", "birthplace",
 			"deathplace", "occupation", "awards", "weight",
-			"height", "religion", "parents", "caption", "deathdate", "partner",
-			"title", "spouse", "deathcause", "yearsactive", "website",
-			"residence", "knownfor", "nationality", "birthdate", "links",
-			"role", "year", "children", "denomination", "networth",
-			"credits", "gender", "othernames", "party", "family", "successor",
-			"predecessor", "salary", "alias", "employer", "season", "tribe",
-			"television", "movement", "status", "ethnicity", "siblings",
+			"height", "religion", "parents", "deathdate", "partner",
+			"spouse", "deathcause", "yearsactive", "website",
+			"residence", "knownfor", "nationality", "birthdate", 
+			"children", "networth",
+			"credits", "othernames", "family", 
+			"salary", "employer", "ethnicity", 
 			"citizenship" };
 	
 	static String[] filmTags = { "releaseddate", "director", "producer",
