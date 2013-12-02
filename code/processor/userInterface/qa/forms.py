@@ -71,7 +71,7 @@ NUM_CHOICES = (("first","first"),
 
 QTYPE_CHOICES = (("person","Person"),
                 ("places","Places"),
-                ("movies","Movies"))
+                ("film","Movies"))
 
 select_box_errors = {'required':'Please select a value',
                      'invalid':'Please select a value'}

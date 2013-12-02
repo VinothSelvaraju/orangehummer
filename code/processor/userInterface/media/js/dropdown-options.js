@@ -19,7 +19,7 @@
                              },
                     '':{'Please select in order': ''}
                     },
-                    'movies': {'who':  {"Select--": "",
+                    'film': {'who':  {"Select--": "",
                             "is": "is",
                             "are": "are",
                             "was": "was",
@@ -211,7 +211,7 @@
                                              }
                                      }
                             },
-                            'movies': {'who':  {'': {'Please select in order': ''},
+                            'film': {'who':  {'': {'Please select in order': ''},
                                                 'is': {'producer': 'producer',
                                                        'director': 'director',
                                                        'writer': 'writer',

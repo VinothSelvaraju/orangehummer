@@ -32,7 +32,7 @@ queryFacetCmd = "java %(cp)s %(filename)s %(destination_path)s %(qtype)s"
 
 queryFacetFilename = {'person':queryMapperParams['destination_path']+'facetPerson.json',
                       'places':queryMapperParams['destination_path']+'facetPlace.json',
-                      'movies':queryMapperParams['destination_path']+'facetFilm.json'}
+                      'film':queryMapperParams['destination_path']+'facetFilm.json'}
 
 
 
@@ -114,10 +114,16 @@ questionParams = {'person':
                              'alias':('what','is','alias'),
                              'employer':('who','is','employer'),
                              'tribe':('what','is','tribe'),
-                             }
+                             },
+                    'film':{
+                    },
+                    'places':{
                     }
 
+                    }
 
+facetBy = {'person':'occupation',
+           'film':'director',}
 
 
 

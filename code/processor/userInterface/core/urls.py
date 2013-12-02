@@ -7,10 +7,6 @@ admin.autodiscover()
 urlpatterns = patterns('',
     # Examples:
     url(r'^$', HomePageView.as_view(), name='home'),
-    #url(r'^person$', PersonView.as_view(), name='person'),
-    #url(r'^places$', PlacesView.as_view(), name='places'),
-    #url(r'^movies$', MoviesView.as_view(), name='movies'),
-    
     url(r'^meet$', TemplateView.as_view(template_name="static/meet.html")),
     url(r'^facet$', TemplateView.as_view(template_name="qa/facet.html")),
     url(r'^facetList', 'ajax.views.facetList'),

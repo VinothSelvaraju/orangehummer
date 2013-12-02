@@ -17,7 +17,7 @@ class HomePageView(FormView):
     def get(self, request, *args, **kwargs):
         print "REEEEEE-------->>>>>>>>>>", request.META.get('HTTP_REFERER')
         if request.META.get('HTTP_REFERER') and 'facet' in request.META.get('HTTP_REFERER'):
-            form = self.form_class(initial={'noun':request.COOKIES.get('noun')})
+            form = self.form_class(initial={'noun':request.COOKIES.get('noun'),'qtype':request.COOKIES.get('qtype')})
         else:
             form = self.form_class()
         return render(request, self.template_name, {'form': form, 'recent':{}})

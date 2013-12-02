@@ -39,7 +39,7 @@ img.resize{
     <ul id="myTab" class="nav nav-tabs">
       <li class="tabLi active"><a class="topic" id="person" data-toggle="tab">Person</a></li>
       <li class="tabLi"><a class="topic" id="places" data-toggle="tab">Places</a></li>
-      <li class="tabLi"><a class="topic" id="movies" data-toggle="tab">Movies</a></li>
+      <li class="tabLi"><a class="topic" id="film" data-toggle="tab">Movies</a></li>
     </ul>
   </div>
 </div>
@@ -184,7 +184,7 @@ function getPoster(title){
 $(document).ready(function(){
     var qtype = $('#id_qtype').val();
     var noun = $('#id_noun').val();
-    if(qtype=="movies"){
+    if(qtype=="film"){
         getPoster(noun);
     }
     else if(qtype=="places"){

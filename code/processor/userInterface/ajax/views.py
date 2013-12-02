@@ -43,7 +43,7 @@ def facetList(request):
         t = f.read()
     resp_data = json.loads(t)
     print json.dumps(resp_data, sort_keys=True, indent=4, separators=(',',': '))
-    a = resp_data['facet_counts']['facet_fields']['occupation']
+    a = resp_data['facet_counts']['facet_fields'][facetBy[qtype]]
     facetDict ={}  
     facetTuple = sorted(zip(a[::2],a[1::2]), key=lambda x: -x[1])
         #facetDict.update({k:v})
@@ -62,6 +62,7 @@ def facetExpansion(request):
     with open(queryFacetExpFilename) as f:
         t = f.read()
     resp_data = json.loads(t)
+    print "##"*50
     print json.dumps(resp_data, sort_keys=True, indent=4, separators=(',',': '))
     a = resp_data['response']['docs']
     jsonResponse = json.dumps(a, sort_keys=True, indent=4)
