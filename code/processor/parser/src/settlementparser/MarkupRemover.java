@@ -1,4 +1,4 @@
-
+package settlementparser;
 import java.io.IOException;
 import java.io.StringReader;
 import java.io.StringWriter;
@@ -13,7 +13,6 @@ import javax.swing.text.html.parser.ParserDelegator;
 import net.java.textilej.parser.MarkupParser;
 import net.java.textilej.parser.builder.HtmlDocumentBuilder;
 import net.java.textilej.parser.markup.mediawiki.MediaWikiDialect;
-
 
 
 public class MarkupRemover {

@@ -1,4 +1,4 @@
-
+package settlementparser;
 import java.io.BufferedWriter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
