@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% load mytags %}
+{% load staticfiles %}
 {% block content %}
 
 {% block other_css %}
@@ -29,9 +30,9 @@ button { width:100%!important;}
   	</div>
   	<br/>
     <ul id="myTab" class="nav nav-tabs">
-      <li class="active"><a class="topic" id="personTabLink" data-toggle="tab">Person</a></li>
-      <li><a class="topic" id="placesTabLink" data-toggle="tab">Places</a></li>
-      <li><a class="topic" id="moviesTabLink" data-toggle="tab">Movies</a></li>
+      <li class="active"><a class="topic" id="person" data-toggle="tab">Person</a></li>
+      <li><a class="topic" id="places" data-toggle="tab">Places</a></li>
+      <li><a class="topic" id="movies" data-toggle="tab">Movies</a></li>
     </ul>
   </div>
 </div>
@@ -128,3 +129,6 @@ button { width:100%!important;}
 
 </div>
 {% endblock content %}
+{% block other_js %}
+<script type="text/javascript" src="{% static "js/tabchange.js" %}"></script> 
+{% endblock other_js %}

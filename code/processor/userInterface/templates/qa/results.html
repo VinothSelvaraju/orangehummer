@@ -21,8 +21,11 @@ button { width:100%!important;}
 .top_border {
     border-top: 1px solid #eee;
 }
-#map-canvas { height:200px; width:200px; }
-
+#map-canvas { display:none; height:200px; width:200px; }
+img.resize{
+    width:atuo; /* you can use % */
+        height: 200px;
+        }
 </style>
 {% endblock other_css %}
 
@@ -34,9 +37,9 @@ button { width:100%!important;}
     </div>
   	<br/>
     <ul id="myTab" class="nav nav-tabs">
-      <li class="active"><a class="topic" id="personTabLink" data-toggle="tab">Person</a></li>
-      <li><a class="topic" id="placesTabLink" data-toggle="tab">Places</a></li>
-      <li><a class="topic" id="moviesTabLink" data-toggle="tab">Movies</a></li>
+      <li class="active"><a class="topic" id="person" data-toggle="tab">Person</a></li>
+      <li><a class="topic" id="places" data-toggle="tab">Places</a></li>
+      <li><a class="topic" id="movies" data-toggle="tab">Movies</a></li>
     </ul>
   </div>
 </div>
@@ -85,7 +88,9 @@ button { width:100%!important;}
     <div class="col-md-6 col-md-offset-3" style="font-size: 20px;">
     {% endif %}-->
     <div class="col-md-2 col-md-offset-1 top_buffer">
-      <div id="map-canvas">
+      <div id="outer-canvas">
+        <div id="map-canvas">
+        </div>
       </div>
     </div>
     <div class="col-md-6" style="font-size: 20px;">
@@ -132,6 +137,7 @@ button { width:100%!important;}
 </div>
 {% endblock content %}
 {% block other_js %}
+<script type="text/javascript" src="{% static "js/tabchange.js" %}"></script> 
 <script src="{% static "js/similarity.js" %}" type="text/javascript"></script>
 <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script>
@@ -170,10 +176,30 @@ $.ajax({
                  console.log(lat);
                  console.log(lng);
                  moveMarkUp(lat, lng);
+                 $('#map-canvas').show();
             },
     error: function(data){
                console.log("Failed");
                }
 });
 </script>
+<script>
+function getPoster(title){
+  $.ajax({
+    type: 'get',
+    url: "http://www.omdbapi.com/?i=&t="+title,
+    success: function(data){
+                 var jsonResponse = JSON.parse(data);
+                 posterURL = jsonResponse.Poster;
+                 $('#outer-canvas').html('<img class="resize" src="'+posterURL+'"/>');
+             },
+    error: function(data){
+           }
+    });
+};
+//alert("Calling Poster");
+getPoster('gladiator');
+
+</script>
+
 {% endblock other_js %}
