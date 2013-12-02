@@ -138,8 +138,6 @@ color: #FFFFFF;
     </div>
     {% block js %}
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
-    <script type="text/javascript" src="{% static "js/dropdown-options.js" %}"></script> 
-    <script type="text/javascript" src="{% static "js/dropdown-selection.js" %}"></script> 
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
     <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
     <script src="http://twitter.github.io/typeahead.js/releases/latest/typeahead.js" type="text/javascript"></script>
@@ -147,6 +145,11 @@ color: #FFFFFF;
     $('.typeahead.input-sm').siblings('input.tt-hint').addClass('hint-small');
     $('.typeahead.input-lg').siblings('input.tt-hint').addClass('hint-large');
     </script>
+    <script type="text/javascript" src="{% static "js/dropdown-options.js" %}"></script> 
+    <script type="text/javascript" src="{% static "js/dropdown-selection.js" %}"></script> 
+    <script type="text/javascript" src="{% static "js/autosuggest.js" %}"></script> 
+    <script type="text/javascript" src="{% static "js/tabchange.js" %}"></script> 
+ 
     {% endblock js %}
     {% block other_js %}
     {% endblock other_js %}
