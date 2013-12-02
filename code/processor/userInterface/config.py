@@ -11,7 +11,7 @@ java_cp_arg = "-cp "+":".join(classpaths)
 
 queryMapperParams.update({'cp':java_cp_arg})
 
-queryMapperCmd = "java %(cp)s %(filename)s %(destination_path)s %(qtype)s %(fiveW)s %(col2)s %(noun)s %(last_col)s" 
+queryMapperCmd = "java %(cp)s %(filename)s %(destination_path)s %(qtype)s %(fiveW)s %(col2)s \"%(noun)s\" %(last_col)s" 
 
 responseMessages = {'noresults': 'Sorry! No Results were found for your query!',
             'exception': 'Oops! There was an exception! Try again. ',
