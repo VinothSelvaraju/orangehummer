@@ -246,8 +246,8 @@ public class XMLContentHandler extends DefaultHandler {
 							if (cleanedKey.toLowerCase().contentEquals("name")) {
 								infoboxCount++;
 							}
-							if(cleanedKey.toLowerCase().contentEquals("lats") || cleanedKey.toLowerCase().contentEquals("latm") || cleanedKey.toLowerCase().contentEquals("latd") || cleanedKey.toLowerCase().contentEquals("longs")||cleanedKey.toLowerCase().contentEquals("longm")||cleanedKey.toLowerCase().contentEquals("longd")){
-								String newCleanedValue = cleanedKey.concat("=").concat(cleanedValue).concat(",");
+							if(cleanedKey.toLowerCase().contentEquals("lats") || cleanedKey.toLowerCase().contentEquals("latm") || cleanedKey.toLowerCase().contentEquals("latd") || cleanedKey.toLowerCase().contentEquals("longs")||cleanedKey.toLowerCase().contentEquals("longm")||cleanedKey.toLowerCase().contentEquals("longd")|| cleanedKey.toLowerCase().contentEquals("longew")|| cleanedKey.toLowerCase().contentEquals("latns")|| cleanedKey.toLowerCase().contentEquals("latm")){
+								String newCleanedValue = cleanedKey.concat("=").concat(cleanedValue);
 								entryMap.put(cleanedKey, newCleanedValue);
 							}
 							else{

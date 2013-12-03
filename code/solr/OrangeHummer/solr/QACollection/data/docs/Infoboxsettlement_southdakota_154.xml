@@ -1,0 +1,3494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<add>
+<doc>
+<field name="id">134919</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=46</field>
+<field name="longs">longs=11</field>
+<field name="area">0.15</field>
+<field name="name">Central City, South Dakota</field>
+<field name="populationdensity">893.3</field>
+<field name="lats">lats=2</field>
+<field name="population">134</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57754</field>
+<field name="latm">latm=22</field>
+<field name="establisheddate">1877-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Lawrence</field>
+</doc>
+<doc>
+<field name="id">135057</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=37</field>
+<field name="longs">longs=50</field>
+<field name="leader">Rick Johnson</field>
+<field name="area">0.33</field>
+<field name="name">Alcester, South Dakota</field>
+<field name="populationdensity">2445.5</field>
+<field name="lats">lats=23</field>
+<field name="population">807</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57001</field>
+<field name="motto">"Small Town Treasure"</field>
+<field name="latm">latm=1</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.alcestersd.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Union</field>
+</doc>
+<doc>
+<field name="id">134878</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=46</field>
+<field name="longs">longs=53</field>
+<field name="area">0.62</field>
+<field name="name">Alexandria, South Dakota</field>
+<field name="populationdensity">991.9</field>
+<field name="lats">lats=17</field>
+<field name="population">615</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57311</field>
+<field name="latm">latm=39</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.alexandriasd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Hanson</field>
+</doc>
+<doc>
+<field name="id">134830</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=20</field>
+<field name="longs">longs=50</field>
+<field name="area">0.95</field>
+<field name="name">Armour, South Dakota</field>
+<field name="populationdensity">743.6</field>
+<field name="lats">lats=10</field>
+<field name="caption">The Douglas County courthouse in Armour, South Dakota.</field>
+<field name="population">699</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57313</field>
+<field name="latm">latm=19</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Douglas</field>
+</doc>
+<doc>
+<field name="id">135021</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=29</field>
+<field name="longs">longs=55</field>
+<field name="area">0.44</field>
+<field name="name">Ashton, South Dakota</field>
+<field name="populationdensity">277.3</field>
+<field name="lats">lats=40</field>
+<field name="population">122</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57424</field>
+<field name="latm">latm=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Spink</field>
+</doc>
+<doc>
+<field name="id">134735</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=3</field>
+<field name="longs">longs=33</field>
+<field name="area">0.64</field>
+<field name="name">Avon, South Dakota</field>
+<field name="populationdensity">921.9</field>
+<field name="lats">lats=24</field>
+<field name="caption">Main St. in Avon.</field>
+<field name="population">590</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57315</field>
+<field name="latm">latm=0</field>
+<field name="establisheddate">1879-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">Avon, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Bon Homme</field>
+</doc>
+<doc>
+<field name="id">134963</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=44</field>
+<field name="longs">longs=16</field>
+<field name="area">0.76</field>
+<field name="name">Baltic, South Dakota</field>
+<field name="populationdensity">1471.6</field>
+<field name="lats">lats=44</field>
+<field name="population">1089</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57003</field>
+<field name="motto">"Begin Building Tomorrow Dreams Today"</field>
+<field name="latm">latm=45</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://baltic.govoffice.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134852</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=27</field>
+<field name="longs">longs=46</field>
+<field name="area">1.20</field>
+<field name="name">Big Stone City, South Dakota</field>
+<field name="populationdensity">389.2</field>
+<field name="lats">lats=41</field>
+<field name="caption">The  Whetstone River  near Big Stone City</field>
+<field name="population">467</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57216</field>
+<field name="motto">"Home Of Big Stone Lake"</field>
+<field name="latm">latm=17</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Grant</field>
+</doc>
+<doc>
+<field name="id">134860</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=56</field>
+<field name="longs">longs=49</field>
+<field name="area">0.35</field>
+<field name="name">Bonesteel, South Dakota</field>
+<field name="populationdensity">785.7</field>
+<field name="lats">lats=37</field>
+<field name="population">275</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57317</field>
+<field name="latm">latm=4</field>
+<field name="establisheddate">1902-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Gregory</field>
+</doc>
+<doc>
+<field name="id">134835</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=39</field>
+<field name="longs">longs=28</field>
+<field name="area">0.64</field>
+<field name="name">Bowdle, South Dakota</field>
+<field name="populationdensity">784.4</field>
+<field name="lats">lats=6</field>
+<field name="population">502</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57428</field>
+<field name="motto">"The Best Little Town In South Dakota"</field>
+<field name="latm">latm=27</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Edmunds</field>
+</doc>
+<doc>
+<field name="id">151052</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=4</field>
+<field name="longs">longs=55</field>
+<field name="area">13.91</field>
+<field name="name">Box Elder, South Dakota</field>
+<field name="populationdensity">561.2</field>
+<field name="lats">lats=55</field>
+<field name="population">7800</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57719</field>
+<field name="latm">latm=6</field>
+<field name="establisheddate">1907-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.boxelder.us/</field>
+<field name="state">South Dakota</field>
+<field name="county">Pennington ,  Meade</field>
+</doc>
+<doc>
+<field name="id">134808</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=3</field>
+<field name="area">0.53</field>
+<field name="name">Bristol, South Dakota</field>
+<field name="populationdensity">655.8</field>
+<field name="lats">lats=43</field>
+<field name="population">341</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57219</field>
+<field name="latm">latm=20</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.bristolsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Day</field>
+</doc>
+<doc>
+<field name="id">134869</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=27</field>
+<field name="longs">longs=59</field>
+<field name="area">0.52</field>
+<field name="name">Bryant, South Dakota</field>
+<field name="populationdensity">876.9</field>
+<field name="lats">lats=24</field>
+<field name="population">456</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57221</field>
+<field name="latm">latm=35</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Hamlin</field>
+</doc>
+<doc>
+<field name="id">134861</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=17</field>
+<field name="longs">longs=28</field>
+<field name="area">0.56</field>
+<field name="name">Burke, South Dakota</field>
+<field name="populationdensity">1078.6</field>
+<field name="lats">lats=59</field>
+<field name="population">604</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57523</field>
+<field name="latm">latm=10</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Gregory</field>
+</doc>
+<doc>
+<field name="id">134944</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=17</field>
+<field name="longs">longs=36</field>
+<field name="area">0.56</field>
+<field name="name">Canistota, South Dakota</field>
+<field name="populationdensity">1171.4</field>
+<field name="lats">lats=51</field>
+<field name="nickname">C-Town</field>
+<field name="population">656</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57012</field>
+<field name="motto">"Home of the Hawks"</field>
+<field name="latm">latm=35</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Canistota, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">McCook</field>
+</doc>
+<doc>
+<field name="id">134925</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=35</field>
+<field name="longs">longs=27</field>
+<field name="area">3.22</field>
+<field name="name">Canton, South Dakota</field>
+<field name="populationdensity">958.3</field>
+<field name="lats">lats=8</field>
+<field name="population">3057</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57013</field>
+<field name="motto">"A Premier South Dakota Community"</field>
+<field name="latm">latm=18</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofcantonsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lincoln</field>
+</doc>
+<doc>
+<field name="id">134870</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=1</field>
+<field name="longs">longs=46</field>
+<field name="area">1.15</field>
+<field name="name">Castlewood, South Dakota</field>
+<field name="populationdensity">545.2</field>
+<field name="lats">lats=24</field>
+<field name="population">627</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57223</field>
+<field name="motto">"A Small Town With A Big Heart"</field>
+<field name="latm">latm=43</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Hamlin</field>
+</doc>
+<doc>
+<field name="id">135048</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=57</field>
+<field name="longs">longs=38</field>
+<field name="area">0.72</field>
+<field name="name">Centerville, South Dakota</field>
+<field name="populationdensity">1225.0</field>
+<field name="lats">lats=3</field>
+<field name="population">882</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57014</field>
+<field name="motto">"Where YOU Make a Difference"</field>
+<field name="latm">latm=7</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.centervillesd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Turner</field>
+</doc>
+<doc>
+<field name="id">134757</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=19</field>
+<field name="longs">longs=42</field>
+<field name="area">7.84</field>
+<field name="name">Chamberlain, South Dakota</field>
+<field name="populationdensity">359.5</field>
+<field name="lats">lats=20</field>
+<field name="caption">Akta Lakota Museum</field>
+<field name="population">2387</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57325-57326</field>
+<field name="motto">"One day just isn't enough..."</field>
+<field name="latm">latm=48</field>
+<field name="establisheddate">1881-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.chamberlainsd.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Brule</field>
+</doc>
+<doc>
+<field name="id">134779</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=44</field>
+<field name="longs">longs=3</field>
+<field name="area">1.28</field>
+<field name="name">Clark, South Dakota</field>
+<field name="populationdensity">889.8</field>
+<field name="lats">lats=46</field>
+<field name="population">1139</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57225</field>
+<field name="latm">latm=52</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.clarksd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Clark</field>
+</doc>
+<doc>
+<field name="id">134819</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=41</field>
+<field name="longs">longs=6</field>
+<field name="area">3.25</field>
+<field name="name">Clear Lake, South Dakota</field>
+<field name="populationdensity">414.7</field>
+<field name="lats">lats=19</field>
+<field name="population">1273</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57226</field>
+<field name="latm">latm=45</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.clearlakesd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Deuel</field>
+</doc>
+<doc>
+<field name="id">134965</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=55</field>
+<field name="longs">longs=38</field>
+<field name="area">0.70</field>
+<field name="name">Colton, South Dakota</field>
+<field name="populationdensity">981.4</field>
+<field name="lats">lats=15</field>
+<field name="population">687</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57018</field>
+<field name="latm">latm=47</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.coltonsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134749</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=18</field>
+<field name="longs">longs=43</field>
+<field name="area">1.52</field>
+<field name="name">Columbia, South Dakota</field>
+<field name="populationdensity">89.5</field>
+<field name="lats">lats=41</field>
+<field name="population">136</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57433</field>
+<field name="latm">latm=36</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Brown</field>
+</doc>
+<doc>
+<field name="id">135023</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=5</field>
+<field name="longs">longs=55</field>
+<field name="area">0.56</field>
+<field name="name">Conde, South Dakota</field>
+<field name="populationdensity">250.0</field>
+<field name="lats">lats=24</field>
+<field name="population">140</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57434</field>
+<field name="latm">latm=9</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Spink</field>
+</doc>
+<doc>
+<field name="id">134831</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=24</field>
+<field name="longs">longs=22</field>
+<field name="area">0.85</field>
+<field name="name">Corsica, South Dakota</field>
+<field name="populationdensity">704.8</field>
+<field name="lats">lats=28</field>
+<field name="population">592</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57328</field>
+<field name="latm">latm=25</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Douglas</field>
+</doc>
+<doc>
+<field name="id">134799</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">MST</field>
+<field name="longm">longm=35</field>
+<field name="longs">longs=51</field>
+<field name="area">2.54</field>
+<field name="name">Custer, South Dakota</field>
+<field name="populationdensity">817.0</field>
+<field name="lats">lats=6</field>
+<field name="caption">The main street in 2003</field>
+<field name="population">2067</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57730</field>
+<field name="latm">latm=46</field>
+<field name="establisheddate">1875-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.custersd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Custer</field>
+</doc>
+<doc>
+<field name="id">134967</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=40</field>
+<field name="area">2.09</field>
+<field name="name">Dell Rapids, South Dakota</field>
+<field name="populationdensity">1789.7</field>
+<field name="lats">lats=30</field>
+<field name="population">3633</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57022</field>
+<field name="latm">latm=49</field>
+<field name="establisheddate">1871-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofdellrapids.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134832</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=9</field>
+<field name="longs">longs=47</field>
+<field name="area">0.76</field>
+<field name="name">Delmont, South Dakota</field>
+<field name="populationdensity">307.9</field>
+<field name="lats">lats=1</field>
+<field name="caption">The Onion House in Delmont.</field>
+<field name="population">234</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57330</field>
+<field name="latm">latm=16</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Douglas</field>
+</doc>
+<doc>
+<field name="id">135024</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=6</field>
+<field name="longs">longs=3</field>
+<field name="leader">David Bucholz</field>
+<field name="area">0.59</field>
+<field name="name">Doland, South Dakota</field>
+<field name="populationdensity">305.1</field>
+<field name="lats">lats=39</field>
+<field name="population">180</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57436</field>
+<field name="motto">Home of Heroes</field>
+<field name="latm">latm=53</field>
+<field name="establisheddate">1886-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Spink</field>
+</doc>
+<doc>
+<field name="id">151049</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=14</field>
+<field name="longs">longs=9</field>
+<field name="area">1.17</field>
+<field name="name">Eagle Butte, South Dakota</field>
+<field name="populationdensity">1126.5</field>
+<field name="lats">lats=47</field>
+<field name="population">1318</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57625</field>
+<field name="latm">latm=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Dewey ,  Ziebach</field>
+</doc>
+<doc>
+<field name="id">134839</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=49</field>
+<field name="longs">longs=44</field>
+<field name="area">0.97</field>
+<field name="name">Edgemont, South Dakota</field>
+<field name="populationdensity">797.9</field>
+<field name="lats">lats=58</field>
+<field name="population">774</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57735</field>
+<field name="motto">"To The Black Hills"</field>
+<field name="latm">latm=17</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">Edgemont, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Fall River</field>
+</doc>
+<doc>
+<field name="id">134744</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=28</field>
+<field name="longs">longs=55</field>
+<field name="leader">David Landsman</field>
+<field name="area">1.55</field>
+<field name="name">Elkton, South Dakota</field>
+<field name="populationdensity">474.8</field>
+<field name="lats">lats=9</field>
+<field name="population">736</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57026</field>
+<field name="motto">"A Community Willing To Grow Together"</field>
+<field name="latm">latm=14</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Brookings</field>
+</doc>
+<doc>
+<field name="id">134879</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=37</field>
+<field name="longs">longs=14</field>
+<field name="area">0.45</field>
+<field name="name">Emery, South Dakota</field>
+<field name="populationdensity">993.3</field>
+<field name="lats">lats=10</field>
+<field name="population">447</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57332</field>
+<field name="latm">latm=36</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofemerysd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Hanson</field>
+</doc>
+<doc>
+<field name="id">134871</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=54</field>
+<field name="longs">longs=2</field>
+<field name="area">0.95</field>
+<field name="name">Estelline,South Dakota</field>
+<field name="populationdensity">808.4</field>
+<field name="lats">lats=34</field>
+<field name="nickname">Big Red</field>
+<field name="population">768</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57234</field>
+<field name="latm">latm=34</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Hamlin</field>
+</doc>
+<doc>
+<field name="id">134844</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=7</field>
+<field name="longs">longs=41</field>
+<field name="area">1.01</field>
+<field name="name">Faulkton, South Dakota</field>
+<field name="populationdensity">728.7</field>
+<field name="lats">lats=0</field>
+<field name="population">736</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57438</field>
+<field name="motto">"The Carousel City"</field>
+<field name="latm">latm=2</field>
+<field name="establisheddate">1886-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.faulktoncity.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Faulk</field>
+</doc>
+<doc>
+<field name="id">135025</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="longm">longm=18</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=22</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Frankfort, South Dakota</field>
+<field name="area">0.79</field>
+<field name="populationdensity">188.6</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=39</field>
+<field name="latd">latd=44</field>
+<field name="population">149</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57440</field>
+<field name="county">Spink</field>
+<field name="latm">latm=52</field>
+</doc>
+<doc>
+<field name="id">134888</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=26</field>
+<field name="longs">longs=3</field>
+<field name="leader">Clifford (Lonnie) Tjaden</field>
+<field name="area">1.11</field>
+<field name="name">Freeman, South Dakota</field>
+<field name="populationdensity">1176.6</field>
+<field name="lats">lats=8</field>
+<field name="population">1306</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57029</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">cityoffreeman.webs.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Hutchinson</field>
+</doc>
+<doc>
+<field name="id">134968</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=30</field>
+<field name="longs">longs=7</field>
+<field name="leader">Tim Mullen</field>
+<field name="area">1.49</field>
+<field name="name">Garretson, South Dakota</field>
+<field name="populationdensity">804.1</field>
+<field name="lats">lats=52</field>
+<field name="nickname">The City of Parks</field>
+<field name="population">1166</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57030</field>
+<field name="latm">latm=42</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.garretsonsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134820</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=27</field>
+<field name="longs">longs=27</field>
+<field name="area">0.69</field>
+<field name="name">Gary, South Dakota</field>
+<field name="populationdensity">329.0</field>
+<field name="lats">lats=35</field>
+<field name="population">227</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57237</field>
+<field name="motto">"Gate City To The Dakota's"</field>
+<field name="latm">latm=47</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Deuel</field>
+</doc>
+<doc>
+<field name="id">134771</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="longm">longm=41</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=53</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">341.0</field>
+<field name="name">Geddes, South Dakota</field>
+<field name="area">0.61</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=11</field>
+<field name="latd">latd=43</field>
+<field name="population">208</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57342</field>
+<field name="county">Charles Mix</field>
+<field name="latm">latm=15</field>
+</doc>
+<doc>
+<field name="id">134993</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=57</field>
+<field name="longs">longs=19</field>
+<field name="area">1.89</field>
+<field name="name">Gettysburg, South Dakota</field>
+<field name="populationdensity">614.8</field>
+<field name="lats">lats=43</field>
+<field name="nickname">Gettysburg "Where the Battle Wasn't"</field>
+<field name="population">1162</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57442</field>
+<field name="motto">"Come Play On The Prairie"</field>
+<field name="latm">latm=0</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.gettysburgsd.net/</field>
+<field name="state">South Dakota</field>
+<field name="county">Potter</field>
+</doc>
+<doc>
+<field name="id">134864</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="longm">longm=25</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=43</field>
+<field name="leader">Dan DeSmet</field>
+<field name="name">Gregory, South Dakota</field>
+<field name="area">1.71</field>
+<field name="populationdensity">757.3</field>
+<field name="lats">lats=2</field>
+<field name="population">1295</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57533</field>
+<field name="motto">"City Of Expanding, Horizons"</field>
+<field name="latm">latm=14</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofgregory.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Gregory</field>
+</doc>
+<doc>
+<field name="id">134751</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=5</field>
+<field name="longs">longs=57</field>
+<field name="area">1.75</field>
+<field name="name">Groton, South Dakota</field>
+<field name="populationdensity">833.1</field>
+<field name="lats">lats=4</field>
+<field name="population">1458</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57445</field>
+<field name="latm">latm=27</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.grotonsd.gov/</field>
+<field name="state">South Dakota</field>
+<field name="county">Brown</field>
+</doc>
+<doc>
+<field name="id">134927</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=41</field>
+<field name="longs">longs=46</field>
+<field name="leader">Julie Burke-Bowen</field>
+<field name="area">2.48</field>
+<field name="name">Harrisburg, South Dakota</field>
+<field name="populationdensity">1648.8</field>
+<field name="lats">lats=46</field>
+<field name="population">4089</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57032</field>
+<field name="motto">Great Things Are Happening</field>
+<field name="latm">latm=25</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.harrisburg.govoffice.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lincoln</field>
+</doc>
+<doc>
+<field name="id">134767</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=4</field>
+<field name="longs">longs=6</field>
+<field name="area">1.39</field>
+<field name="name">Herreid, South Dakota</field>
+<field name="populationdensity">315.1</field>
+<field name="lats">lats=14</field>
+<field name="population">438</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57632</field>
+<field name="latm">latm=50</field>
+<field name="establisheddate">1901-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.herreidsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Campbell</field>
+</doc>
+<doc>
+<field name="id">134895</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=26</field>
+<field name="longs">longs=28</field>
+<field name="leader">Vikki Day</field>
+<field name="area">1.89</field>
+<field name="name">Highmore, South Dakota</field>
+<field name="populationdensity">420.6</field>
+<field name="lats">lats=7</field>
+<field name="population">795</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57345</field>
+<field name="motto">"A Great Place To Live, Work, And Play"</field>
+<field name="latm">latm=31</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://highmoresd.govoffice3.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Hyde</field>
+</doc>
+<doc>
+<field name="id">134836</field>
+<field name="type">places</field>
+<field name="establisheddate">1887-01-01T00:00:00Z</field>
+<field name="longd">longd=99</field>
+<field name="longm">longm=28</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=26</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">210.1</field>
+<field name="name">Hosmer, South Dakota</field>
+<field name="area">0.99</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=38</field>
+<field name="latd">latd=45</field>
+<field name="population">208</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57448</field>
+<field name="county">Edmunds</field>
+<field name="latm">latm=34</field>
+</doc>
+<doc>
+<field name="id">134840</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=28</field>
+<field name="longs">longs=27</field>
+<field name="leader">Don DeVries</field>
+<field name="area">3.61</field>
+<field name="name">Hot Springs, South Dakota</field>
+<field name="populationdensity">1028.0</field>
+<field name="lats">lats=54</field>
+<field name="caption">Welcome Sign in Hot Springs</field>
+<field name="population">3711</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57747</field>
+<field name="motto">"Southern Gateway To The Black Hills"</field>
+<field name="latm">latm=25</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.hotsprings-sd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Fall River</field>
+</doc>
+<doc>
+<field name="id">134960</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=31</field>
+<field name="longs">longs=35</field>
+<field name="leader">Don Arnes</field>
+<field name="area">0.95</field>
+<field name="name">Howard, South Dakota</field>
+<field name="populationdensity">903.2</field>
+<field name="lats">lats=38</field>
+<field name="population">858</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57349</field>
+<field name="latm">latm=0</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">Howard</field>
+<field name="state">South Dakota</field>
+<field name="county">Miner</field>
+</doc>
+<doc>
+<field name="id">134729</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">CST</field>
+<field name="longm">longm=13</field>
+<field name="longs">longs=5</field>
+<field name="leader">David McGirr ®,, Paul Aylward, Mayor-elect</field>
+<field name="area">10.57</field>
+<field name="name">City of Huron, South Dakota</field>
+<field name="populationdensity">1328.3</field>
+<field name="lats">lats=33</field>
+<field name="population">12592</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57350 and 57399</field>
+<field name="motto">It's A Brand New Day</field>
+<field name="latm">latm=21</field>
+<field name="airportcode">HON</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.huronsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Beadle</field>
+</doc>
+<doc>
+<field name="id">151048</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=9</field>
+<field name="longs">longs=24</field>
+<field name="area">0.26</field>
+<field name="name">Irene, South Dakota</field>
+<field name="populationdensity">1615.4</field>
+<field name="lats">lats=1</field>
+<field name="population">420</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57037</field>
+<field name="latm">latm=5</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Turner ,  Clay ,  Yankton</field>
+</doc>
+<doc>
+<field name="id">135059</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=33</field>
+<field name="longs">longs=46</field>
+<field name="area">0.50</field>
+<field name="name">Jefferson, South Dakota</field>
+<field name="populationdensity">1094.0</field>
+<field name="lats">lats=16</field>
+<field name="population">547</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57038</field>
+<field name="latm">latm=36</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Union</field>
+</doc>
+<doc>
+<field name="id">134899</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=30</field>
+<field name="longs">longs=44</field>
+<field name="area">2.32</field>
+<field name="name">Kadoka, South Dakota</field>
+<field name="populationdensity">285.6</field>
+<field name="lats">lats=7</field>
+<field name="population">654</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57543</field>
+<field name="motto">"Gateway To The Badlands"</field>
+<field name="latm">latm=50</field>
+<field name="establisheddate">1906-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.kadokasd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Jackson</field>
+</doc>
+<doc>
+<field name="id">134758</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=57</field>
+<field name="longs">longs=27</field>
+<field name="area">3.09</field>
+<field name="name">Kimball, South Dakota</field>
+<field name="populationdensity">227.5</field>
+<field name="lats">lats=50</field>
+<field name="population">703</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57355</field>
+<field name="latm">latm=44</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Brule</field>
+</doc>
+<doc>
+<field name="id">134772</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=32</field>
+<field name="longs">longs=17</field>
+<field name="area">0.82</field>
+<field name="name">Lake Andes, South Dakota</field>
+<field name="populationdensity">1098.8</field>
+<field name="lats">lats=25</field>
+<field name="caption">Main Street, looking northwest</field>
+<field name="population">879</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57356</field>
+<field name="latm">latm=9</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Charles Mix</field>
+</doc>
+<doc>
+<field name="id">134874</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=12</field>
+<field name="longs">longs=30</field>
+<field name="area">0.88</field>
+<field name="name">Lake Norden, South Dakota</field>
+<field name="populationdensity">562.7</field>
+<field name="lats">lats=54</field>
+<field name="population">467</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57248</field>
+<field name="motto">"Cheese Is Our Whey"</field>
+<field name="latm">latm=34</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Hamlin</field>
+</doc>
+<doc>
+<field name="id">134912</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=22</field>
+<field name="longs">longs=30</field>
+<field name="area">0.76</field>
+<field name="name">Lake Preston, South Dakota</field>
+<field name="populationdensity">788.2</field>
+<field name="lats">lats=46</field>
+<field name="population">599</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57233, 57249</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Kingsbury</field>
+</doc>
+<doc>
+<field name="id">134929</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=53</field>
+<field name="longs">longs=44</field>
+<field name="area">1.31</field>
+<field name="name">Lennox, South Dakota</field>
+<field name="populationdensity">1611.5</field>
+<field name="lats">lats=14</field>
+<field name="population">2111</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57039</field>
+<field name="motto">"Come Grow with Us!"</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityoflennoxsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lincoln</field>
+</doc>
+<doc>
+<field name="id">134914</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central</field>
+<field name="longm">longm=6</field>
+<field name="longs">longs=53</field>
+<field name="leader">Gene Hexom</field>
+<field name="area">4.61</field>
+<field name="name">City of Madison</field>
+<field name="populationdensity">1404.3</field>
+<field name="lats">lats=28</field>
+<field name="population">6474</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57042</field>
+<field name="motto">Discover The Unexpected</field>
+<field name="latm">latm=0</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.cityofmadisonsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Lake</field>
+</doc>
+<doc>
+<field name="id">135053</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=15</field>
+<field name="longs">longs=36</field>
+<field name="area">0.87</field>
+<field name="name">Marion, South Dakota</field>
+<field name="populationdensity">901.1</field>
+<field name="lats">lats=24</field>
+<field name="population">784</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57043</field>
+<field name="motto">"The Right Place To Call Home"</field>
+<field name="latm">latm=25</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Turner</field>
+</doc>
+<doc>
+<field name="id">134734</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=44</field>
+<field name="longs">longs=3</field>
+<field name="area">0.53</field>
+<field name="name">Martin, South Dakota</field>
+<field name="populationdensity">2020.8</field>
+<field name="lats">lats=30</field>
+<field name="caption">Downtown Martin: Main Street, looking northeast from 4th Avenue</field>
+<field name="population">1071</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57551</field>
+<field name="latm">latm=10</field>
+<field name="establisheddate">1912-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.martinsd.net/</field>
+<field name="state">South Dakota</field>
+<field name="county">Bennett</field>
+</doc>
+<doc>
+<field name="id">134795</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="longm">longm=21</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longs">longs=1</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">McIntosh, South Dakota</field>
+<field name="area">0.77</field>
+<field name="populationdensity">237.0</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=18</field>
+<field name="latd">latd=45</field>
+<field name="population">173</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57641</field>
+<field name="county">Corson</field>
+<field name="latm">latm=55</field>
+</doc>
+<doc>
+<field name="id">134796</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=48</field>
+<field name="longs">longs=41</field>
+<field name="area">0.40</field>
+<field name="name">McLaughlin, South Dakota</field>
+<field name="populationdensity">1657.5</field>
+<field name="lats">lats=47</field>
+<field name="caption">Main Street in McLaughlin</field>
+<field name="population">663</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57642</field>
+<field name="latm">latm=48</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Corson</field>
+</doc>
+<doc>
+<field name="id">135026</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=29</field>
+<field name="longs">longs=54</field>
+<field name="area">0.26</field>
+<field name="name">Mellette, South Dakota</field>
+<field name="populationdensity">807.7</field>
+<field name="lats">lats=14</field>
+<field name="population">210</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57461</field>
+<field name="latm">latm=9</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Spink</field>
+</doc>
+<doc>
+<field name="id">135035</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=39</field>
+<field name="longs">longs=23</field>
+<field name="area">0.59</field>
+<field name="name">Mission, South Dakota</field>
+<field name="populationdensity">2003.4</field>
+<field name="lats">lats=24</field>
+<field name="population">1182</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57555</field>
+<field name="latm">latm=18</field>
+<field name="establisheddate">1915-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.mission-sd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Todd</field>
+</doc>
+<doc>
+<field name="id">134805</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=1</field>
+<field name="longs">longs=35</field>
+<field name="leader">Ken Tracy</field>
+<field name="area">12.14</field>
+<field name="name">Mitchell, South Dakota</field>
+<field name="populationdensity">1369.3</field>
+<field name="lats">lats=50</field>
+<field name="caption">Corn Palace in Mitchell</field>
+<field name="population">15254</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57301</field>
+<field name="latm">latm=42</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.cityofmitchell.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Davison</field>
+</doc>
+<doc>
+<field name="id">134945</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=11</field>
+<field name="longs">longs=9</field>
+<field name="area">0.41</field>
+<field name="name">Montrose, South Dakota</field>
+<field name="populationdensity">1151.2</field>
+<field name="lats">lats=58</field>
+<field name="population">472</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57048</field>
+<field name="motto">"What You Need When You Need It"</field>
+<field name="latm">latm=41</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofmontrosesd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">McCook</field>
+</doc>
+<doc>
+<field name="id">134806</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=15</field>
+<field name="longs">longs=41</field>
+<field name="area">0.35</field>
+<field name="name">Mount Vernon, South Dakota</field>
+<field name="populationdensity">1320.0</field>
+<field name="lats">lats=44</field>
+<field name="population">462</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57363</field>
+<field name="motto">"Small Town But Big Opportunities"</field>
+<field name="latm">latm=42</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="mayor">Brad Seamer (at the last census)</field>
+<field name="state">South Dakota</field>
+<field name="county">Davison</field>
+</doc>
+<doc>
+<field name="id">134985</field>
+<field name="type">places</field>
+<field name="longd">longd=102</field>
+<field name="longm">longm=50</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longs">longs=3</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">New Underwood, South Dakota</field>
+<field name="area">1.00</field>
+<field name="populationdensity">660.0</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=38</field>
+<field name="latd">latd=44</field>
+<field name="population">660</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57761</field>
+<field name="county">Pennington</field>
+<field name="latm">latm=5</field>
+</doc>
+<doc>
+<field name="id">134764</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=25</field>
+<field name="longs">longs=23</field>
+<field name="area">1.01</field>
+<field name="name">Newell, South Dakota</field>
+<field name="populationdensity">597.0</field>
+<field name="lats">lats=59</field>
+<field name="population">603</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57760</field>
+<field name="latm">latm=42</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Butte</field>
+</doc>
+<doc>
+<field name="id">135060</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=29</field>
+<field name="longs">longs=44</field>
+<field name="area">2.29</field>
+<field name="name">North Sioux City, South Dakota</field>
+<field name="populationdensity">1119.5</field>
+<field name="lats">lats=52</field>
+<field name="population">2530</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57049</field>
+<field name="latm">latm=31</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of North Sioux City, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Union</field>
+</doc>
+<doc>
+<field name="id">134913</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">CST</field>
+<field name="longm">longm=18</field>
+<field name="longs">longs=32</field>
+<field name="area">0.25</field>
+<field name="name">Oldham, South Dakota</field>
+<field name="populationdensity">532.0</field>
+<field name="lats">lats=42</field>
+<field name="population">133</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57051</field>
+<field name="latm">latm=13</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Kingsbury</field>
+</doc>
+<doc>
+<field name="id">135055</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=8</field>
+<field name="longs">longs=14</field>
+<field name="area">1.15</field>
+<field name="name">Parker, South Dakota</field>
+<field name="populationdensity">888.7</field>
+<field name="lats">lats=50</field>
+<field name="population">1022</field>
+<field name="latd">latd=43</field>
+<field name="othernames">Parker</field>
+<field name="postalcode">57053</field>
+<field name="motto">"Life's A Little Bigger In A Small Town"</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">parkersd.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Turner</field>
+</doc>
+<doc>
+<field name="id">134868</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=39</field>
+<field name="longs">longs=58</field>
+<field name="area">0.60</field>
+<field name="name">Philip, South Dakota</field>
+<field name="populationdensity">1298.3</field>
+<field name="lats">lats=24</field>
+<field name="caption">Haakon County Courthouse in Philip</field>
+<field name="population">779</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57567</field>
+<field name="motto">"Where The Sun Kisses The Earth"</field>
+<field name="latm">latm=2</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Haakon</field>
+</doc>
+<doc>
+<field name="id">134720</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=28</field>
+<field name="longs">longs=59</field>
+<field name="area">0.76</field>
+<field name="name">Plankinton, South Dakota</field>
+<field name="populationdensity">930.3</field>
+<field name="lats">lats=53</field>
+<field name="population">707</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57368</field>
+<field name="motto">"A "Jewel" Of A Location"</field>
+<field name="latm">latm=42</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Aurora</field>
+</doc>
+<doc>
+<field name="id">134775</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=50</field>
+<field name="longs">longs=34</field>
+<field name="area">1.02</field>
+<field name="name">Platte, South Dakota</field>
+<field name="populationdensity">1205.9</field>
+<field name="lats">lats=11</field>
+<field name="population">1230</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57369</field>
+<field name="motto">It's Possible in Platte</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.plattesd.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Charles Mix</field>
+</doc>
+<doc>
+<field name="id">134935</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=3</field>
+<field name="longs">longs=29</field>
+<field name="area">0.67</field>
+<field name="name">Presho, South Dakota</field>
+<field name="populationdensity">741.8</field>
+<field name="lats">lats=21</field>
+<field name="population">497</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57568</field>
+<field name="latm">latm=54</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Lyman</field>
+</doc>
+<doc>
+<field name="id">135028</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=31</field>
+<field name="longs">longs=4</field>
+<field name="area">1.92</field>
+<field name="name">Redfield, South Dakota</field>
+<field name="populationdensity">1234.4</field>
+<field name="lats">lats=31</field>
+<field name="population">2333</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57469</field>
+<field name="motto">"Pheasant Capitol Of The World"</field>
+<field name="latm">latm=52</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.redfield-sd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Spink</field>
+</doc>
+<doc>
+<field name="id">134838</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=20</field>
+<field name="longs">longs=12</field>
+<field name="area">0.47</field>
+<field name="name">Roscoe, South Dakota</field>
+<field name="populationdensity">700.0</field>
+<field name="lats">lats=1</field>
+<field name="population">329</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57471</field>
+<field name="latm">latm=27</field>
+<field name="establisheddate">1877-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Edmunds</field>
+</doc>
+<doc>
+<field name="id">134736</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=43</field>
+<field name="longs">longs=6</field>
+<field name="area">0.85</field>
+<field name="name">Scotland, South Dakota</field>
+<field name="populationdensity">989.4</field>
+<field name="lats">lats=57</field>
+<field name="population">841</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57059</field>
+<field name="motto">"Live, Work, Play"</field>
+<field name="latm">latm=8</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.scotlandsd.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Bon Homme</field>
+</doc>
+<doc>
+<field name="id">135066</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=1</field>
+<field name="longs">longs=53</field>
+<field name="area">0.71</field>
+<field name="name">Selby, South Dakota</field>
+<field name="populationdensity">904.2</field>
+<field name="lats">lats=20</field>
+<field name="population">642</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57472</field>
+<field name="latm">latm=30</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.selbysd.govoffice2.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Walworth</field>
+</doc>
+<doc>
+<field name="id">135007</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=2</field>
+<field name="longs">longs=57</field>
+<field name="area">1.59</field>
+<field name="name">Sisseton, South Dakota</field>
+<field name="populationdensity">1553.5</field>
+<field name="lats">lats=48</field>
+<field name="population">2470</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57262</field>
+<field name="latm">latm=39</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.sisseton.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Roberts</field>
+</doc>
+<doc>
+<field name="id">134947</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=35</field>
+<field name="longs">longs=31</field>
+<field name="area">0.27</field>
+<field name="name">Spencer, South Dakota</field>
+<field name="populationdensity">570.4</field>
+<field name="lats">lats=40</field>
+<field name="population">154</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57374</field>
+<field name="latm">latm=43</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">McCook</field>
+</doc>
+<doc>
+<field name="id">134974</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=27</field>
+<field name="longs">longs=52</field>
+<field name="area">0.82</field>
+<field name="name">Valley Springs, South Dakota</field>
+<field name="populationdensity">925.6</field>
+<field name="lats">lats=1</field>
+<field name="population">759</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57068</field>
+<field name="motto">“The Front Door to South Dakota,”</field>
+<field name="latm">latm=35</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Valley Springs, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134942</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=17</field>
+<field name="longs">longs=14</field>
+<field name="area">0.31</field>
+<field name="name">Veblen, South Dakota</field>
+<field name="populationdensity">1712.9</field>
+<field name="lats">lats=46</field>
+<field name="population">531</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57270</field>
+<field name="latm">latm=51</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Marshall</field>
+</doc>
+<doc>
+<field name="id">135056</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=4</field>
+<field name="longs">longs=51</field>
+<field name="area">0.40</field>
+<field name="name">Viborg, South Dakota</field>
+<field name="populationdensity">1955.0</field>
+<field name="lats">lats=22</field>
+<field name="population">782</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57070</field>
+<field name="latm">latm=10</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Turner</field>
+</doc>
+<doc>
+<field name="id">134777</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=17</field>
+<field name="longs">longs=41</field>
+<field name="area">2.05</field>
+<field name="name">Wagner, South Dakota</field>
+<field name="populationdensity">767.6</field>
+<field name="lats">lats=49</field>
+<field name="population">1566</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57380</field>
+<field name="motto">"A Going, Growing City"</field>
+<field name="latm">latm=4</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">The Official Site of Wagner, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Charles Mix</field>
+</doc>
+<doc>
+<field name="id">134792</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">CST</field>
+<field name="longm">longm=7</field>
+<field name="longs">longs=14</field>
+<field name="leader">Steve Thorson</field>
+<field name="area">25.04</field>
+<field name="name">Watertown, South Dakota</field>
+<field name="populationdensity">1231.1</field>
+<field name="lats">lats=12</field>
+<field name="nickname">South Dakota's Rising Star</field>
+<field name="population">21482</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57201</field>
+<field name="latm">latm=54</field>
+<field name="establisheddate">1879-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.watertownsd.us/</field>
+<field name="state">South Dakota</field>
+<field name="county">Codington</field>
+</doc>
+<doc>
+<field name="id">134814</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=18</field>
+<field name="longs">longs=15</field>
+<field name="area">1.46</field>
+<field name="name">Waubay, South Dakota</field>
+<field name="populationdensity">394.5</field>
+<field name="lats">lats=59</field>
+<field name="population">576</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57273</field>
+<field name="latm">latm=19</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Day</field>
+</doc>
+<doc>
+<field name="id">151046</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=41</field>
+<field name="longs">longs=57</field>
+<field name="area">0.38</field>
+<field name="name">Wessington, South Dakota</field>
+<field name="populationdensity">447.4</field>
+<field name="lats">lats=20</field>
+<field name="population">170</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57381</field>
+<field name="latm">latm=27</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Beadle ,  Hand</field>
+</doc>
+<doc>
+<field name="id">134903</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=34</field>
+<field name="longs">longs=13</field>
+<field name="area">1.77</field>
+<field name="name">Wessington Springs, South Dakota</field>
+<field name="populationdensity">540.1</field>
+<field name="lats">lats=55</field>
+<field name="caption">The Jerauld County Courthouse in Wessington Springs</field>
+<field name="population">956</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57382</field>
+<field name="latm">latm=4</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://wessingtonsprings.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Jerauld</field>
+</doc>
+<doc>
+<field name="id">134747</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=38</field>
+<field name="longs">longs=51</field>
+<field name="area">0.99</field>
+<field name="name">White, South Dakota</field>
+<field name="populationdensity">489.9</field>
+<field name="lats">lats=4</field>
+<field name="population">485</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57276</field>
+<field name="latm">latm=26</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Brookings</field>
+</doc>
+<doc>
+<field name="id">134724</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=48</field>
+<field name="area">0.43</field>
+<field name="name">White Lake, South Dakota</field>
+<field name="populationdensity">865.1</field>
+<field name="lats">lats=45</field>
+<field name="population">372</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57383</field>
+<field name="motto">"Powering the Future"</field>
+<field name="latm">latm=43</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">White Lake, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Aurora</field>
+</doc>
+<doc>
+<field name="id">134956</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=44</field>
+<field name="longs">longs=46</field>
+<field name="area">0.52</field>
+<field name="name">White River, South Dakota</field>
+<field name="populationdensity">1117.3</field>
+<field name="lats">lats=10</field>
+<field name="population">581</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57579</field>
+<field name="latm">latm=34</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Mellette</field>
+</doc>
+<doc>
+<field name="id">134924</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=38</field>
+<field name="longs">longs=21</field>
+<field name="area">0.64</field>
+<field name="name">Whitewood, South Dakota</field>
+<field name="populationdensity">1448.4</field>
+<field name="lats">lats=41</field>
+<field name="population">927</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57793</field>
+<field name="latm">latm=27</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://whitewood.govoffice.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lawrence</field>
+</doc>
+<doc>
+<field name="id">134784</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="longm">longm=38</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=17</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">710.8</field>
+<field name="name">Willow Lake, South Dakota</field>
+<field name="area">0.37</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=40</field>
+<field name="latd">latd=44</field>
+<field name="population">263</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57278</field>
+<field name="county">Clark</field>
+<field name="latm">latm=37</field>
+</doc>
+<doc>
+<field name="id">135010</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=31</field>
+<field name="area">0.49</field>
+<field name="name">Wilmot, South Dakota</field>
+<field name="populationdensity">1004.1</field>
+<field name="lats">lats=30</field>
+<field name="population">492</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57279</field>
+<field name="latm">latm=24</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.wilmotsouthdakota.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Roberts</field>
+</doc>
+<doc>
+<field name="id">135013</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=16</field>
+<field name="longs">longs=25</field>
+<field name="area">0.79</field>
+<field name="name">Woonsocket, South Dakota</field>
+<field name="populationdensity">839.7</field>
+<field name="lats">lats=10</field>
+<field name="population">655</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57385</field>
+<field name="motto">"The Town with the Beautiful Lake"</field>
+<field name="latm">latm=3</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">The City of Woonsocket, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Sanborn</field>
+</doc>
+<doc>
+<field name="id">134875</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central</field>
+<field name="longm">longm=59</field>
+<field name="longs">longs=11</field>
+<field name="leader">Tom McGough (D)</field>
+<field name="area">0.98</field>
+<field name="name">City of Miller,  South Dakota</field>
+<field name="populationdensity">1519.4</field>
+<field name="lats">lats=12</field>
+<field name="population">1489</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57362</field>
+<field name="latm">latm=31</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.millersd.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Hand</field>
+</doc>
+<doc>
+<field name="id">134855</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=38</field>
+<field name="longs">longs=1</field>
+<field name="leader">Dale Aesoph</field>
+<field name="area">2.84</field>
+<field name="name">Milbank, South Dakota</field>
+<field name="populationdensity">1214.9</field>
+<field name="lats">lats=7</field>
+<field name="population">3353</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57252-57253</field>
+<field name="motto">"You'll Like Milbank"</field>
+<field name="latm">latm=13</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.milbanksd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Grant</field>
+</doc>
+<doc>
+<field name="id">134938</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=10</field>
+<field name="area">0.73</field>
+<field name="name">Britton, South Dakota</field>
+<field name="populationdensity">1700.0</field>
+<field name="lats">lats=34</field>
+<field name="population">1241</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57430</field>
+<field name="motto">"The View Is Great From Here"</field>
+<field name="latm">latm=47</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.brittonsouthdakota.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Marshall</field>
+</doc>
+<doc>
+<field name="id">135031</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=22</field>
+<field name="longs">longs=33</field>
+<field name="area">3.16</field>
+<field name="name">Fort Pierre, South Dakota</field>
+<field name="populationdensity">668.2</field>
+<field name="lats">lats=32</field>
+<field name="caption">United Church of Christ Congregational in Fort Pierre</field>
+<field name="population">2078</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57532</field>
+<field name="motto">"Where The West Begins"</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.fortpierre.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Stanley</field>
+</doc>
+<doc>
+<field name="id">134954</field>
+<field name="type">places</field>
+<field name="longd">longd=102</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=2</field>
+<field name="longs">longs=22</field>
+<field name="area">1.20</field>
+<field name="name">Faith, South Dakota</field>
+<field name="populationdensity">350.8</field>
+<field name="lats">lats=18</field>
+<field name="population">421</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57626</field>
+<field name="motto">"Welcome to the Prairie Oasis!"</field>
+<field name="latm">latm=1</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Faith, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Meade</field>
+</doc>
+<doc>
+<field name="id">134950</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=56</field>
+<field name="longs">longs=19</field>
+<field name="area">0.73</field>
+<field name="name">Leola, South Dakota</field>
+<field name="populationdensity">634.7</field>
+<field name="lats">lats=16</field>
+<field name="population">457</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57456</field>
+<field name="latm">latm=43</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">McPherson</field>
+</doc>
+<doc>
+<field name="id">134741</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=47</field>
+<field name="longs">longs=17</field>
+<field name="leader">Tim Reed</field>
+<field name="name">Brookings, South Dakota</field>
+<field name="area">13.04</field>
+<field name="populationdensity">1704.5</field>
+<field name="lats">lats=23</field>
+<field name="caption">Main Street in downtown Brookings</field>
+<field name="population">22056</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57006-57007</field>
+<field name="latm">latm=18</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.cityofbrookings.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Brookings</field>
+</doc>
+<doc>
+<field name="id">134975</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">CST</field>
+<field name="longm">longm=48</field>
+<field name="longs">longs=48</field>
+<field name="imagedotmap">SDMap-doton-Colman.PNG</field>
+<field name="leader">Gloria Van Duyn</field>
+<field name="area">1.88</field>
+<field name="name">Colman, South Dakota</field>
+<field name="populationdensity">316.0</field>
+<field name="lats">lats=1</field>
+<field name="population">594</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57017</field>
+<field name="latm">latm=59</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="dotmapcaption">Location of Colman, South Dakota</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Moody</field>
+</doc>
+<doc>
+<field name="id">134976</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=38</field>
+<field name="longs">longs=58</field>
+<field name="area">1.07</field>
+<field name="name">Egan, South Dakota</field>
+<field name="populationdensity">259.8</field>
+<field name="lats">lats=56</field>
+<field name="population">278</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57024</field>
+<field name="latm">latm=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Moody</field>
+</doc>
+<doc>
+<field name="id">134977</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=35</field>
+<field name="longs">longs=47</field>
+<field name="area">1.93</field>
+<field name="name">Flandreau, South Dakota</field>
+<field name="populationdensity">1258.6</field>
+<field name="lats">lats=52</field>
+<field name="population">2341</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57028</field>
+<field name="motto">"The Heart Of Eastern South Dakota"</field>
+<field name="latm">latm=2</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofflandreau.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Moody</field>
+</doc>
+<doc>
+<field name="id">134909</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=33</field>
+<field name="longs">longs=6</field>
+<field name="area">1.16</field>
+<field name="name">De Smet, South Dakota</field>
+<field name="populationdensity">938.8</field>
+<field name="lats">lats=9</field>
+<field name="population">1089</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57231</field>
+<field name="latm">latm=23</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.desmetsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Kingsbury</field>
+</doc>
+<doc>
+<field name="id">134955</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=31</field>
+<field name="longs">longs=7</field>
+<field name="leader">Mark Carstensen</field>
+<field name="area">3.99</field>
+<field name="name">Sturgis, South Dakota</field>
+<field name="populationdensity">1660.9</field>
+<field name="lats">lats=37</field>
+<field name="caption">Bikes lined up on Main Street during Bike Week.</field>
+<field name="population">6627</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57785</field>
+<field name="latm">latm=24</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.sturgis-sd.gov/</field>
+<field name="state">South Dakota</field>
+<field name="county">Meade</field>
+</doc>
+<doc>
+<field name="id">134923</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=9</field>
+<field name="leader">Dana Boke</field>
+<field name="area">16.35</field>
+<field name="name">Spearfish, South Dakota</field>
+<field name="populationdensity">642.2</field>
+<field name="lats">lats=23</field>
+<field name="nickname">Queen City</field>
+<field name="population">10494</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57783, 57799</field>
+<field name="latm">latm=29</field>
+<field name="establisheddate">1876-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.spearfish.sd.us/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lawrence</field>
+</doc>
+<doc>
+<field name="id">134742</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="longm">longm=53</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=29</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">551.4</field>
+<field name="name">Bruce, South Dakota</field>
+<field name="area">0.38</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=16</field>
+<field name="latd">latd=44</field>
+<field name="population">204</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57220</field>
+<field name="county">Brookings</field>
+<field name="latm">latm=26</field>
+</doc>
+<doc>
+<field name="id">151050</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=46</field>
+<field name="longs">longs=34</field>
+<field name="leader">Jim Fedderson</field>
+<field name="area">1.78</field>
+<field name="name">Beresford, South Dakota</field>
+<field name="populationdensity">1126.4</field>
+<field name="lats">lats=51</field>
+<field name="population">2005</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57004</field>
+<field name="latm">latm=4</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.beresfordsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Union ,  Lincoln</field>
+</doc>
+<doc>
+<field name="id">135072</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=23</field>
+<field name="longs">longs=33</field>
+<field name="leader">Nancy Wenande</field>
+<field name="name">Yankton, South Dakota</field>
+<field name="area">8.45</field>
+<field name="populationdensity">1760.5</field>
+<field name="lats">lats=54</field>
+<field name="nickname">"Mother City of the Dakotas"</field>
+<field name="caption">The Missouri River and Meridian Bridge, Yankton, S.D.</field>
+<field name="population">14454</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57078-57079</field>
+<field name="latm">latm=52</field>
+<field name="establisheddate">1858-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofyankton.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Yankton</field>
+</doc>
+<doc>
+<field name="id">2709</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="longm">longm=29</field>
+<field name="timezone">Central</field>
+<field name="longs">longs=11</field>
+<field name="leader">Mike Levsen</field>
+<field name="name">Aberdeen, South Dakota</field>
+<field name="area">15.60</field>
+<field name="populationdensity">1683.3</field>
+<field name="lats">lats=53</field>
+<field name="caption">Downtown</field>
+<field name="population">26091</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57401-57402</field>
+<field name="latm">latm=27</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.aberdeen.sd.us/</field>
+<field name="state">South Dakota</field>
+<field name="county">Brown</field>
+</doc>
+<doc>
+<field name="id">134930</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=50</field>
+<field name="longs">longs=15</field>
+<field name="area">1.69</field>
+<field name="name">Tea, South Dakota</field>
+<field name="populationdensity">2252.1</field>
+<field name="lats">lats=53</field>
+<field name="population">3806</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57064</field>
+<field name="motto">"Tea...A Growing Tradition"</field>
+<field name="latm">latm=26</field>
+<field name="establisheddate">1894-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Tea, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Lincoln</field>
+</doc>
+<doc>
+<field name="id">134921</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=57</field>
+<field name="area">2.06</field>
+<field name="name">Lead, South Dakota</field>
+<field name="populationdensity">1516.5</field>
+<field name="lats">lats=3</field>
+<field name="caption">Aerial photo of Lead</field>
+<field name="population">3124</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57754</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.leadmethere.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lawrence</field>
+</doc>
+<doc>
+<field name="id">134946</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=23</field>
+<field name="longs">longs=12</field>
+<field name="area">1.24</field>
+<field name="name">Salem, South Dakota</field>
+<field name="populationdensity">1086.3</field>
+<field name="lats">lats=34</field>
+<field name="population">1347</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57058</field>
+<field name="motto">"A City To Grow In......."</field>
+<field name="latm">latm=43</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.salemsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">McCook</field>
+</doc>
+<doc>
+<field name="id">134943</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=30</field>
+<field name="longs">longs=1</field>
+<field name="leader">Ronald H Pringle</field>
+<field name="area">1.13</field>
+<field name="name">Bridgewater, South Dakota</field>
+<field name="populationdensity">435.4</field>
+<field name="lats">lats=1</field>
+<field name="population">492</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57319</field>
+<field name="latm">latm=33</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://bridgewatersd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">McCook</field>
+</doc>
+<doc>
+<field name="id">134890</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=34</field>
+<field name="longs">longs=39</field>
+<field name="area">0.52</field>
+<field name="name">Menno, South Dakota</field>
+<field name="populationdensity">1169.2</field>
+<field name="lats">lats=16</field>
+<field name="population">608</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57045</field>
+<field name="motto">"The Place To Be"</field>
+<field name="latm">latm=14</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.mennosd.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Hutchinson</field>
+</doc>
+<doc>
+<field name="id">134737</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=53</field>
+<field name="longs">longs=41</field>
+<field name="area">1.01</field>
+<field name="name">Springfield, South Dakota</field>
+<field name="populationdensity">1969.3</field>
+<field name="lats">lats=17</field>
+<field name="caption">Main Street of Springfield.</field>
+<field name="population">1989</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57062</field>
+<field name="latm">latm=51</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.springfieldsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Bon Homme</field>
+</doc>
+<doc>
+<field name="id">134739</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=49</field>
+<field name="area">1.58</field>
+<field name="name">Tyndall, South Dakota</field>
+<field name="populationdensity">675.3</field>
+<field name="lats">lats=30</field>
+<field name="population">1067</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57066</field>
+<field name="latm">latm=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.tyndallsd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Bon Homme</field>
+</doc>
+<doc>
+<field name="id">134752</field>
+<field name="type">places</field>
+<field name="longd">longd=98</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=9</field>
+<field name="longs">longs=7</field>
+<field name="area">0.34</field>
+<field name="name">Hecla, South Dakota</field>
+<field name="populationdensity">667.6</field>
+<field name="lats">lats=55</field>
+<field name="population">227</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57446</field>
+<field name="latm">latm=52</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Brown</field>
+</doc>
+<doc>
+<field name="id">135033</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=4</field>
+<field name="longs">longs=1</field>
+<field name="area">0.64</field>
+<field name="name">Onida, South Dakota</field>
+<field name="populationdensity">1028.1</field>
+<field name="lats">lats=21</field>
+<field name="population">658</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57564</field>
+<field name="latm">latm=42</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.onida.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Sully</field>
+</doc>
+<doc>
+<field name="id">134885</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=59</field>
+<field name="longs">longs=18</field>
+<field name="area">0.49</field>
+<field name="name">Blunt, South Dakota</field>
+<field name="populationdensity">722.4</field>
+<field name="lats">lats=59</field>
+<field name="population">354</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57522</field>
+<field name="latm">latm=30</field>
+<field name="establisheddate">1882-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Hughes</field>
+</doc>
+<doc>
+<field name="id">135058</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=40</field>
+<field name="longs">longs=54</field>
+<field name="area">1.36</field>
+<field name="name">Elk Point, South Dakota</field>
+<field name="populationdensity">1443.4</field>
+<field name="lats">lats=8</field>
+<field name="caption">Main Street in Elk Point and some of the businesses located there</field>
+<field name="population">1963</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57025</field>
+<field name="latm">latm=41</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.elkpoint.org/</field>
+<field name="state">South Dakota</field>
+<field name="county">Union</field>
+</doc>
+<doc>
+<field name="id">135052</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=5</field>
+<field name="longs">longs=18</field>
+<field name="area">0.62</field>
+<field name="name">Hurley, South Dakota</field>
+<field name="populationdensity">669.4</field>
+<field name="lats">lats=57</field>
+<field name="population">415</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57036</field>
+<field name="latm">latm=16</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Turner</field>
+</doc>
+<doc>
+<field name="id">5470404</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=20</field>
+<field name="longs">longs=44</field>
+<field name="leader">Brad Shelly</field>
+<field name="area">2.21</field>
+<field name="name">Summerset, South Dakota</field>
+<field name="populationdensity">820.8</field>
+<field name="lats">lats=51</field>
+<field name="population">1814</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57718 and 57769</field>
+<field name="latm">latm=11</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.summerset.us/</field>
+<field name="state">South Dakota</field>
+<field name="county">Meade</field>
+</doc>
+<doc>
+<field name="id">151047</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=8</field>
+<field name="longs">longs=5</field>
+<field name="area">1.66</field>
+<field name="name">Arlington, South Dakota</field>
+<field name="populationdensity">551.2</field>
+<field name="lats">lats=52</field>
+<field name="population">915</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57212</field>
+<field name="latm">latm=21</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.arlingtonsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Kingsbury ,  Brookings</field>
+</doc>
+<doc>
+<field name="id">134893</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=59</field>
+<field name="longs">longs=14</field>
+<field name="area">0.91</field>
+<field name="name">Parkston, South Dakota</field>
+<field name="populationdensity">1657.1</field>
+<field name="lats">lats=39</field>
+<field name="population">1508</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57366</field>
+<field name="motto">"A Great Place To Grow"</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.parkston.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Hutchinson</field>
+</doc>
+<doc>
+<field name="id">134969</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=56</field>
+<field name="longs">longs=42</field>
+<field name="area">2.27</field>
+<field name="name">Hartford, South Dakota</field>
+<field name="populationdensity">1116.3</field>
+<field name="lats">lats=29</field>
+<field name="population">2534</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57033</field>
+<field name="motto">"On The Edge Of Everything"</field>
+<field name="latm">latm=37</field>
+<field name="establisheddate">1878-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Hartford</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134894</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=57</field>
+<field name="longs">longs=55</field>
+<field name="area">0.59</field>
+<field name="name">Tripp, South Dakota</field>
+<field name="populationdensity">1096.6</field>
+<field name="lats">lats=30</field>
+<field name="population">647</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57376</field>
+<field name="motto">"Easy to Find, Hard to Leave"</field>
+<field name="latm">latm=13</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">Tripp, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Hutchinson</field>
+</doc>
+<doc>
+<field name="id">134966</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="longm">longm=48</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=33</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Crooks, South Dakota</field>
+<field name="area">0.77</field>
+<field name="populationdensity">1648.1</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=41</field>
+<field name="website">http://crookssd.govoffice3.com/</field>
+<field name="latd">latd=43</field>
+<field name="population">1269</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57020</field>
+<field name="county">Minnehaha</field>
+<field name="latm">latm=39</field>
+</doc>
+<doc>
+<field name="id">134983</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">MST</field>
+<field name="longm">longm=34</field>
+<field name="longs">longs=17</field>
+<field name="leader">Don Voorhees</field>
+<field name="name">Hill City</field>
+<field name="area">1.27</field>
+<field name="populationdensity">752.4</field>
+<field name="lats">lats=1</field>
+<field name="population">948</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57745</field>
+<field name="motto">The Heart of the Hills</field>
+<field name="latm">latm=56</field>
+<field name="establisheddate">1876-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.hillcitysd.govoffice2.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Pennington</field>
+</doc>
+<doc>
+<field name="id">151045</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=0</field>
+<field name="area">0.62</field>
+<field name="name">Iroquois, South Dakota</field>
+<field name="populationdensity">429.0</field>
+<field name="lats">lats=59</field>
+<field name="population">266</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57353</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.iroquoissd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Kingsbury ,  Beadle</field>
+</doc>
+<doc>
+<field name="id">134815</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=31</field>
+<field name="longs">longs=10</field>
+<field name="area">1.49</field>
+<field name="name">Webster, South Dakota</field>
+<field name="populationdensity">1265.8</field>
+<field name="lats">lats=1</field>
+<field name="population">1886</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57274</field>
+<field name="motto">"A Place for All Seasons"</field>
+<field name="latm">latm=20</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">Webster, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Day</field>
+</doc>
+<doc>
+<field name="id">134959</field>
+<field name="type">places</field>
+<field name="longd">longd=97</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=57</field>
+<field name="area">1.49</field>
+<field name="name">Carthage, South Dakota</field>
+<field name="populationdensity">98.6</field>
+<field name="lats">lats=10</field>
+<field name="population">144</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57323</field>
+<field name="latm">latm=10</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Miner</field>
+</doc>
+<doc>
+<field name="id">134905</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=40</field>
+<field name="area">0.63</field>
+<field name="name">Murdo, South Dakota</field>
+<field name="populationdensity">774.6</field>
+<field name="lats">lats=17</field>
+<field name="caption">Commercial district in Murdo, looking north from the  US 83 / I-90  junction</field>
+<field name="population">488</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57559</field>
+<field name="latm">latm=53</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.murdosd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Jones</field>
+</doc>
+<doc>
+<field name="id">134931</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=46</field>
+<field name="longs">longs=00</field>
+<field name="area">0.56</field>
+<field name="name">Worthing, South Dakota</field>
+<field name="populationdensity">1566.1</field>
+<field name="lats">lats=44</field>
+<field name="population">877</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57077</field>
+<field name="motto">A Quiet Place to Call Home</field>
+<field name="latm">latm=19</field>
+<field name="establisheddate">1879-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://cityofworthing.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lincoln</field>
+</doc>
+<doc>
+<field name="id">135073</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=36</field>
+<field name="longs">longs=4</field>
+<field name="leader">Don Howe</field>
+<field name="area">0.39</field>
+<field name="name">Dupree, South Dakota</field>
+<field name="populationdensity">1346.2</field>
+<field name="lats">lats=0</field>
+<field name="population">525</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57623</field>
+<field name="latm">latm=3</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Ziebach</field>
+</doc>
+<doc>
+<field name="id">134964</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central</field>
+<field name="longm">longm=34</field>
+<field name="longs">longs=50</field>
+<field name="leader">Larry Beesley</field>
+<field name="area">5.41</field>
+<field name="name">Brandon, South Dakota</field>
+<field name="populationdensity">1635.9</field>
+<field name="lats">lats=30</field>
+<field name="population">8785</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57005</field>
+<field name="motto">"Building a Better Life"</field>
+<field name="latm">latm=35</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Brandon, South Dakota</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha</field>
+</doc>
+<doc>
+<field name="id">134785</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=55</field>
+<field name="longs">longs=37</field>
+<field name="leader">John (Jack) Powell</field>
+<field name="area">4.03</field>
+<field name="name">Vermillion, South Dakota</field>
+<field name="populationdensity">2623.1</field>
+<field name="lats">lats=52</field>
+<field name="population">10571</field>
+<field name="latd">latd=42</field>
+<field name="postalcode">57069</field>
+<field name="latm">latm=46</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.vermillion.us/</field>
+<field name="state">South Dakota</field>
+<field name="county">Clay</field>
+</doc>
+<doc>
+<field name="id">134948</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=37</field>
+<field name="longs">longs=19</field>
+<field name="area">1.00</field>
+<field name="name">Eureka, South Dakota</field>
+<field name="populationdensity">933.3</field>
+<field name="lats">lats=9</field>
+<field name="population">868</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57437</field>
+<field name="latm">latm=46</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.eurekasd.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">McPherson</field>
+</doc>
+<doc>
+<field name="id">1591404</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain Time Zone (MST)</field>
+<field name="longm">longm=23</field>
+<field name="longs">longs=19</field>
+<field name="area">0.29</field>
+<field name="populationdensity">765.5</field>
+<field name="lats">lats=54</field>
+<field name="population">222</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57769</field>
+<field name="latm">latm=13</field>
+<field name="establisheddate">1890-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Piedmont</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">South Dakota</field>
+<field name="county">Meade</field>
+</doc>
+<doc>
+<field name="id">134992</field>
+<field name="type">places</field>
+<field name="longd">longd=102</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=9</field>
+<field name="longs">longs=36</field>
+<field name="area">1.04</field>
+<field name="name">Lemmon, South Dakota</field>
+<field name="populationdensity">1179.8</field>
+<field name="lats">lats=22</field>
+<field name="population">1227</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57638</field>
+<field name="latm">latm=56</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">lemmonsd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Perkins</field>
+</doc>
+<doc>
+<field name="id">57853</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central</field>
+<field name="longm">longm=20</field>
+<field name="longs">longs=11</field>
+<field name="leader">Laurie Gill</field>
+<field name="name">Pierre, South Dakota</field>
+<field name="area">13.07</field>
+<field name="populationdensity">1044.9</field>
+<field name="lats">lats=5</field>
+<field name="caption">The  South Dakota State Capitol  building near the  Missouri River  in downtown Pierre.</field>
+<field name="population">13646</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57501</field>
+<field name="motto">"On The River-On The Move"</field>
+<field name="latm">latm=22</field>
+<field name="establisheddate">1880-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.pierre.sd.gov</field>
+<field name="state">South Dakota</field>
+<field name="county">Hughes</field>
+</doc>
+<doc>
+<field name="id">134918</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="longm">longm=57</field>
+<field name="timezone">Central (CST)</field>
+<field name="longs">longs=58</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Wentworth, South Dakota</field>
+<field name="area">0.25</field>
+<field name="populationdensity">684.0</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=48</field>
+<field name="latd">latd=43</field>
+<field name="population">171</field>
+<field name="state">South Dakota</field>
+<field name="postalcode">57075</field>
+<field name="county">Lake</field>
+<field name="latm">latm=59</field>
+</doc>
+<doc>
+<field name="id">134987</field>
+<field name="type">places</field>
+<field name="longd">longd=-103.228</field>
+<field name="timezone">Mountain</field>
+<field name="leader">Sam Kooiker</field>
+<field name="name">City of Rapid City</field>
+<field name="area">55.49</field>
+<field name="populationdensity">1226.4</field>
+<field name="caption">Downtown Rapid City</field>
+<field name="population">67956</field>
+<field name="latd">latd=44.076</field>
+<field name="postalcode">57701, 57702, 57703, 57704, 57709</field>
+<field name="establisheddate">1876-01-01T00:00:00Z</field>
+<field name="country">United States</field>
+<field name="website">www.rcgov.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Pennington</field>
+<field name="othernames">Mni Luzahan Otowan</field>
+</doc>
+<doc>
+<field name="id">135047</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=28</field>
+<field name="area">2.20</field>
+<field name="name">Winner, South Dakota</field>
+<field name="populationdensity">1316.8</field>
+<field name="lats">lats=26</field>
+<field name="population">2897</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57580</field>
+<field name="latm">latm=22</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.winnersd.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Tripp</field>
+</doc>
+<doc>
+<field name="id">135065</field>
+<field name="type">places</field>
+<field name="longd">longd=100</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=26</field>
+<field name="longs">longs=5</field>
+<field name="leader">Jamie Dietterle</field>
+<field name="name">Mobridge, South Dakota</field>
+<field name="area">1.89</field>
+<field name="populationdensity">1833.3</field>
+<field name="lats">lats=23</field>
+<field name="nickname">Mo-Town</field>
+<field name="population">3465</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57601</field>
+<field name="othernames">Bridge City</field>
+<field name="motto">Make It Mobridge</field>
+<field name="latm">latm=32</field>
+<field name="establisheddate">1906-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.mobridge.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Walworth</field>
+</doc>
+<doc>
+<field name="id">134828</field>
+<field name="type">places</field>
+<field name="longd">longd=101</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=4</field>
+<field name="longs">longs=29</field>
+<field name="area">0.41</field>
+<field name="name">Timber Lake, South Dakota</field>
+<field name="populationdensity">1080.5</field>
+<field name="lats">lats=43</field>
+<field name="population">443</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57656</field>
+<field name="latm">latm=25</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.timberlakesouthdakota.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Dewey</field>
+</doc>
+<doc>
+<field name="id">151051</field>
+<field name="type">places</field>
+<field name="longd">longd=96</field>
+<field name="timezone">Central</field>
+<field name="longm">longm=43</field>
+<field name="longs">longs=54</field>
+<field name="leader">Mike Huether</field>
+<field name="name">Sioux Falls, South Dakota</field>
+<field name="area">73.47</field>
+<field name="populationdensity">2109.2</field>
+<field name="lats">lats=11</field>
+<field name="nickname">Best Little City in America, Queen City of the West</field>
+<field name="caption">Downtown Sioux Falls, near the intersection of 10th St. and Phillips Ave.</field>
+<field name="population">153888 (US:  149th )</field>
+<field name="latd">latd=43</field>
+<field name="postalcode">57100-57199</field>
+<field name="motto">The Heart of America</field>
+<field name="latm">latm=32</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.siouxfalls.org</field>
+<field name="state">South Dakota</field>
+<field name="county">Minnehaha ,  Lincoln</field>
+</doc>
+<doc>
+<field name="id">134920</field>
+<field name="type">places</field>
+<field name="longd">longd=103</field>
+<field name="timezone">Mountain (MST)</field>
+<field name="longm">longm=43</field>
+<field name="longs">longs=45</field>
+<field name="leader">Francis Toscana (elected 2001)</field>
+<field name="area">3.83</field>
+<field name="name">Deadwood, South Dakota</field>
+<field name="populationdensity">331.6</field>
+<field name="lats">lats=36</field>
+<field name="caption">Modern Deadwood viewed from  Mount Moriah</field>
+<field name="population">1270</field>
+<field name="latd">latd=44</field>
+<field name="postalcode">57732</field>
+<field name="latm">latm=22</field>
+<field name="establisheddate">1876-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.deadwood.com/</field>
+<field name="state">South Dakota</field>
+<field name="county">Lawrence</field>
+</doc>
+<doc>
+<field name="id">134837</field>
+<field name="type">places</field>
+<field name="longd">longd=99</field>
+<field name="timezone">Central (CST)</field>
+<field name="longm">longm=1</field>
+<field name="longs">longs=49</field>
+<field name="area">1.34</field>
+<field name="name">Ipswich, South Dakota</field>
+<field name="populationdensity">711.9</field>
+<field name="lats">lats=42</field>
+<field name="population">954</field>
+<field name="latd">latd=45</field>
+<field name="postalcode">57451</field>
+<field name="latm">latm=26</field>
+<field name="establisheddate">1883-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.ipswich-sd.com</field>
+<field name="state">South Dakota</field>
+<field name="county">Edmunds</field>
+</doc>
+</add>

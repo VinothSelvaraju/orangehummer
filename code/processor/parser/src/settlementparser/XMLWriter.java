@@ -80,15 +80,19 @@ public class XMLWriter {
 				//Check whether the info box contains name tag
 				Iterator<Entry<String, String>> itr1 = page.infobox.entrySet().iterator();
 				Boolean nameFlag = false;
+				Boolean officialNameFlag = false;
 				while (itr1.hasNext()) {
 					Map.Entry pairs = (Map.Entry) itr1.next();
 					if(pairs.getKey().toString().toLowerCase().trim().contentEquals("name")){
 						nameFlag = true;
-						break;
+					
+					}
+					else if(pairs.getKey().toString().toLowerCase().trim().contentEquals("official_name")){
+						officialNameFlag = true;
 					}
 				}
 				
-				if(nameFlag == true){
+				if(nameFlag == true || officialNameFlag == true){
 					Element document = doc.createElement("doc");
 					rootElement.appendChild(document);
 					Element field1 = doc.createElement("field");
@@ -104,7 +108,7 @@ public class XMLWriter {
 					Iterator<Entry<String, String>> itr2 = page.infobox.entrySet().iterator();
 					while (itr2.hasNext()) {
 						Map.Entry pairs = (Map.Entry) itr2.next();
-						if(pairs.getKey().toString().trim().equals("occupation")){
+						/*if(pairs.getKey().toString().trim().equals("occupation")){
 							String input = pairs.getValue().toString().replaceAll(";|/", ",");
 							if(input.contains(",")){
 								String [] str= input.split(",");
@@ -126,84 +130,70 @@ public class XMLWriter {
 								document.appendChild(field);
 								System.out.println(newKey+"===="+pairs.getValue().toString());
 							}
-						}
-						else{
+						}*/
+		
 							Boolean flag = false;
 							String newKey = pairs.getKey().toString().replaceAll("_", "");
 							newKey = newKey.trim().replaceAll(" *", "");
-							String[] matchTypes = { "imageseal", "blank1name",
-									"governmentfootnotes", "elevationft",
-									"establisheddate1", "elevationfootnotes",
-									"postalcodetype", "elevationfootnotes",
-									"populationmetro", "areafootnotes",
-									"totaltype", "settlementtype",
-									"officialname", "blankname", "imageseal",
-									"mapcaption", "caption", "imagemap",
-									"governingbody", "popestasof",
-									"populationdemonym", "utcoffset1dst",
-									"timezone1dst", "elevationm", "imageflag",
-									"arealandsqmi", "areametrosqmi",
-									"areacode", "subdivisiontype1",
-									"subdivisiontype2", "subdivisiontype",
-									"utcoffsetdst", "populationasof",
-									"leadertitle", "subdivisiontype4",
-									"subdivisiontype3", "accessdate",
-									"blank1info", "pushpinlabel", "blankinfo",
-									"establishedtitle", "imageskyline",
-									"utcoffset1", "populationblank1title",
-									"governmenttype", "county",
-									"subdivisionname4", "subdivisionname3",
-									"pushpinmapcaption", "unitpref",
-									"populationrank", "imagesize",
-									"coordinatesfootnotes",
-									"establishedtitle1", "areawatersqmi",
-									"pushpinmap", "coordinatestype",
-									"coordinatesdisplay", "leadertitle1",
-									"areatotalkm2", "areawaterpercent",
-									"timezonedst", "populationurban",
-									"populationdensitykm2",
-									"coordinatesregion", "arealandkm2", "utcoffset", "mapsize",
-									"areawaterkm2", "areamagnitude",
-									"mapcaption1", "establishedtitle3",
-									"establishedtitle2", "populationfootnotes",
-									"latitude", "leadertitle2", "leadername1",
-									"leadername3", "leadername4",
-									"leadername2", "establisheddate2",
-									"pushpinlabelposition", "leadertitle4",
-									"leadertitle3", "founder",
-									"populationnote", "mottoeng", "twin3",
-									"twin2", "twin2country", "twin1",
-									"twin3country", "blankinfosec1",
-									"blanknamesec1", "twin1country",
-									"blank1namesec1", "blank1infosec1",
-									"longitude", "populationblank2title",
-									"imagemap1", "establisheddate3", "demonym",
-									"twin4", "sister-cities", "zipcode",
-									"elevationminft", "leaderparty",
-									"namedfor", "elevationmaxft",
-									"populationest", "populationblank1",
-									"coordinatesformat", "areaurbansqmi",
-									"areaurbankm2", "populationblank2",
-									"mapsize1" };
+							String[] matchTypes = { "imageseal", "blank1name","governmentfootnotes", "elevationft","establisheddate1", "elevationfootnotes","postalcodetype", "elevationfootnotes",
+									"populationmetro", "areafootnotes","totaltype", "settlementtype", "blankname", "imageseal","mapcaption", "caption", "imagemap","governingbody", "popestasof",
+									"populationdemonym", "utcoffset1dst","timezone1dst", "elevationm", "imageflag",	"arealandsqmi", "areametrosqmi","areacode", "subdivisiontype1",
+									"subdivisiontype2", "subdivisiontype","utcoffsetdst", "populationasof",	"leadertitle", "subdivisiontype4","subdivisiontype3", "accessdate",
+									"blank1info", "pushpinlabel", "blankinfo","establishedtitle", "imageskyline","utcoffset1", "populationblank1title","governmenttype", "county",
+									"subdivisionname4", "subdivisionname3","pushpinmapcaption", "unitpref",	"populationrank", "imagesize","coordinatesfootnotes",
+									"establishedtitle1", "areawatersqmi","pushpinmap", "coordinatestype","coordinatesdisplay", "leadertitle1","areatotalkm2", "areawaterpercent",
+									"timezonedst", "populationurban","populationdensitykm2","coordinatesregion", "arealandkm2", "utcoffset", "mapsize",
+									"areawaterkm2", "areamagnitude","mapcaption1", "establishedtitle3","establishedtitle2", "populationfootnotes",	"latitude", "leadertitle2", "leadername1",
+									"leadername3", "leadername4","leadername2", "establisheddate2","pushpinlabelposition", "leadertitle4",	"leadertitle3", "founder",
+									"populationnote", "mottoeng", "twin3","twin2", "twin2country", "twin1","twin3country", "blankinfosec1","blanknamesec1", "twin1country",
+									"blank1namesec1", "blank1infosec1",	"longitude", "populationblank2title","imagemap1", "establisheddate3", "demonym",	"twin4", "sister-cities", "zipcode",
+									"elevationminft", "leaderparty","namedfor", "elevationmaxft","populationest", "populationblank1","coordinatesformat", "areaurbansqmi",
+									"areaurbankm2", "populationblank2","mapsize1","pushpinrelief","pushpinmapalt","areacodetype","imagealt","leadername6","leadertitle6",
+									"majorlanguages","founded","blankemblemsize","imageblankemblem","nativenamelang","governmentbody","arealandmi2","areatotalmi2",
+									"areawatermi2",	"blank3info","blank2info","blank3name","populationinternational","blank2name","areametrokm2","bridges",
+									"imageshield","populationdensitymetrosqmi",	"populationdensitymetrokm2","blankemblemtype","p5","p4","p3","p2","p1",	"partstype",
+									"blank4name","blank4info","blank3name","urbanpopulation","urbanlandsqmi","partsstyle"};
 							String tagName = newKey.toLowerCase();
-							//System.out.println("TAG NAME: "+tagName);
 							for(int k = 0; k<matchTypes.length;k++){
 								if(matchTypes[k].equals(tagName)){
 									flag = true;
 									System.out.println("MATCHED: "+ tagName);
 								}
 							}
-							if(flag!=true){
+							
+							//Matches all key fields if there is a name field
+							if(flag!=true && nameFlag == true){
 								String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
 								inputKey = inputKey.replaceAll(" *", "");
 								inputKey = synonymlookup(inputKey);
 								Element field = doc.createElement("field");
 								field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
 								field.setAttribute("name", inputKey);
-								//System.out.println("Key to the file"+inputKey);
 								document.appendChild(field);
 								System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
-							}	
+							}
+							
+							//Matches all key fields if there is an official name field but not name field
+							else if(flag!=true && nameFlag == false && officialNameFlag == true){
+								String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
+								inputKey = inputKey.replaceAll(" *", "");
+								inputKey = synonymlookup(inputKey);
+								if(inputKey.contains("officialname")){
+									Element field = doc.createElement("field");
+									field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
+									field.setAttribute("name", "name");
+									document.appendChild(field);
+									System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
+								}
+								else{
+									Element field = doc.createElement("field");
+									field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
+									field.setAttribute("name", inputKey);
+									document.appendChild(field);
+									System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
+
+								}
+							}
 						}
 					}
 					System.out.println("-------------------Page stop------------------------");
@@ -219,7 +209,6 @@ public class XMLWriter {
 					//StreamResult result1 = new StreamResult(System.out);
 					transformer.transform(source, result);
 					System.out.println("File saved!");
-				}
 			} catch (ParserConfigurationException pce) {
 				pce.printStackTrace();
 			} catch (TransformerException tfe) {
