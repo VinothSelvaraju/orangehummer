@@ -23,7 +23,8 @@
                             "is": "is",
                             "are": "are",
                             "was": "was",
-                            "were": "were"
+                            "were": "were",
+                            'all':'all',
                             },
                     'where': {"Select--": "",
                               "was": "was",
@@ -72,8 +73,8 @@
                                          'parents': 'parents',
                                          'Select--':''},
                                   "was": {'spouse': 'spouse',
-                                          'Select--':''}
-                                  },
+                                          'Select--':''},
+                                                        },
                           'where': {'': {'Please select in order': ''},
                                     "does": {'work':'work',
                                              'live':'live',
@@ -154,7 +155,9 @@
                                          'parents': 'parents',
                                          'Select--':''},
                                   "was": {'spouse': 'spouse',
-                                          'Select--':''}
+                                          'Select--':''},
+                                
+
                                   },
                           'where': {'': {'Please select in order': ''},
                                     "does": {'work':'work',
@@ -223,6 +226,9 @@
                             'film': {'who':  {'': {'Please select in order': ''},
                                                 'is': {'producer': 'producer',
                                                        'director': 'director',
+                                                       'narrator': 'narrator',
+                                                       'cinematographer': 'cinematographer',
+                                                       'music-composer': 'music',
                                                        'writer': 'writer',
                                                        'script-writer': 'scriptwriter',
                                                        'editor': 'editor',
@@ -234,6 +240,10 @@
                                                        'producers': 'producer',
                                                        'directors': 'director',
                                                        'writers': 'writer',
+                                                       'narrators': 'narrator',
+                                                       'cinematographers': 'cinematographer',
+                                                       'music-composers': 'music',
+
                                                        'script-writers': 'scriptwriter',
                                                        'editors': 'editor',
                                                        'distributors': 'distributor',
@@ -245,12 +255,36 @@
                                                        'producer': 'producer',
                                                        'director': 'director',
                                                        'writer': 'writer',
+                                                       'narrator': 'narrator',
+                                                       'cinematographer': 'cinematographer',
+                                                       'music-composer': 'music',
+
                                                        'script-writer': 'scriptwriter',
                                                        'editor': 'editor',
                                                        'distributor': 'distributor',
                                                        'film-editor': 'filmeditor',
                                                        'Select--': ''
-                                                       }
+                                                       },
+
+                                                 'were': {
+                                                       'producers': 'producer',
+                                                       'directors': 'director',
+                                                       'writers': 'writer',
+                                                       'narrators': 'narrator',
+                                                       'cinematographers': 'cinematographer',
+                                                       'music-composers': 'music',
+
+                                                       'script-writers': 'scriptwriter',
+                                                       'editors': 'editor',
+                                                       'distributors': 'distributor',
+                                                       'film-editors': 'filmeditor',
+                                                       'actors': 'starring',
+                                                       'Select--': ''
+
+                                                       },
+                                                  "all": {'stars':'starring',
+                                                         'Select--':'',}   
+                                              
                                                 },
                                         'where': {'': {'Please select in order': ''},
                                                    "was": {'shot':'shot',
@@ -276,8 +310,9 @@
                                                           'running-time':'runningtime',
                                                           'language':'language',
                                                           'budget':'budget',
+                                                          'story':'story',
+                                                          'based on':'basedon',
                                                           'revenue':'revenue',
-                                                          'cost':'cost',
                                                           'box-office-return':'boxofficereturn',
                                                           },
                                                    'was': {'Select--':'',
@@ -285,7 +320,6 @@
                                                           'language':'language',
                                                           'budget':'budget',
                                                           'revenue':'revenue',
-                                                          'cost':'cost',
                                                           'box-office-return':'boxofficereturn',
                                                           
                                                            },

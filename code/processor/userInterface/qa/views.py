@@ -63,11 +63,16 @@ def resultsPage(request):
         resp_data = json.loads(t)
         print resp_data
         if int(resp_data['response']['numFound'])<=0:
+            alternative_text=[]
             response_text = responseMessages['noresults']
-            alternative_text = resp_data['spellcheck']['suggestions'][1]['suggestion'] if resp_data['spellcheck']['suggestions'] else []
+            collationList = resp_data['spellcheck']['suggestions'][3::2]
+            for each in collationList:
+                alternative_text.append(each[1].split(':')[1].replace('"',''))
+
+            #alternative_text = resp_data['spellcheck']['suggestions'][1]['suggestion'] if resp_data['spellcheck']['suggestions'] else []
         else:
             response_text = ""
-            for i in range(int(resp_data['response']['numFound'])):
+            for i in range(min(10, int(resp_data['response']['numFound']))):
                 keys = resp_data['response']['docs'][i].keys()
                 print keys
                 if len(keys)!=3:
