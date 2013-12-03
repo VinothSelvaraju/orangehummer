@@ -120,7 +120,7 @@ public class QueryConstants {
 		"gross" };
 	
 	static String[] placeTags = { "settlementtype", "nativename", "nickname",
-		"officialname", "leader", "state", "county",
+		 "leader", "state", "county",
 		"coordinates", "founder", "area", "population", "populationdensity", "timezone",
 		"postalcode", "establisheddate", "motto" };
 	

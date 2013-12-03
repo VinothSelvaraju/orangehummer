@@ -118,6 +118,7 @@
    <copyField source="name" dest="name_phrase"/>
    <field name="name_text" type="text_general" indexed="true" stored="false" multiValued="true" />
    <copyField source="name" dest="name_text"/>
+   <field name="placesname" type="suggest_phrase" indexed="true" stored="true" multiValued="false" />
    <field name="birthname" type="text_general" indexed="true" stored="true"/>
    <field name="education" type="text_general" indexed="true" stored="true" multiValued="true" omitNorms="true"/>
    <field name="birthplace" type="string" indexed="true" stored="true" multiValued="true"/>

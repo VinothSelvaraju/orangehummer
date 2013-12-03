@@ -3,6 +3,7 @@
 <doc>
 <field name="id">520282</field>
 <field name="type">places</field>
+<field name="placesname">Oneonta</field>
 <field name="establisheddate">1842-01-01T00:00:00Z</field>
 <field name="longd">longd=75</field>
 <field name="longm">longm=3</field>
@@ -25,6 +26,7 @@
 <doc>
 <field name="id">126331</field>
 <field name="type">places</field>
+<field name="placesname">Cortland, New York</field>
 <field name="longd">longd=76</field>
 <field name="longm">longm=10</field>
 <field name="timezone">Eastern (EST)</field>
@@ -47,6 +49,7 @@
 <doc>
 <field name="id">126473</field>
 <field name="type">places</field>
+<field name="placesname">Gloversville, New York</field>
 <field name="longd">longd=74</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=21</field>
@@ -70,6 +73,7 @@
 <doc>
 <field name="id">208367</field>
 <field name="type">places</field>
+<field name="placesname">Oswego</field>
 <field name="longd">longd=76</field>
 <field name="longm">longm=30</field>
 <field name="timezone">EST</field>
@@ -97,6 +101,7 @@
 <doc>
 <field name="id">127596</field>
 <field name="type">places</field>
+<field name="placesname">White Plains, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">Eastern</field>
 <field name="longm">longm=46</field>
@@ -121,6 +126,7 @@
 <doc>
 <field name="id">127573</field>
 <field name="type">places</field>
+<field name="placesname">Mount Vernon, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">Eastern</field>
 <field name="longm">longm=49</field>
@@ -143,6 +149,7 @@
 <doc>
 <field name="id">259655</field>
 <field name="type">places</field>
+<field name="placesname">Olean</field>
 <field name="longd">longd=78</field>
 <field name="longm">longm=25</field>
 <field name="timezone">EST</field>
@@ -163,6 +170,7 @@
 <doc>
 <field name="id">127058</field>
 <field name="type">places</field>
+<field name="placesname">Troy</field>
 <field name="longd">longd=73</field>
 <field name="longm">longm=41</field>
 <field name="longs">longs=33</field>
@@ -191,6 +199,7 @@
 <doc>
 <field name="id">85435</field>
 <field name="type">places</field>
+<field name="placesname">Utica</field>
 <field name="longd">longd=75</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=13</field>
@@ -216,6 +225,7 @@
 <doc>
 <field name="id">259673</field>
 <field name="type">places</field>
+<field name="placesname">Dunkirk</field>
 <field name="establisheddate">1880-01-01T00:00:00Z</field>
 <field name="longd">longd=79</field>
 <field name="longm">longm=20</field>
@@ -239,6 +249,7 @@
 <doc>
 <field name="id">126708</field>
 <field name="type">places</field>
+<field name="placesname">Glen Cove, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=37</field>
@@ -261,6 +272,7 @@
 <doc>
 <field name="id">126417</field>
 <field name="type">places</field>
+<field name="placesname">Lackawanna</field>
 <field name="longd">longd=78</field>
 <field name="longm">longm=49</field>
 <field name="timezone">EST</field>
@@ -284,6 +296,7 @@
 <doc>
 <field name="id">126182</field>
 <field name="type">places</field>
+<field name="placesname">Auburn, New York</field>
 <field name="longd">longd=76</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=34</field>
@@ -307,6 +320,7 @@
 <doc>
 <field name="id">127575</field>
 <field name="type">places</field>
+<field name="placesname">New Rochelle, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=47</field>
@@ -333,6 +347,7 @@
 <doc>
 <field name="id">126618</field>
 <field name="type">places</field>
+<field name="placesname">Oneida, New York</field>
 <field name="longd">longd=75</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=39</field>
@@ -356,6 +371,7 @@
 <doc>
 <field name="id">127579</field>
 <field name="type">places</field>
+<field name="placesname">Peekskill, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=55</field>
@@ -379,6 +395,7 @@
 <doc>
 <field name="id">126858</field>
 <field name="type">places</field>
+<field name="placesname">City of Rome</field>
 <field name="longd">longd=75</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=27</field>
@@ -404,6 +421,7 @@
 <doc>
 <field name="id">127118</field>
 <field name="type">places</field>
+<field name="placesname">Mechanicville</field>
 <field name="longd">longd=73</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=41</field>
@@ -428,6 +446,7 @@
 <doc>
 <field name="id">127221</field>
 <field name="type">places</field>
+<field name="placesname">Hornell</field>
 <field name="longd">longd=77</field>
 <field name="longm">longm=40</field>
 <field name="timezone">Eastern (EST)</field>
@@ -451,6 +470,7 @@
 <doc>
 <field name="id">259795</field>
 <field name="type">places</field>
+<field name="placesname">Johnstown</field>
 <field name="longd">longd=74</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=22</field>
@@ -474,6 +494,7 @@
 <doc>
 <field name="id">260184</field>
 <field name="type">places</field>
+<field name="placesname">Rye</field>
 <field name="longd">longd=73</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=41</field>
@@ -498,6 +519,7 @@
 <doc>
 <field name="id">259718</field>
 <field name="type">places</field>
+<field name="placesname">Plattsburgh</field>
 <field name="longd">longd=73</field>
 <field name="longm">longm=27</field>
 <field name="longs">longs=30</field>
@@ -523,6 +545,7 @@
 <doc>
 <field name="id">14973</field>
 <field name="type">places</field>
+<field name="placesname">Ithaca</field>
 <field name="longd">longd=76</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=30</field>
@@ -546,6 +569,7 @@
 <doc>
 <field name="id">59403</field>
 <field name="type">places</field>
+<field name="placesname">Binghamton</field>
 <field name="longd">longd=75</field>
 <field name="longm">longm=54</field>
 <field name="longs">longs=42</field>
@@ -572,6 +596,7 @@
 <doc>
 <field name="id">126365</field>
 <field name="type">places</field>
+<field name="placesname">Beacon</field>
 <field name="longd">longd=73</field>
 <field name="longm">longm=57</field>
 <field name="timezone">EST</field>
@@ -596,6 +621,7 @@
 <doc>
 <field name="id">126952</field>
 <field name="type">places</field>
+<field name="placesname">Port Jervis</field>
 <field name="longd">longd=74</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=41</field>
@@ -620,6 +646,7 @@
 <doc>
 <field name="id">645042</field>
 <field name="type">places</field>
+<field name="placesname">New York City</field>
 <field name="longd">longd=73</field>
 <field name="longm">longm=56.4</field>
 <field name="leader">Michael Bloomberg  ( I ), term ends December 31, 2013; to be succeeded by  Bill de Blasio  ( D )</field>
@@ -640,6 +667,7 @@
 <doc>
 <field name="id">126821</field>
 <field name="type">places</field>
+<field name="placesname">North Tonawanda, New York</field>
 <field name="longd">longd=78</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=52</field>
@@ -663,6 +691,7 @@
 <doc>
 <field name="id">259700</field>
 <field name="type">places</field>
+<field name="placesname">Norwich</field>
 <field name="longd">longd=75</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=31</field>
@@ -685,6 +714,7 @@
 <doc>
 <field name="id">127497</field>
 <field name="type">places</field>
+<field name="placesname">Glens Falls</field>
 <field name="longd">longd=73</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=38</field>
@@ -711,6 +741,7 @@
 <doc>
 <field name="id">259830</field>
 <field name="type">places</field>
+<field name="placesname">Little Falls, New York</field>
 <field name="longd">longd=74</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=51</field>
@@ -733,6 +764,7 @@
 <doc>
 <field name="id">259801</field>
 <field name="type">places</field>
+<field name="placesname">Batavia, New York</field>
 <field name="longd">longd=78</field>
 <field name="longm">longm=11</field>
 <field name="timezone">EST</field>
@@ -758,6 +790,7 @@
 <doc>
 <field name="id">28079020</field>
 <field name="type">places</field>
+<field name="placesname">Kingston</field>
 <field name="longd">longd=74</field>
 <field name="longm">longm=0</field>
 <field name="timezone">Eastern (EST)</field>
@@ -780,6 +813,7 @@
 <doc>
 <field name="id">259891</field>
 <field name="type">places</field>
+<field name="placesname">Amsterdam</field>
 <field name="longd">longd=74</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=11</field>
@@ -805,6 +839,7 @@
 <doc>
 <field name="id">230151</field>
 <field name="type">places</field>
+<field name="placesname">Geneva, New York</field>
 <field name="longd">longd=76</field>
 <field name="longm">longm=59</field>
 <field name="longs">longs=35</field>
@@ -825,6 +860,7 @@
 <doc>
 <field name="id">126820</field>
 <field name="type">places</field>
+<field name="placesname">Niagara Falls, New York</field>
 <field name="longd">longd=79</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=1</field>
@@ -842,11 +878,11 @@
 <field name="latns">latNS=N</field>
 <field name="state">New York</field>
 <field name="county">Niagara</field>
-
 </doc>
 <doc>
 <field name="id">259780</field>
 <field name="type">places</field>
+<field name="placesname">Tonawanda, New York</field>
 <field name="longd">longd=78</field>
 <field name="longm">longm=52</field>
 <field name="timezone">EST</field>
@@ -869,6 +905,7 @@
 <doc>
 <field name="id">259663</field>
 <field name="type">places</field>
+<field name="placesname">Salamanca</field>
 <field name="longd">longd=78</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=42</field>
@@ -891,6 +928,7 @@
 <doc>
 <field name="id">259851</field>
 <field name="type">places</field>
+<field name="placesname">Watertown</field>
 <field name="longd">longd=75</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=54</field>
@@ -917,6 +955,7 @@
 <doc>
 <field name="id">93557</field>
 <field name="type">places</field>
+<field name="placesname">Yonkers, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=51</field>
@@ -942,6 +981,7 @@
 <doc>
 <field name="id">259905</field>
 <field name="type">places</field>
+<field name="placesname">Lockport</field>
 <field name="longd">longd=78</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=41</field>
@@ -965,6 +1005,7 @@
 <doc>
 <field name="id">28443</field>
 <field name="type">places</field>
+<field name="placesname">Syracuse, New York</field>
 <field name="longd">longd=76</field>
 <field name="timezone">Eastern</field>
 <field name="longm">longm=08</field>
@@ -990,6 +1031,7 @@
 <doc>
 <field name="id">126989</field>
 <field name="type">places</field>
+<field name="placesname">Fulton</field>
 <field name="establisheddate">1835-01-01T00:00:00Z</field>
 <field name="longd">longd=76</field>
 <field name="longm">longm=25</field>
@@ -1009,6 +1051,7 @@
 <doc>
 <field name="id">126862</field>
 <field name="type">places</field>
+<field name="placesname">Sherrill</field>
 <field name="longd">longd=75</field>
 <field name="longm">longm=35</field>
 <field name="timezone">Eastern (EST)</field>
@@ -1031,6 +1074,7 @@
 <doc>
 <field name="id">259940</field>
 <field name="type">places</field>
+<field name="placesname">Canandaigua, New York</field>
 <field name="longd">longd=77</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=16</field>
@@ -1053,6 +1097,7 @@
 <doc>
 <field name="id">3985</field>
 <field name="type">places</field>
+<field name="placesname">Buffalo, New York</field>
 <field name="longd">longd=78</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=50</field>
@@ -1081,6 +1126,7 @@
 <doc>
 <field name="id">127194</field>
 <field name="type">places</field>
+<field name="placesname">Ogdensburg, New York</field>
 <field name="longd">longd=75</field>
 <field name="longm">longm=29</field>
 <field name="timezone">Eastern (EST)</field>
@@ -1101,6 +1147,7 @@
 <doc>
 <field name="id">126641</field>
 <field name="type">places</field>
+<field name="placesname">Rochester</field>
 <field name="longd">longd=77</field>
 <field name="longm">longm=36</field>
 <field name="timezone">EST</field>
@@ -1126,6 +1173,7 @@
 <doc>
 <field name="id">126740</field>
 <field name="type">places</field>
+<field name="placesname">Long Beach, New York</field>
 <field name="longd">longd=73</field>
 <field name="timezone">EST</field>
 <field name="longm">longm=41</field>
@@ -1153,6 +1201,7 @@
 <doc>
 <field name="id">126247</field>
 <field name="type">places</field>
+<field name="placesname">Jamestown</field>
 <field name="longd">longd=79</field>
 <field name="longm">longm=14</field>
 <field name="longs">longs=19</field>
@@ -1178,6 +1227,7 @@
 <doc>
 <field name="id">260077</field>
 <field name="type">places</field>
+<field name="placesname">Corning</field>
 <field name="longd">longd=77</field>
 <field name="timezone">Eastern (EST)</field>
 <field name="longm">longm=3</field>
@@ -1201,6 +1251,7 @@
 <doc>
 <field name="id">259683</field>
 <field name="type">places</field>
+<field name="placesname">Elmira, New York</field>
 <field name="longd">longd=76</field>
 <field name="longm">longm=48</field>
 <field name="timezone">EST</field>

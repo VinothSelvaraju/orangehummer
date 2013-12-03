@@ -3,6 +3,7 @@
 <doc>
 <field name="id">134919</field>
 <field name="type">places</field>
+<field name="placesname">Central City, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=46</field>
@@ -25,6 +26,7 @@
 <doc>
 <field name="id">135057</field>
 <field name="type">places</field>
+<field name="placesname">Alcester, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=37</field>
@@ -49,6 +51,7 @@
 <doc>
 <field name="id">134878</field>
 <field name="type">places</field>
+<field name="placesname">Alexandria, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=46</field>
@@ -72,6 +75,7 @@
 <doc>
 <field name="id">134830</field>
 <field name="type">places</field>
+<field name="placesname">Armour, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=20</field>
@@ -94,6 +98,7 @@
 <doc>
 <field name="id">135021</field>
 <field name="type">places</field>
+<field name="placesname">Ashton, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=29</field>
@@ -115,6 +120,7 @@
 <doc>
 <field name="id">134735</field>
 <field name="type">places</field>
+<field name="placesname">Avon, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=3</field>
@@ -139,6 +145,7 @@
 <doc>
 <field name="id">134963</field>
 <field name="type">places</field>
+<field name="placesname">Baltic, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=44</field>
@@ -162,6 +169,7 @@
 <doc>
 <field name="id">134852</field>
 <field name="type">places</field>
+<field name="placesname">Big Stone City, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=27</field>
@@ -185,6 +193,7 @@
 <doc>
 <field name="id">134860</field>
 <field name="type">places</field>
+<field name="placesname">Bonesteel, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=56</field>
@@ -207,6 +216,7 @@
 <doc>
 <field name="id">134835</field>
 <field name="type">places</field>
+<field name="placesname">Bowdle, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=39</field>
@@ -229,6 +239,7 @@
 <doc>
 <field name="id">151052</field>
 <field name="type">places</field>
+<field name="placesname">Box Elder, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=4</field>
@@ -252,6 +263,7 @@
 <doc>
 <field name="id">134808</field>
 <field name="type">places</field>
+<field name="placesname">Bristol, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=45</field>
@@ -274,6 +286,7 @@
 <doc>
 <field name="id">134869</field>
 <field name="type">places</field>
+<field name="placesname">Bryant, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=27</field>
@@ -295,6 +308,7 @@
 <doc>
 <field name="id">134861</field>
 <field name="type">places</field>
+<field name="placesname">Burke, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=17</field>
@@ -316,6 +330,7 @@
 <doc>
 <field name="id">134944</field>
 <field name="type">places</field>
+<field name="placesname">Canistota, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=17</field>
@@ -340,6 +355,7 @@
 <doc>
 <field name="id">134925</field>
 <field name="type">places</field>
+<field name="placesname">Canton, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=35</field>
@@ -363,6 +379,7 @@
 <doc>
 <field name="id">134870</field>
 <field name="type">places</field>
+<field name="placesname">Castlewood, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=1</field>
@@ -385,6 +402,7 @@
 <doc>
 <field name="id">135048</field>
 <field name="type">places</field>
+<field name="placesname">Centerville, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=57</field>
@@ -408,6 +426,7 @@
 <doc>
 <field name="id">134757</field>
 <field name="type">places</field>
+<field name="placesname">Chamberlain, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=19</field>
@@ -433,6 +452,7 @@
 <doc>
 <field name="id">134779</field>
 <field name="type">places</field>
+<field name="placesname">Clark, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=44</field>
@@ -455,6 +475,7 @@
 <doc>
 <field name="id">134819</field>
 <field name="type">places</field>
+<field name="placesname">Clear Lake, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=41</field>
@@ -477,6 +498,7 @@
 <doc>
 <field name="id">134965</field>
 <field name="type">places</field>
+<field name="placesname">Colton, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=55</field>
@@ -499,6 +521,7 @@
 <doc>
 <field name="id">134749</field>
 <field name="type">places</field>
+<field name="placesname">Columbia, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=18</field>
@@ -520,6 +543,7 @@
 <doc>
 <field name="id">135023</field>
 <field name="type">places</field>
+<field name="placesname">Conde, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=5</field>
@@ -541,6 +565,7 @@
 <doc>
 <field name="id">134831</field>
 <field name="type">places</field>
+<field name="placesname">Corsica, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=24</field>
@@ -562,6 +587,7 @@
 <doc>
 <field name="id">134799</field>
 <field name="type">places</field>
+<field name="placesname">Custer, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">MST</field>
 <field name="longm">longm=35</field>
@@ -586,6 +612,7 @@
 <doc>
 <field name="id">134967</field>
 <field name="type">places</field>
+<field name="placesname">Dell Rapids, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=42</field>
@@ -609,6 +636,7 @@
 <doc>
 <field name="id">134832</field>
 <field name="type">places</field>
+<field name="placesname">Delmont, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=9</field>
@@ -631,6 +659,7 @@
 <doc>
 <field name="id">135024</field>
 <field name="type">places</field>
+<field name="placesname">Doland, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=6</field>
@@ -655,6 +684,7 @@
 <doc>
 <field name="id">151049</field>
 <field name="type">places</field>
+<field name="placesname">Eagle Butte, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=14</field>
@@ -676,6 +706,7 @@
 <doc>
 <field name="id">134839</field>
 <field name="type">places</field>
+<field name="placesname">Edgemont, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=49</field>
@@ -699,6 +730,7 @@
 <doc>
 <field name="id">134744</field>
 <field name="type">places</field>
+<field name="placesname">Elkton, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=28</field>
@@ -722,6 +754,7 @@
 <doc>
 <field name="id">134879</field>
 <field name="type">places</field>
+<field name="placesname">Emery, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=37</field>
@@ -744,6 +777,7 @@
 <doc>
 <field name="id">134871</field>
 <field name="type">places</field>
+<field name="placesname">Estelline,South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=54</field>
@@ -766,6 +800,7 @@
 <doc>
 <field name="id">134844</field>
 <field name="type">places</field>
+<field name="placesname">Faulkton, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=7</field>
@@ -790,6 +825,7 @@
 <doc>
 <field name="id">135025</field>
 <field name="type">places</field>
+<field name="placesname">Frankfort, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="longm">longm=18</field>
 <field name="timezone">Central (CST)</field>
@@ -811,6 +847,7 @@
 <doc>
 <field name="id">134888</field>
 <field name="type">places</field>
+<field name="placesname">Freeman, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=26</field>
@@ -834,6 +871,7 @@
 <doc>
 <field name="id">134968</field>
 <field name="type">places</field>
+<field name="placesname">Garretson, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=30</field>
@@ -858,6 +896,7 @@
 <doc>
 <field name="id">134820</field>
 <field name="type">places</field>
+<field name="placesname">Gary, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=27</field>
@@ -880,6 +919,7 @@
 <doc>
 <field name="id">134771</field>
 <field name="type">places</field>
+<field name="placesname">Geddes, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="longm">longm=41</field>
 <field name="timezone">Central (CST)</field>
@@ -901,6 +941,7 @@
 <doc>
 <field name="id">134993</field>
 <field name="type">places</field>
+<field name="placesname">Gettysburg, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=57</field>
@@ -925,6 +966,7 @@
 <doc>
 <field name="id">134864</field>
 <field name="type">places</field>
+<field name="placesname">Gregory, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="longm">longm=25</field>
 <field name="timezone">Central (CST)</field>
@@ -949,6 +991,7 @@
 <doc>
 <field name="id">134751</field>
 <field name="type">places</field>
+<field name="placesname">Groton, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=5</field>
@@ -971,6 +1014,7 @@
 <doc>
 <field name="id">134927</field>
 <field name="type">places</field>
+<field name="placesname">Harrisburg, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=41</field>
@@ -995,6 +1039,7 @@
 <doc>
 <field name="id">134767</field>
 <field name="type">places</field>
+<field name="placesname">Herreid, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=4</field>
@@ -1018,6 +1063,7 @@
 <doc>
 <field name="id">134895</field>
 <field name="type">places</field>
+<field name="placesname">Highmore, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=26</field>
@@ -1042,6 +1088,7 @@
 <doc>
 <field name="id">134836</field>
 <field name="type">places</field>
+<field name="placesname">Hosmer, South Dakota</field>
 <field name="establisheddate">1887-01-01T00:00:00Z</field>
 <field name="longd">longd=99</field>
 <field name="longm">longm=28</field>
@@ -1064,6 +1111,7 @@
 <doc>
 <field name="id">134840</field>
 <field name="type">places</field>
+<field name="placesname">Hot Springs, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=28</field>
@@ -1089,6 +1137,7 @@
 <doc>
 <field name="id">134960</field>
 <field name="type">places</field>
+<field name="placesname">Howard, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=31</field>
@@ -1112,6 +1161,7 @@
 <doc>
 <field name="id">134729</field>
 <field name="type">places</field>
+<field name="placesname">City of Huron, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">CST</field>
 <field name="longm">longm=13</field>
@@ -1126,7 +1176,6 @@
 <field name="postalcode">57350 and 57399</field>
 <field name="motto">It's A Brand New Day</field>
 <field name="latm">latm=21</field>
-
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
@@ -1137,6 +1186,7 @@
 <doc>
 <field name="id">151048</field>
 <field name="type">places</field>
+<field name="placesname">Irene, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=9</field>
@@ -1158,6 +1208,7 @@
 <doc>
 <field name="id">135059</field>
 <field name="type">places</field>
+<field name="placesname">Jefferson, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=33</field>
@@ -1179,6 +1230,7 @@
 <doc>
 <field name="id">134899</field>
 <field name="type">places</field>
+<field name="placesname">Kadoka, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=30</field>
@@ -1203,6 +1255,7 @@
 <doc>
 <field name="id">134758</field>
 <field name="type">places</field>
+<field name="placesname">Kimball, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=57</field>
@@ -1224,6 +1277,7 @@
 <doc>
 <field name="id">134772</field>
 <field name="type">places</field>
+<field name="placesname">Lake Andes, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=32</field>
@@ -1246,6 +1300,7 @@
 <doc>
 <field name="id">134874</field>
 <field name="type">places</field>
+<field name="placesname">Lake Norden, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=12</field>
@@ -1268,6 +1323,7 @@
 <doc>
 <field name="id">134912</field>
 <field name="type">places</field>
+<field name="placesname">Lake Preston, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=22</field>
@@ -1289,6 +1345,7 @@
 <doc>
 <field name="id">134929</field>
 <field name="type">places</field>
+<field name="placesname">Lennox, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=53</field>
@@ -1312,6 +1369,7 @@
 <doc>
 <field name="id">134914</field>
 <field name="type">places</field>
+<field name="placesname">City of Madison</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central</field>
 <field name="longm">longm=6</field>
@@ -1337,6 +1395,7 @@
 <doc>
 <field name="id">135053</field>
 <field name="type">places</field>
+<field name="placesname">Marion, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=15</field>
@@ -1359,6 +1418,7 @@
 <doc>
 <field name="id">134734</field>
 <field name="type">places</field>
+<field name="placesname">Martin, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=44</field>
@@ -1383,6 +1443,7 @@
 <doc>
 <field name="id">134795</field>
 <field name="type">places</field>
+<field name="placesname">McIntosh, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="longm">longm=21</field>
 <field name="timezone">Mountain (MST)</field>
@@ -1404,6 +1465,7 @@
 <doc>
 <field name="id">134796</field>
 <field name="type">places</field>
+<field name="placesname">McLaughlin, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=48</field>
@@ -1426,6 +1488,7 @@
 <doc>
 <field name="id">135026</field>
 <field name="type">places</field>
+<field name="placesname">Mellette, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=29</field>
@@ -1447,6 +1510,7 @@
 <doc>
 <field name="id">135035</field>
 <field name="type">places</field>
+<field name="placesname">Mission, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=39</field>
@@ -1470,6 +1534,7 @@
 <doc>
 <field name="id">134805</field>
 <field name="type">places</field>
+<field name="placesname">Mitchell, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=1</field>
@@ -1494,6 +1559,7 @@
 <doc>
 <field name="id">134945</field>
 <field name="type">places</field>
+<field name="placesname">Montrose, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=11</field>
@@ -1518,6 +1584,7 @@
 <doc>
 <field name="id">134806</field>
 <field name="type">places</field>
+<field name="placesname">Mount Vernon, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=15</field>
@@ -1534,13 +1601,13 @@
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
-
 <field name="state">South Dakota</field>
 <field name="county">Davison</field>
 </doc>
 <doc>
 <field name="id">134985</field>
 <field name="type">places</field>
+<field name="placesname">New Underwood, South Dakota</field>
 <field name="longd">longd=102</field>
 <field name="longm">longm=50</field>
 <field name="timezone">Mountain (MST)</field>
@@ -1562,6 +1629,7 @@
 <doc>
 <field name="id">134764</field>
 <field name="type">places</field>
+<field name="placesname">Newell, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=25</field>
@@ -1583,6 +1651,7 @@
 <doc>
 <field name="id">135060</field>
 <field name="type">places</field>
+<field name="placesname">North Sioux City, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=29</field>
@@ -1605,6 +1674,7 @@
 <doc>
 <field name="id">134913</field>
 <field name="type">places</field>
+<field name="placesname">Oldham, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">CST</field>
 <field name="longm">longm=18</field>
@@ -1626,6 +1696,7 @@
 <doc>
 <field name="id">135055</field>
 <field name="type">places</field>
+<field name="placesname">Parker, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=8</field>
@@ -1650,6 +1721,7 @@
 <doc>
 <field name="id">134868</field>
 <field name="type">places</field>
+<field name="placesname">Philip, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=39</field>
@@ -1673,6 +1745,7 @@
 <doc>
 <field name="id">134720</field>
 <field name="type">places</field>
+<field name="placesname">Plankinton, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=28</field>
@@ -1695,6 +1768,7 @@
 <doc>
 <field name="id">134775</field>
 <field name="type">places</field>
+<field name="placesname">Platte, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=50</field>
@@ -1718,6 +1792,7 @@
 <doc>
 <field name="id">134935</field>
 <field name="type">places</field>
+<field name="placesname">Presho, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=3</field>
@@ -1739,6 +1814,7 @@
 <doc>
 <field name="id">135028</field>
 <field name="type">places</field>
+<field name="placesname">Redfield, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=31</field>
@@ -1762,6 +1838,7 @@
 <doc>
 <field name="id">134838</field>
 <field name="type">places</field>
+<field name="placesname">Roscoe, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=20</field>
@@ -1784,6 +1861,7 @@
 <doc>
 <field name="id">134736</field>
 <field name="type">places</field>
+<field name="placesname">Scotland, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=43</field>
@@ -1807,6 +1885,7 @@
 <doc>
 <field name="id">135066</field>
 <field name="type">places</field>
+<field name="placesname">Selby, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=1</field>
@@ -1829,6 +1908,7 @@
 <doc>
 <field name="id">135007</field>
 <field name="type">places</field>
+<field name="placesname">Sisseton, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=2</field>
@@ -1851,6 +1931,7 @@
 <doc>
 <field name="id">134947</field>
 <field name="type">places</field>
+<field name="placesname">Spencer, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=35</field>
@@ -1872,6 +1953,7 @@
 <doc>
 <field name="id">134974</field>
 <field name="type">places</field>
+<field name="placesname">Valley Springs, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=27</field>
@@ -1895,6 +1977,7 @@
 <doc>
 <field name="id">134942</field>
 <field name="type">places</field>
+<field name="placesname">Veblen, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=17</field>
@@ -1916,6 +1999,7 @@
 <doc>
 <field name="id">135056</field>
 <field name="type">places</field>
+<field name="placesname">Viborg, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=4</field>
@@ -1937,6 +2021,7 @@
 <doc>
 <field name="id">134777</field>
 <field name="type">places</field>
+<field name="placesname">Wagner, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=17</field>
@@ -1960,6 +2045,7 @@
 <doc>
 <field name="id">134792</field>
 <field name="type">places</field>
+<field name="placesname">Watertown, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">CST</field>
 <field name="longm">longm=7</field>
@@ -1985,6 +2071,7 @@
 <doc>
 <field name="id">134814</field>
 <field name="type">places</field>
+<field name="placesname">Waubay, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=18</field>
@@ -2006,6 +2093,7 @@
 <doc>
 <field name="id">151046</field>
 <field name="type">places</field>
+<field name="placesname">Wessington, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=41</field>
@@ -2027,6 +2115,7 @@
 <doc>
 <field name="id">134903</field>
 <field name="type">places</field>
+<field name="placesname">Wessington Springs, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=34</field>
@@ -2050,6 +2139,7 @@
 <doc>
 <field name="id">134747</field>
 <field name="type">places</field>
+<field name="placesname">White, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=38</field>
@@ -2071,6 +2161,7 @@
 <doc>
 <field name="id">134724</field>
 <field name="type">places</field>
+<field name="placesname">White Lake, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=42</field>
@@ -2094,6 +2185,7 @@
 <doc>
 <field name="id">134956</field>
 <field name="type">places</field>
+<field name="placesname">White River, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=44</field>
@@ -2115,6 +2207,7 @@
 <doc>
 <field name="id">134924</field>
 <field name="type">places</field>
+<field name="placesname">Whitewood, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=38</field>
@@ -2137,6 +2230,7 @@
 <doc>
 <field name="id">134784</field>
 <field name="type">places</field>
+<field name="placesname">Willow Lake, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="longm">longm=38</field>
 <field name="timezone">Central (CST)</field>
@@ -2158,6 +2252,7 @@
 <doc>
 <field name="id">135010</field>
 <field name="type">places</field>
+<field name="placesname">Wilmot, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=51</field>
@@ -2180,6 +2275,7 @@
 <doc>
 <field name="id">135013</field>
 <field name="type">places</field>
+<field name="placesname">Woonsocket, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=16</field>
@@ -2203,6 +2299,7 @@
 <doc>
 <field name="id">134875</field>
 <field name="type">places</field>
+<field name="placesname">City of Miller,  South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central</field>
 <field name="longm">longm=59</field>
@@ -2226,6 +2323,7 @@
 <doc>
 <field name="id">134855</field>
 <field name="type">places</field>
+<field name="placesname">Milbank, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=38</field>
@@ -2250,6 +2348,7 @@
 <doc>
 <field name="id">134938</field>
 <field name="type">places</field>
+<field name="placesname">Britton, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=45</field>
@@ -2273,6 +2372,7 @@
 <doc>
 <field name="id">135031</field>
 <field name="type">places</field>
+<field name="placesname">Fort Pierre, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=22</field>
@@ -2297,6 +2397,7 @@
 <doc>
 <field name="id">134954</field>
 <field name="type">places</field>
+<field name="placesname">Faith, South Dakota</field>
 <field name="longd">longd=102</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=2</field>
@@ -2320,6 +2421,7 @@
 <doc>
 <field name="id">134950</field>
 <field name="type">places</field>
+<field name="placesname">Leola, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=56</field>
@@ -2341,6 +2443,7 @@
 <doc>
 <field name="id">134741</field>
 <field name="type">places</field>
+<field name="placesname">Brookings, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=47</field>
@@ -2365,11 +2468,11 @@
 <doc>
 <field name="id">134975</field>
 <field name="type">places</field>
+<field name="placesname">Colman, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">CST</field>
 <field name="longm">longm=48</field>
 <field name="longs">longs=48</field>
-
 <field name="leader">Gloria Van Duyn</field>
 <field name="area">1.88</field>
 <field name="name">Colman, South Dakota</field>
@@ -2382,7 +2485,6 @@
 <field name="establisheddate">1880-01-01T00:00:00Z</field>
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
-
 <field name="latns">latNS=N</field>
 <field name="state">South Dakota</field>
 <field name="county">Moody</field>
@@ -2390,6 +2492,7 @@
 <doc>
 <field name="id">134976</field>
 <field name="type">places</field>
+<field name="placesname">Egan, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=38</field>
@@ -2411,6 +2514,7 @@
 <doc>
 <field name="id">134977</field>
 <field name="type">places</field>
+<field name="placesname">Flandreau, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=35</field>
@@ -2434,6 +2538,7 @@
 <doc>
 <field name="id">134909</field>
 <field name="type">places</field>
+<field name="placesname">De Smet, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=33</field>
@@ -2457,6 +2562,7 @@
 <doc>
 <field name="id">134955</field>
 <field name="type">places</field>
+<field name="placesname">Sturgis, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=31</field>
@@ -2481,6 +2587,7 @@
 <doc>
 <field name="id">134923</field>
 <field name="type">places</field>
+<field name="placesname">Spearfish, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=51</field>
@@ -2506,6 +2613,7 @@
 <doc>
 <field name="id">134742</field>
 <field name="type">places</field>
+<field name="placesname">Bruce, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="longm">longm=53</field>
 <field name="timezone">Central (CST)</field>
@@ -2527,6 +2635,7 @@
 <doc>
 <field name="id">151050</field>
 <field name="type">places</field>
+<field name="placesname">Beresford, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=46</field>
@@ -2550,6 +2659,7 @@
 <doc>
 <field name="id">135072</field>
 <field name="type">places</field>
+<field name="placesname">Yankton, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=23</field>
@@ -2576,6 +2686,7 @@
 <doc>
 <field name="id">2709</field>
 <field name="type">places</field>
+<field name="placesname">Aberdeen, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="longm">longm=29</field>
 <field name="timezone">Central</field>
@@ -2601,6 +2712,7 @@
 <doc>
 <field name="id">134930</field>
 <field name="type">places</field>
+<field name="placesname">Tea, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=50</field>
@@ -2625,6 +2737,7 @@
 <doc>
 <field name="id">134921</field>
 <field name="type">places</field>
+<field name="placesname">Lead, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=45</field>
@@ -2648,6 +2761,7 @@
 <doc>
 <field name="id">134946</field>
 <field name="type">places</field>
+<field name="placesname">Salem, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=23</field>
@@ -2671,6 +2785,7 @@
 <doc>
 <field name="id">134943</field>
 <field name="type">places</field>
+<field name="placesname">Bridgewater, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=30</field>
@@ -2694,6 +2809,7 @@
 <doc>
 <field name="id">134890</field>
 <field name="type">places</field>
+<field name="placesname">Menno, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=34</field>
@@ -2717,6 +2833,7 @@
 <doc>
 <field name="id">134737</field>
 <field name="type">places</field>
+<field name="placesname">Springfield, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=53</field>
@@ -2740,6 +2857,7 @@
 <doc>
 <field name="id">134739</field>
 <field name="type">places</field>
+<field name="placesname">Tyndall, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=51</field>
@@ -2762,6 +2880,7 @@
 <doc>
 <field name="id">134752</field>
 <field name="type">places</field>
+<field name="placesname">Hecla, South Dakota</field>
 <field name="longd">longd=98</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=9</field>
@@ -2783,6 +2902,7 @@
 <doc>
 <field name="id">135033</field>
 <field name="type">places</field>
+<field name="placesname">Onida, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=4</field>
@@ -2805,6 +2925,7 @@
 <doc>
 <field name="id">134885</field>
 <field name="type">places</field>
+<field name="placesname">Blunt, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=59</field>
@@ -2827,6 +2948,7 @@
 <doc>
 <field name="id">135058</field>
 <field name="type">places</field>
+<field name="placesname">Elk Point, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=40</field>
@@ -2850,6 +2972,7 @@
 <doc>
 <field name="id">135052</field>
 <field name="type">places</field>
+<field name="placesname">Hurley, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=5</field>
@@ -2871,6 +2994,7 @@
 <doc>
 <field name="id">5470404</field>
 <field name="type">places</field>
+<field name="placesname">Summerset, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=20</field>
@@ -2894,6 +3018,7 @@
 <doc>
 <field name="id">151047</field>
 <field name="type">places</field>
+<field name="placesname">Arlington, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=8</field>
@@ -2917,6 +3042,7 @@
 <doc>
 <field name="id">134893</field>
 <field name="type">places</field>
+<field name="placesname">Parkston, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=59</field>
@@ -2940,6 +3066,7 @@
 <doc>
 <field name="id">134969</field>
 <field name="type">places</field>
+<field name="placesname">Hartford, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=56</field>
@@ -2964,6 +3091,7 @@
 <doc>
 <field name="id">134894</field>
 <field name="type">places</field>
+<field name="placesname">Tripp, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=57</field>
@@ -2987,6 +3115,7 @@
 <doc>
 <field name="id">134966</field>
 <field name="type">places</field>
+<field name="placesname">Crooks, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="longm">longm=48</field>
 <field name="timezone">Central (CST)</field>
@@ -3009,6 +3138,7 @@
 <doc>
 <field name="id">134983</field>
 <field name="type">places</field>
+<field name="placesname">Hill City</field>
 <field name="longd">longd=103</field>
 <field name="timezone">MST</field>
 <field name="longm">longm=34</field>
@@ -3034,6 +3164,7 @@
 <doc>
 <field name="id">151045</field>
 <field name="type">places</field>
+<field name="placesname">Iroquois, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=51</field>
@@ -3056,6 +3187,7 @@
 <doc>
 <field name="id">134815</field>
 <field name="type">places</field>
+<field name="placesname">Webster, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=31</field>
@@ -3079,6 +3211,7 @@
 <doc>
 <field name="id">134959</field>
 <field name="type">places</field>
+<field name="placesname">Carthage, South Dakota</field>
 <field name="longd">longd=97</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=42</field>
@@ -3100,6 +3233,7 @@
 <doc>
 <field name="id">134905</field>
 <field name="type">places</field>
+<field name="placesname">Murdo, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=42</field>
@@ -3123,6 +3257,7 @@
 <doc>
 <field name="id">134931</field>
 <field name="type">places</field>
+<field name="placesname">Worthing, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=46</field>
@@ -3147,6 +3282,7 @@
 <doc>
 <field name="id">135073</field>
 <field name="type">places</field>
+<field name="placesname">Dupree, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=36</field>
@@ -3169,6 +3305,7 @@
 <doc>
 <field name="id">134964</field>
 <field name="type">places</field>
+<field name="placesname">Brandon, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central</field>
 <field name="longm">longm=34</field>
@@ -3193,6 +3330,7 @@
 <doc>
 <field name="id">134785</field>
 <field name="type">places</field>
+<field name="placesname">Vermillion, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=55</field>
@@ -3216,6 +3354,7 @@
 <doc>
 <field name="id">134948</field>
 <field name="type">places</field>
+<field name="placesname">Eureka, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=37</field>
@@ -3238,6 +3377,7 @@
 <doc>
 <field name="id">1591404</field>
 <field name="type">places</field>
+<field name="placesname">Piedmont</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain Time Zone (MST)</field>
 <field name="longm">longm=23</field>
@@ -3260,6 +3400,7 @@
 <doc>
 <field name="id">134992</field>
 <field name="type">places</field>
+<field name="placesname">Lemmon, South Dakota</field>
 <field name="longd">longd=102</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=9</field>
@@ -3282,6 +3423,7 @@
 <doc>
 <field name="id">57853</field>
 <field name="type">places</field>
+<field name="placesname">Pierre, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central</field>
 <field name="longm">longm=20</field>
@@ -3308,6 +3450,7 @@
 <doc>
 <field name="id">134918</field>
 <field name="type">places</field>
+<field name="placesname">Wentworth, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="longm">longm=57</field>
 <field name="timezone">Central (CST)</field>
@@ -3329,6 +3472,7 @@
 <doc>
 <field name="id">134987</field>
 <field name="type">places</field>
+<field name="placesname">City of Rapid City</field>
 <field name="longd">longd=-103.228</field>
 <field name="timezone">Mountain</field>
 <field name="leader">Sam Kooiker</field>
@@ -3349,6 +3493,7 @@
 <doc>
 <field name="id">135047</field>
 <field name="type">places</field>
+<field name="placesname">Winner, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=51</field>
@@ -3371,6 +3516,7 @@
 <doc>
 <field name="id">135065</field>
 <field name="type">places</field>
+<field name="placesname">Mobridge, South Dakota</field>
 <field name="longd">longd=100</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=26</field>
@@ -3398,6 +3544,7 @@
 <doc>
 <field name="id">134828</field>
 <field name="type">places</field>
+<field name="placesname">Timber Lake, South Dakota</field>
 <field name="longd">longd=101</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=4</field>
@@ -3420,6 +3567,7 @@
 <doc>
 <field name="id">151051</field>
 <field name="type">places</field>
+<field name="placesname">Sioux Falls, South Dakota</field>
 <field name="longd">longd=96</field>
 <field name="timezone">Central</field>
 <field name="longm">longm=43</field>
@@ -3446,6 +3594,7 @@
 <doc>
 <field name="id">134920</field>
 <field name="type">places</field>
+<field name="placesname">Deadwood, South Dakota</field>
 <field name="longd">longd=103</field>
 <field name="timezone">Mountain (MST)</field>
 <field name="longm">longm=43</field>
@@ -3471,6 +3620,7 @@
 <doc>
 <field name="id">134837</field>
 <field name="type">places</field>
+<field name="placesname">Ipswich, South Dakota</field>
 <field name="longd">longd=99</field>
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=1</field>
