@@ -15,3 +15,13 @@ Miscellaneous:
 To delete the Solr Complete index
     1) java -Durl=http://localhost:8983/solr/QACollection/update -Dcommit=false -Ddata=args -jar post.jar "<delete><query>*:*</query></delete>"
 	2) java -Durl=http://localhost:8983/solr/QACollection/update -jar post.jar -
+
+UI Setup
+--------
+UI Set requires Python 2.7 with Django 1.4.2. 
+a) To run the web server, traverse to $HOME/code/processor/userInterface and type:
+    python manage.py runserver
+b) To visit the Orange Hummer website go to 
+    http://localhost:8000/
+
+
