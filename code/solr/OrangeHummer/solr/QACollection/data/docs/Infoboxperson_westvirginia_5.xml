@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<add>
+<doc>
+<field name="id">138502</field>
+<field name="type">places</field>
+<field name="establisheddate">1902-01-01T00:00:00Z</field>
+<field name="longd">longd=81,</field>
+<field name="longm">longm=32,</field>
+<field name="longs">longs=11,</field>
+<field name="longew">W</field>
+<field name="name">Gary, West Virginia</field>
+<field name="leader">Larry Heizer</field>
+<field name="country">United States</field>
+<field name="areacodetype">Area codes</field>
+<field name="populationdensity">1,152.4</field>
+<field name="area">0.87</field>
+<field name="latns">N</field>
+<field name="lats">lats=41,</field>
+<field name="population">968</field>
+<field name="latd">latd=37,</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">24836</field>
+<field name="county">McDowell</field>
+<field name="timezone">EST</field>
+<field name="latm">latm=21,</field>
+</doc>
+<doc>
+<field name="id">138365</field>
+<field name="type">places</field>
+<field name="longd">longd=77,</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=58,</field>
+<field name="longs">longs=4,</field>
+<field name="leader">George Karos</field>
+<field name="area">6.67</field>
+<field name="populationdensity">2590.5</field>
+<field name="lats">lats=33,</field>
+<field name="nickname">Cuntztown</field>
+<field name="caption">Martinsburg Historic District</field>
+<field name="population">17227</field>
+<field name="latd">latd=39,</field>
+<field name="postalcode">25401–25405</field>
+<field name="latm">latm=27,</field>
+<field name="establisheddate">1778-01-01T00:00:00Z</field>
+<field name="longew">W</field>
+<field name="name">Martinsburg, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">N</field>
+<field name="website">http://www.cityofmartinsburg.org/</field>
+<field name="state">West Virginia</field>
+<field name="county">Berkeley</field>
+</doc>
+<doc>
+<field name="id">57861</field>
+<field name="type">places</field>
+<field name="longd">longd=81,</field>
+<field name="founded">1788</field>
+<field name="longm">longm=38,</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=0,</field>
+<field name="incorporated">1794</field>
+<field name="leader">Danny Jones ( R )</field>
+<field name="biggestcity">Charleston</field>
+<field name="area">32.66</field>
+<field name="populationdensity">1630.7</field>
+<field name="lats">lats=50,</field>
+<field name="nickname">Charlie West, Capital City</field>
+<field name="caption">Downtown Charleston, West Virginia in August 1992.</field>
+<field name="population">51400</field>
+<field name="latd">latd=38,</field>
+<field name="postalcode">25301-25306, 25309, 25311-25315, 25317, 25320-25339, 25350, 25356-25358, 25360-25362, 25364-25365, 25375, 25387, 25389, 25392, 25396, 25064</field>
+<field name="latm">latm=20,</field>
+<field name="longew">W</field>
+<field name="name">Charleston, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">N</field>
+<field name="website">cityofcharleston.org</field>
+<field name="state">West Virginia</field>
+<field name="county">Kanawha</field>
+</doc>
+<doc>
+<field name="id">138411</field>
+<field name="type">places</field>
+<field name="longd">longd=78,</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=45,</field>
+<field name="longs">longs=25,</field>
+<field name="leader">Daniel O. Hileman</field>
+<field name="populationdensity">1925.0</field>
+<field name="area">0.96</field>
+<field name="lats">lats=42,</field>
+<field name="nickname">West Virginia's Oldest Town</field>
+<field name="population">1848</field>
+<field name="latd">latd=39,</field>
+<field name="postalcode">26757</field>
+<field name="latm">latm=20,</field>
+<field name="longew">W</field>
+<field name="name">Romney, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">N</field>
+<field name="website">http://cityofromney.com/</field>
+<field name="state">West Virginia</field>
+<field name="county">Hampshire</field>
+</doc>
+<doc>
+<field name="id">138510</field>
+<field name="type">places</field>
+<field name="longd">longd=81,</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=13,</field>
+<field name="longs">longs=7,</field>
+<field name="leader">Tom Cole</field>
+<field name="area">8.86</field>
+<field name="populationdensity">1179.1</field>
+<field name="lats">lats=44,</field>
+<field name="nickname">Nature's Air Conditioned City</field>
+<field name="image">300px</field>
+<field name="population">10447</field>
+<field name="latd">latd=37,</field>
+<field name="postalcode">24701</field>
+<field name="latm">latm=15,</field>
+<field name="longew">W</field>
+<field name="name">Bluefield, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">N</field>
+<field name="state">West Virginia</field>
+<field name="county">Mercer</field>
+</doc>
+</add>
