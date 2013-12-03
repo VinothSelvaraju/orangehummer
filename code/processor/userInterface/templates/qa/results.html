@@ -172,9 +172,16 @@ function getPoster(title){
     type: 'get',
     url: "http://www.omdbapi.com/?i=&t="+title,
     success: function(data){
+                 console.log(data);
                  var jsonResponse = JSON.parse(data);
+                 console.log(jsonResponse);
                  posterURL = jsonResponse.Poster;
-                 $('#outer-canvas').html('<img class="resize" src="'+posterURL+'"/>');
+                 if(typeof posterURL != 'undefined' && posterURL!='N/A'){
+                     $('#outer-canvas').html('<img class="resize" src="'+posterURL+'"/>');
+                 }
+                 else {
+                     $('#outer-canvas').html('');
+                 }
              },
     error: function(data){
            }
