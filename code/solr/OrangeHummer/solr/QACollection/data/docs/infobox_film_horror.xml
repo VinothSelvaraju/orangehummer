@@ -237,16 +237,16 @@
 <doc>
 <field name="id">6255352</field>
 <field name="type">film</field>
-<field name="music">[[Christopher Farrell]]</field>
-<field name="editor">[[Victor Kanefsky]]</field>
+<field name="music">Christopher Farrell</field>
+<field name="editor">Victor Kanefsky</field>
 <field name="name">Nightmare Man</field>
-<field name="producer">[[Esther Goodstein]],[[Rolfe Kanefsky]],[[Victor Kanefsky]],[[Frederico Lapenda]]</field>
+<field name="producer">Esther Goodstein,Rolfe Kanefsky,Victor Kanefsky,Frederico Lapenda</field>
 <field name="runtime">109 minutes</field>
-<field name="cinematographer">[[Paul Deng]]</field>
+<field name="cinematographer">Paul Deng</field>
 <field name="language">English</field>
-<field name="writer">[[Rolfe Kanefsky]]</field>
-<field name="director">[[Rolfe Kanefsky]]</field>
-<field name="starring">Gwen Davis,Robert Donovan,James Ferris,[[Blythe Metz]],[[Richard Moll]],Hanna Putnam,[[Tiffany Shepis]],Aaron Sherry,Jack Sway,[[Luciano Szafir]]</field>
+<field name="writer">Rolfe Kanefsky</field>
+<field name="director">Rolfe Kanefsky</field>
+<field name="starring">Gwen Davis,Robert Donovan,James Ferris,Blythe Metz,Richard Moll,Hanna Putnam,Tiffany Shepis,Aaron Sherry,Jack Sway,Luciano Szafir</field>
 </doc>
 <doc>
 <field name="id">12138953</field>
@@ -469,15 +469,15 @@
 <field name="budget">$186,090</field>
 <field name="editor">Miton Carruth</field>
 <field name="name">Murders in the Rue Morgue</field>
-<field name="producer">[[Carl Laemmle, Jr.]]</field>
+<field name="producer">Carl Laemmle, Jr.</field>
 <field name="runtime">60 mins</field>
-<field name="distributor">[[Universal Pictures]]</field>
-<field name="cinematographer">[[Karl W. Freund]]</field>
+<field name="distributor">Universal Pictures</field>
+<field name="cinematographer">Karl W. Freund</field>
 <field name="language">English</field>
-<field name="writer">[[Edgar Allan Poe]] (story),[[Tom Reed (screenwriter)</field>
-<field name="director">[[Robert Florey]]</field>
-<field name="starring">[[Bela Lugosi]],[[Sidney Fox]],[[Leon Ames (actor)</field>
-<field name="country">[[United States]]</field>
+<field name="writer">Edgar Allan Poe (story),Tom Reed (screenwriter)</field>
+<field name="director">Robert Florey</field>
+<field name="starring">Bela Lugosi,Sidney Fox,Leon Ames (actor)</field>
+<field name="country">United States</field>
 </doc>
 <doc>
 <field name="id">11537723</field>
@@ -1154,22 +1154,22 @@
 <doc>
 <field name="id">1508868</field>
 <field name="type">film</field>
-<field name="studio">[[Universal Pictures]]</field>
-<field name="music">[[Brad Fiedel]]</field>
+<field name="studio">Universal Pictures</field>
+<field name="music">Brad Fiedel</field>
 <field name="budget">$7,000,000 (estimated)</field>
 <field name="gross">$19,595,031 (USA)</field>
-<field name="narrator">[[Bill Pullman]]</field>
+<field name="narrator">Bill Pullman</field>
 <field name="editor">Glenn Farr</field>
 <field name="runtime">98 min.</field>
-<field name="director">[[Wes Craven]]</field>
+<field name="director">Wes Craven</field>
 <field name="country">United States</field>
 <field name="name">The Serpent and the Rainbow</field>
-<field name="producer">Doug Claybourne,[[David Ladd]]</field>
+<field name="producer">Doug Claybourne,David Ladd</field>
 <field name="distributor">Universal Pictures</field>
-<field name="cinematographer">[[John Lindley (cinematographer)</field>
+<field name="cinematographer">John Lindley (cinematographer)</field>
 <field name="language">English</field>
 <field name="writer">Richard Maxwell,Adam Rodman</field>
-<field name="starring">Bill Pullman,[[Cathy Tyson]],[[Zakes Mokae]],[[Paul Winfield]]</field>
+<field name="starring">Bill Pullman,Cathy Tyson,Zakes Mokae,Paul Winfield</field>
 </doc>
 <doc>
 <field name="id">18142186</field>
@@ -1465,15 +1465,15 @@
 <field name="music">Mark Petrie</field>
 <field name="studio">Alliance Group Entertainment</field>
 <field name="editor">Eamon Glennon</field>
-<field name="runtime">90 [[minute]]s</field>
+<field name="runtime">90 minutes</field>
 <field name="director">George Bessudo</field>
-<field name="country">[[USA]]</field>
+<field name="country">USA</field>
 <field name="name">Lake alive</field>
-<field name="producer">Mike Karkeh,Todd Chamberlain,[[Hector Echavarria]],Jason Hice</field>
+<field name="producer">Mike Karkeh,Todd Chamberlain,Hector Echavarria,Jason Hice</field>
 <field name="cinematographer">Curtis Petersen</field>
 <field name="distributor">Alliance Group Entertainment</field>
-<field name="language">[[English language</field>
-<field name="writer">[[Daniel P. Coughlin (author)</field>
+<field name="language">English language</field>
+<field name="writer">Daniel P. Coughlin (author)</field>
 <field name="starring">Kelsey Crane,Tara Gerard</field>
 </doc>
 <doc>
@@ -1497,38 +1497,38 @@
 <doc>
 <field name="id">1577984</field>
 <field name="type">film</field>
-<field name="music">[[James Newton Howard]]</field>
+<field name="music">James Newton Howard</field>
 <field name="budget">$12 million</field>
 <field name="gross">$21.1 million</field>
 <field name="editor">Jill Savitt</field>
 <field name="name">Stir of Echoes</field>
-<field name="producer">Judy Hofflund,[[Gavin Polone]]</field>
+<field name="producer">Judy Hofflund,Gavin Polone</field>
 <field name="runtime">99 minutes</field>
-<field name="distributor">[[Artisan Entertainment]] (USA),[[20th Century Fox]] (non-USA)</field>
-<field name="cinematographer">[[Fred Murphy (cinematographer)</field>
+<field name="distributor">Artisan Entertainment (USA),20th Century Fox (non-USA)</field>
+<field name="cinematographer">Fred Murphy (cinematographer)</field>
 <field name="language">English</field>
-<field name="writer">[[Richard Matheson]] (novel),David Koepp (screenplay)</field>
-<field name="director">[[David Koepp]]</field>
-<field name="starring">[[Kevin Bacon]],[[Kathryn Erbe]],[[Zachary David Cope]],[[Illeana Douglas]],[[Jennifer Morrison]]</field>
+<field name="writer">Richard Matheson (novel),David Koepp (screenplay)</field>
+<field name="director">David Koepp</field>
+<field name="starring">Kevin Bacon,Kathryn Erbe,Zachary David Cope,Illeana Douglas,Jennifer Morrison</field>
 <field name="country">United States</field>
 </doc>
 <doc>
 <field name="id">12106162</field>
 <field name="type">film</field>
-<field name="music">[[Robert Prince]]</field>
+<field name="music">Robert Prince</field>
 <field name="budget">Unknown</field>
 <field name="gross">Unknown</field>
 <field name="editor">Brian Smedley-Aston</field>
 <field name="runtime">93 min.</field>
-<field name="director">[[Jeff Lieberman]]</field>
-<field name="country">[[United States]]</field>
+<field name="director">Jeff Lieberman</field>
+<field name="country">United States</field>
 <field name="name">Squirm</field>
 <field name="producer">George Manas</field>
 <field name="cinematographer">Joseph Mangine</field>
-<field name="distributor">[[American International Pictures]]</field>
-<field name="language">[[English language</field>
-<field name="writer">[[Jeff Lieberman]]</field>
-<field name="starring">[[Don Scardino]],[[Patricia Pearcy]],R.A. Dow,[[Jean Sullivan]],Peter MacLean,Fran Higgins,William Newman,Barbara Quinn</field>
+<field name="distributor">American International Pictures</field>
+<field name="language">English language</field>
+<field name="writer">Jeff Lieberman</field>
+<field name="starring">Don Scardino,Patricia Pearcy,R.A. Dow,Jean Sullivan,Peter MacLean,Fran Higgins,William Newman,Barbara Quinn</field>
 </doc>
 <doc>
 <field name="id">2831521</field>
@@ -2062,11 +2062,11 @@
 <doc>
 <field name="id">25010752</field>
 <field name="type">film</field>
-<field name="editor">[[Polonia brothers</field>
+<field name="editor">Polonia brothers</field>
 <field name="name">Dweller</field>
-<field name="producer">[[Polonia brothers</field>
+<field name="producer">Polonia brothers</field>
 <field name="language">English</field>
-<field name="director">[[Jon McBride (filmmaker)</field>
+<field name="director">Jon McBride (filmmaker)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -2192,18 +2192,18 @@
 <doc>
 <field name="id">2310279</field>
 <field name="type">film</field>
-<field name="music">[[Dimitri Tiomkin</field>
+<field name="music">Dimitri Tiomkin</field>
 <field name="budget">$403,000</field>
 <field name="editor">Hugh Wynn</field>
 <field name="runtime">68 min</field>
-<field name="director">[[Karl Freund]]</field>
+<field name="director">Karl Freund</field>
 <field name="name">Mad Love</field>
 <field name="producer">John W. Considine Jr.</field>
-<field name="cinematographer">[[Chester A. Lyons]],[[Gregg Toland]]</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer]]</field>
-<field name="language">[[English-language</field>
-<field name="writer">'''Screenwriters''':,[[John L. Balderston]],[[Guy Endore]],'''Book Author''':,[[Maurice Renard]]</field>
-<field name="starring">[[Peter Lorre]],[[Frances Drake (actor)</field>
+<field name="cinematographer">Chester A. Lyons,Gregg Toland</field>
+<field name="distributor">Metro-Goldwyn-Mayer</field>
+<field name="language">English-language</field>
+<field name="writer">'''Screenwriters''':,John L. Balderston,Guy Endore,'''Book Author''':,Maurice Renard</field>
+<field name="starring">Peter Lorre,Frances Drake (actor)</field>
 </doc>
 <doc>
 <field name="id">12160078</field>
@@ -2627,7 +2627,7 @@
 <doc>
 <field name="id">25008319</field>
 <field name="type">film</field>
-<field name="music">[[Mike Marsh (musician)</field>
+<field name="music">Mike Marsh (musician)</field>
 <field name="studio">Ominous Productions</field>
 <field name="editor">Sean Tretta</field>
 <field name="name">Death of a Ghost Hunter</field>
@@ -3090,12 +3090,12 @@
 <field name="music">Phillip Smithe</field>
 <field name="editor">Johan Vandewoestijne</field>
 <field name="runtime">74 minutes</field>
-<field name="director">[[Léon Paul De Bruyn]]</field>
+<field name="director">Léon Paul De Bruyn</field>
 <field name="name">Maniac Nurses Find Ecstasy</field>
 <field name="producer">Léon Paul De Bruyn</field>
 <field name="cinematographer">Laslo Zentay</field>
-<field name="distributor">[[Troma Entertainment]]</field>
-<field name="language">[[English language</field>
+<field name="distributor">Troma Entertainment</field>
+<field name="language">English language</field>
 <field name="writer">Léon Paul De Bruyn</field>
 <field name="starring">Nicole Gyony,Csilla Farago,Hajni Brown,Susanna Makay,Agatha Palace</field>
 </doc>
@@ -4609,18 +4609,18 @@
 <field name="id">15161056</field>
 <field name="type">film</field>
 <field name="studio">Big City Pictures,Full Moon Pictures</field>
-<field name="music">[[Richard Kosinski]]</field>
+<field name="music">Richard Kosinski</field>
 <field name="budget">$150,000</field>
 <field name="editor">Craig Ross</field>
 <field name="name">Killjoy</field>
-<field name="producer">[[Mel Johnson, Jr.]]</field>
+<field name="producer">Mel Johnson, Jr.</field>
 <field name="runtime">72 minutes</field>
-<field name="distributor">[[Full Moon Features</field>
+<field name="distributor">Full Moon Features</field>
 <field name="cinematographer">Carl Bartels</field>
 <field name="language">English</field>
-<field name="writer">[[Carl Washington]]</field>
+<field name="writer">Carl Washington</field>
 <field name="director">Craig Ross</field>
-<field name="starring">Ángel Vargas,Vera Yell,Lee Marks,D Austin,Jamal Grimes,Corey Hampton,Rani Goulant,Napiera Groves,[[Arthur Burghardt]],and [[William L. Johnson]],Penny Ford,Dionne Rochelle,Carl Washington</field>
+<field name="starring">Ángel Vargas,Vera Yell,Lee Marks,D Austin,Jamal Grimes,Corey Hampton,Rani Goulant,Napiera Groves,Arthur Burghardt,and William L. Johnson,Penny Ford,Dionne Rochelle,Carl Washington</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -4787,10 +4787,10 @@
 <field name="name">Don't Answer the Phone</field>
 <field name="producer">Michael D. Castle,Robert Hammer</field>
 <field name="cinematographer">James L. Carter</field>
-<field name="distributor">[[Crown International Pictures]]</field>
+<field name="distributor">Crown International Pictures</field>
 <field name="language">English</field>
 <field name="writer">Michael D. Castle,Robert Hammer</field>
-<field name="starring">[[James Westmoreland]],[[Denise Galik]],[[Nicholas Worth]]</field>
+<field name="starring">James Westmoreland,Denise Galik,Nicholas Worth</field>
 </doc>
 <doc>
 <field name="id">25602422</field>
@@ -4819,9 +4819,9 @@
 <field name="distributor">Blue Rider Pictures</field>
 <field name="cinematographer">David Lewis</field>
 <field name="language">English</field>
-<field name="writer">[[Kevin Tenney]]</field>
-<field name="director">[[Kevin Tenney]]</field>
-<field name="starring">[[Ami Dolenz]],Christopher Michael Moore,[[Laraine Newman]],[[John Gatins]],[[Timothy Gibbs]]</field>
+<field name="writer">Kevin Tenney</field>
+<field name="director">Kevin Tenney</field>
+<field name="starring">Ami Dolenz,Christopher Michael Moore,Laraine Newman,John Gatins,Timothy Gibbs</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -5022,22 +5022,22 @@
 <field name="cinematographer">Bill Rebane</field>
 <field name="language">English</field>
 <field name="writer">William Arthur,Larry Dreyfus</field>
-<field name="director">[[Bill Rebane]]</field>
+<field name="director">Bill Rebane</field>
 <field name="starring">Tom Blair,Jim Iaquinta,Carol Perry,Lori Minnetti</field>
 </doc>
 <doc>
 <field name="id">3302848</field>
 <field name="type">film</field>
-<field name="music">[[Hans Salter]]</field>
+<field name="music">Hans Salter</field>
 <field name="name">Frankenstein Meets the Wolf Man</field>
-<field name="producer">[[George Waggner]]</field>
-<field name="distributor">[[Universal Studios]]</field>
-<field name="cinematographer">[[George Robinson (cinematographer)</field>
+<field name="producer">George Waggner</field>
+<field name="distributor">Universal Studios</field>
+<field name="cinematographer">George Robinson (cinematographer)</field>
 <field name="language">English</field>
 <field name="runtime">74 min</field>
-<field name="writer">[[Curt Siodmak]]</field>
-<field name="director">[[Roy William Neill]]</field>
-<field name="starring">[[Lon Chaney, Jr.]],[[Ilona Massey]],[[Patric Knowles]],[[Lionel Atwill]],[[Bela Lugosi]],[[Maria Ouspenskaya]]</field>
+<field name="writer">Curt Siodmak</field>
+<field name="director">Roy William Neill</field>
+<field name="starring">Lon Chaney, Jr.,Ilona Massey,Patric Knowles,Lionel Atwill,Bela Lugosi,Maria Ouspenskaya</field>
 </doc>
 <doc>
 <field name="id">28163789</field>
@@ -5292,15 +5292,15 @@
 <doc>
 <field name="id">24292756</field>
 <field name="type">film</field>
-<field name="music">[[Richard Einhorn]]</field>
+<field name="music">Richard Einhorn</field>
 <field name="name">Eyes of a Stranger</field>
-<field name="producer">[[Ronald Zerra]]</field>
+<field name="producer">Ronald Zerra</field>
 <field name="runtime">85 min.</field>
 <field name="distributor">Warner Bros. Pictures (1981 Theatrical),Warner-Columbia (1981 Austrian Thetrical Release),Warner Home Video (1994 VHS and 2007 DVD)</field>
 <field name="language">English</field>
-<field name="writer">[[Mark Jackson]]</field>
-<field name="director">[[Ken Wiederhorn]]</field>
-<field name="starring">[[Jennifer Jason Leigh]], [[Lauren Tewes]], John DiSanti</field>
+<field name="writer">Mark Jackson</field>
+<field name="director">Ken Wiederhorn</field>
+<field name="starring">Jennifer Jason Leigh, Lauren Tewes, John DiSanti</field>
 </doc>
 <doc>
 <field name="id">1784755</field>
@@ -6010,17 +6010,17 @@
 <doc>
 <field name="id">3365240</field>
 <field name="type">film</field>
-<field name="music">[[Jaime Mendoza-Nava]]</field>
+<field name="music">Jaime Mendoza-Nava</field>
 <field name="name">The Town That Dreaded Sundown</field>
-<field name="producer">[[Charles B. Pierce]],[[Samuel Z. Arkoff]]</field>
+<field name="producer">Charles B. Pierce,Samuel Z. Arkoff</field>
 <field name="runtime">90 min.</field>
-<field name="distributor">[[American International Pictures]]</field>
+<field name="distributor">American International Pictures</field>
 <field name="cinematographer">James W. Roberson</field>
-<field name="language">[[English language</field>
-<field name="writer">[[Earl E. Smith]]</field>
-<field name="director">[[Charles B. Pierce]]</field>
-<field name="starring">[[Ben Johnson (actor)</field>
-<field name="country">[[United States]]</field>
+<field name="language">English language</field>
+<field name="writer">Earl E. Smith</field>
+<field name="director">Charles B. Pierce</field>
+<field name="starring">Ben Johnson (actor)</field>
+<field name="country">United States</field>
 </doc>
 <doc>
 <field name="id">5720909</field>
@@ -6200,15 +6200,15 @@
 <field name="type">film</field>
 <field name="music">Chris Ridenhour (trailer only)</field>
 <field name="runtime">90 minutes</field>
-<field name="director">[[Anthony Fankhauser (director)</field>
+<field name="director">Anthony Fankhauser (director)</field>
 <field name="country">United States</field>
 <field name="name">8213: Gacy House/Paranormal Entity 2</field>
-<field name="producer">[[David Michael Latt]]</field>
+<field name="producer">David Michael Latt</field>
 <field name="cinematographer">Matt Hoelfer</field>
-<field name="distributor">[[The Asylum]]</field>
+<field name="distributor">The Asylum</field>
 <field name="language">English</field>
 <field name="writer">Anthony Fankhauser</field>
-<field name="starring">[[Jim Lewis]]</field>
+<field name="starring">Jim Lewis</field>
 </doc>
 <doc>
 <field name="id">4449647</field>
@@ -6649,14 +6649,14 @@
 <field name="type">film</field>
 <field name="music">Monty Turner,Robert J. Walsh</field>
 <field name="name">Blood Song</field>
-<field name="producer">Frank Avianca,[[Lenny Montana]],Lee Shrout</field>
+<field name="producer">Frank Avianca,Lenny Montana,Lee Shrout</field>
 <field name="runtime">94 minutes</field>
-<field name="distributor">[[Troma Entertainment]]</field>
+<field name="distributor">Troma Entertainment</field>
 <field name="cinematographer">Stephen Posey</field>
 <field name="language">English</field>
 <field name="writer">Frank Avianca,James Fargo,George Hart,Alan J. Levi,Lenny Montana,Joseph M. Shink</field>
-<field name="director">Robert Angus,[[Alan J. Levi]]</field>
-<field name="starring">[[Frankie Avalon]],[[Donna Wilkes]],Richard Jaeckel,Antoinette Bower,William Kirby Cullen,[[Dane Clark]],[[Jennifer Enskat]],[[Norman Brecke]]</field>
+<field name="director">Robert Angus,Alan J. Levi</field>
+<field name="starring">Frankie Avalon,Donna Wilkes,Richard Jaeckel,Antoinette Bower,William Kirby Cullen,Dane Clark,Jennifer Enskat,Norman Brecke</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -7083,7 +7083,7 @@
 <field name="runtime">90 minutes</field>
 <field name="distributor">VSI International,DG Distributors,SRS Cinema</field>
 <field name="cinematographer">Christopher M. Burritt,Ned Miller</field>
-<field name="language">[[English language</field>
+<field name="language">English language</field>
 <field name="director">Tim Ritter</field>
 <field name="starring">John Brace , Mary Fanaro , Bruce Gold</field>
 </doc>
@@ -7097,25 +7097,25 @@
 <field name="name">Beyond Evil</field>
 <field name="producer">Rooven Akiba,David Baughn,Herb Freed,Jules Winter</field>
 <field name="cinematographer">Ken Plotin</field>
-<field name="distributor">[[Troma Entertainment]]</field>
+<field name="distributor">Troma Entertainment</field>
 <field name="language">English</field>
 <field name="writer">David Baughn,Herb Freed,Paul Ross</field>
-<field name="starring">[[John Saxon (actor)</field>
+<field name="starring">John Saxon (actor)</field>
 </doc>
 <doc>
 <field name="id">5158792</field>
 <field name="type">film</field>
-<field name="music">[[Paul Laurence]]</field>
+<field name="music">Paul Laurence</field>
 <field name="budget">Unknown</field>
 <field name="runtime">95 min.</field>
 <field name="director">James Bond III</field>
 <field name="name">Def by Temptation</field>
 <field name="gross">$2,218,579 (USA)</field>
 <field name="producer">James Bond III</field>
-<field name="distributor">[[Troma Entertainment]]</field>
+<field name="distributor">Troma Entertainment</field>
 <field name="language">English</field>
 <field name="writer">James Bond III</field>
-<field name="starring">James Bond III , [[Kadeem Hardison]] , [[Samuel L. Jackson]] , [[Bill Nunn]] , Cynthia Bond</field>
+<field name="starring">James Bond III , Kadeem Hardison , Samuel L. Jackson , Bill Nunn , Cynthia Bond</field>
 </doc>
 <doc>
 <field name="id">31386708</field>
@@ -7205,8 +7205,8 @@
 <field name="runtime">107 minutes</field>
 <field name="language">English</field>
 <field name="writer">Kevin Kangas</field>
-<field name="director">[[Kevin Kangas]]</field>
-<field name="starring">[[Jacky Reres]],[[Mark Lassise]],[[Frank A. Lama]],[[Johnny Alonso]],[[Phillip Levine]],[[Clarence McNatt]],[[Vincent T. Brown]],[[Adam Ciesielski]],[[Lars Stevens]],[[Savannah Costello]],[[Leanna Chamish]]</field>
+<field name="director">Kevin Kangas</field>
+<field name="starring">Jacky Reres,Mark Lassise,Frank A. Lama,Johnny Alonso,Phillip Levine,Clarence McNatt,Vincent T. Brown,Adam Ciesielski,Lars Stevens,Savannah Costello,Leanna Chamish</field>
 </doc>
 <doc>
 <field name="id">31480102</field>
@@ -7214,12 +7214,12 @@
 <field name="name">Scalps</field>
 <field name="producer">T.L. Lankford (as The Eel)</field>
 <field name="runtime">82 min</field>
-<field name="distributor">[[21st Century Film Corporation]]</field>
+<field name="distributor">21st Century Film Corporation</field>
 <field name="language">English</field>
-<field name="writer">[[Fred Olen Ray]]</field>
-<field name="director">[[Fred Olen Ray]]</field>
-<field name="starring">[[Jo-Ann Robinson]],[[Richard Hench]],[[Roger Maycock]]</field>
-<field name="country">[[United States]]</field>
+<field name="writer">Fred Olen Ray</field>
+<field name="director">Fred Olen Ray</field>
+<field name="starring">Jo-Ann Robinson,Richard Hench,Roger Maycock</field>
+<field name="country">United States</field>
 </doc>
 <doc>
 <field name="id">874208</field>
@@ -7286,12 +7286,12 @@
 <field name="id">31531490</field>
 <field name="type">film</field>
 <field name="name">Mausoleum</field>
-<field name="producer">[[Robert Barich]],[[Robert Madero]]</field>
+<field name="producer">Robert Barich,Robert Madero</field>
 <field name="runtime">94 minutes</field>
 <field name="language">English</field>
-<field name="writer">[[Robert Barich]],[[Robert Madero]]</field>
-<field name="director">[[Michael Dugan (director)</field>
-<field name="starring">[[Bobbie Bresee]],[[Marjoe Gortner]],[[Norman Burton]]</field>
+<field name="writer">Robert Barich,Robert Madero</field>
+<field name="director">Michael Dugan (director)</field>
+<field name="starring">Bobbie Bresee,Marjoe Gortner,Norman Burton</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -7304,7 +7304,7 @@
 <field name="runtime">96 minutes</field>
 <field name="distributor">Prism Entertainment</field>
 <field name="cinematographer">Robert Ryan</field>
-<field name="language">[[English language</field>
+<field name="language">English language</field>
 <field name="writer">Philip Jordan</field>
 <field name="director">Mark G. Gilhuis</field>
 <field name="starring">Raymond Elmendorf,Pamela Baker,Jeff O'Haco</field>
@@ -7312,19 +7312,19 @@
 <doc>
 <field name="id">7106195</field>
 <field name="type">film</field>
-<field name="music">[[Mark McKenzie]]</field>
+<field name="music">Mark McKenzie</field>
 <field name="budget">$3,000,000 (US)</field>
 <field name="gross">$3,902,679 (US)</field>
 <field name="editor">Christopher Cibelli , James D.R. Hickox</field>
 <field name="name">Warlock: The Armageddon</field>
-<field name="producer">[[Peter Abrams]], [[Robert L. Levy (film producer)</field>
+<field name="producer">Peter Abrams, Robert L. Levy (film producer)</field>
 <field name="runtime">98 min</field>
-<field name="distributor">[[Trimark Pictures]] , Tapestry Films</field>
-<field name="cinematographer">[[Gerry Lively]]</field>
+<field name="distributor">Trimark Pictures , Tapestry Films</field>
+<field name="cinematographer">Gerry Lively</field>
 <field name="language">English</field>
 <field name="writer">Kevin Rock</field>
-<field name="director">[[Anthony Hickox]]</field>
-<field name="starring">[[Julian Sands]] ,[[Chris Young (actor)</field>
+<field name="director">Anthony Hickox</field>
+<field name="starring">Julian Sands ,Chris Young (actor)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -7513,7 +7513,7 @@
 <field name="name">Beware! Children at Play</field>
 <field name="producer">Michael Koslow,Lawrence Littler,Linda Sanford,Ellen Wedner</field>
 <field name="runtime">94 minutes</field>
-<field name="distributor">[[Troma Entertainment]]</field>
+<field name="distributor">Troma Entertainment</field>
 <field name="cinematographer">Mik Cribben</field>
 <field name="language">English</field>
 <field name="writer">Fred Scharkey</field>
@@ -7781,19 +7781,19 @@
 <doc>
 <field name="id">26946311</field>
 <field name="type">film</field>
-<field name="music">[[Jonathan Elias]]</field>
+<field name="music">Jonathan Elias</field>
 <field name="budget">$800,000</field>
 <field name="gross">$14,568,589</field>
 <field name="editor">Harry Keramidas</field>
 <field name="name">Children of the Corn</field>
 <field name="producer">Donald P. Borchers,Terence Kirby</field>
 <field name="runtime">92 minutes</field>
-<field name="distributor">[[New World Pictures]]</field>
-<field name="cinematographer">[[Joao Fernandes (cinematographer)</field>
+<field name="distributor">New World Pictures</field>
+<field name="cinematographer">Joao Fernandes (cinematographer)</field>
 <field name="language">English</field>
 <field name="writer">George Goldsmith</field>
-<field name="director">[[Fritz Kiersch]]</field>
-<field name="starring">[[Peter Horton]],[[Linda Hamilton]],[[R. G. Armstrong]],[[John Franklin (actor)</field>
+<field name="director">Fritz Kiersch</field>
+<field name="starring">Peter Horton,Linda Hamilton,R. G. Armstrong,John Franklin (actor)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -8161,21 +8161,21 @@
 <doc>
 <field name="id">23980112</field>
 <field name="type">film</field>
-<field name="music">[[Christopher Young]]</field>
-<field name="studio">[[Tokyopop]]</field>
+<field name="music">Christopher Young</field>
+<field name="studio">Tokyopop</field>
 <field name="budget">$60 million</field>
 <field name="gross">$78,309,131</field>
-<field name="editor">[[Lisa Zeno Churgin]]</field>
+<field name="editor">Lisa Zeno Churgin</field>
 <field name="runtime">87 minutes</field>
-<field name="director">[[Scott Charles Stewart</field>
+<field name="director">Scott Charles Stewart</field>
 <field name="country">United States</field>
 <field name="name">Priest</field>
-<field name="producer">[[Michael DeLuca]],Joshua Donen,Mitchell Peck</field>
-<field name="distributor">[[Screen Gems]]</field>
-<field name="cinematographer">[[Don Burgess (cinematographer)</field>
+<field name="producer">Michael DeLuca,Joshua Donen,Mitchell Peck</field>
+<field name="distributor">Screen Gems</field>
+<field name="cinematographer">Don Burgess (cinematographer)</field>
 <field name="language">English</field>
 <field name="writer">Cory Goodman</field>
-<field name="starring">[[Paul Bettany]],[[Karl Urban]],[[Lily Collins]],[[Cam Gigandet]],[[Maggie Q]]</field>
+<field name="starring">Paul Bettany,Karl Urban,Lily Collins,Cam Gigandet,Maggie Q</field>
 </doc>
 <doc>
 <field name="id">33097073</field>
@@ -9648,21 +9648,21 @@
 <doc>
 <field name="id">11901104</field>
 <field name="type">film</field>
-<field name="music">[[Paul Haslinger]]</field>
-<field name="studio">[[Original Film]],[[Newmarket Films]],[[Alliance Films]]</field>
+<field name="music">Paul Haslinger</field>
+<field name="studio">Original Film,Newmarket Films,Alliance Films</field>
 <field name="budget">$20 million</field>
 <field name="gross">$57,197,876</field>
-<field name="editor">[[Jason Ballantine]]</field>
+<field name="editor">Jason Ballantine</field>
 <field name="runtime">88 minutes</field>
-<field name="director">[[Nelson McCormick (director)</field>
+<field name="director">Nelson McCormick (director)</field>
 <field name="country">United States</field>
 <field name="name">Prom Night</field>
-<field name="producer">[[Neal H. Moritz]]</field>
+<field name="producer">Neal H. Moritz</field>
 <field name="cinematographer">Checco Varese</field>
-<field name="distributor">[[Screen Gems]]</field>
+<field name="distributor">Screen Gems</field>
 <field name="language">English</field>
-<field name="writer">[[J.S. Cardone]]</field>
-<field name="starring">[[Brittany Snow]],[[Scott Porter]],[[Jessica Stroup]],[[Dana Davis]],[[Collins Pennie]],[[Kelly Blatz]],[[James Ransone]],[[Brianne Davis]],[[Johnathon Schaech]],[[Idris Elba]] &lt;!--STOP! The actors listed here are the ones listed on the poster, please do not list anyone else. Thank you.!--&gt;</field>
+<field name="writer">J.S. Cardone</field>
+<field name="starring">Brittany Snow,Scott Porter,Jessica Stroup,Dana Davis,Collins Pennie,Kelly Blatz,James Ransone,Brianne Davis,Johnathon Schaech,Idris Elba &lt;!--STOP! The actors listed here are the ones listed on the poster, please do not list anyone else. Thank you.!--&gt;</field>
 </doc>
 <doc>
 <field name="id">16055802</field>
@@ -10220,7 +10220,7 @@
 <field name="country">United States</field>
 <field name="name">The Wizard of Gore</field>
 <field name="producer">Jeremy Kasten,Glenn W. Gardner,Christopher Duddy,Daniel Gold,Dan Griffiths</field>
-<field name="distributor">[[Dimension Extreme</field>
+<field name="distributor">Dimension Extreme</field>
 <field name="cinematographer">Christopher Duddy</field>
 <field name="language">English</field>
 <field name="writer">Zach Chassler</field>
@@ -11844,20 +11844,20 @@
 <doc>
 <field name="id">533515</field>
 <field name="type">film</field>
-<field name="music">[[Alan Silvestri]]</field>
+<field name="music">Alan Silvestri</field>
 <field name="budget">$7,000,000</field>
 <field name="gross">$13,086,298 (US)</field>
-<field name="editor">[[Scott Conrad]]</field>
+<field name="editor">Scott Conrad</field>
 <field name="runtime">94 min.</field>
-<field name="director">[[Lewis Teague]]</field>
+<field name="director">Lewis Teague</field>
 <field name="country">United States</field>
 <field name="name">Cat's Eye</field>
-<field name="producer">[[Dino De Laurentiis]],[[Martha Schumacher]]</field>
-<field name="cinematographer">[[Jack Cardiff]]</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer]],&lt;small&gt;([[Turner Entertainment]])&lt;/small&gt; &lt;sup&gt;US&lt;/sup&gt;,[[De Laurentiis Entertainment Group]],&lt;small&gt;([[Village Roadshow]])&lt;/small&gt; &lt;sup&gt;world wide&lt;sup&gt;</field>
-<field name="language">[[English language</field>
-<field name="writer">[[Stephen King]]</field>
-<field name="starring">[[Drew Barrymore]],[[James Woods]],[[Candy Clark]],[[Alan King (comedian)</field>
+<field name="producer">Dino De Laurentiis,Martha Schumacher</field>
+<field name="cinematographer">Jack Cardiff</field>
+<field name="distributor">Metro-Goldwyn-Mayer,&lt;small&gt;(Turner Entertainment)&lt;/small&gt; &lt;sup&gt;US&lt;/sup&gt;,De Laurentiis Entertainment Group,&lt;small&gt;(Village Roadshow)&lt;/small&gt; &lt;sup&gt;world wide&lt;sup&gt;</field>
+<field name="language">English language</field>
+<field name="writer">Stephen King</field>
+<field name="starring">Drew Barrymore,James Woods,Candy Clark,Alan King (comedian)</field>
 </doc>
 <doc>
 <field name="id">29434198</field>
@@ -11879,19 +11879,19 @@
 <doc>
 <field name="id">2995876</field>
 <field name="type">film</field>
-<field name="music">[[Mark Governor]]</field>
+<field name="music">Mark Governor</field>
 <field name="budget">$8,000,000</field>
 <field name="gross">$17,092,453</field>
-<field name="editor">[[Tom Finan]]</field>
+<field name="editor">Tom Finan</field>
 <field name="name">Pet Sematary II</field>
-<field name="producer">[[Ralph Singleton]]</field>
+<field name="producer">Ralph Singleton</field>
 <field name="runtime">100 min.</field>
-<field name="distributor">[[Paramount Pictures]]</field>
-<field name="cinematographer">[[Russell Carpenter]]</field>
+<field name="distributor">Paramount Pictures</field>
+<field name="cinematographer">Russell Carpenter</field>
 <field name="language">English</field>
-<field name="writer">[[Richard Outten]]</field>
-<field name="director">[[Mary Lambert]]</field>
-<field name="starring">[[Edward Furlong]],[[Anthony Edwards]],[[Clancy Brown]],[[Jared Rushton]],[[Darlanne Fluegel]],[[Jason McGuire]],[[Lisa Waltz]]</field>
+<field name="writer">Richard Outten</field>
+<field name="director">Mary Lambert</field>
+<field name="starring">Edward Furlong,Anthony Edwards,Clancy Brown,Jared Rushton,Darlanne Fluegel,Jason McGuire,Lisa Waltz</field>
 <field name="country">United States</field>
 </doc>
 <doc>

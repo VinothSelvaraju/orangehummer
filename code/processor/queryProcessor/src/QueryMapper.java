@@ -22,6 +22,8 @@ public class QueryMapper {
 			
 			query.addField(QueryConstants.queryKeyTag);
 			query.addField(QueryConstants.queryMainTag);
+			if(queryStrArr[0].toLowerCase().equalsIgnoreCase("person"))
+			query.addField("image");
 			ArrayList queriedFields = fieldMapper(queryStrArr);
 			query.addFieldCollection(queriedFields);
 			String[] fields = new String[queriedFields.size()]; 

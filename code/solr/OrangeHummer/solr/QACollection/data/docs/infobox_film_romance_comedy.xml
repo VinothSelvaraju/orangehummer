@@ -530,19 +530,19 @@
 <doc>
 <field name="id">2861847</field>
 <field name="type">film</field>
-<field name="music">[[Elmer Bernstein]],[[Terje Rypdal]]</field>
+<field name="music">Elmer Bernstein,Terje Rypdal</field>
 <field name="budget">$19 million</field>
 <field name="gross">$11,081,586 (USA)</field>
-<field name="editor">[[Elena Maganini]],[[Craig McKay (film editor)</field>
+<field name="editor">Elena Maganini,Craig McKay (film editor)</field>
 <field name="name">Mad Dog and Glory</field>
-<field name="producer">Steven A. Jones,[[Barbara De Fina]],[[Martin Scorsese]]</field>
+<field name="producer">Steven A. Jones,Barbara De Fina,Martin Scorsese</field>
 <field name="runtime">97 minutes</field>
-<field name="distributor">[[Universal Studios]]</field>
-<field name="cinematographer">[[Robby Müller]]</field>
+<field name="distributor">Universal Studios</field>
+<field name="cinematographer">Robby Müller</field>
 <field name="language">English</field>
-<field name="director">[[John McNaughton]]</field>
-<field name="writer">[[Richard Price (writer)</field>
-<field name="starring">[[Robert De Niro]],[[Uma Thurman]],[[Bill Murray]]</field>
+<field name="director">John McNaughton</field>
+<field name="writer">Richard Price (writer)</field>
+<field name="starring">Robert De Niro,Uma Thurman,Bill Murray</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -978,19 +978,19 @@
 <doc>
 <field name="id">319017</field>
 <field name="type">film</field>
-<field name="music">[[Rachel Portman]]</field>
+<field name="music">Rachel Portman</field>
 <field name="gross">$34,673,095</field>
 <field name="editor">Elizabeth Kling</field>
 <field name="runtime">100 minutes</field>
-<field name="director">[[Griffin Dunne]]</field>
+<field name="director">Griffin Dunne</field>
 <field name="country">United States</field>
 <field name="name">Addicted to Love</field>
-<field name="producer">[[Bob Weinstein]],[[Harvey Weinstein]]</field>
-<field name="cinematographer">[[Andrew Dunn (cinematographer)</field>
-<field name="distributor">[[Warner Bros.]],[[Miramax Films]]</field>
+<field name="producer">Bob Weinstein,Harvey Weinstein</field>
+<field name="cinematographer">Andrew Dunn (cinematographer)</field>
+<field name="distributor">Warner Bros.,Miramax Films</field>
 <field name="language">English</field>
-<field name="writer">[[Robert Gordon (screenwriter)</field>
-<field name="starring">[[Meg Ryan]],[[Matthew Broderick]],[[Kelly Preston]],[[Tchéky Karyo]],[[Maureen Stapleton]],[[Remak Ramsay]]</field>
+<field name="writer">Robert Gordon (screenwriter)</field>
+<field name="starring">Meg Ryan,Matthew Broderick,Kelly Preston,Tchéky Karyo,Maureen Stapleton,Remak Ramsay</field>
 </doc>
 <doc>
 <field name="id">1394726</field>
@@ -1261,21 +1261,21 @@
 <doc>
 <field name="id">613518</field>
 <field name="type">film</field>
-<field name="music">[[Ed Shearmur]]</field>
-<field name="studio">[[Red Wagon Productions]],[[The Lot]]</field>
+<field name="music">Ed Shearmur</field>
+<field name="studio">Red Wagon Productions,The Lot</field>
 <field name="budget">$22 million</field>
 <field name="gross">$21,278,456</field>
-<field name="editor">[[Scott Hill (film editor)</field>
+<field name="editor">Scott Hill (film editor)</field>
 <field name="runtime">95 minutes</field>
-<field name="director">[[Robert Luketic]]</field>
+<field name="director">Robert Luketic</field>
 <field name="country">United States</field>
 <field name="name">Win a Date with Tad Hamilton!</field>
-<field name="producer">Lucy Fisher,[[Douglas Wick]]</field>
-<field name="cinematographer">[[Peter Lyons Collister]]</field>
-<field name="distributor">[[DreamWorks SKG]]</field>
+<field name="producer">Lucy Fisher,Douglas Wick</field>
+<field name="cinematographer">Peter Lyons Collister</field>
+<field name="distributor">DreamWorks SKG</field>
 <field name="language">English</field>
 <field name="writer">Victor Levin</field>
-<field name="starring">[[Kate Bosworth]],[[Topher Grace]],[[Josh Duhamel]],[[Nathan Lane]],[[Sean Hayes (actor)</field>
+<field name="starring">Kate Bosworth,Topher Grace,Josh Duhamel,Nathan Lane,Sean Hayes (actor)</field>
 </doc>
 <doc>
 <field name="id">3201442</field>
@@ -1387,16 +1387,16 @@
 <doc>
 <field name="id">2555548</field>
 <field name="type">film</field>
-<field name="music">[[Theodore Shapiro]]</field>
-<field name="editor">[[Sarah Flack]]</field>
+<field name="music">Theodore Shapiro</field>
+<field name="editor">Sarah Flack</field>
 <field name="name">The Baxter</field>
-<field name="producer">Reagan Silber,[[Galt Niederhoffer]]</field>
+<field name="producer">Reagan Silber,Galt Niederhoffer</field>
 <field name="runtime">91 minutes</field>
-<field name="distributor">[[IFC Films]]</field>
+<field name="distributor">IFC Films</field>
 <field name="language">English</field>
-<field name="director">[[Michael Showalter]]</field>
-<field name="writer">[[Michael Showalter]]</field>
-<field name="starring">[[Michael Showalter]],[[Elizabeth Banks]],[[Michelle Williams (actor)</field>
+<field name="director">Michael Showalter</field>
+<field name="writer">Michael Showalter</field>
+<field name="starring">Michael Showalter,Elizabeth Banks,Michelle Williams (actor)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -1932,19 +1932,19 @@
 <doc>
 <field name="id">61062</field>
 <field name="type">film</field>
-<field name="basedon">'''Novel:''',[[Hans Müller-Einigen]],'''Operetta:''',Leopold Jacobson,Felix Dörmann</field>
-<field name="music">'''Composer''',[[Oscar Straus (composer)</field>
+<field name="basedon">'''Novel:''',Hans Müller-Einigen,'''Operetta:''',Leopold Jacobson,Felix Dörmann</field>
+<field name="music">'''Composer''',Oscar Straus (composer)</field>
 <field name="editor">Merrill G. White</field>
 <field name="runtime">89 minutes</field>
-<field name="director">[[Ernst Lubitsch]]</field>
+<field name="director">Ernst Lubitsch</field>
 <field name="country">United States</field>
 <field name="name">The Smiling Lieutenant</field>
 <field name="producer">Ernst Lubitsch</field>
-<field name="distributor">[[Paramount Pictures]]</field>
-<field name="cinematographer">[[George J. Folsey]]</field>
+<field name="distributor">Paramount Pictures</field>
+<field name="cinematographer">George J. Folsey</field>
 <field name="language">English</field>
-<field name="writer">'''Screenplay:''',[[Samson Raphaelson]],[[Ernest Vajda]],'''Uncredited:''',Ernst Lubitsch,'''French dialogue:''',Jacques Bataille-Henri</field>
-<field name="starring">[[Maurice Chevalier]],[[Claudette Colbert]],[[Miriam Hopkins]]</field>
+<field name="writer">'''Screenplay:''',Samson Raphaelson,Ernest Vajda,'''Uncredited:''',Ernst Lubitsch,'''French dialogue:''',Jacques Bataille-Henri</field>
+<field name="starring">Maurice Chevalier,Claudette Colbert,Miriam Hopkins</field>
 </doc>
 <doc>
 <field name="id">13926329</field>
@@ -2550,13 +2550,13 @@
 <field name="type">film</field>
 <field name="budget">$1,000,000-3,000,000 (estimated)</field>
 <field name="name">Bottoms Up</field>
-<field name="producer">[[Brandon Birtell]],[[Freddy Braidy]],[[Chris Breed]],[[Ala Hajjar]],[[Francesco Juilland]],[[Nick N. Raslan]],[[Paul Walker]]</field>
+<field name="producer">Brandon Birtell,Freddy Braidy,Chris Breed,Ala Hajjar,Francesco Juilland,Nick N. Raslan,Paul Walker</field>
 <field name="runtime">85 mins.</field>
-<field name="distributor">[[Sony Pictures]]</field>
+<field name="distributor">Sony Pictures</field>
 <field name="language">English</field>
-<field name="director">[[Erik MacArthur]]</field>
-<field name="writer">[[Nick Ballo]],[[Erik MacArthur]]</field>
-<field name="starring">[[Paris Hilton]],[[Jason Mewes]],[[Brian Hallisay]]</field>
+<field name="director">Erik MacArthur</field>
+<field name="writer">Nick Ballo,Erik MacArthur</field>
+<field name="starring">Paris Hilton,Jason Mewes,Brian Hallisay</field>
 </doc>
 <doc>
 <field name="id">61501</field>
@@ -2597,19 +2597,19 @@
 <doc>
 <field name="id">18515623</field>
 <field name="type">film</field>
-<field name="music">Albert Sendrey,[[George Stoll]]</field>
+<field name="music">Albert Sendrey,George Stoll</field>
 <field name="gross">$2.25 million (US)</field>
 <field name="editor">John McSweeney Jr.</field>
 <field name="name">Dangerous When Wet</field>
-<field name="producer">[[George Wells (screenwriter)</field>
+<field name="producer">George Wells (screenwriter)</field>
 <field name="runtime">95 minutes</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer]]</field>
-<field name="cinematographer">[[Harold Rosson]]</field>
-<field name="language">[[English language</field>
-<field name="writer">[[Dorothy Kingsley]]</field>
-<field name="director">[[Charles Walters]]</field>
-<field name="starring">[[Esther Williams]] , [[Fernando Lamas]] , [[Jack Carson]]</field>
-<field name="country">[[United States]]</field>
+<field name="distributor">Metro-Goldwyn-Mayer</field>
+<field name="cinematographer">Harold Rosson</field>
+<field name="language">English language</field>
+<field name="writer">Dorothy Kingsley</field>
+<field name="director">Charles Walters</field>
+<field name="starring">Esther Williams , Fernando Lamas , Jack Carson</field>
+<field name="country">United States</field>
 </doc>
 <doc>
 <field name="id">3653398</field>
@@ -3503,14 +3503,14 @@
 <field name="gross">$1,368,588 (US)</field>
 <field name="editor">Michael F. Anderson</field>
 <field name="runtime">110 min.</field>
-<field name="director">[[Franklin J. Schaffner]]</field>
+<field name="director">Franklin J. Schaffner</field>
 <field name="name">Yes, Giorgio</field>
 <field name="producer">Peter Fetterman</field>
-<field name="cinematographer">[[Fred J. Koenekamp]]</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer]]</field>
-<field name="language">[[English language</field>
+<field name="cinematographer">Fred J. Koenekamp</field>
+<field name="distributor">Metro-Goldwyn-Mayer</field>
+<field name="language">English language</field>
 <field name="writer">Anne Piper,Norman Steinberg</field>
-<field name="starring">[[Luciano Pavarotti]],[[Kathryn Harrold]]</field>
+<field name="starring">Luciano Pavarotti,Kathryn Harrold</field>
 </doc>
 <doc>
 <field name="id">24725226</field>
@@ -3760,16 +3760,16 @@
 <field name="id">17572598</field>
 <field name="type">film</field>
 <field name="music">William Axt</field>
-<field name="editor">[[Blanche Sewell]]</field>
+<field name="editor">Blanche Sewell</field>
 <field name="runtime">75 minutes</field>
-<field name="director">[[Edwin L. Marin]]</field>
+<field name="director">Edwin L. Marin</field>
 <field name="country">United States</field>
 <field name="name">Listen, Darling</field>
-<field name="producer">[[Jack Cummings (director)</field>
+<field name="producer">Jack Cummings (director)</field>
 <field name="cinematographer">Charles Lawton Jr.,Lester White</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer]]</field>
-<field name="writer">[[Katharine Brush]] &lt;small&gt;(story)&lt;/small&gt;,Anne Morrison Chapin,Elaine Ryan,[[Noel Langley]] &lt;small&gt;(uncredited)&lt;/small&gt;</field>
-<field name="starring">[[Judy Garland]],[[Freddie Bartholomew]],[[Mary Astor]],[[Walter Pidgeon]]</field>
+<field name="distributor">Metro-Goldwyn-Mayer</field>
+<field name="writer">Katharine Brush &lt;small&gt;(story)&lt;/small&gt;,Anne Morrison Chapin,Elaine Ryan,Noel Langley &lt;small&gt;(uncredited)&lt;/small&gt;</field>
+<field name="starring">Judy Garland,Freddie Bartholomew,Mary Astor,Walter Pidgeon</field>
 </doc>
 <doc>
 <field name="id">2505688</field>
@@ -3823,16 +3823,16 @@
 <doc>
 <field name="id">23409260</field>
 <field name="type">film</field>
-<field name="editor">[[Louis R. Loeffler]]</field>
+<field name="editor">Louis R. Loeffler</field>
 <field name="name">Dancing In the Dark</field>
-<field name="producer">[[George Jessel (actor)</field>
+<field name="producer">George Jessel (actor)</field>
 <field name="runtime">92 minutes</field>
-<field name="distributor">[[20th Century Fox]]</field>
-<field name="cinematographer">[[Harry Jackson (cinematography)</field>
+<field name="distributor">20th Century Fox</field>
+<field name="cinematographer">Harry Jackson (cinematography)</field>
 <field name="language">English</field>
-<field name="writer">[[Howard Dietz]],[[Jay Dratler]]</field>
+<field name="writer">Howard Dietz,Jay Dratler</field>
 <field name="director">Irving Reis</field>
-<field name="starring">[[William Powell]],[[Mark Stevens (actor)</field>
+<field name="starring">William Powell,Mark Stevens (actor)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -4044,21 +4044,21 @@
 <doc>
 <field name="id">5545800</field>
 <field name="type">film</field>
-<field name="music">[[David McHugh (composer)</field>
-<field name="studio">[[Gladden Entertainment]]</field>
+<field name="music">David McHugh (composer)</field>
+<field name="studio">Gladden Entertainment</field>
 <field name="budget">$13,000,000 (estimated)</field>
 <field name="gross">$3,752,428</field>
-<field name="editor">[[Joan E. Chapman]],[[John Rosenman]]</field>
+<field name="editor">Joan E. Chapman,John Rosenman</field>
 <field name="runtime">95 minutes</field>
-<field name="director">[[Stewart Raffill]]</field>
+<field name="director">Stewart Raffill</field>
 <field name="country">United States</field>
 <field name="name">Mannequin Two: On the Move</field>
-<field name="producer">[[Edward Rugoff]]</field>
-<field name="cinematographer">[[Larry Pizer]]</field>
-<field name="distributor">[[20th Century Fox]] (theatrical),[[Metro-Goldwyn-Mayer</field>
-<field name="language">[[English language</field>
-<field name="writer">[[Edward Rugoff]],[[Michael Gottlieb]],[[David Isaacs (writer)</field>
-<field name="starring">[[Kristy Swanson]],[[William Ragsdale]],[[Meshach Taylor]],[[Terry Kiser]]</field>
+<field name="producer">Edward Rugoff</field>
+<field name="cinematographer">Larry Pizer</field>
+<field name="distributor">20th Century Fox (theatrical),Metro-Goldwyn-Mayer</field>
+<field name="language">English language</field>
+<field name="writer">Edward Rugoff,Michael Gottlieb,David Isaacs (writer)</field>
+<field name="starring">Kristy Swanson,William Ragsdale,Meshach Taylor,Terry Kiser</field>
 </doc>
 <doc>
 <field name="id">8288693</field>
@@ -4266,12 +4266,12 @@
 <doc>
 <field name="id">11056435</field>
 <field name="type">film</field>
-<field name="producer">[[Adam Lebovitz]]</field>
+<field name="producer">Adam Lebovitz</field>
 <field name="name">Doctor Benny</field>
 <field name="language">English</field>
 <field name="writer">Nolan Lebovitz</field>
-<field name="director">[[Nolan Lebovitz]]</field>
-<field name="starring">[[Timothy Dowling]],[[Jennifer Jostyn]],[[Josh Holloway]]</field>
+<field name="director">Nolan Lebovitz</field>
+<field name="starring">Timothy Dowling,Jennifer Jostyn,Josh Holloway</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -4824,19 +4824,19 @@
 <doc>
 <field name="id">2331371</field>
 <field name="type">film</field>
-<field name="music">[[Carter Burwell]]</field>
+<field name="music">Carter Burwell</field>
 <field name="budget">$17 million</field>
 <field name="gross">$54,830,779</field>
-<field name="editor">[[Priscilla Nedd-Friendly]]</field>
+<field name="editor">Priscilla Nedd-Friendly</field>
 <field name="runtime">104 min.</field>
-<field name="director">[[Michael Caton-Jones]]</field>
+<field name="director">Michael Caton-Jones</field>
 <field name="name">Doc Hollywood</field>
-<field name="producer">[[Deborah D. Johnson]],[[Susan Solt]]</field>
-<field name="cinematographer">[[Michael Chapman (cinematographer)</field>
-<field name="distributor">[[Warner Bros.</field>
+<field name="producer">Deborah D. Johnson,Susan Solt</field>
+<field name="cinematographer">Michael Chapman (cinematographer)</field>
+<field name="distributor">Warner Bros.</field>
 <field name="language">English</field>
-<field name="writer">[[Jeffrey Price and Peter S. Seaman]],[[Daniel Pyne]]</field>
-<field name="starring">[[Michael J. Fox]],[[Julie Warner]],[[Woody Harrelson]]</field>
+<field name="writer">Jeffrey Price and Peter S. Seaman,Daniel Pyne</field>
+<field name="starring">Michael J. Fox,Julie Warner,Woody Harrelson</field>
 </doc>
 <doc>
 <field name="id">129427</field>
@@ -5425,7 +5425,6 @@
 <field name="director">Garry Marshall</field>
 <field name="country">United States</field>
 <field name="story">Katherine Fugate,Abby Kohn, Marc Silverstein</field>
-<field name="screenplay">[[]]</field>
 <field name="name">Valentine's Day</field>
 <field name="producer">Mike Karz,Wayne Allan Rice</field>
 <field name="cinematographer">Charles Minsky</field>
@@ -5877,11 +5876,11 @@
 <field name="name">Amarilly of Clothes-Line Alley</field>
 <field name="runtime">67 minutes</field>
 <field name="distributor">Artcraft Pictures Corporation</field>
-<field name="cinematographer">[[Walter Stradling]]</field>
-<field name="language">[[Silent film</field>
-<field name="writer">[[Belle K. Maniates]] (novel) ,[[Frances Marion]]</field>
-<field name="director">[[Marshall Neilan]]</field>
-<field name="starring">[[Mary Pickford]],[[William Scott (actor)</field>
+<field name="cinematographer">Walter Stradling</field>
+<field name="language">Silent film</field>
+<field name="writer">Belle K. Maniates (novel) ,Frances Marion</field>
+<field name="director">Marshall Neilan</field>
+<field name="starring">Mary Pickford,William Scott (actor)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -6270,19 +6269,19 @@
 <doc>
 <field name="id">2001250</field>
 <field name="type">film</field>
-<field name="music">[[Irving Berlin]] (songs)</field>
+<field name="music">Irving Berlin (songs)</field>
 <field name="budget">$4,340,000</field>
 <field name="gross">$5,103,555</field>
 <field name="runtime">117 minutes</field>
-<field name="director">[[Walter Lang]]</field>
+<field name="director">Walter Lang</field>
 <field name="country">United States</field>
-<field name="story">[[Lamar Trotti]]</field>
-<field name="screenplay">[[Phoebe Ephron]],[[Henry Ephron]]</field>
+<field name="story">Lamar Trotti</field>
+<field name="screenplay">Phoebe Ephron,Henry Ephron</field>
 <field name="name">There's No Business Like Show Business</field>
-<field name="producer">[[Sol C. Siegel]]</field>
-<field name="distributor">[[20th Century Fox]]</field>
+<field name="producer">Sol C. Siegel</field>
+<field name="distributor">20th Century Fox</field>
 <field name="language">English</field>
-<field name="starring">[[Ethel Merman]],[[Dan Dailey]],[[Donald O'Connor]],[[Mitzi Gaynor]],[[Marilyn Monroe]],[[Richard Eastham]],[[Johnnie Ray]],[[Hugh O'Brian]],[[Frank McHugh]]</field>
+<field name="starring">Ethel Merman,Dan Dailey,Donald O'Connor,Mitzi Gaynor,Marilyn Monroe,Richard Eastham,Johnnie Ray,Hugh O'Brian,Frank McHugh</field>
 </doc>
 <doc>
 <field name="id">537024</field>
@@ -6553,15 +6552,15 @@
 <field name="budget">$23 million</field>
 <field name="gross">$38,689,940</field>
 <field name="runtime">97 minutes</field>
-<field name="director">[[Tony Goldwyn]]</field>
+<field name="director">Tony Goldwyn</field>
 <field name="country">United States</field>
 <field name="name">Someone Like You</field>
-<field name="producer">[[Lynda Obst]]</field>
-<field name="cinematographer">[[Anthony B. Richmond]]</field>
-<field name="distributor">[[20th Century Fox]]</field>
+<field name="producer">Lynda Obst</field>
+<field name="cinematographer">Anthony B. Richmond</field>
+<field name="distributor">20th Century Fox</field>
 <field name="language">English</field>
-<field name="writer">[[Elizabeth Chandler]],[[Laura Zigman]]</field>
-<field name="starring">[[Ashley Judd]],[[Greg Kinnear]],[[Hugh Jackman]],[[Marisa Tomei]],[[Ellen Barkin]]</field>
+<field name="writer">Elizabeth Chandler,Laura Zigman</field>
+<field name="starring">Ashley Judd,Greg Kinnear,Hugh Jackman,Marisa Tomei,Ellen Barkin</field>
 </doc>
 <doc>
 <field name="id">1587667</field>
@@ -7753,18 +7752,18 @@
 <doc>
 <field name="id">508985</field>
 <field name="type">film</field>
-<field name="music">[[Mark Isham]]</field>
+<field name="music">Mark Isham</field>
 <field name="gross">$2,465,960</field>
-<field name="editor">[[Suzy Elmiger]]</field>
+<field name="editor">Suzy Elmiger</field>
 <field name="name">Afterglow</field>
-<field name="producer">[[Robert Altman]],[[James McLindon]]</field>
+<field name="producer">Robert Altman,James McLindon</field>
 <field name="runtime">113 minutes</field>
-<field name="distributor">[[Sony Pictures Classics]]</field>
-<field name="cinematographer">[[Toyomichi Kurita]]</field>
+<field name="distributor">Sony Pictures Classics</field>
+<field name="cinematographer">Toyomichi Kurita</field>
 <field name="language">English</field>
 <field name="writer">Alan Rudolph</field>
-<field name="director">[[Alan Rudolph]]</field>
-<field name="starring">[[Julie Christie]],[[Nick Nolte]],[[Lara Flynn Boyle]],[[Jonny Lee Miller]]</field>
+<field name="director">Alan Rudolph</field>
+<field name="starring">Julie Christie,Nick Nolte,Lara Flynn Boyle,Jonny Lee Miller</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -8851,13 +8850,13 @@
 <field name="type">film</field>
 <field name="gross">$11,492,406 &lt;small&gt;(Worldwide)&lt;/small&gt;</field>
 <field name="name">Wedding Daze</field>
-<field name="producer">[[Jamie Gordon]],[[Sam Hoffman]]</field>
+<field name="producer">Jamie Gordon,Sam Hoffman</field>
 <field name="runtime">90 minutes</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer Pictures]],[[GreenStreet Films]]</field>
-<field name="language">[[English language</field>
-<field name="director">[[Michael Ian Black]]</field>
-<field name="writer">[[Michael Ian Black]]</field>
-<field name="starring">[[Jason Biggs]],[[Isla Fisher]],[[Michael Weston]],[[Ebon Moss-Bachrach]],[[Edward Herrmann]]</field>
+<field name="distributor">Metro-Goldwyn-Mayer Pictures,GreenStreet Films</field>
+<field name="language">English language</field>
+<field name="director">Michael Ian Black</field>
+<field name="writer">Michael Ian Black</field>
+<field name="starring">Jason Biggs,Isla Fisher,Michael Weston,Ebon Moss-Bachrach,Edward Herrmann</field>
 </doc>
 <doc>
 <field name="id">28880684</field>
@@ -9204,19 +9203,19 @@
 <doc>
 <field name="id">10299953</field>
 <field name="type">film</field>
-<field name="music">[[Mark Isham]]</field>
+<field name="music">Mark Isham</field>
 <field name="budget">$9 million</field>
 <field name="gross">$4,573,000</field>
 <field name="editor">Tom Walls</field>
 <field name="name">Made in Heaven</field>
-<field name="producer">[[David Blocker]],[[Bruce A. Evans]],[[Raynold Gideon]]</field>
+<field name="producer">David Blocker,Bruce A. Evans,Raynold Gideon</field>
 <field name="runtime">102 min.</field>
-<field name="distributor">[[Lorimar Productions]]</field>
+<field name="distributor">Lorimar Productions</field>
 <field name="cinematographer">Jan Kiesser</field>
 <field name="language">English</field>
 <field name="writer">Bruce A. Evans,Raynold Gideon</field>
-<field name="director">[[Alan Rudolph]]</field>
-<field name="starring">[[Timothy Hutton]],[[Kelly McGillis]],[[Maureen Stapleton]],[[Ann Wedgeworth]],[[Mare Winningham]],[[Don Murray (actor)</field>
+<field name="director">Alan Rudolph</field>
+<field name="starring">Timothy Hutton,Kelly McGillis,Maureen Stapleton,Ann Wedgeworth,Mare Winningham,Don Murray (actor)</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -9981,34 +9980,34 @@
 <doc>
 <field name="id">13822777</field>
 <field name="type">film</field>
-<field name="studio">[[Adlabs]],[[Hyde Park Entertainment]]</field>
+<field name="studio">Adlabs,Hyde Park Entertainment</field>
 <field name="budget">$2.5 million</field>
 <field name="gross">$507,534</field>
-<field name="editor">[[Ethan Maniquis]]</field>
+<field name="editor">Ethan Maniquis</field>
 <field name="runtime">106 minutes</field>
-<field name="director">[[James Dodson (producer)</field>
+<field name="director">James Dodson (producer)</field>
 <field name="country">India,United States</field>
 <field name="name">The Other End of the Line</field>
-<field name="producer">[[Ashok Amritraj]],[[Patrick Aiello]]</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer]]</field>
+<field name="producer">Ashok Amritraj,Patrick Aiello</field>
+<field name="distributor">Metro-Goldwyn-Mayer</field>
 <field name="language">English,Hindi</field>
-<field name="writer">[[Tracey Jackson]]</field>
-<field name="starring">[[Jesse Metcalfe]],[[Shriya Saran]],[[Anupam Kher]],[[Tara Sharma]],[[Larry Miller (entertainer)</field>
+<field name="writer">Tracey Jackson</field>
+<field name="starring">Jesse Metcalfe,Shriya Saran,Anupam Kher,Tara Sharma,Larry Miller (entertainer)</field>
 </doc>
 <doc>
 <field name="id">4343386</field>
 <field name="type">film</field>
-<field name="music">[[Thomas Newman]]</field>
+<field name="music">Thomas Newman</field>
 <field name="budget">$12 million</field>
 <field name="gross">$3,134,381</field>
 <field name="runtime">97 min.</field>
-<field name="director">[[Donald Petrie]]</field>
+<field name="director">Donald Petrie</field>
 <field name="name">The Favor</field>
-<field name="producer">[[Lauren Shuler Donner]]</field>
-<field name="distributor">[[Orion Pictures]]</field>
+<field name="producer">Lauren Shuler Donner</field>
+<field name="distributor">Orion Pictures</field>
 <field name="language">English</field>
-<field name="writer">[[Sara Parriott]],[[Josann McGibbon]]</field>
-<field name="starring">[[Harley Jane Kozak]],[[Elizabeth McGovern]],[[Bill Pullman]],[[Brad Pitt]],[[Ken Wahl]]</field>
+<field name="writer">Sara Parriott,Josann McGibbon</field>
+<field name="starring">Harley Jane Kozak,Elizabeth McGovern,Bill Pullman,Brad Pitt,Ken Wahl</field>
 </doc>
 <doc>
 <field name="id">2946788</field>
@@ -10213,14 +10212,14 @@
 <field name="id">6005999</field>
 <field name="type">film</field>
 <field name="name">Funny Ha Ha</field>
-<field name="producer">[[Ethan Vogt]],[[Morgan Faust]],[[Hagai Shaham]]</field>
+<field name="producer">Ethan Vogt,Morgan Faust,Hagai Shaham</field>
 <field name="runtime">89 minutes</field>
-<field name="distributor">Fox Lorber,[[Sundance Channel (United States)</field>
-<field name="cinematographer">[[Matthias Grunsky]]</field>
+<field name="distributor">Fox Lorber,Sundance Channel (United States)</field>
+<field name="cinematographer">Matthias Grunsky</field>
 <field name="language">English</field>
 <field name="writer">Andrew Bujalski</field>
-<field name="director">[[Andrew Bujalski]]</field>
-<field name="starring">[[Kate Dollenmayer]],Mark Herlehy,[[Christian Rudder]],Jennifer L. Schaper,Myles Paige,Marshall Lewy</field>
+<field name="director">Andrew Bujalski</field>
+<field name="starring">Kate Dollenmayer,Mark Herlehy,Christian Rudder,Jennifer L. Schaper,Myles Paige,Marshall Lewy</field>
 </doc>
 <doc>
 <field name="id">915192</field>
@@ -10547,15 +10546,15 @@
 <doc>
 <field name="id">15446482</field>
 <field name="type">film</field>
-<field name="editor">[[Thomas J. Crizer]]</field>
+<field name="editor">Thomas J. Crizer</field>
 <field name="name">A Sailor-Made Man</field>
-<field name="producer">[[Hal Roach]]</field>
+<field name="producer">Hal Roach</field>
 <field name="runtime">47 minutes</field>
-<field name="cinematographer">[[Walter Lundin]]</field>
-<field name="language">[[Silent film</field>
-<field name="writer">[[Jean Havez]],Hal Roach,[[Sam Taylor (director)</field>
-<field name="director">[[Fred C. Newmeyer]]</field>
-<field name="starring">[[Harold Lloyd]]</field>
+<field name="cinematographer">Walter Lundin</field>
+<field name="language">Silent film</field>
+<field name="writer">Jean Havez,Hal Roach,Sam Taylor (director)</field>
+<field name="director">Fred C. Newmeyer</field>
+<field name="starring">Harold Lloyd</field>
 <field name="country">United States</field>
 </doc>
 <doc>
@@ -10638,29 +10637,29 @@
 <field name="name">Kiki</field>
 <field name="producer">Norma Talmadge</field>
 <field name="runtime">108 minutes</field>
-<field name="distributor">[[First National Pictures]]</field>
+<field name="distributor">First National Pictures</field>
 <field name="cinematographer">Oliver T. Marsh</field>
-<field name="language">[[Silent film]],English intertitles</field>
-<field name="writer">André Picard (novel),[[Hanns Kräly]]</field>
-<field name="director">[[Clarence Brown]]</field>
-<field name="starring">[[Norma Talmadge]],[[Ronald Colman]]</field>
+<field name="language">Silent film,English intertitles</field>
+<field name="writer">André Picard (novel),Hanns Kräly</field>
+<field name="director">Clarence Brown</field>
+<field name="starring">Norma Talmadge,Ronald Colman</field>
 <field name="country">United States</field>
 </doc>
 <doc>
 <field name="id">31462588</field>
 <field name="type">film</field>
-<field name="studio">American Empirical Pictures,[[Indian Paintbrush (production company)</field>
+<field name="studio">American Empirical Pictures,Indian Paintbrush (production company)</field>
 <field name="budget">$16 million</field>
 <field name="gross">$68,263,166</field>
-<field name="editor">[[Andrew Weisblum]]</field>
+<field name="editor">Andrew Weisblum</field>
 <field name="name">Moonrise Kingdom</field>
-<field name="producer">Wes Anderson,Jeremy Dawson,[[Steven M. Rales</field>
+<field name="producer">Wes Anderson,Jeremy Dawson,Steven M. Rales</field>
 <field name="runtime">94 minutes&lt;!-- Theatrical runtime: 94:02 --&gt;</field>
-<field name="distributor">[[Focus Features]]</field>
-<field name="cinematographer">[[Robert Yeoman]]</field>
+<field name="distributor">Focus Features</field>
+<field name="cinematographer">Robert Yeoman</field>
 <field name="language">English</field>
-<field name="writer">Wes Anderson,[[Roman Coppola]]</field>
-<field name="director">[[Wes Anderson]]</field>
+<field name="writer">Wes Anderson,Roman Coppola</field>
+<field name="director">Wes Anderson</field>
 <field name="starring">&lt;!--- per poster ---&gt;</field>
 <field name="country">United States</field>
 </doc>
@@ -12005,18 +12004,18 @@
 <doc>
 <field name="id">2592877</field>
 <field name="type">film</field>
-<field name="music">[[Bennett Salvay]]</field>
+<field name="music">Bennett Salvay</field>
 <field name="budget">$4 million</field>
 <field name="gross">$2,924,635</field>
-<field name="editor">[[Richard Candib]]</field>
+<field name="editor">Richard Candib</field>
 <field name="runtime">94 minutes</field>
-<field name="director">[[Jeff Franklin]]</field>
+<field name="director">Jeff Franklin</field>
 <field name="name">Love Stinks</field>
-<field name="producer">[[Adam Merims]]</field>
-<field name="cinematographer">[[Uta Briesewitz]]</field>
+<field name="producer">Adam Merims</field>
+<field name="cinematographer">Uta Briesewitz</field>
 <field name="language">English</field>
-<field name="writer">[[Jeff Franklin]]</field>
-<field name="starring">[[French Stewart]],[[Bridgette Wilson]],[[Bill Bellamy]],[[Tyra Banks]],[[Steve Hytner]],[[Jason Bateman]],[[Tiffani Thiessen]]</field>
+<field name="writer">Jeff Franklin</field>
+<field name="starring">French Stewart,Bridgette Wilson,Bill Bellamy,Tyra Banks,Steve Hytner,Jason Bateman,Tiffani Thiessen</field>
 </doc>
 <doc>
 <field name="id">11929259</field>
@@ -12353,21 +12352,21 @@
 <field name="id">832222</field>
 <field name="type">film</field>
 <field name="studio">Jackson-McHenry Entertainment,You Go Boy! Productions</field>
-<field name="music">[[Roger Troutman]]</field>
+<field name="music">Roger Troutman</field>
 <field name="budget">$8,000,000</field>
 <field name="gross">$34,746,109</field>
 <field name="narrator">Martin Lawrence</field>
 <field name="editor">John Carter</field>
 <field name="runtime">108 minutes</field>
-<field name="director">[[Martin Lawrence]]</field>
+<field name="director">Martin Lawrence</field>
 <field name="story">Martin Lawrence</field>
 <field name="screenplay">Martin Lawrence,Bentley Kyle Evans,Kenny Buford,Kim Bass</field>
 <field name="name">A Thin Line Between Love and Hate</field>
-<field name="producer">[[George Jackson (producer)</field>
-<field name="distributor">[[New Line Cinema]],[[Savoy Pictures]]</field>
-<field name="cinematographer">[[Francis Kenny]]</field>
+<field name="producer">George Jackson (producer)</field>
+<field name="distributor">New Line Cinema,Savoy Pictures</field>
+<field name="cinematographer">Francis Kenny</field>
 <field name="language">English</field>
-<field name="starring">Martin Lawrence,[[Lynn Whitfield]]</field>
+<field name="starring">Martin Lawrence,Lynn Whitfield</field>
 </doc>
 <doc>
 <field name="id">362335</field>
@@ -12467,10 +12466,10 @@
 <field name="name">Bigger Than the Sky</field>
 <field name="producer">Craig Borden</field>
 <field name="cinematographer">Carl Nilsson</field>
-<field name="distributor">[[Metro-Goldwyn-Mayer</field>
+<field name="distributor">Metro-Goldwyn-Mayer</field>
 <field name="language">English</field>
 <field name="writer">Larry L. King,Peter Masterson</field>
-<field name="starring">[[Marcus Thomas (actor)</field>
+<field name="starring">Marcus Thomas (actor)</field>
 </doc>
 <doc>
 <field name="id">1039551</field>
@@ -14061,7 +14060,7 @@
 <field name="cinematographer">David Insley</field>
 <field name="language">English</field>
 <field name="writer">John Waters</field>
-<field name="starring">Ricki Lake , Divine , Debbie Harry , Sonny Bono , Jerry Stiller , Leslie Ann Powers , Colleen Fitzpatrick ], Michael St. Gerard</field>
+<field name="starring">Ricki Lake , Divine , Debbie Harry , Sonny Bono , Jerry Stiller , Leslie Ann Powers , Colleen Fitzpatrick , Michael St. Gerard</field>
 </doc>
 <doc>
 <field name="id">289253</field>
@@ -14902,19 +14901,19 @@
 <doc>
 <field name="id">10408933</field>
 <field name="type">film</field>
-<field name="music">[[Irving Berlin]],[[Alfred Newman (composer)</field>
+<field name="music">Irving Berlin,Alfred Newman (composer)</field>
 <field name="budget">$1,200,000–$2,275,000</field>
-<field name="gross">$3.6 million ([[gross rental]])</field>
-<field name="editor">[[Barbara McLean]]</field>
+<field name="gross">$3.6 million (gross rental)</field>
+<field name="editor">Barbara McLean</field>
 <field name="name">Alexander's Ragtime Band</field>
-<field name="producer">[[Darryl F. Zanuck]]</field>
+<field name="producer">Darryl F. Zanuck</field>
 <field name="runtime">106 minutes</field>
-<field name="cinematographer">[[J. Peverell Marley]]</field>
-<field name="distributor">[[20th Century Fox]]</field>
+<field name="cinematographer">J. Peverell Marley</field>
+<field name="distributor">20th Century Fox</field>
 <field name="language">English</field>
-<field name="writer">[[Irving Berlin]],[[Richard Sherman (writer)</field>
-<field name="director">[[Henry King (director)</field>
-<field name="starring">[[Tyrone Power]],[[Alice Faye]],[[Don Ameche]],[[Jack Haley]],[[Ethel Merman]]</field>
+<field name="writer">Irving Berlin,Richard Sherman (writer)</field>
+<field name="director">Henry King (director)</field>
+<field name="starring">Tyrone Power,Alice Faye,Don Ameche,Jack Haley,Ethel Merman</field>
 <field name="country">United States</field>
 </doc>
 <doc>

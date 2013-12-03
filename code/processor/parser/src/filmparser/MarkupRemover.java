@@ -243,6 +243,7 @@ public class MarkupRemover {
 		modifiedText = modifiedText.replaceAll("<br/ >",",");
 		modifiedText = modifiedText.replaceAll("<br>",",");
 		modifiedText = modifiedText.replaceAll("</ref>","");
+		modifiedText = modifiedText.replaceAll("\\[\\[(.*?)\\]\\]","$1");
 
 		// parsing URL
 		modifiedText = modifiedText.replaceAll("\\{\\{URL\\|(.*?)\\}\\}", "$1");
