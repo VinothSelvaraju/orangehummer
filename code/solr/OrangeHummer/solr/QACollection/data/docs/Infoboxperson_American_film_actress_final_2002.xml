@@ -83,7 +83,7 @@
 <field name="children">Ireland Baldwin</field>
 <field name="image">Kim Basinger24.JPG</field>
 <field name="caption">Basinger in France, September 1989</field>
-<field name="yearsactive">1969–1975 (model) 1976–present (actress)</field>
+<field name="yearsactive">1969–1975 (model) 1976–present (Actress)</field>
 <field name="birthplace">Athens, Georgia ,  U.S.</field>
 </doc>
 <doc>
@@ -138,7 +138,7 @@
 <field name="id">18463394</field>
 <field name="type">person</field>
 <field name="deathdate">1937-04-23T00:00:00Z</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="deathplace">New York City</field>
 <field name="birthdate">1867-11-11T00:00:00Z</field>
 <field name="name">Caroline Harris</field>
@@ -189,7 +189,7 @@
 <doc>
 <field name="id">18412778</field>
 <field name="type">person</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="name">Marcia Harris</field>
 <field name="yearsactive">1915-1932</field>
 </doc>
@@ -606,7 +606,7 @@
 <field name="knownfor">Reality show  Living Lohan</field>
 <field name="occupation">Entrepreneur</field>
 <field name="occupation">manager</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">television personality</field>
 <field name="occupation">former dancer</field>
 <field name="nationality">American</field>
@@ -770,7 +770,7 @@
 <field name="id">1869238</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1966-07-09T00:00:00Z</field>
 <field name="birthname">Pamela Fionna Segall</field>
 <field name="name">Pamela Adlon</field>
@@ -1398,7 +1398,7 @@
 <field name="othernames">Lori Allen</field>
 <field name="occupation">Actress</field>
 <field name="occupation">Comedian</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="birthdate">1966-07-18T00:00:00Z</field>
 <field name="name">Lori Alan</field>
 <field name="yearsactive">1993–present</field>
@@ -1823,7 +1823,7 @@
 <field name="birthdate">1950-06-24T00:00:00Z</field>
 <field name="spouse">Brian De Palma,,Craig Shoemaker,,Randy Baile</field>
 <field name="name">Nancy Allen</field>
-<field name="image">NancyAllenactress.jpg</field>
+<field name="image">NancyAllenActress.jpg</field>
 <field name="caption">Allen while promoting  Strange Invaders , 1983</field>
 <field name="yearsactive">1962–present</field>
 <field name="birthplace">New York City, New York , U.S.</field>
@@ -1979,7 +1979,7 @@
 <field name="id">3953010</field>
 <field name="type">person</field>
 <field name="deathdate">1996-07-21T00:00:00Z</field>
-<field name="occupation">Film  and  television actress</field>
+<field name="occupation">Film  and  television Actress</field>
 <field name="deathplace">Mar Vista ,  Los Angeles ,  California ,  USA</field>
 <field name="birthdate">1938-05-12T00:00:00Z</field>
 <field name="birthname">Luana Margo Anderson</field>
@@ -2324,7 +2324,7 @@
 <field name="type">person</field>
 <field name="deathdate">1990-06-20T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television and stage actress</field>
+<field name="occupation">television and stage Actress</field>
 <field name="deathplace">New Haven, Connecticut , U.S.</field>
 <field name="birthdate">1937-11-12T00:00:00Z</field>
 <field name="birthname">Ina Rosenberg</field>
@@ -2475,7 +2475,7 @@
 <field name="id">5467642</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1983-06-16T00:00:00Z</field>
 <field name="name">Olivia Hack</field>
 <field name="yearsactive">1992–present</field>
@@ -2531,7 +2531,7 @@
 <field name="id">30312943</field>
 <field name="type">person</field>
 <field name="deathdate">1954-05-18T00:00:00Z</field>
-<field name="occupation">Film actress and journalist</field>
+<field name="occupation">Film Actress and journalist</field>
 <field name="birthdate">1912-05-12T00:00:00Z</field>
 <field name="children">Mason Alan Dinehart , aka Alan Dinehart, III</field>
 <field name="birthplace">Oklahoma City ,  Oklahoma , USA</field>
@@ -2815,7 +2815,7 @@
 <field name="id">2819652</field>
 <field name="type">person</field>
 <field name="deathdate">1936-04-07T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">dancer</field>
 <field name="deathplace">New York City, New York</field>
@@ -2881,7 +2881,7 @@
 <field name="id">7558407</field>
 <field name="type">person</field>
 <field name="deathdate">1969-11-01T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">San Diego, California</field>
 <field name="birthdate">1886-05-22T00:00:00Z</field>
 <field name="spouse">Allan Dwan  (1915–1921)</field>
@@ -3274,7 +3274,7 @@
 <field name="id">17783023</field>
 <field name="type">person</field>
 <field name="deathdate">1987-02-17T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Culver City, California , U.S.</field>
 <field name="birthdate">1903-03-15T00:00:00Z</field>
 <field name="spouse">William J. O'Neal (1927–1933) Adolphe Menjou  (1935–1963)</field>
@@ -3318,7 +3318,7 @@
 <field name="id">31855124</field>
 <field name="type">person</field>
 <field name="deathdate">1961-06-10T00:00:00Z</field>
-<field name="occupation">Stage actress Film actress</field>
+<field name="occupation">Stage Actress Film Actress</field>
 <field name="birthdate">1896-12-10T00:00:00Z</field>
 <field name="birthname">Vera Vivienne Spragg</field>
 <field name="image">VivienneOsborne1921.jpg</field>
@@ -3431,7 +3431,7 @@
 <doc>
 <field name="id">9576863</field>
 <field name="type">person</field>
-<field name="occupation">Child actress</field>
+<field name="occupation">Child Actress</field>
 <field name="birthdate">1999-10-15T00:00:00Z</field>
 <field name="birthname">Bailee Madison</field>
 <field name="name">Bailee Madison</field>
@@ -3445,7 +3445,7 @@
 <field name="id">886579</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="occupation">Restaurateur</field>
 <field name="birthdate">1975-03-15T00:00:00Z</field>
 <field name="spouse">Tyler Christopher, Tony Parke</field>
@@ -3539,7 +3539,7 @@
 <field name="type">person</field>
 <field name="deathdate">2007-07-04T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">voice   actress</field>
+<field name="occupation">voice   Actress</field>
 <field name="deathplace">Rancho Bernardo, California</field>
 <field name="birthdate">1913-02-02T00:00:00Z</field>
 <field name="spouse">Les Paterson, Maurice Greiner</field>
@@ -3738,7 +3738,7 @@
 <field name="id">858031</field>
 <field name="type">person</field>
 <field name="parents">Ashenafi Kebede  Kimberlin, Cynthia Tse,  "The Scholarship and Art of Ashenafi Kebede (1938-1998) ", Ethnomusicology, Vol. 43, No 2 (Spring-Summer, 1999), pp 322-334.</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="nationality">Ethiopia n</field>
 <field name="birthdate">1966-03-10T00:00:00Z</field>
 <field name="name">Senait Ashenafi</field>
@@ -3759,7 +3759,7 @@
 <field name="id">3566923</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="occupation">Producer</field>
 <field name="birthdate">1969-11-17T00:00:00Z</field>
 <field name="spouse">Bob Hoge, 1996-present</field>
@@ -3846,7 +3846,7 @@
 <field name="id">2890002</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="birthdate">1920-04-03T00:00:00Z</field>
 <field name="birthname">Bebe Anderson</field>
 <field name="spouse">Leonard M. Behrens (1940-1950; divorced) Leon Shamroy (m. 1953-1974; his death; 1 child)</field>
@@ -4003,7 +4003,7 @@
 <field name="birthdate">1917-11-21T00:00:00Z</field>
 <field name="spouse">Joe DiMaggio  (November 19, 1939 – May 12, 1944) George Schuster (1946 – 1950) Gary Peck (19?? – November 13, 1984; her death)</field>
 <field name="name">Dorothy Arnold</field>
-<field name="image">Dorothy Arnold (actress).jpg</field>
+<field name="image">Dorothy Arnold (Actress).jpg</field>
 <field name="yearsactive">1937–1958</field>
 <field name="birthplace">Duluth, Minnesota , U.S.</field>
 <field name="birthname">Dorothy Arnoldine Olson</field>
@@ -4024,7 +4024,7 @@
 <doc>
 <field name="id">2980840</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1964-06-07T00:00:00Z</field>
 <field name="name">Judie Aronson</field>
 <field name="yearsactive">1983—2006</field>
@@ -4111,7 +4111,7 @@
 <field name="id">3382</field>
 <field name="type">person</field>
 <field name="parents">Lynne Spears</field>
-<field name="occupation">Singer performer dancer actress</field>
+<field name="occupation">Singer performer dancer Actress</field>
 <field name="birthdate">1981-12-02T00:00:00Z</field>
 <field name="website">britneyspears.com</field>
 <field name="birthname">Britney Jean Spears</field>
@@ -4188,7 +4188,7 @@
 <field name="children">Liza Minnelli  (b. 1946)</field>
 <field name="image">Judy Garland-publicity.JPG</field>
 <field name="caption">Portrait for  Metro-Goldwyn-Mayer , c. 1940</field>
-<field name="yearsactive">1924–1969 (singer) 1929–1967 (actress)</field>
+<field name="yearsactive">1924–1969 (singer) 1929–1967 (Actress)</field>
 <field name="education">Lawlor's Professional School Bancroft Middle School Hollywood High School</field>
 <field name="birthplace">Grand Rapids, Minnesota ,  USA</field>
 <field name="religion">Episcopalian</field>
@@ -4436,7 +4436,7 @@
 <doc>
 <field name="id">153322</field>
 <field name="type">person</field>
-<field name="occupation">Film and television actress</field>
+<field name="occupation">Film and television Actress</field>
 <field name="birthdate">1976-09-25T00:00:00Z</field>
 <field name="birthname">Charlotte Lopez</field>
 <field name="name">Charlotte Ayanna</field>
@@ -4694,7 +4694,7 @@
 <field name="id">709636</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1972-01-30T00:00:00Z</field>
 <field name="website">http://www.jenniferhale.com</field>
 <field name="alias">Carren Learning</field>
@@ -4929,7 +4929,7 @@
 <field name="type">person</field>
 <field name="deathdate">2012-08-20T00:00:00Z</field>
 <field name="occupation">Stand-up comedian</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">voice artist</field>
 <field name="occupation">comedienne</field>
 <field name="birthdate">1917-07-17T00:00:00Z</field>
@@ -5115,7 +5115,7 @@
 <field name="id">152334</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1988-06-09T00:00:00Z</field>
 <field name="birthname">Mae Margaret Whitman</field>
 <field name="name">Mae Whitman</field>
@@ -5262,7 +5262,7 @@
 <field name="id">38336341</field>
 <field name="type">person</field>
 <field name="deathdate">1992-10-06T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Montecito, California</field>
 <field name="birthdate">1901-07-27T00:00:00Z</field>
 <field name="birthname">Nathalia Messner</field>
@@ -5325,7 +5325,7 @@
 <doc>
 <field name="id">3674284</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1927-04-02T00:00:00Z</field>
 <field name="spouse">Sidney Lumet  (m.1949-1954) Thomas Guinzburg (m.1956-1963) 2 children</field>
 <field name="name">Rita Gam</field>
@@ -5372,7 +5372,7 @@
 <field name="id">1981697</field>
 <field name="type">person</field>
 <field name="occupation">Model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="nationality">American</field>
 <field name="birthdate">1968-12-05T00:00:00Z</field>
 <field name="website">www.lisamarie.com</field>
@@ -5599,7 +5599,7 @@
 <field name="deathdate">1956-09-26T00:00:00Z</field>
 <field name="knownfor">Burlesque dancing</field>
 <field name="occupation">Dancer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Chicago ,  Illinois , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1910-07-19T00:00:00Z</field>
@@ -5659,7 +5659,7 @@
 <doc>
 <field name="id">9309402</field>
 <field name="type">person</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="birthdate">1955-05-08T00:00:00Z</field>
 <field name="name">Betsy Baker</field>
 <field name="birthplace">Cedar Rapids, Iowa</field>
@@ -5744,7 +5744,7 @@
 <field name="id">8493766</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television  actress</field>
+<field name="occupation">television  Actress</field>
 <field name="birthdate">1946-03-26T00:00:00Z</field>
 <field name="name">Judith Baldwin</field>
 <field name="birthplace">Washington, D.C. , U.S.</field>
@@ -5819,7 +5819,7 @@
 <field name="spouse">Edgars Asars (2004-present),Peter Bandera</field>
 <field name="name">Vaitiare Hirshon-Asars</field>
 <field name="birthplace">Tahiti ,  French Polynesia</field>
-<field name="othernames">Vaitiaré Eugenie Hirshon (birth name),Vaitiare Bandera (previous actress name)</field>
+<field name="othernames">Vaitiaré Eugenie Hirshon (birth name),Vaitiare Bandera (previous Actress name)</field>
 </doc>
 <doc>
 <field name="id">20667462</field>
@@ -6019,7 +6019,7 @@
 <field name="type">person</field>
 <field name="deathdate">1977-02-22T00:00:00Z</field>
 <field name="occupation">Stage</field>
-<field name="occupation">film   actress</field>
+<field name="occupation">film   Actress</field>
 <field name="deathplace">Albuquerque, New Mexico , U.S.</field>
 <field name="birthdate">1907-01-19T00:00:00Z</field>
 <field name="birthname">Edith Williams</field>
@@ -6072,7 +6072,7 @@
 <field name="id">14985612</field>
 <field name="type">person</field>
 <field name="deathdate">2000-03-10T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Palm Desert, California , U.S.</field>
 <field name="birthdate">1909-02-02T00:00:00Z</field>
 <field name="spouse">Cliff Edwards,(divorced) Lindsay C. Howard,(divorced)</field>
@@ -6089,7 +6089,7 @@
 <field name="deathdate">2008-12-18T00:00:00Z</field>
 <field name="occupation">Actress</field>
 <field name="occupation">producer</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="television">Star Trek</field>
 <field name="birthdate">1932-02-23T00:00:00Z</field>
 <field name="website">http://www.roddenberry.com/</field>
@@ -6226,7 +6226,7 @@
 <field name="id">265415</field>
 <field name="type">person</field>
 <field name="occupation">Model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">designer</field>
 <field name="birthdate">1954-02-02T00:00:00Z</field>
 <field name="website">christiebrinkley.com</field>
@@ -6262,7 +6262,7 @@
 <field name="id">9107897</field>
 <field name="type">person</field>
 <field name="deathdate">1964-04-02T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Hollywood, California</field>
 <field name="birthdate">1894-03-05T00:00:00Z</field>
 <field name="birthname">Gladys Viola Wilson</field>
@@ -6278,7 +6278,7 @@
 <field name="type">person</field>
 <field name="deathdate">1960-01-25T00:00:00Z</field>
 <field name="parents">John Barrymore Blanche Oelrichs</field>
-<field name="occupation">Stage and film actress</field>
+<field name="occupation">Stage and film Actress</field>
 <field name="birthdate">1921-03-03T00:00:00Z</field>
 <field name="birthname">Diana Blanche Barrymore Blythe</field>
 <field name="image">Diana Barrymore.jpg</field>
@@ -6607,7 +6607,7 @@
 <field name="type">person</field>
 <field name="deathdate">2003-12-16T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="deathplace">Woodland Hills, Los Angeles ,  California</field>
 <field name="birthdate">1935-10-03T00:00:00Z</field>
 <field name="birthname">Madeleine Roche</field>
@@ -6701,7 +6701,7 @@
 <doc>
 <field name="id">4348344</field>
 <field name="type">person</field>
-<field name="occupation">Film and television actress</field>
+<field name="occupation">Film and television Actress</field>
 <field name="birthdate">1933-09-17T00:00:00Z</field>
 <field name="spouse">Ed Hookstratten (1957-?) (divorced) Andy Friendly (1986-present)</field>
 <field name="name">Pat Crowley</field>
@@ -7041,7 +7041,7 @@
 <field name="parents">Frank Zappa Gail Zappa</field>
 <field name="occupation">Artist</field>
 <field name="occupation">businessperson</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">musician</field>
 <field name="birthdate">1979-07-30T00:00:00Z</field>
 <field name="website">divazappa.com</field>
@@ -7110,7 +7110,7 @@
 <field name="type">person</field>
 <field name="occupation">Singer</field>
 <field name="occupation">dancer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1932-12-14T00:00:00Z</field>
 <field name="spouse">Xavier Cugat  (1952–1964) Perry Leff (1964–present)</field>
 <field name="name">Abbe Lane</field>
@@ -7664,7 +7664,7 @@
 <field name="deathdate">2009-10-14T00:00:00Z</field>
 <field name="occupation">Film</field>
 <field name="occupation">stage</field>
-<field name="occupation">and television actress</field>
+<field name="occupation">and television Actress</field>
 <field name="deathplace">Highlands, North Carolina</field>
 <field name="birthdate">1935-02-04T00:00:00Z</field>
 <field name="spouse">Walter Beakel  (divorced); Geoffrey Horne  (divorced); Scott Paxton  (1979–2009; her death) Children  Kimberly Horne ,  Michael G. Paxton , and  William Horne</field>
@@ -7791,7 +7791,7 @@
 <field name="deathdate">1979-03-31T00:00:00Z</field>
 <field name="occupation">Stage</field>
 <field name="occupation">film</field>
-<field name="occupation">and television actress</field>
+<field name="occupation">and television Actress</field>
 <field name="deathplace">Glendale ,  California</field>
 <field name="birthdate">1904-05-30T00:00:00Z</field>
 <field name="birthname">Doris Edwards</field>
@@ -7930,7 +7930,7 @@
 <field name="type">person</field>
 <field name="deathdate">1990-05-31T00:00:00Z</field>
 <field name="occupation">model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1927-12-11T00:00:00Z</field>
 <field name="children">1, Allison MacKenzie Murray (1958)</field>
 <field name="image">IMG 3432.JPG</field>
@@ -8151,7 +8151,7 @@
 <field name="type">person</field>
 <field name="parents">George Van Oosbree Joanna Ruth</field>
 <field name="occupation">Actress</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="occupation">Singer-songwriter</field>
 <field name="birthdate">1973-08-24T00:00:00Z</field>
 <field name="spouse">Christopher DeLisle (m. 1992—1993; divorced) Murray Hammond (m. 2002—2010; divorced) Jared Griffin (m. 2012—present)</field>
@@ -8166,7 +8166,7 @@
 <field name="id">2320045</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="partner">Ajay Naidu</field>
 <field name="birthdate">1975-04-07T00:00:00Z</field>
 <field name="name">Heather Burns</field>
@@ -8700,7 +8700,7 @@
 <field name="id">653533</field>
 <field name="type">person</field>
 <field name="deathdate">1968-08-26T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">New York City, New York , U.S.</field>
 <field name="birthdate">1905-01-13T00:00:00Z</field>
 <field name="birthname">Katharine Edwina Gibbs</field>
@@ -8732,7 +8732,7 @@
 <field name="occupation">Author</field>
 <field name="occupation">composer</field>
 <field name="occupation">musician</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">singer .</field>
 <field name="birthdate">1909-11-09T00:00:00Z</field>
 <field name="birthname">Catherine Louise Fink</field>
@@ -8818,7 +8818,7 @@
 <field name="id">14070599</field>
 <field name="type">person</field>
 <field name="deathdate">1970-09-07T00:00:00Z</field>
-<field name="occupation">Silent film actress</field>
+<field name="occupation">Silent film Actress</field>
 <field name="deathplace">Matawan, New Jersey , USA</field>
 <field name="birthdate">1885-02-03T00:00:00Z</field>
 <field name="spouse">Charles Frederick Wolff</field>
@@ -9287,7 +9287,7 @@
 <field name="id">2403940</field>
 <field name="type">person</field>
 <field name="deathdate">1970-07-06T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Palm Springs, California  U.S.</field>
 <field name="birthdate">1889-07-15T00:00:00Z</field>
 <field name="spouse">Willard Mack Hugh Dillman Francis A. Gudger</field>
@@ -9325,7 +9325,7 @@
 <field name="type">person</field>
 <field name="deathdate">2003-05-28T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television and stage actress</field>
+<field name="occupation">television and stage Actress</field>
 <field name="deathplace">Van Nuys, Los Angeles ,  California , U.S.</field>
 <field name="birthdate">1912-09-22T00:00:00Z</field>
 <field name="birthname">Martha Ellen Scott</field>
@@ -9635,7 +9635,7 @@
 <field name="id">4608634</field>
 <field name="type">person</field>
 <field name="deathdate">1977-02-03T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Santa Monica, California  U.S.</field>
 <field name="birthdate">1901-01-10T00:00:00Z</field>
 <field name="spouse">Jack White , George Sherwood</field>
@@ -10160,7 +10160,7 @@
 <field name="deathdate">1990-06-07T00:00:00Z</field>
 <field name="occupation">Film</field>
 <field name="occupation">stage</field>
-<field name="occupation">television   actress</field>
+<field name="occupation">television   Actress</field>
 <field name="deathplace">Manhattan ,  New York , U.S.</field>
 <field name="birthdate">1923-01-01T00:00:00Z</field>
 <field name="name">Barbara Baxley</field>
@@ -10292,7 +10292,7 @@
 <field name="type">person</field>
 <field name="occupation">Film</field>
 <field name="occupation">stage</field>
-<field name="occupation">television   actress</field>
+<field name="occupation">television   Actress</field>
 <field name="birthdate">1967-04-17T00:00:00Z</field>
 <field name="name">Leslie Bega</field>
 <field name="birthplace">Los Angeles, California</field>
@@ -10650,7 +10650,7 @@
 <field name="type">person</field>
 <field name="deathdate">2006-10-02T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="occupation">model</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1922-09-14T00:00:00Z</field>
@@ -10722,7 +10722,7 @@
 <field name="id">5579415</field>
 <field name="type">person</field>
 <field name="occupation">Television personality</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="occupation">dancer</field>
 <field name="occupation">singer</field>
@@ -10790,7 +10790,7 @@
 <field name="type">person</field>
 <field name="deathdate">1969-12-19T00:00:00Z</field>
 <field name="occupation">Actress</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="deathplace">Van Nuys, California , U.S.</field>
 <field name="birthdate">1912-01-12T00:00:00Z</field>
 <field name="birthname">Lillian Herdan</field>
@@ -10803,7 +10803,7 @@
 <field name="type">person</field>
 <field name="deathdate">2001-03-05T00:00:00Z</field>
 <field name="occupation">Comedian</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1907-03-19T00:00:00Z</field>
 <field name="name">Peggy Bernier</field>
 <field name="yearsactive">1926-1938</field>
@@ -10863,7 +10863,7 @@
 <field name="id">2565541</field>
 <field name="type">person</field>
 <field name="occupation">fashion model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="nationality">American</field>
 <field name="birthdate">1974-11-17T00:00:00Z</field>
 <field name="birthname">Leslie Louise Bibb</field>
@@ -10887,7 +10887,7 @@
 <doc>
 <field name="id">7016473</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Glendale, California ,  USA</field>
 <field name="birthdate">1895-02-01T00:00:00Z</field>
 <field name="spouse">Lester Cuneo  (1920–1925)</field>
@@ -10961,7 +10961,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1990-07-24T00:00:00Z</field>
 <field name="website">Official website (archived)</field>
 <field name="birthname">Daveigh Elizabeth Chase-Schwallier</field>
@@ -11252,7 +11252,7 @@
 <field name="id">18097736</field>
 <field name="type">person</field>
 <field name="occupation">author</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="birthdate">1990-09-28T00:00:00Z</field>
 <field name="name">Rafaella Biscayn-Debest</field>
@@ -11274,7 +11274,7 @@
 <field name="id">2249180</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="occupation">singer</field>
 <field name="birthdate">1944-09-16T00:00:00Z</field>
 <field name="birthname">Betty Jean Ward</field>
@@ -11312,7 +11312,7 @@
 <field name="occupation">Director</field>
 <field name="occupation">producer</field>
 <field name="occupation">screenwriter</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="parents">Francis Ford Coppola  (father) Eleanor Coppola  (mother)</field>
 <field name="othernames">Domino Coppola</field>
 <field name="birthdate">1971-05-14T00:00:00Z</field>
@@ -11491,7 +11491,7 @@
 <field name="deathdate">2002-01-01T00:00:00Z</field>
 <field name="parents">Vidal Sassoon Beverly Adams</field>
 <field name="occupation">Model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1968-09-03T00:00:00Z</field>
 <field name="children">3</field>
 <field name="image">CatyaSassoon.jpg</field>
@@ -11681,7 +11681,7 @@
 <field name="id">462624</field>
 <field name="type">person</field>
 <field name="deathdate">1999-12-03T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">comedienne</field>
 <field name="birthdate">1942-09-29T00:00:00Z</field>
@@ -11716,7 +11716,7 @@
 <field name="type">person</field>
 <field name="occupation">Actress</field>
 <field name="occupation">singer</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1988-09-15T00:00:00Z</field>
 <field name="website">http://www.chelseakane.com/</field>
 <field name="birthname">Chelsea Kane Staub</field>
@@ -11787,7 +11787,7 @@
 <field name="id">6711752</field>
 <field name="type">person</field>
 <field name="deathdate">2002-03-21T00:00:00Z</field>
-<field name="occupation">Child actress</field>
+<field name="occupation">Child Actress</field>
 <field name="deathplace">Granada Hills, California , U.S.</field>
 <field name="birthdate">1928-09-03T00:00:00Z</field>
 <field name="name">Jacquie Lyn</field>
@@ -11860,7 +11860,7 @@
 <field name="id">10687309</field>
 <field name="type">person</field>
 <field name="deathdate">1958-02-17T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Landstuhl ,  Rhineland-Palatinate ,  Germany</field>
 <field name="birthdate">1907-09-10T00:00:00Z</field>
 <field name="birthname">Natalie Bierl</field>
@@ -11995,7 +11995,7 @@
 <field name="occupation">Disc jockey</field>
 <field name="occupation">music journalist</field>
 <field name="occupation">MTV   VJs</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="birthdate">1955-09-12T00:00:00Z</field>
 <field name="birthname">Nina Kinckiner</field>
@@ -12100,7 +12100,7 @@
 <field name="type">person</field>
 <field name="deathdate">2013-09-09T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television   actress</field>
+<field name="occupation">television   Actress</field>
 <field name="deathplace">North Wildwood, New Jersey , U.S.</field>
 <field name="birthdate">1933-01-15T00:00:00Z</field>
 <field name="birthname">Patsy Lou Blake</field>
@@ -12139,7 +12139,7 @@
 <field name="type">person</field>
 <field name="deathdate">1969-06-19T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="deathplace">Pasadena ,  California , USA</field>
 <field name="birthdate">1899-05-31T00:00:00Z</field>
 <field name="family">Milburn Stone  (uncle)</field>
@@ -12188,7 +12188,7 @@
 <field name="id">6518992</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="occupation">Singer</field>
 <field name="birthdate">1979-09-28T00:00:00Z</field>
 <field name="website">http://www.anndi.com</field>
@@ -12251,7 +12251,7 @@
 <field name="id">16093869</field>
 <field name="type">person</field>
 <field name="deathdate">2002-09-18T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Bel Air, California  U.S.</field>
 <field name="birthdate">1924-09-08T00:00:00Z</field>
 <field name="birthname">Hazel Brooks</field>
@@ -12352,7 +12352,7 @@
 <doc>
 <field name="id">9786072</field>
 <field name="type">person</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="birthdate">1938-12-27T00:00:00Z</field>
 <field name="spouse">Dabney Coleman  (1961-1984) (divorced)</field>
 <field name="name">Jean Hale</field>
@@ -12444,7 +12444,7 @@
 <doc>
 <field name="id">959837</field>
 <field name="type">person</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="birthdate">1963-08-16T00:00:00Z</field>
 <field name="name">Christine Cavanaugh</field>
 <field name="yearsactive">1986–2001</field>
@@ -12507,13 +12507,13 @@
 <doc>
 <field name="id">6229962</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="name">Andrea Ferrell</field>
 </doc>
 <doc>
 <field name="id">10477047</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1928-04-21T00:00:00Z</field>
 <field name="spouse">Howard Hawks  (1953-1959)</field>
 <field name="name">Dee Hartford</field>
@@ -12743,7 +12743,7 @@
 <field name="id">3159310</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television  actress</field>
+<field name="occupation">television  Actress</field>
 <field name="birthdate">1975-10-23T00:00:00Z</field>
 <field name="name">Boti Ann Bliss</field>
 <field name="image">Boti Bliss (4185432701).jpg</field>
@@ -12850,7 +12850,7 @@
 <field name="id">5188768</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="birthdate">1946-06-19T00:00:00Z</field>
 <field name="name">Jennifer Darling</field>
 <field name="yearsactive">1953–present</field>
@@ -13070,7 +13070,7 @@
 <doc>
 <field name="id">33509896</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="birthdate">1948-02-17T00:00:00Z</field>
 <field name="name">Anne Lonnberg</field>
@@ -13080,7 +13080,7 @@
 <doc>
 <field name="id">15628196</field>
 <field name="type">person</field>
-<field name="occupation">Retired  actress  and  dancer  in  Chatsworth</field>
+<field name="occupation">Retired  Actress  and  dancer  in  Chatsworth</field>
 <field name="occupation">California</field>
 <field name="birthdate">1943-10-20T00:00:00Z</field>
 <field name="spouse">Never married</field>
@@ -13422,7 +13422,7 @@
 <field name="birthdate">1985-10-23T00:00:00Z</field>
 <field name="image">Masiela Lusha at a PAL event.jpg</field>
 <field name="caption">Masiela Lusha in 2010</field>
-<field name="yearsactive">1999–present (actress),1997–present (author)</field>
+<field name="yearsactive">1999–present (Actress),1997–present (author)</field>
 <field name="education">University of California, Los Angeles</field>
 <field name="birthplace">Tirana ,  Albania</field>
 <field name="nationality">American</field>
@@ -13537,7 +13537,7 @@
 <field name="type">person</field>
 <field name="knownfor">WJLB ,  Hot 107.5 ,  106 &amp; Park</field>
 <field name="occupation">Media personality</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">producer</field>
 <field name="nationality">American</field>
 <field name="birthdate">1986-09-27T00:00:00Z</field>
@@ -14029,7 +14029,7 @@
 <field name="children">Dolly &amp; Charlie O'Connell</field>
 <field name="image">Rebecca Romijn in Marchesa 2.jpg</field>
 <field name="caption">Romijn at  The Heart Truth 's Red Dress Collection Fashion Show, February 8, 2012</field>
-<field name="yearsactive">1991–2001, 2012 (model),1997–present (actress)</field>
+<field name="yearsactive">1991–2001, 2012 (model),1997–present (Actress)</field>
 <field name="birthplace">Berkeley, California ,  U.S.</field>
 </doc>
 <doc>
@@ -14064,7 +14064,7 @@
 <field name="type">person</field>
 <field name="deathdate">1998-10-22T00:00:00Z</field>
 <field name="parents">Judge Thomas Francis Patrick Noonan Hannah Kelly</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Avila Beach, California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1911-10-16T00:00:00Z</field>
@@ -14374,7 +14374,7 @@
 <doc>
 <field name="id">2290628</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1952-08-10T00:00:00Z</field>
 <field name="name">Diane Venora</field>
 <field name="yearsactive">1980–present</field>
@@ -14837,7 +14837,7 @@
 <field name="id">1434568</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="occupation">singer</field>
 <field name="occupation">model</field>
 <field name="birthdate">1991-02-10T00:00:00Z</field>
@@ -14966,7 +14966,7 @@
 <field name="id">22439098</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="birthdate">1950-01-07T00:00:00Z</field>
 <field name="website">http://www.eringray.com</field>
 <field name="spouse">Ken Schwartz, 1 child,Richard Hissong, 1 child</field>
@@ -15033,7 +15033,7 @@
 <field name="id">31393397</field>
 <field name="type">person</field>
 <field name="occupation">Singer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1941-12-14T00:00:00Z</field>
 <field name="website">marlenesai.com</field>
 <field name="spouse">Herb Cockett  (divorced)</field>
@@ -15060,7 +15060,7 @@
 <doc>
 <field name="id">2609814</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">musician</field>
 <field name="birthdate">1966-03-03T00:00:00Z</field>
 <field name="name">Heidi Swedberg</field>
@@ -15122,7 +15122,7 @@
 <field name="id">8839673</field>
 <field name="type">person</field>
 <field name="occupation">Comedian</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1970-02-16T00:00:00Z</field>
 <field name="name">Rachel Reenstra</field>
 <field name="image">Rachel Reenstra at Simply Thai, 11 December 2012.jpg</field>
@@ -15300,7 +15300,7 @@
 <field name="type">person</field>
 <field name="deathdate">1959-09-25T00:00:00Z</field>
 <field name="occupation">Stage</field>
-<field name="occupation">film   actress</field>
+<field name="occupation">film   Actress</field>
 <field name="deathplace">Beverly Hills, California , USA</field>
 <field name="birthdate">1891-08-11T00:00:00Z</field>
 <field name="spouse">Lester Crawford  (?-1959) (her death)</field>
@@ -15368,7 +15368,7 @@
 <field name="id">2317280</field>
 <field name="type">person</field>
 <field name="deathdate">1963-11-25T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Richmond, California , U.S.</field>
 <field name="birthdate">1915-12-23T00:00:00Z</field>
 <field name="spouse">Richard Brooks  (1941–1944; divorced) Thomas H. Leddy (?-1963; her death)</field>
@@ -15438,7 +15438,7 @@
 <field name="id">4184579</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="nationality">American</field>
 <field name="website">kimberlybrooksvoiceover.com</field>
 <field name="birthname">Kimberly D. Brooks</field>
@@ -15522,7 +15522,7 @@
 <field name="name">Emmy Rossum</field>
 <field name="image">Emma-Rossum 2011-03-08 photoby Adam-Bielawski.jpg</field>
 <field name="caption">Rossum at the JW Marriott Chicago Grand Opening in  Chicago  on March 8, 2011</field>
-<field name="yearsactive">1996–present (actress),1993–present (singer)</field>
+<field name="yearsactive">1996–present (Actress),1993–present (singer)</field>
 <field name="birthplace">New York City ,  New York , U.S.</field>
 </doc>
 <doc>
@@ -15607,8 +15607,8 @@
 <doc>
 <field name="id">864375</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">Actress</field>
+<field name="occupation">voice Actress</field>
 <field name="occupation">writer</field>
 <field name="occupation">producer</field>
 <field name="occupation">comedienne</field>
@@ -15652,7 +15652,7 @@
 <doc>
 <field name="id">350673</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1947-04-23T00:00:00Z</field>
 <field name="birthname">Bonnie Blair Brown</field>
 <field name="name">Blair Brown</field>
@@ -15667,7 +15667,7 @@
 <field name="deathdate">1996-07-01T00:00:00Z</field>
 <field name="parents">Puck Hemingway Jack Hemingway</field>
 <field name="occupation">Model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1954-02-16T00:00:00Z</field>
 <field name="birthname">Margot Louise Hemingway</field>
 <field name="image">Margaux Hemingway.jpg</field>
@@ -15869,7 +15869,7 @@
 <doc>
 <field name="id">6207589</field>
 <field name="type">person</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="occupation">musician</field>
 <field name="occupation">model</field>
 <field name="birthdate">1979-10-16T00:00:00Z</field>
@@ -15908,7 +15908,7 @@
 <field name="id">828188</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television   actress</field>
+<field name="occupation">television   Actress</field>
 <field name="birthdate">1961-06-29T00:00:00Z</field>
 <field name="birthname">Kimberlin Ann Brown</field>
 <field name="spouse">Gary Pelzer (1991–present)</field>
@@ -15976,7 +15976,7 @@
 <doc>
 <field name="id">27307358</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="name">Isis Carmen Jones</field>
 <field name="othernames">Isis J. Jones</field>
 </doc>
@@ -16131,7 +16131,7 @@
 <field name="type">person</field>
 <field name="deathdate">2003-04-08T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="deathplace">Beverly Hills, California , U.S.</field>
 <field name="birthdate">1930-09-19T00:00:00Z</field>
 <field name="birthname">Jacqueline Katherine Browne</field>
@@ -16173,7 +16173,7 @@
 <field name="id">1741221</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television   actress</field>
+<field name="occupation">television   Actress</field>
 <field name="birthdate">1951-02-13T00:00:00Z</field>
 <field name="name">Ellen Bry</field>
 <field name="birthplace">New York City, New York</field>
@@ -16299,7 +16299,7 @@
 <field name="id">13234650</field>
 <field name="type">person</field>
 <field name="deathdate">1987-08-20T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Los Angeles, California ,  U.S.</field>
 <field name="birthdate">1892-12-20T00:00:00Z</field>
 <field name="birthname">Winifred Brison</field>
@@ -16313,7 +16313,7 @@
 <field name="id">28146033</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television  actress</field>
+<field name="occupation">television  Actress</field>
 <field name="birthdate">1975-03-16T00:00:00Z</field>
 <field name="website">http://www.tarabuck.com</field>
 <field name="name">Tara L. Buck</field>
@@ -16336,7 +16336,7 @@
 <field name="id">6124354</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">stage   actress</field>
+<field name="occupation">stage   Actress</field>
 <field name="birthdate">1974-03-01T00:00:00Z</field>
 <field name="name">Cara Buono</field>
 <field name="yearsactive">1992–present</field>
@@ -16348,7 +16348,7 @@
 <field name="deathdate">1987-09-19T00:00:00Z</field>
 <field name="knownfor">Western screenplays</field>
 <field name="occupation">Screenwriter</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Tarzana, California</field>
 <field name="birthdate">1895-12-07T00:00:00Z</field>
 <field name="birthname">Elizabeth Burbridge</field>
@@ -16432,7 +16432,7 @@
 <field name="id">4540726</field>
 <field name="type">person</field>
 <field name="parents">Joe Simpson</field>
-<field name="occupation">Singer Songwriter performer actress businesswoman</field>
+<field name="occupation">Singer Songwriter performer Actress businesswoman</field>
 <field name="birthdate">1980-07-10T00:00:00Z</field>
 <field name="website">jessicasimpson.com }}</field>
 <field name="birthname">Jessica Ann Simpson</field>
@@ -16549,7 +16549,7 @@
 <field name="id">4510970</field>
 <field name="type">person</field>
 <field name="occupation">Television</field>
-<field name="occupation">film   actress</field>
+<field name="occupation">film   Actress</field>
 <field name="birthdate">1974-10-21T00:00:00Z</field>
 <field name="name">Nakia Burrise</field>
 <field name="yearsactive">1996–present</field>
@@ -16697,7 +16697,7 @@
 <field name="id">18035966</field>
 <field name="type">person</field>
 <field name="occupation">Writer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="spouse">Akiva Schaffer  (2 children)</field>
 <field name="name">Liz Cackowski</field>
 <field name="yearsactive">2003–present</field>
@@ -16735,7 +16735,7 @@
 <field name="id">4424296</field>
 <field name="type">person</field>
 <field name="deathdate">1966-06-03T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1900-11-21T00:00:00Z</field>
 <field name="spouse">Mendel B. Silverburg (1926),Max Chotiner (1926–1938)</field>
@@ -16817,7 +16817,7 @@
 <doc>
 <field name="id">4973252</field>
 <field name="type">person</field>
-<field name="knownfor">Film actress</field>
+<field name="knownfor">Film Actress</field>
 <field name="birthdate">1962-03-09T00:00:00Z</field>
 <field name="name">Natalie Canerday</field>
 <field name="knownfor">Sling Blade</field>
@@ -17055,7 +17055,7 @@
 <doc>
 <field name="id">2372289</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">singer</field>
 <field name="birthdate">1948-11-18T00:00:00Z</field>
 <field name="website">http://www.andreamarcovicci.com/</field>
@@ -17162,7 +17162,7 @@
 <field name="type">person</field>
 <field name="occupation">Socialite</field>
 <field name="occupation">model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">TV personality</field>
 <field name="occupation">author</field>
 <field name="occupation">fashion designer</field>
@@ -17217,7 +17217,7 @@
 <field name="id">2068794</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="residenceplace">Prague, Czech Republic</field>
 <field name="birthdate">1984-05-14T00:00:00Z</field>
 <field name="name">Jessica Boone</field>
@@ -17477,7 +17477,7 @@
 <field name="occupation">Actress</field>
 <field name="birthdate">1981-07-30T00:00:00Z</field>
 <field name="birthname">Lisa Marie Wilhoit</field>
-<field name="name">Lisa Wilhoit (actress)</field>
+<field name="name">Lisa Wilhoit (Actress)</field>
 <field name="yearsactive">1991–present</field>
 <field name="birthplace">Hollywood ,  California ,  U.S.</field>
 </doc>
@@ -17637,7 +17637,7 @@
 <field name="type">person</field>
 <field name="deathdate">2001-08-24T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1924-09-09T00:00:00Z</field>
 <field name="birthname">Bettejane Greer</field>
@@ -17682,7 +17682,7 @@
 <field name="id">4631936</field>
 <field name="type">person</field>
 <field name="deathdate">1965-08-30T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">San Bernardino, California   U.S.</field>
 <field name="nationality">Canadian</field>
 <field name="birthdate">1900-09-09T00:00:00Z</field>
@@ -17699,7 +17699,7 @@
 <field name="deathdate">2008-04-16T00:00:00Z</field>
 <field name="occupation">Stage</field>
 <field name="occupation">film</field>
-<field name="occupation">soap opera and musical theatre actress</field>
+<field name="occupation">soap opera and musical theatre Actress</field>
 <field name="deathplace">Las Vegas, Nevada , U.S.</field>
 <field name="birthdate">1956-06-05T00:00:00Z</field>
 <field name="spouse">Tim Fowlar; 2 children</field>
@@ -17823,7 +17823,7 @@
 <doc>
 <field name="id">24691188</field>
 <field name="type">person</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="name">Daisy Tahan</field>
 <field name="yearsactive">2007-present</field>
 <field name="family">Charlie Tahan  (brother)</field>
@@ -17970,7 +17970,7 @@
 <field name="id">2474483</field>
 <field name="type">person</field>
 <field name="deathdate">2011-10-13T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Palm Desert ,  California ,  U.S.</field>
 <field name="birthdate">1907-12-16T00:00:00Z</field>
 <field name="spouse">Harry E. Edington (m.1932-1949; his death) Marc Monroe (m.1954-1998; his death)</field>
@@ -18136,7 +18136,7 @@
 <field name="id">3151346</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="occupation">comedienne</field>
 <field name="occupation">writer</field>
 <field name="occupation">producer</field>
@@ -18197,7 +18197,7 @@
 <field name="occupation">Musician</field>
 <field name="occupation">Singer-songwriter</field>
 <field name="occupation">Producer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="nationality">American</field>
 <field name="residenceplace">Mill Valley, California ,  U.S.</field>
 <field name="birthdate">1992-12-18T00:00:00Z</field>
@@ -18274,7 +18274,7 @@
 <field name="type">person</field>
 <field name="deathdate">2003-05-03T00:00:00Z</field>
 <field name="occupation">Model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1932-10-28T00:00:00Z</field>
 <field name="birthname">Cecilia Ann Renee Parker</field>
 <field name="image">Suzy Parker 1963.JPG</field>
@@ -18317,7 +18317,7 @@
 <doc>
 <field name="id">26816545</field>
 <field name="type">person</field>
-<field name="occupation">Artist and actress</field>
+<field name="occupation">Artist and Actress</field>
 <field name="occupation">stage</field>
 <field name="occupation">screen</field>
 <field name="occupation">and voice over</field>
@@ -18593,7 +18593,7 @@
 <field name="deathdate">1991-08-22T00:00:00Z</field>
 <field name="occupation">Film</field>
 <field name="occupation">stage</field>
-<field name="occupation">television and voice actress</field>
+<field name="occupation">television and voice Actress</field>
 <field name="deathplace">South Salem, New York , U.S.</field>
 <field name="birthdate">1924-06-03T00:00:00Z</field>
 <field name="spouse">1) James Vickery (1947–60; divorced) 2)  George C. Scott  (1960–65; divorced); 2 children 3) George C. Scott (1967–72; divorced)</field>
@@ -18843,7 +18843,7 @@
 <field name="id">6064136</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="weight">128 lbs (58 kg)</field>
 <field name="height">5 ft 7 in (1.70 m)</field>
 <field name="birthdate">1973-12-22T00:00:00Z</field>
@@ -19015,7 +19015,7 @@
 <doc>
 <field name="id">7600033</field>
 <field name="type">person</field>
-<field name="occupation">Television personality actress model</field>
+<field name="occupation">Television personality Actress model</field>
 <field name="birthdate">1985-05-09T00:00:00Z</field>
 <field name="website">audrinapatridge.com</field>
 <field name="birthname">Audrina Cathleen Patridge</field>
@@ -19065,7 +19065,7 @@
 <field name="television">Laguna Beach: The Real Orange County  (2004–06),'' The Hills '' (2009–10)</field>
 <field name="occupation">Television personality</field>
 <field name="occupation">fashion designer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1987-01-05T00:00:00Z</field>
 <field name="birthname">Kristin Elizabeth Cavallari</field>
 <field name="spouse">Jay Cutle</field>
@@ -19559,7 +19559,7 @@
 <field name="id">8856955</field>
 <field name="type">person</field>
 <field name="deathdate">2000-12-11T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Santa Monica, California</field>
 <field name="birthdate">1903-12-19T00:00:00Z</field>
 <field name="spouse">Kenneth Peach  (1922–1988, his death, 3 children)</field>
@@ -19644,7 +19644,7 @@
 <field name="id">2336167</field>
 <field name="type">person</field>
 <field name="deathdate">1957-01-26T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1906-06-21T00:00:00Z</field>
 <field name="spouse">John W. Regan (1927–1929) Lowell Sherman  (1930–1932) Arturo de Barrio (1933–1939) Lee Le blanc (1940–1946)</field>
@@ -19838,7 +19838,7 @@
 <field name="id">17909355</field>
 <field name="type">person</field>
 <field name="deathdate">1941-03-27T00:00:00Z</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="deathplace">Harrisburg, Pennsylvania</field>
 <field name="birthdate">1858-12-05T00:00:00Z</field>
 <field name="name">Alice Gale</field>
@@ -19942,7 +19942,7 @@
 <field name="type">person</field>
 <field name="deathdate">1999-08-31T00:00:00Z</field>
 <field name="deathplace">Burbank, California , U.S.</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1918-03-09T00:00:00Z</field>
 <field name="spouse">G. Bentley Ryan (1948-1950) (divorced) Richard Bremerkamp (1964-1972) (divorced)</field>
 <field name="name">Marguerite Chapman</field>
@@ -19994,7 +19994,7 @@
 <doc>
 <field name="id">9543570</field>
 <field name="type">person</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="name">Fanny Cogan</field>
 <field name="yearsactive">1918-1920</field>
 </doc>
@@ -20063,7 +20063,7 @@
 <field name="id">14627342</field>
 <field name="type">person</field>
 <field name="deathdate">1961-03-26T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="occupation">singer</field>
 <field name="deathplace">LaBelle, Florida</field>
 <field name="birthdate">1904-03-04T00:00:00Z</field>
@@ -20160,7 +20160,7 @@
 <field name="type">person</field>
 <field name="deathdate">1995-03-12T00:00:00Z</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1949-11-26T00:00:00Z</field>
 <field name="birthname">Juanin Clay de Zalduondo</field>
@@ -20325,7 +20325,7 @@
 <doc>
 <field name="id">20184812</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="birthdate">1966-09-17T00:00:00Z</field>
 <field name="website">http://www.tracydali.com/</field>
@@ -20391,7 +20391,7 @@
 <field name="id">34431631</field>
 <field name="type">person</field>
 <field name="occupation">beauty queen</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">businesswoman</field>
 <field name="nationality">American</field>
 <field name="birthdate">1922-04-07T00:00:00Z</field>
@@ -20768,7 +20768,7 @@
 <doc>
 <field name="id">2444491</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1934-07-18T00:00:00Z</field>
 <field name="birthname">Joan Eunson</field>
 <field name="spouse">Kirby Weatherly (1952-19??; 2 children)</field>
@@ -20781,7 +20781,7 @@
 <field name="id">1938406</field>
 <field name="type">person</field>
 <field name="occupation">Actress</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1966-06-10T00:00:00Z</field>
 <field name="birthname">Laura Jane Silverman</field>
 <field name="name">Laura Silverman</field>
@@ -20823,7 +20823,7 @@
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1906-05-23T00:00:00Z</field>
 <field name="name">Helen Foster</field>
-<field name="image">Helen Foster (actress).jpg</field>
+<field name="image">Helen Foster (Actress).jpg</field>
 <field name="yearsactive">1925–1956</field>
 <field name="birthplace">Independence, Kansas , U.S.</field>
 </doc>
@@ -20876,7 +20876,7 @@
 <field name="id">943424</field>
 <field name="type">person</field>
 <field name="occupation">Model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1960-05-06T00:00:00Z</field>
 <field name="spouse">Bruce Springsteen  (1985 - 1989) (divorced)</field>
 <field name="name">Julianne Phillips</field>
@@ -21205,7 +21205,7 @@
 <field name="id">14862556</field>
 <field name="type">person</field>
 <field name="deathdate">2013-09-08T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Santa Monica, California , U.S.</field>
 <field name="birthdate">1913-04-07T00:00:00Z</field>
 <field name="birthname">Louise Gunter</field>
@@ -21446,7 +21446,7 @@
 <field name="television">Portlandia</field>
 <field name="occupation">Musician</field>
 <field name="occupation">writer</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1974-09-27T00:00:00Z</field>
 <field name="birthname">Carrie Rachel Grace Brownstein</field>
 <field name="image">Carrie Brownstein closeup Coachella 2012.jpg</field>
@@ -21532,7 +21532,7 @@
 <field name="birthdate">1929-01-07T00:00:00Z</field>
 <field name="spouse">Glenn Davis  (1951-52) Eugene McGarth (1956-58) Stuart Cramer (1959-72) Jerry Rivers (1992-2001; his death)</field>
 <field name="name">Terry Moore</field>
-<field name="image">Terry Moore (actress) 001.JPG</field>
+<field name="image">Terry Moore (Actress) 001.JPG</field>
 <field name="caption">Terry Moore in  Peyton Place  (1957)</field>
 <field name="yearsactive">1940–present</field>
 <field name="birthplace">Glendale, California , U.S.</field>
@@ -21549,7 +21549,7 @@
 <field name="spouse">Brian Autenrieth (m. 2012)</field>
 <field name="name">Alisan Porter</field>
 <field name="children">1</field>
-<field name="yearsactive">1987–2008 (as actress)</field>
+<field name="yearsactive">1987–2008 (as Actress)</field>
 <field name="birthplace">Worcester, Massachusetts ,  United States</field>
 </doc>
 <doc>
@@ -21664,7 +21664,7 @@
 <field name="deathplace">Washington, D.C., U.S.</field>
 <field name="birthdate">1888-10-05T00:00:00Z</field>
 <field name="name">Mary Fuller</field>
-<field name="image">Maryfuller-1914-silentfilmactress.jpg</field>
+<field name="image">Maryfuller-1914-silentfilmActress.jpg</field>
 <field name="caption">Mary Fuller, c.1914</field>
 <field name="yearsactive">1907–1917</field>
 <field name="othernames">Claire Fuller</field>
@@ -21819,7 +21819,7 @@
 <field name="type">person</field>
 <field name="deathdate">2007-02-08T00:00:00Z</field>
 <field name="occupation">model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">television personality</field>
 <field name="birthdate">1967-11-28T00:00:00Z</field>
 <field name="website">http://www.annanicole.com</field>
@@ -21900,7 +21900,7 @@
 <doc>
 <field name="id">26454357</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="occupation">sober living  manager</field>
 <field name="name">Jennifer Gimenez</field>
@@ -22034,7 +22034,7 @@
 <field name="id">496776</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television actress</field>
+<field name="occupation">television Actress</field>
 <field name="birthdate">1950-10-03T00:00:00Z</field>
 <field name="birthname">Pamela Gail Hensley</field>
 <field name="spouse">E. Duke Vincent  (1982-present), Wes Farrell  (1978–1981) (divorced)</field>
@@ -22186,7 +22186,7 @@
 <field name="id">14495870</field>
 <field name="type">person</field>
 <field name="occupation">Film</field>
-<field name="occupation">television   actress</field>
+<field name="occupation">television   Actress</field>
 <field name="occupation">Television Presenter</field>
 <field name="occupation">Producer</field>
 <field name="spouse">Angel Diez Gambo</field>
@@ -22717,7 +22717,7 @@
 <field name="id">18235539</field>
 <field name="type">person</field>
 <field name="occupation">Pixar  employee</field>
-<field name="occupation">voice actress</field>
+<field name="occupation">voice Actress</field>
 <field name="birthdate">1975-04-15T00:00:00Z</field>
 <field name="name">Elissa Knight</field>
 <field name="yearsactive">2006 — present</field>
@@ -22872,7 +22872,7 @@
 <field name="type">person</field>
 <field name="deathdate">1999-12-01T00:00:00Z</field>
 <field name="knownfor">"Little Maria" in  Frankenstein</field>
-<field name="occupation">Child actress</field>
+<field name="occupation">Child Actress</field>
 <field name="deathplace">Los Angeles ,  California , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1924-07-17T00:00:00Z</field>
@@ -23230,7 +23230,7 @@
 <field name="type">person</field>
 <field name="deathdate">1971-08-12T00:00:00Z</field>
 <field name="occupation">Stage</field>
-<field name="occupation">film   actress</field>
+<field name="occupation">film   Actress</field>
 <field name="deathplace">Miami, Florida</field>
 <field name="birthdate">1886-06-27T00:00:00Z</field>
 <field name="birthname">Sally Kirby</field>
@@ -23274,7 +23274,7 @@
 <field name="birthdate">1876-03-06T00:00:00Z</field>
 <field name="birthname">Margaret Dale</field>
 <field name="name">Margaret Dale</field>
-<field name="image">Margaret Dale (actress).JPG</field>
+<field name="image">Margaret Dale (Actress).JPG</field>
 <field name="caption">Hearst International Magazine 1907</field>
 <field name="yearsactive">1898-1948</field>
 <field name="birthplace">Philadelphia ,  Pennsylvania</field>
@@ -23406,7 +23406,7 @@
 <doc>
 <field name="id">6097649</field>
 <field name="type">person</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="name">Ida Darling</field>
 <field name="yearsactive">1913-1935</field>
 </doc>
@@ -23500,7 +23500,7 @@
 <field name="id">5032222</field>
 <field name="type">person</field>
 <field name="deathdate">1960-08-02T00:00:00Z</field>
-<field name="occupation">silent screen actress</field>
+<field name="occupation">silent screen Actress</field>
 <field name="deathplace">Los Angeles, California ,  USA</field>
 <field name="birthdate">1890-01-21T00:00:00Z</field>
 <field name="name">Annette DeFoe</field>
@@ -23586,7 +23586,7 @@
 <field name="id">4607555</field>
 <field name="type">person</field>
 <field name="deathdate">1977-03-14T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">publicist</field>
 <field name="deathplace">Clearwater, Florida , U.S.</field>
 <field name="birthdate">1901-07-23T00:00:00Z</field>
@@ -23599,7 +23599,7 @@
 <field name="id">4400174</field>
 <field name="type">person</field>
 <field name="deathdate">1966-04-06T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Hollywood, Los Angeles, California , U.S.</field>
 <field name="birthdate">1892-09-24T00:00:00Z</field>
 <field name="name">Julia Faye</field>
@@ -23646,7 +23646,7 @@
 <field name="id">9652716</field>
 <field name="type">person</field>
 <field name="deathdate">1967-11-07T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="occupation">author</field>
 <field name="occupation">film director</field>
 <field name="deathplace">Brasília, Distrito Federal, Brazil</field>
@@ -23857,7 +23857,7 @@
 <field name="id">7053672</field>
 <field name="type">person</field>
 <field name="deathdate">2010-04-04T00:00:00Z</field>
-<field name="occupation">Film and television actress</field>
+<field name="occupation">Film and television Actress</field>
 <field name="deathplace">Oakhurst ,  Madera County , California</field>
 <field name="birthdate">1947-04-18T00:00:00Z</field>
 <field name="spouse">Charles Breitenbucher (married ? -1999, his death)</field>
@@ -23909,7 +23909,7 @@
 <doc>
 <field name="id">21299578</field>
 <field name="type">person</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1950-12-12T00:00:00Z</field>
 <field name="name">Darleen Carr</field>
 <field name="yearsactive">1963–2001</field>
@@ -24108,7 +24108,7 @@
 <field name="id">2661365</field>
 <field name="type">person</field>
 <field name="deathdate">1977-10-10T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">stuntwoman</field>
 <field name="occupation">trick rider</field>
 <field name="occupation">film producer</field>
@@ -24239,7 +24239,7 @@
 <doc>
 <field name="id">18525759</field>
 <field name="type">person</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="name">Florence Hale</field>
 <field name="yearsactive">1912-1922</field>
 </doc>
@@ -24251,7 +24251,7 @@
 <field name="birthdate">1876-07-11T00:00:00Z</field>
 <field name="birthname">Laura Barnhurst</field>
 <field name="image">Laura-nelson-hall-profile-portrait.jpg</field>
-<field name="caption">Portrait of the actress Laura Nelson Hall circa 1915.</field>
+<field name="caption">Portrait of the Actress Laura Nelson Hall circa 1915.</field>
 <field name="yearsactive">(1897-1915)</field>
 <field name="birthplace">Philadelphia, Pennsylvania</field>
 <field name="deathplace">New Rochelle, New York</field>
@@ -24273,7 +24273,7 @@
 <doc>
 <field name="id">18462713</field>
 <field name="type">person</field>
-<field name="occupation">film actress</field>
+<field name="occupation">film Actress</field>
 <field name="name">Ruth Hart</field>
 <field name="yearsactive">1909-1938</field>
 </doc>
@@ -24383,7 +24383,7 @@
 <field name="type">person</field>
 <field name="deathdate">1997-01-18T00:00:00Z</field>
 <field name="parents">Guido Caselotti (father) Maria Orefice (mother)</field>
-<field name="occupation">Voice actress</field>
+<field name="occupation">Voice Actress</field>
 <field name="occupation">singer</field>
 <field name="birthdate">1916-05-06T00:00:00Z</field>
 <field name="image">Adriana Caselotti.jpg</field>
@@ -24401,7 +24401,7 @@
 <field name="id">34092008</field>
 <field name="type">person</field>
 <field name="deathdate">1979-03-06T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">artist</field>
 <field name="deathplace">Bradenton, Florida</field>
 <field name="nationality">American</field>
@@ -24869,7 +24869,7 @@
 <field name="id">3820523</field>
 <field name="type">person</field>
 <field name="deathdate">1986-08-13T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">writer</field>
 <field name="occupation">director</field>
 <field name="occupation">producer</field>
@@ -24948,7 +24948,7 @@
 <field name="id">2314814</field>
 <field name="type">person</field>
 <field name="deathdate">1968-02-13T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Hermosa Beach ,  California , U.S.</field>
 <field name="birthdate">1894-11-09T00:00:00Z</field>
 <field name="spouse">Louis Lee Arms, 3 children</field>
@@ -25117,7 +25117,7 @@
 <field name="id">2698083</field>
 <field name="type">person</field>
 <field name="deathdate">1969-07-13T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="occupation">Film writer</field>
 <field name="deathplace">Los Angeles, California , U.S.</field>
 <field name="birthdate">1890-02-12T00:00:00Z</field>
@@ -25188,7 +25188,7 @@
 <field name="id">14836872</field>
 <field name="type">person</field>
 <field name="deathdate">1968-06-07T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="deathplace">Los Angeles, California</field>
 <field name="birthdate">1898-11-07T00:00:00Z</field>
 <field name="imdbe">0606761</field>
@@ -25201,7 +25201,7 @@
 <field name="type">person</field>
 <field name="deathdate">1996-02-20T00:00:00Z</field>
 <field name="occupation">Artists' model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="deathplace">Ogdensburg, New York , U.S.</field>
 <field name="nationality">American</field>
 <field name="birthdate">1891-06-08T00:00:00Z</field>
@@ -25806,7 +25806,7 @@
 <field name="id">14752502</field>
 <field name="type">person</field>
 <field name="deathdate">1992-06-09T00:00:00Z</field>
-<field name="occupation">Film actress</field>
+<field name="occupation">Film Actress</field>
 <field name="occupation">stuntwoman</field>
 <field name="occupation">drama teacher</field>
 <field name="occupation">school educator</field>
@@ -25833,7 +25833,7 @@
 <field name="id">1197179</field>
 <field name="type">person</field>
 <field name="occupation">Plus-size model</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="birthdate">1978-12-22T00:00:00Z</field>
 <field name="family">Steven Tyler  (father) Cyrinda Foxe  (mother) Liv Tyler  (paternal half-sister) Chelsea Anna Tallarico (paternal half-sister) Taj Monroe Tallarico (paternal half-brother) Teresa Barrick (stepmother)</field>
 <field name="spouse">Dave Buckner  (2002-2005)</field>
@@ -26040,7 +26040,7 @@
 <field name="type">person</field>
 <field name="occupation">Dancer</field>
 <field name="occupation">choreographer</field>
-<field name="occupation">and actress</field>
+<field name="occupation">and Actress</field>
 <field name="birthdate">1919-09-02T00:00:00Z</field>
 <field name="family">Lina Basquette</field>
 <field name="spouse">Art Babbitt  (1937–40) Gower Champion  (1947–73) Boris Sagal  (1977–81)</field>
@@ -26085,7 +26085,7 @@
 <field name="id">37749429</field>
 <field name="type">person</field>
 <field name="television">'' Johnny Ringo ''</field>
-<field name="occupation">Film and television  actress  and producer</field>
+<field name="occupation">Film and television  Actress  and producer</field>
 <field name="residenceplace">Los Angeles ,  California</field>
 <field name="birthdate">1934-09-20T00:00:00Z</field>
 <field name="birthname">Karen Kay Sharpe</field>
@@ -26099,7 +26099,7 @@
 <field name="id">34169876</field>
 <field name="type">person</field>
 <field name="deathdate">2011-12-23T00:00:00Z</field>
-<field name="occupation">actress</field>
+<field name="occupation">Actress</field>
 <field name="occupation">model</field>
 <field name="deathplace">Encino, California</field>
 <field name="birthdate">1925-04-07T00:00:00Z</field>

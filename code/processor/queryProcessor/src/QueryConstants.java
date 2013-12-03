@@ -78,9 +78,9 @@ public class QueryConstants {
 
 	static {
 		facettagger = new HashMap<String, String>();
-		facettagger.put("person", "occupation");
-		facettagger.put("film", "director");
-		facettagger.put("places", "state");
+		facettagger.put("person", "occupationFacet");
+		facettagger.put("film", "directorFacet");
+		facettagger.put("places", "stateFacet");
 
 	}
 

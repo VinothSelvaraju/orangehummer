@@ -178,6 +178,8 @@
    <!-- Tags for film -->
    <field  name="releaseddate" type="date" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
    <field  name="director" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
+   <field name="directorFacet" type="string" indexed="true" stored="true" multiValued="true" />
+   <copyField source="director" dest="directorFacet"/>   
    <field  name="producer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true" multiValued="true"/>
    <field  name="writer" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
    <field  name="screenplay" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
@@ -204,7 +206,9 @@
    <field  name="nickname" type="text_general" indexed="true" stored="true" termVectors = "true" omitNorms="true"/>
    <field  name="officialname" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
    <field  name="leader" type="text_general" indexed="true" stored="true" omitNorms="true" termVectors = "true"/>
-   <field  name="state"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>        
+   <field  name="state"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>  
+	<field name="stateFacet" type="string" indexed="true" stored="true" multiValued="true" />
+   <copyField source="state" dest="stateFacet"/>   
    <field  name="county"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="latd"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
    <field  name="latm"  type="text_general" indexed="true" stored="true" omitNorms = "True"/>
