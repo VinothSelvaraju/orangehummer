@@ -98,7 +98,7 @@ public class QueryConstants {
 	static {
 		facetFileTagger = new HashMap<String, String>();
 		facetFileTagger.put("person", facetPersonFile);
-		facetFileTagger.put("place", facetPlaceFile);
+		facetFileTagger.put("places", facetPlaceFile);
 		facetFileTagger.put("film", facetFilmFile);
 
 	}
