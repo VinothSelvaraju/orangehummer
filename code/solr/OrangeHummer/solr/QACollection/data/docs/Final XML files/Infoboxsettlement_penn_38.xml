@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<add>
+<doc>
+<field name="id">133960</field>
+<field name="type">places</field>
+<field name="placesname">Franklin</field>
+<field name="longd">longd=79</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=49</field>
+<field name="longs">longs=53</field>
+<field name="leader">Doug Baker</field>
+<field name="name">Franklin</field>
+<field name="area">4.7</field>
+<field name="populationdensity">1422.8</field>
+<field name="lats">lats=52</field>
+<field name="nickname">The Victorian City</field>
+<field name="caption">Downtown Franklin</field>
+<field name="population">6545</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">16323</field>
+<field name="latm">latm=23</field>
+<field name="establisheddate">1740-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Venango</field>
+</doc>
+<doc>
+<field name="id">131100</field>
+<field name="type">places</field>
+<field name="placesname">Duquesne, Pennsylvania</field>
+<field name="establisheddate">1885-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=51</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=3</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Duquesne, Pennsylvania</field>
+<field name="area">2.0</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=12</field>
+<field name="latd">latd=40</field>
+<field name="population">5565</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Allegheny</field>
+<field name="latm">latm=22</field>
+</doc>
+<doc>
+<field name="id">134126</field>
+<field name="type">places</field>
+<field name="placesname">Arnold, Pennsylvania</field>
+<field name="establisheddate">1781-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=45</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=52</field>
+<field name="longew">longEW=W</field>
+<field name="leader">John Campbell</field>
+<field name="country">United States</field>
+<field name="populationdensity">6446.25</field>
+<field name="area">0.8</field>
+<field name="name">Arnold, Pennsylvania</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=39</field>
+<field name="website">Arnold</field>
+<field name="latd">latd=40</field>
+<field name="population">5157</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Westmoreland</field>
+<field name="motto">Proud City of Proud People</field>
+<field name="latm">latm=34</field>
+</doc>
+<doc>
+<field name="id">131225</field>
+<field name="type">places</field>
+<field name="placesname">Parker, Pennsylvania</field>
+<field name="establisheddate">1797-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=40</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=58</field>
+<field name="longew">longEW=W</field>
+<field name="leader">William R. McCall. Jr.</field>
+<field name="country">United States</field>
+<field name="name">Parker, Pennsylvania</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=39</field>
+<field name="nickname">Smallest City in the U.S.A.</field>
+<field name="caption">The Old Lawrenceburg section of Parker</field>
+<field name="latd">latd=41</field>
+<field name="population">840</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Armstrong County</field>
+<field name="latm">latm=5</field>
+</doc>
+<doc>
+<field name="id">133967</field>
+<field name="type">places</field>
+<field name="placesname">Oil City, Pennsylvania</field>
+<field name="longd">longd=79</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=26</field>
+<field name="leader">Barbara F Crudo</field>
+<field name="name">Oil City, Pennsylvania</field>
+<field name="area">4.7</field>
+<field name="populationdensity">2548.4</field>
+<field name="lats">lats=42</field>
+<field name="population">10557</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">16301</field>
+<field name="motto">"A Special Blend of People"</field>
+<field name="latm">latm=25</field>
+<field name="establisheddate">1824-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.oilcity.org</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Venango</field>
+</doc>
+<doc>
+<field name="id">131244</field>
+<field name="type">places</field>
+<field name="placesname">City of Aliquippa</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=15</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=47</field>
+<field name="name">City of Aliquippa</field>
+<field name="area">4.5</field>
+<field name="populationdensity">2867.7</field>
+<field name="lats">lats=54</field>
+<field name="caption">Downtown Aliquippa, Pennsylvania</field>
+<field name="population">9438</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">15001</field>
+<field name="latm">latm=36</field>
+<field name="establisheddate">1793-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Beaver</field>
+</doc>
+<doc>
+<field name="id">131681</field>
+<field name="type">places</field>
+<field name="placesname">Johnstown, Pennsylvania</field>
+<field name="longd">longd=78</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=55</field>
+<field name="longs">longs=15</field>
+<field name="leader">Tom Trigona</field>
+<field name="name">Johnstown, Pennsylvania</field>
+<field name="area">6.1</field>
+<field name="lats">lats=22</field>
+<field name="nickname">Flood City</field>
+<field name="population">20,577</field>
+<field name="latd">latd=40</field>
+<field name="latm">latm=19</field>
+<field name="establisheddate">1770-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofjohnstownpa.net</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Cambria County</field>
+</doc>
+<doc>
+<field name="id">133702</field>
+<field name="type">places</field>
+<field name="placesname">Pottsville, Pennsylvania</field>
+<field name="longd">longd=76</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=12</field>
+<field name="longs">longs=10</field>
+<field name="leader">John D.W. Reiley</field>
+<field name="name">Pottsville, Pennsylvania</field>
+<field name="area">4.2</field>
+<field name="populationdensity">3410.48</field>
+<field name="lats">lats=6</field>
+<field name="caption">Pottsville skyline</field>
+<field name="population">14324</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">17901</field>
+<field name="latm">latm=41</field>
+<field name="establisheddate">1806-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.city.pottsville.pa.us</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Schuylkill County</field>
+</doc>
+<doc>
+<field name="id">133534</field>
+<field name="type">places</field>
+<field name="placesname">Shamokin, Pennsylvania</field>
+<field name="longd">longd=76</field>
+<field name="longm">longm=33</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=17</field>
+<field name="leader">George S. Rozinskie, Jr.</field>
+<field name="name">Shamokin, Pennsylvania</field>
+<field name="area">0.8</field>
+<field name="populationdensity">9217.5</field>
+<field name="lats">lats=21</field>
+<field name="caption">Shamokin, Pennsylvania</field>
+<field name="latd">latd=40</field>
+<field name="population">7374</field>
+<field name="postalcode">17872</field>
+<field name="latm">latm=47</field>
+<field name="establisheddate">1835-01-01T00:00:00Z</field>
+<field name="leadertitle5">Treasurer</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.shamokincity.org/</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Northumberland</field>
+</doc>
+<doc>
+<field name="id">134305</field>
+<field name="type">places</field>
+<field name="placesname">York, Pennsylvania</field>
+<field name="longd">longd=76</field>
+<field name="longm">longm=43</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=41</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Kim Bracey  (D)</field>
+<field name="country">United States</field>
+<field name="populationdensity">8311.41</field>
+<field name="area">5.26</field>
+<field name="name">York, Pennsylvania</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=46</field>
+<field name="website">www.yorkcity.org</field>
+<field name="nickname">The White Rose City</field>
+<field name="latd">latd=39</field>
+<field name="population">43,550</field>
+<field name="state">Pennsylvania</field>
+<field name="county">York</field>
+<field name="latm">latm=57</field>
+</doc>
+<doc>
+<field name="id">151010</field>
+<field name="type">places</field>
+<field name="placesname">Bethlehem, Pennsylvania (USA)</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=22</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=32</field>
+<field name="leader">John B. Callahan</field>
+<field name="name">Bethlehem, Pennsylvania (USA)</field>
+<field name="area">19.4</field>
+<field name="populationdensity">3,704.4</field>
+<field name="lats">lats=34</field>
+<field name="nickname">The Christmas City, The Steel City</field>
+<field name="caption">Downtown Bethlehem in 2007</field>
+<field name="population">74982</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">18015-18018, 18020, 18025</field>
+<field name="latm">latm=37</field>
+<field name="establisheddate">1741-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">bethlehem-pa.gov</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Lehigh  and  Northampton</field>
+</doc>
+<doc>
+<field name="id">133537</field>
+<field name="type">places</field>
+<field name="placesname">Sunbury, Pennsylvania</field>
+<field name="establisheddate">1772-01-01T00:00:00Z</field>
+<field name="longd">longd=76</field>
+<field name="longm">longm=47</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=21</field>
+<field name="longew">longEW=W</field>
+<field name="populationdensity">4716.7</field>
+<field name="name">Sunbury, Pennsylvania</field>
+<field name="area">2.2</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=50</field>
+<field name="website">http://www.riveroflifesunbury.com/</field>
+<field name="latd">latd=40</field>
+<field name="population">9,835</field>
+<field name="postalcode">17801</field>
+<field name="county">Northumberland County</field>
+<field name="latm">latm=51</field>
+</doc>
+<doc>
+<field name="id">133080</field>
+<field name="type">places</field>
+<field name="placesname">Pittston, Pennsylvania</field>
+<field name="establisheddate">1770-01-01T00:00:00Z</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=47</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=20</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Jason C. Klush  ( D )</field>
+<field name="country">United States</field>
+<field name="populationdensity">auto</field>
+<field name="area">1.7</field>
+<field name="name">Pittston, Pennsylvania</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=26</field>
+<field name="nickname">The Tomato Capital</field>
+<field name="caption">Pittston City aerial view looking northeast.</field>
+<field name="latd">latd=41</field>
+<field name="population">7739</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">18640-18644</field>
+<field name="county">Luzerne</field>
+<field name="latm">latm=19</field>
+</doc>
+<doc>
+<field name="id">132982</field>
+<field name="type">places</field>
+<field name="placesname">Allentown</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=28</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=38</field>
+<field name="leader">Ed Pawlowski  ( D )</field>
+<field name="populationdensity">6631.0</field>
+<field name="officialname">City of Allentown</field>
+<field name="area">18.0</field>
+<field name="lats">lats=06</field>
+<field name="nickname">"The Queen City", "A-Town", "Band City USA", "Peanut City",. "Allentown's title as the Peanut City goes back to the late 19th and early 20th century when large amounts of them were eaten in the Lehigh Valley. From the 1880s to the 1920s, vendors lined Hamilton Street, singing jingles in Pennsylvania Dutch about the superior quality of their peanuts. Former  Call-Chronicle  Sunday editor John Y. Kohl recalled in 1967 that the peanuts were eaten mostly by young men and boys who would walk Hamilton Street on Saturday nights flirting with girls and 'throwing the shells about with complete abandon.' Sunday morning sidewalks were 'not quite ankle deep' in shells. Merchants would get up early to sweep them into the gutter so churchgoers would not have to wade through them.'" "Silk City".</field>
+<field name="caption">Center City Allentown, Pennsylvania , 2010</field>
+<field name="latd">latd=40</field>
+<field name="population">118,974 (US:  222th )</field>
+<field name="postalcode">18101, 18102, 18103, 18104, 18105, 18106, 18109, 18175, 18195</field>
+<field name="motto">" Sic Semper Tyrannis "</field>
+<field name="latm">latm=36</field>
+<field name="establisheddate">1751-01-01T00:00:00Z</field>
+<field name="leadertitle5">State Representative</field>
+<field name="longew">longEW=W</field>
+<field name="name">Allentown</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.allentownpa.gov/</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Lehigh</field>
+</doc>
+<doc>
+<field name="id">64585</field>
+<field name="type">places</field>
+<field name="placesname">Wilkes-Barre, Pennsylvania</field>
+<field name="longd">longd=75</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=52</field>
+<field name="longs">longs=41</field>
+<field name="leader">Thomas M. Leighton  ( D )</field>
+<field name="officialname">City of Wilkes-Barre</field>
+<field name="area">7.2</field>
+<field name="lats">lats=40</field>
+<field name="nickname">The Diamond City, Coal City, Dub City, The W-B</field>
+<field name="caption">Downtown Wilkes-Barre, looking west from Giants Despair</field>
+<field name="population">41,243</field>
+<field name="latd">latd=41</field>
+<field name="motto">Pattern After Us</field>
+<field name="latm">latm=14</field>
+<field name="establisheddate">1769-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Wilkes-Barre, Pennsylvania</field>
+<field name="country">United States of America</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.wilkes-barre.pa.us</field>
+<field name="county">Luzerne</field>
+</doc>
+<doc>
+<field name="id">132071</field>
+<field name="type">places</field>
+<field name="placesname">Lock Haven, Pennsylvania</field>
+<field name="longd">longd=77</field>
+<field name="longm">longm=27</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=03</field>
+<field name="name">Lock Haven, Pennsylvania</field>
+<field name="area">2.7</field>
+<field name="populationdensity">3643.9</field>
+<field name="lats">lats=16</field>
+<field name="caption">Clinton County Courthouse, Lock Haven (1869),  Samuel Sloan  and  Addison Hutton , architects</field>
+<field name="population">9772</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">17745</field>
+<field name="latm">latm=08</field>
+<field name="establisheddate">1769-01-01T00:00:00Z</field>
+<field name="title">City of Lock Haven</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Lock Haven</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Clinton County</field>
+</doc>
+<doc>
+<field name="id">81686</field>
+<field name="type">places</field>
+<field name="placesname">Latrobe, Pennsylvania</field>
+<field name="establisheddate">1852-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=22</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=52</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Barbara Griffin</field>
+<field name="country">United States</field>
+<field name="populationdensity">3625.2</field>
+<field name="name">Latrobe, Pennsylvania</field>
+<field name="area">2.3</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=54</field>
+<field name="website">http://www.cityoflatrobe.com</field>
+<field name="caption">Looking down Main Street</field>
+<field name="latd">latd=40</field>
+<field name="population">8338</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">15650</field>
+<field name="county">Westmoreland</field>
+<field name="latm">latm=18</field>
+</doc>
+<doc>
+<field name="id">132862</field>
+<field name="type">places</field>
+<field name="placesname">Scranton</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=40</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=03</field>
+<field name="leader">Christopher Doherty  ( D )</field>
+<field name="officialname">City of Scranton</field>
+<field name="area">25.44</field>
+<field name="populationdensity">3,006</field>
+<field name="lats">lats=38</field>
+<field name="nickname">Electric City</field>
+<field name="caption">Downtown Scranton</field>
+<field name="population">76089</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">18447, 18501-18505, 18507-18510, 18512, 18514-18515, 18517-18519, 18522, 18540, 18577</field>
+<field name="motto">Embracing Our People, Our Traditions, and Our Future</field>
+<field name="latm">latm=24</field>
+<field name="establisheddate">1856-02-14T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Scranton</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.ScrantonPA.gov</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Lackawanna</field>
+</doc>
+<doc>
+<field name="id">82388</field>
+<field name="type">places</field>
+<field name="placesname">Lancaster</field>
+<field name="longd">longd=76</field>
+<field name="longm">longm=18</field>
+<field name="longs">longs=16</field>
+<field name="leader">Rick Gray</field>
+<field name="populationdensity">auto</field>
+<field name="area">7.4</field>
+<field name="officialname">City of Lancaster</field>
+<field name="lats">lats=23</field>
+<field name="nickname">The Red Rose City</field>
+<field name="caption">Downtown Lancaster, dominated by the new  Lancaster County Convention Center  and  Marriott  Hotel, as well as the  W. W. Griest Building  and the Lancaster County Court House.</field>
+<field name="population">59322</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">17573, 17601−17608, 17611, 17622, 17699</field>
+<field name="timezone">EST</field>
+<field name="latm">latm=2</field>
+<field name="establisheddate">1730-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Lancaster</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">cityoflancasterpa.com</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Lancaster</field>
+<field name="dotx">128</field>
+</doc>
+<doc>
+<field name="id">133073</field>
+<field name="type">places</field>
+<field name="placesname">Nanticoke, Pennsylvania</field>
+<field name="establisheddate">1800-01-01T00:00:00Z</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=59</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=57</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Joseph Dougherty</field>
+<field name="country">United States</field>
+<field name="populationdensity">auto</field>
+<field name="name">Nanticoke, Pennsylvania</field>
+<field name="area">3.6</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=58</field>
+<field name="caption">Aerial view of Nanticoke, looking southwest.</field>
+<field name="latd">latd=41</field>
+<field name="population">10465</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">18634</field>
+<field name="county">Luzerne</field>
+<field name="latm">latm=11</field>
+</doc>
+<doc>
+<field name="id">134156</field>
+<field name="type">places</field>
+<field name="placesname">Lower Burrell, Pennsylvania</field>
+<field name="establisheddate">1852-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=43</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=19</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Donald Kinosz</field>
+<field name="country">United States</field>
+<field name="name">Lower Burrell, Pennsylvania</field>
+<field name="area">11.8</field>
+<field name="populationdensity">996.7</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=02</field>
+<field name="latd">latd=40</field>
+<field name="population">11761</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">15068</field>
+<field name="county">Westmoreland</field>
+<field name="latm">latm=35</field>
+</doc>
+<doc>
+<field name="id">131393</field>
+<field name="type">places</field>
+<field name="placesname">Reading</field>
+<field name="establisheddate">1748-01-01T00:00:00Z</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=55</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=35</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Vaughn Spencer ( D )</field>
+<field name="country">United States</field>
+<field name="name">Reading</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=30</field>
+<field name="caption">View of Downtown Reading</field>
+<field name="latd">latd=40</field>
+<field name="population">88,102 (US: 346th)</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">19601-19612, 19640</field>
+<field name="county">Berks</field>
+<field name="latm">latm=20</field>
+</doc>
+<doc>
+<field name="id">133178</field>
+<field name="type">places</field>
+<field name="placesname">Bradford, Pennsylvania</field>
+<field name="establisheddate">1823-01-01T00:00:00Z</field>
+<field name="longd">longd=78</field>
+<field name="longm">longm=38</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=41</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Tom Riel</field>
+<field name="country">United States</field>
+<field name="name">Bradford, Pennsylvania</field>
+<field name="area">3.5</field>
+<field name="populationdensity">2659.7</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=33</field>
+<field name="website">City of Bradford</field>
+<field name="latd">latd=41</field>
+<field name="population">9175</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">16701</field>
+<field name="county">McKean</field>
+<field name="latm">latm=57</field>
+</doc>
+<doc>
+<field name="id">50585</field>
+<field name="type">places</field>
+<field name="placesname">Philadelphia</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=10</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=12</field>
+<field name="leader">Michael Nutter  ( D )</field>
+<field name="officialname">City of Philadelphia</field>
+<field name="area">141.6</field>
+<field name="populationdensity">11,379.6</field>
+<field name="lats">lats=12</field>
+<field name="nickname">"Philly", "City of Brotherly Love", "The City that Loves you Back", "Cradle of Liberty", "The Quaker City", "The Birthplace of America", "The City of Neighborhoods"</field>
+<field name="caption">From top left, the Philadelphia skyline, a  statue of Benjamin Franklin , the  Liberty Bell , the  Philadelphia Museum of Art ,  Philadelphia City Hall , and  Independence Hall</field>
+<field name="latd">latd=39</field>
+<field name="population">1,526,006 ( 5th )</field>
+<field name="postalcode">191xx</field>
+<field name="motto">"Philadelphia maneto" ("Let brotherly love endure")</field>
+<field name="latm">latm=57</field>
+<field name="establisheddate">1682-10-27T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Philadelphia</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.phila.gov</field>
+<field name="county">Pennsylvania</field>
+</doc>
+<doc>
+<field name="id">132467</field>
+<field name="type">places</field>
+<field name="placesname">Saint Marys, Pennsylvania</field>
+<field name="longd">longd=78</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=32</field>
+<field name="longs">longs=34</field>
+<field name="leader">Sally Geyer ( R )</field>
+<field name="name">Saint Marys, Pennsylvania</field>
+<field name="area">99.5</field>
+<field name="populationdensity">131.6</field>
+<field name="lats">lats=15</field>
+<field name="caption">Saint Marys City Hall</field>
+<field name="population">13070</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">15857</field>
+<field name="motto">Pennsylvania's Newest City</field>
+<field name="latm">latm=26</field>
+<field name="establisheddate">1804-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of St. Marys</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Elk</field>
+</doc>
+<doc>
+<field name="id">134167</field>
+<field name="type">places</field>
+<field name="placesname">New Kensington, Pennsylvania</field>
+<field name="establisheddate">1891-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=45</field>
+<field name="timezone">Eastern</field>
+<field name="longs">longs=30</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Tom Guzzo (D)</field>
+<field name="country">United States</field>
+<field name="name">New Kensington, Pennsylvania</field>
+<field name="area">4.2</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=6</field>
+<field name="latd">latd=40</field>
+<field name="population">13,116</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Westmoreland</field>
+<field name="latm">latm=34</field>
+</doc>
+<doc>
+<field name="id">134151</field>
+<field name="type">places</field>
+<field name="placesname">Jeannette, Pennsylvania</field>
+<field name="establisheddate">1888-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=36</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=50</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">4414.3</field>
+<field name="name">Jeannette, Pennsylvania</field>
+<field name="area">2.4</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=44</field>
+<field name="website">City of Jeannette</field>
+<field name="caption">Jeannette's Business District (Clay Avenue)</field>
+<field name="latd">latd=40</field>
+<field name="population">9654</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">15644</field>
+<field name="county">Westmoreland</field>
+<field name="latm">latm=19</field>
+</doc>
+<doc>
+<field name="id">133048</field>
+<field name="type">places</field>
+<field name="placesname">City Of Hazleton</field>
+<field name="establisheddate">1780-01-01T00:00:00Z</field>
+<field name="longd">longd=75</field>
+<field name="longm">longm=58</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=28</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Joseph Yannuzzi  (R)</field>
+<field name="country">United States</field>
+<field name="name">City Of Hazleton</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=32</field>
+<field name="website">http://www.hazletoncity.org/</field>
+<field name="nickname">The Mountain City, The Power City</field>
+<field name="caption">Panoramic view of Hazleton overlooking Downtown and the southern section of the city.</field>
+<field name="latd">latd=40</field>
+<field name="population">25,340</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Luzerne</field>
+<field name="latm">latm=57</field>
+</doc>
+<doc>
+<field name="id">131577</field>
+<field name="type">places</field>
+<field name="placesname">Butler, Pennsylvania</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=53</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=41</field>
+<field name="leader">Margaret "Maggie" Stock ( D )</field>
+<field name="populationdensity">5095.1851</field>
+<field name="lats">lats=38</field>
+<field name="caption">View of Butler from the Southside neighborhood</field>
+<field name="population">13757</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">16001, 16002, 16003</field>
+<field name="latm">latm=51</field>
+<field name="establisheddate">1802-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Butler, Pennsylvania</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">Butler County</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Butler</field>
+</doc>
+<doc>
+<field name="id">131248</field>
+<field name="type">places</field>
+<field name="placesname">Beaver Falls, Pennsylvania</field>
+<field name="nickname">Birthplace of College Basketball</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=19</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=11</field>
+<field name="longew">longEW=W</field>
+<field name="leader">George Quay (interim)</field>
+<field name="country">United States</field>
+<field name="populationdensity">4681.6</field>
+<field name="area">2.3</field>
+<field name="name">Beaver Falls, Pennsylvania</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=32</field>
+<field name="caption">View of Beaver Falls, from the borough of  New Brighton .</field>
+<field name="latd">latd=40</field>
+<field name="population">8987</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Beaver County</field>
+<field name="latm">latm=45</field>
+</doc>
+<doc>
+<field name="id">131425</field>
+<field name="type">places</field>
+<field name="placesname">Altoona</field>
+<field name="longd">longd=78.3997</field>
+<field name="timezone">EST</field>
+<field name="leader">Bill Schirf</field>
+<field name="officialname">City of Altoona</field>
+<field name="nickname">The Mountain City, A-Town, Toon Town</field>
+<field name="knownfor">Zip codes: 16601, 16602, 16603.,Local phone exchanges:,940, 941, 942, 943, 944, 946, 947, 949</field>
+<field name="population">46320</field>
+<field name="latd">latd=40.5107</field>
+<field name="establisheddate">1849-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Altoona</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.altoonapa.gov</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Blair County</field>
+</doc>
+<doc>
+<field name="id">132955</field>
+<field name="type">places</field>
+<field name="placesname">Lebanon, Pennsylvania</field>
+<field name="establisheddate">1756-01-01T00:00:00Z</field>
+<field name="longd">longd=76</field>
+<field name="longm">longm=25</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=15</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Sherry Capello   (R)</field>
+<field name="country">United States</field>
+<field name="name">Lebanon, Pennsylvania</field>
+<field name="area">4.2</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=30</field>
+<field name="website">http://www.lebanonpa.org</field>
+<field name="caption">Border detail of Lebanon and surrounding municipalities</field>
+<field name="latd">latd=40</field>
+<field name="population">25477</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Lebanon</field>
+<field name="latm">latm=20</field>
+</doc>
+<doc>
+<field name="id">131993</field>
+<field name="type">places</field>
+<field name="placesname">DuBois, Pennsylvania</field>
+<field name="longd">longd=78</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=43</field>
+<field name="leader">Gary Gilbert</field>
+<field name="name">DuBois, Pennsylvania</field>
+<field name="area">3.3</field>
+<field name="populationdensity">2,429.8</field>
+<field name="lats">lats=13</field>
+<field name="caption">Downtown DuBois</field>
+<field name="population">7794</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">15801</field>
+<field name="latm">latm=07</field>
+<field name="establisheddate">1812-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.duboispa.gov</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Clearfield</field>
+</doc>
+<doc>
+<field name="id">134144</field>
+<field name="type">places</field>
+<field name="placesname">Greensburg</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=32</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=32</field>
+<field name="leader">Ronald E. Silvis ( D )</field>
+<field name="officialname">City of Greensburg</field>
+<field name="lats">lats=52</field>
+<field name="caption">Downtown Greensburg</field>
+<field name="latd">latd=40</field>
+<field name="population">14892</field>
+<field name="postalcode">15601, 15605, 15606</field>
+<field name="latm">latm=17</field>
+<field name="establisheddate">1799-02-09T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Greensburg</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.greensburgpa.org</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Westmoreland</field>
+</doc>
+<doc>
+<field name="id">131136</field>
+<field name="type">places</field>
+<field name="placesname">McKeesport</field>
+<field name="establisheddate">1795-01-01T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=50</field>
+<field name="longs">longs=56</field>
+<field name="longew">longEW=W</field>
+<field name="name">McKeesport</field>
+<field name="leader">Michael Cherepko</field>
+<field name="country">United States</field>
+<field name="populationdensity">auto</field>
+<field name="area">13.9</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=38</field>
+<field name="website">www.mckeesport-pa.gov</field>
+<field name="nickname">Tube City</field>
+<field name="caption">McKeesport City Hall , built circa 1890</field>
+<field name="population">19731</field>
+<field name="latd">latd=40</field>
+<field name="state">Pennsylvania</field>
+<field name="postalcode">15132</field>
+<field name="county">Allegheny</field>
+<field name="othernames">City of McKeesport</field>
+<field name="timezone">EST</field>
+<field name="latm">latm=20</field>
+</doc>
+<doc>
+<field name="id">25101</field>
+<field name="type">places</field>
+<field name="placesname">Pittsburgh</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=00</field>
+<field name="timezone">Eastern Standard Time</field>
+<field name="longs">longs=00</field>
+<field name="leader">Luke Ravenstahl  ( D ), term ends January 6, 2014; to be succeeded by  Bill Peduto  ( D )</field>
+<field name="populationdensity">5540</field>
+<field name="area">58.3</field>
+<field name="officialname">City of Pittsburgh</field>
+<field name="lats">lats=30</field>
+<field name="nickname">City of Bridges, Steel City, ,City of Champions, The 'Burgh</field>
+<field name="caption">From top to bottom, left to right: Pittsburgh skyline;  Cathedral of Learning  at the  University of Pittsburgh ;  Carnegie Mellon University ;  PNC Park ;  Duquesne Incline</field>
+<field name="latd">latd=40</field>
+<field name="population">306,211 ( 62nd )</field>
+<field name="postalcode">15106, 15120–15121, 15203–15208, 15210–15222, 15224, 15226–15227, 15230, 15232–15234, 15237, 15239, 15289</field>
+<field name="motto">Benigno Numine</field>
+<field name="latm">latm=26</field>
+<field name="establisheddate">1717-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Pittsburgh</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">PittsburghPA.gov</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Allegheny</field>
+</doc>
+<doc>
+<field name="id">133173</field>
+<field name="type">places</field>
+<field name="placesname">Williamsport</field>
+<field name="longd">longd=77</field>
+<field name="longm">longm=1</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=7</field>
+<field name="leader">Gabe Campana  ( R )</field>
+<field name="officialname">City of Williamsport</field>
+<field name="area">9.5</field>
+<field name="populationdensity">3456.3</field>
+<field name="lats">lats=40</field>
+<field name="nickname">Billtown</field>
+<field name="caption">Downtown Williamsport</field>
+<field name="population">29304</field>
+<field name="latd">latd=41</field>
+<field name="postalcode">17701,17702,17703,17705</field>
+<field name="motto">The Will is in us.</field>
+<field name="latm">latm=14</field>
+<field name="establisheddate">1769-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Williamsport</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.cityofwilliamsport.org</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Lycoming</field>
+</doc>
+<doc>
+<field name="id">131093</field>
+<field name="type">places</field>
+<field name="placesname">Clairton, Pennsylvania</field>
+<field name="establisheddate">1903-04-12T00:00:00Z</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=53</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=14</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Richard Lattanzi</field>
+<field name="country">United States</field>
+<field name="name">Clairton, Pennsylvania</field>
+<field name="area">3.0</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=47</field>
+<field name="website">www.cityofclairton.com</field>
+<field name="nickname">City of Prayer</field>
+<field name="caption">Clairton in 1973</field>
+<field name="latd">latd=40</field>
+<field name="population">6796</field>
+<field name="state">Pennsylvania</field>
+<field name="county">Allegheny</field>
+<field name="latm">latm=17</field>
+</doc>
+</add>

@@ -82,7 +82,8 @@ public class XMLWriter {
 				Boolean nameFlag = false;
 				Boolean officialNameFlag = false;
 				Boolean emptyFlag = false;
-				
+				String name ="";
+				String officialName = "";
 				//Flag if the key is any of the following inside the hash map
 				while (itr1.hasNext()) {
 					Map.Entry pairs = (Map.Entry) itr1.next();
@@ -90,10 +91,12 @@ public class XMLWriter {
 					inputKey = inputKey.replaceAll("_","");
 					if(inputKey.contentEquals("name")){
 						nameFlag = true;
+						name = pairs.getValue().toString().trim();
 					
 					}
 					else if(inputKey.contentEquals("officialname")){
 						officialNameFlag = true;
+						officialName = pairs.getValue().toString().trim();
 					}
 					else if(inputKey.contains("establisheddate")){
 						if(pairs.getValue().toString().trim().isEmpty()){
@@ -101,6 +104,10 @@ public class XMLWriter {
 						}
 					}
 				}
+				
+				
+				
+				
 				if((nameFlag == true || officialNameFlag == true) && emptyFlag == false){
 					Element document = doc.createElement("doc");
 					rootElement.appendChild(document);
@@ -108,43 +115,34 @@ public class XMLWriter {
 					field1.appendChild(doc.createTextNode(Integer.toString(page.getId())));
 					field1.setAttribute("name", "id");
 					document.appendChild(field1);
+					
 					Element field2 = doc.createElement("field");
 					field2.appendChild(doc.createTextNode("places"));
 					field2.setAttribute("name", "type");
 					document.appendChild(field2);
 					
+					//Add tag here
+					if(nameFlag == true){
+						Element field3 = doc.createElement("field");
+						field3.appendChild(doc.createTextNode(name));
+						field3.setAttribute("name", "placesname");
+						document.appendChild(field3);
+					}
+					else if(nameFlag == false && officialNameFlag ==true){
+						Element field3 = doc.createElement("field");
+						field3.appendChild(doc.createTextNode(officialName));
+						field3.setAttribute("name", "placesname");
+						document.appendChild(field3);
+					}
+					
 					System.out.println("-----------------Page start---------------------");
 					Iterator<Entry<String, String>> itr2 = page.infobox.entrySet().iterator();
 					while (itr2.hasNext()) {
 						Map.Entry pairs = (Map.Entry) itr2.next();
-						/*if(pairs.getKey().toString().trim().equals("occupation")){
-							String input = pairs.getValue().toString().replaceAll(";|/", ",");
-							if(input.contains(",")){
-								String [] str= input.split(",");
-								for(int i = 0;i<str.length;i++){
-									String newKey = pairs.getKey().toString().trim().replaceAll("_", "");
-									Element field = doc.createElement("field");
-									field.appendChild(doc.createTextNode(str[i].trim()));
-									field.setAttribute("name", newKey);
-									document.appendChild(field);
-									System.out.println(newKey+"===="+str[i].trim());
-								}
-							}
-							else{
-								Element field = doc.createElement("field");
-								String newKey = pairs.getKey().toString().replaceAll("_", "");
-								newKey = newKey.trim().replaceAll(" ", "");
-								field.appendChild(doc.createTextNode(pairs.getValue().toString()));
-								field.setAttribute("name",newKey);
-								document.appendChild(field);
-								System.out.println(newKey+"===="+pairs.getValue().toString());
-							}
-						}*/
-		
-							Boolean flag = false;
-							String newKey = pairs.getKey().toString().replaceAll("_", "");
-							newKey = newKey.trim().replaceAll(" *", "");
-							String[] matchTypes = { "imageseal", "blank1name","governmentfootnotes", "elevationft","establisheddate1", "elevationfootnotes","postalcodetype", "elevationfootnotes",
+						Boolean flag = false;
+						String newKey = pairs.getKey().toString().replaceAll("_", "");
+						newKey = newKey.trim().replaceAll(" *", "");
+						String[] matchTypes = { "imageseal", "blank1name","governmentfootnotes", "elevationft","establisheddate1", "elevationfootnotes","postalcodetype", "elevationfootnotes",
 									"populationmetro", "areafootnotes","totaltype", "settlementtype", "blankname", "imageseal","mapcaption", "caption", "imagemap","governingbody", "popestasof",
 									"populationdemonym", "utcoffset1dst","timezone1dst", "elevationm", "imageflag",	"arealandsqmi", "areametrosqmi","areacode", "subdivisiontype1",
 									"subdivisiontype2", "subdivisiontype","utcoffsetdst", "populationasof",	"leadertitle", "subdivisiontype4","subdivisiontype3", "accessdate",
@@ -161,33 +159,45 @@ public class XMLWriter {
 									"majorlanguages","founded","blankemblemsize","imageblankemblem","nativenamelang","governmentbody","arealandmi2","areatotalmi2",
 									"areawatermi2",	"blank3info","blank2info","blank3name","populationinternational","blank2name","areametrokm2","bridges",
 									"imageshield","populationdensitymetrosqmi",	"populationdensitymetrokm2","blankemblemtype","p5","p4","p3","p2","p1",	"partstype",
-									"blank4name","blank4info","blank3name","urbanpopulation","urbanlandsqmi","partsstyle","airportcode","mayor","imagedotmap","dotmapcaption"};
-							String tagName = newKey.toLowerCase();
-							for(int k = 0; k<matchTypes.length;k++){
-								if(matchTypes[k].equals(tagName)){
-									flag = true;
-									System.out.println("MATCHED: "+ tagName);
-								}
+									"blank4name","blank4info","blank3name","urbanpopulation","urbanlandsqmi","partsstyle","airportcode","mayor","imagedotmap","dotmapcaption","pushpinmapsize",
+									"sealsize","typeofcity","imagelogo","populatiositysqmi",
+									"populationtotal2006","sheriff","presidentofchamberofcommerce",
+									"flagsize",	"sealalt","mapalt","flagalt",
+									"mapcapion1","established","incorporated","incorporateddate",
+									"populationmicro","timezonecst","sistercity","eponymname",
+									"leaderlink","seat","seattype",	"populationdensityurbankm2",
+									"leadername5","blankemblemlink","populationdensityurbansqmi","sistercities",
+									"mapalt1","mapalt",	"coorpinpoint","dotmapalt",
+									"pushpinmaplabel","flagalt","doty","doty",
+									"foundedby","mainlenguages","populationdensityurbankm2","flagsize",
+									"populationblank3",	"flaglink",	"link","shieldlink",
+									"populationblank3title","populationprincetonarea","historywebsite"};
+						String tagName = newKey.toLowerCase();
+						for(int k = 0; k<matchTypes.length;k++){
+							if(matchTypes[k].equals(tagName)){
+								flag = true;
+								System.out.println("MATCHED: "+ tagName);
 							}
+						}
 							
-							//Matches all key fields if there is a name field
-							if(flag!=true && nameFlag == true){
-								String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
-								inputKey = inputKey.replaceAll(" *", "");
-								inputKey = synonymlookup(inputKey);
-								Element field = doc.createElement("field");
-								field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
-								field.setAttribute("name", inputKey);
-								document.appendChild(field);
-								System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
-							}
+						//Matches all key fields if there is a name field
+						if(flag!=true && nameFlag == true){
+							String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
+							inputKey = inputKey.replaceAll(" *", "");
+							inputKey = synonymlookup(inputKey);
+							Element field = doc.createElement("field");
+							field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
+							field.setAttribute("name", inputKey);
+							document.appendChild(field);
+							System.out.println(inputKey+"===="+pairs.getValue().toString().trim());
+						}
 							
-							//Matches all key fields if there is an official name field but not name field
-							else if(flag!=true && nameFlag == false && officialNameFlag == true){
-								String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
-								inputKey = inputKey.replaceAll(" *", "");
-								inputKey = synonymlookup(inputKey);
-								if(inputKey.contains("officialname")){
+						//Matches all key fields if there is an official name field but not name field
+						else if(flag!=true && nameFlag == false && officialNameFlag == true){
+							String inputKey = pairs.getKey().toString().toLowerCase().trim().replaceAll("_", "");
+							inputKey = inputKey.replaceAll(" *", "");
+							inputKey = synonymlookup(inputKey);
+							if(inputKey.contains("officialname")){
 									Element field = doc.createElement("field");
 									field.appendChild(doc.createTextNode(pairs.getValue().toString().trim()));
 									field.setAttribute("name", "name");
