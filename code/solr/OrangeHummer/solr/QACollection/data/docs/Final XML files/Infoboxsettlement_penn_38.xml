@@ -214,7 +214,6 @@
 <field name="postalcode">17872</field>
 <field name="latm">latm=47</field>
 <field name="establisheddate">1835-01-01T00:00:00Z</field>
-<field name="leadertitle5">Treasurer</field>
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
@@ -342,7 +341,6 @@
 <field name="motto">" Sic Semper Tyrannis "</field>
 <field name="latm">latm=36</field>
 <field name="establisheddate">1751-01-01T00:00:00Z</field>
-<field name="leadertitle5">State Representative</field>
 <field name="longew">longEW=W</field>
 <field name="name">Allentown</field>
 <field name="country">United States</field>
@@ -485,7 +483,6 @@
 <field name="website">cityoflancasterpa.com</field>
 <field name="state">Pennsylvania</field>
 <field name="county">Lancaster</field>
-<field name="dotx">128</field>
 </doc>
 <doc>
 <field name="id">133073</field>

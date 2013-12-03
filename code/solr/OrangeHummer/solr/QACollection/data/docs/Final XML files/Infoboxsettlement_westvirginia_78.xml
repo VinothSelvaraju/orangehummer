@@ -1502,7 +1502,6 @@
 <field name="timezone">EST</field>
 <field name="longs">longs=0</field>
 <field name="leader">Danny Jones ( R )</field>
-<field name="biggestcity">Charleston</field>
 <field name="officialname">City of Charleston</field>
 <field name="area">32.66</field>
 <field name="populationdensity">1630.7</field>
