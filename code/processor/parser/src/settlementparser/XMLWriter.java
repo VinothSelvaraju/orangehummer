@@ -101,7 +101,6 @@ public class XMLWriter {
 						}
 					}
 				}
-				
 				if((nameFlag == true || officialNameFlag == true) && emptyFlag == false){
 					Element document = doc.createElement("doc");
 					rootElement.appendChild(document);
