@@ -486,7 +486,7 @@
 <field name="timezone">EST</field>
 <field name="longm">longm=42</field>
 <field name="longs">longs=43</field>
-<field name="incorporated">1919</field>
+
 <field name="leader">Frank A. Mullens, Jr. ( R )</field>
 <field name="area">8.51</field>
 <field name="name">City of South Charleston</field>
@@ -896,7 +896,7 @@
 <field name="population">6432</field>
 <field name="latd">latd=37</field>
 <field name="postalcode">24740 &amp; 24739</field>
-<field name="populationprincetonarea">31,304</field>
+
 <field name="latm">latm=22</field>
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
@@ -1003,7 +1003,7 @@
 <doc>
 <field name="id">138456</field>
 <field name="type">places</field>
-<field name="historywebsite">www.stalbanshistory.com</field>
+
 <field name="longd">longd=81</field>
 <field name="longm">longm=49</field>
 <field name="timezone">Eastern (EST)</field>
@@ -1439,9 +1439,9 @@
 <field name="longm">longm=38</field>
 <field name="timezone">EST</field>
 <field name="longs">longs=0</field>
-<field name="incorporated">1794</field>
+
 <field name="leader">Danny Jones ( R )</field>
-<field name="biggestcity">Charleston</field>
+
 <field name="officialname">City of Charleston</field>
 <field name="area">32.66</field>
 <field name="populationdensity">1630.7</field>
@@ -1748,7 +1748,7 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">www.cityofhuntington.com</field>
-<field name="pushpinmaplabel">Huntington</field>
+
 <field name="state">West Virginia</field>
 <field name="county">Cabell ,  Wayne</field>
 </doc>

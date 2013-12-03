@@ -192,7 +192,7 @@
 <field name="type">places</field>
 <field name="longd">longd=76</field>
 <field name="longm">longm=33</field>
-<field name="leadername5">Brenda Scandle</field>
+
 <field name="timezone">Eastern (EST)</field>
 <field name="longs">longs=17</field>
 <field name="leader">George S. Rozinskie, Jr.</field>
@@ -206,8 +206,8 @@
 <field name="postalcode">17872</field>
 <field name="latm">latm=47</field>
 <field name="establisheddate">1835-01-01T00:00:00Z</field>
-<field name="blankemblemlink">Keystone Markers</field>
-<field name="leadertitle5">Treasurer</field>
+
+
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
@@ -316,7 +316,7 @@
 <field name="longd">longd=75</field>
 <field name="longm">longm=28</field>
 <field name="timezone">EST</field>
-<field name="leadername5">Jennifer Mann  ( D )</field>
+
 <field name="longs">longs=38</field>
 <field name="leader">Ed Pawlowski  ( D )</field>
 <field name="populationdensity">6631.0</field>
@@ -331,7 +331,7 @@
 <field name="motto">" Sic Semper Tyrannis "</field>
 <field name="latm">latm=36</field>
 <field name="establisheddate">1751-01-01T00:00:00Z</field>
-<field name="leadertitle5">State Representative</field>
+
 <field name="longew">longEW=W</field>
 <field name="name">Allentown</field>
 <field name="country">United States</field>
@@ -339,7 +339,7 @@
 <field name="website">http://www.allentownpa.gov/</field>
 <field name="state">Pennsylvania</field>
 <field name="county">Lehigh</field>
-<field name="populationdensityurbansqmi">1991.0</field>
+
 </doc>
 <doc>
 <field name="id">64585</field>
@@ -362,7 +362,7 @@
 <field name="longew">longEW=W</field>
 <field name="name">Wilkes-Barre, Pennsylvania</field>
 <field name="country">United States of America</field>
-<field name="sistercities">Karlstad, Sweden</field>
+
 <field name="latns">latNS=N</field>
 <field name="website">www.wilkes-barre.pa.us</field>
 <field name="county">Luzerne</field>
@@ -386,13 +386,13 @@
 <field name="establisheddate">1769-01-01T00:00:00Z</field>
 <field name="title">City of Lock Haven</field>
 <field name="longew">longEW=W</field>
-<field name="mapalt1">Lock Haven is in southern Clinton County</field>
+
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">City of Lock Haven</field>
 <field name="state">Pennsylvania</field>
 <field name="county">Clinton County</field>
-<field name="mapalt">Clinton County is in north-central Pennsylvania.</field>
+
 </doc>
 <doc>
 <field name="id">81686</field>
@@ -453,7 +453,7 @@
 <field name="longd">longd=76</field>
 <field name="longm">longm=18</field>
 <field name="longs">longs=16</field>
-<field name="seat">Lancaster County</field>
+
 <field name="leader">Rick Gray</field>
 <field name="populationdensity">auto</field>
 <field name="area">7.4</field>
@@ -461,7 +461,7 @@
 <field name="lats">lats=23</field>
 <field name="nickname">The Red Rose City</field>
 <field name="caption">Downtown Lancaster, dominated by the new  Lancaster County Convention Center  and  Marriott  Hotel, as well as the  W. W. Griest Building  and the Lancaster County Court House.</field>
-<field name="coorpinpoint">Penn Square</field>
+
 <field name="population">59322</field>
 <field name="latd">latd=40</field>
 <field name="postalcode">17573, 17601−17608, 17611, 17622, 17699</field>
@@ -470,19 +470,18 @@
 <field name="establisheddate">1730-01-01T00:00:00Z</field>
 <field name="longew">longEW=W</field>
 <field name="name">Lancaster</field>
-<field name="dotmapalt">Lancaster city's location in Pennsylvania</field>
+
 <field name="country">United States</field>
-<field name="sealalt">Seal of Lancaster, Pennsylvania</field>
+
 <field name="latns">latNS=N</field>
 <field name="website">cityoflancasterpa.com</field>
-<field name="seattype">Seat</field>
-<field name="pushpinmaplabel">Lancaster</field>
+
+
 <field name="state">Pennsylvania</field>
-<field name="mapalt">Lancaster city's location in Lancaster County</field>
+
 <field name="county">Lancaster</field>
-<field name="flagalt">Flag of Lancaster, Pennsylvania</field>
-<field name="doty">86</field>
-<field name="dotx">128</field>
+
+
 </doc>
 <doc>
 <field name="id">133073</field>
@@ -595,7 +594,7 @@
 <field name="population">1,526,006 ( 5th )</field>
 <field name="postalcode">191xx</field>
 <field name="motto">"Philadelphia maneto" ("Let brotherly love endure")</field>
-<field name="foundedby">William Penn</field>
+
 <field name="latm">latm=57</field>
 <field name="establisheddate">1682-10-27T00:00:00Z</field>
 <field name="longew">longEW=W</field>
@@ -726,7 +725,7 @@
 <doc>
 <field name="id">131248</field>
 <field name="type">places</field>
-<field name="nicknames">Birthplace of College Basketball</field>
+<field name="nickname">.*</field>
 <field name="longd">longd=80</field>
 <field name="longm">longm=19</field>
 <field name="timezone">EST</field>
@@ -835,11 +834,11 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">www.greensburgpa.org</field>
-<field name="mainlenguages">English</field>
+
 <field name="state">Pennsylvania</field>
 <field name="county">Westmoreland</field>
-<field name="populationdensityurbansqmi">auto</field>
-<field name="populationdensityurbankm2">auto</field>
+
+
 </doc>
 <doc>
 <field name="id">131136</field>
@@ -872,7 +871,7 @@
 <field name="id">25101</field>
 <field name="type">places</field>
 <field name="longd">longd=80</field>
-<field name="flagsize">100px</field>
+
 <field name="longm">longm=00</field>
 <field name="timezone">Eastern Standard Time</field>
 <field name="longs">longs=00</field>
@@ -888,18 +887,18 @@
 <field name="postalcode">15106, 15120–15121, 15203–15208, 15210–15222, 15224, 15226–15227, 15230, 15232–15234, 15237, 15239, 15289</field>
 <field name="motto">Benigno Numine</field>
 <field name="latm">latm=26</field>
-<field name="populationblank3">Pittsburgher or  Yinzer</field>
+
 <field name="establisheddate">1717-01-01T00:00:00Z</field>
-<field name="flaglink">Flag of Pittsburgh</field>
-<field name="link">Pennsylvania_Route_65</field>
-<field name="populationblank3title">Demonym</field>
-<field name="shieldlink">Seal of Pittsburgh</field>
+
+
+
+
 <field name="longew">longEW=W</field>
 <field name="name">Pittsburgh</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">PittsburghPA.gov</field>
-<field name="pushpinmaplabel">Pittsburgh</field>
+
 <field name="state">Pennsylvania</field>
 <field name="county">Allegheny</field>
 </doc>

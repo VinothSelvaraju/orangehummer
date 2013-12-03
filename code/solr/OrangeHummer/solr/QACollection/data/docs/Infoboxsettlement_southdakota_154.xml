@@ -1126,7 +1126,7 @@
 <field name="postalcode">57350 and 57399</field>
 <field name="motto">It's A Brand New Day</field>
 <field name="latm">latm=21</field>
-<field name="airportcode">HON</field>
+
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
@@ -1534,7 +1534,7 @@
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
-<field name="mayor">Brad Seamer (at the last census)</field>
+
 <field name="state">South Dakota</field>
 <field name="county">Davison</field>
 </doc>
@@ -2369,7 +2369,7 @@
 <field name="timezone">CST</field>
 <field name="longm">longm=48</field>
 <field name="longs">longs=48</field>
-<field name="imagedotmap">SDMap-doton-Colman.PNG</field>
+
 <field name="leader">Gloria Van Duyn</field>
 <field name="area">1.88</field>
 <field name="name">Colman, South Dakota</field>
@@ -2382,7 +2382,7 @@
 <field name="establisheddate">1880-01-01T00:00:00Z</field>
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
-<field name="dotmapcaption">Location of Colman, South Dakota</field>
+
 <field name="latns">latNS=N</field>
 <field name="state">South Dakota</field>
 <field name="county">Moody</field>

@@ -439,7 +439,7 @@
 <field name="latd">latd=30</field>
 <field name="population">101</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="county">Liberty</field>
 <field name="latm">latm=8</field>
 </doc>
@@ -1251,7 +1251,7 @@
 <field name="id">135497</field>
 <field name="type">places</field>
 <field name="longd">longd=98</field>
-<field name="sealsize">80px</field>
+
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=23</field>
 <field name="longs">longs=20</field>
@@ -2649,7 +2649,7 @@
 <field name="caption">A sign indicating Meadows Place</field>
 <field name="population">4660</field>
 <field name="latd">latd=29</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="state">Texas</field>
 <field name="county">Fort Bend</field>
 <field name="latm">latm=38</field>
@@ -3780,7 +3780,7 @@
 <field name="latd">latd=33</field>
 <field name="population">51</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="county">Lamar</field>
 <field name="latm">latm=40</field>
 </doc>
@@ -5375,7 +5375,7 @@
 <field name="latd">latd=30</field>
 <field name="population">450</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="postalcode">78654</field>
 <field name="county">Burnet</field>
 <field name="latm">latm=36</field>
@@ -5722,7 +5722,7 @@
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="state">Texas</field>
 <field name="county">Webb</field>
 </doc>
@@ -6332,7 +6332,7 @@
 <field name="latd">latd=33</field>
 <field name="population">694</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="postalcode">75477</field>
 <field name="county">Lamar</field>
 <field name="latm">latm=32</field>
@@ -6615,7 +6615,7 @@
 <field name="latns">latNS=N</field>
 <field name="state">Texas</field>
 <field name="county">Wichita</field>
-<field name="typeofcity">Home-Rule Municipality</field>
+
 </doc>
 <doc>
 <field name="id">135908</field>
@@ -8045,7 +8045,7 @@
 <field name="nickname">Red Poppy Capital of Texas, Retirement Capital of Texas, Gtown</field>
 <field name="population">47400</field>
 <field name="latd">latd=30</field>
-<field name="imagelogo">Image:City Logo.jpg</field>
+
 <field name="postalcode">78626, 78627, 78628 &amp; 78633</field>
 <field name="motto">"Sincerely Yours"</field>
 <field name="latm">latm=39</field>
@@ -8074,7 +8074,7 @@
 <field name="latd">latd=33</field>
 <field name="population">718</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="postalcode">75435</field>
 <field name="county">Lamar ,  Red River</field>
 <field name="latm">latm=31</field>
@@ -8262,7 +8262,7 @@
 <field name="latd">latd=33</field>
 <field name="population">89</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="county">Lamar</field>
 <field name="latm">latm=39</field>
 </doc>
@@ -8695,7 +8695,7 @@
 <field name="area">2.2</field>
 <field name="latns">latNS=N</field>
 <field name="lats">lats=5</field>
-<field name="populatiositysqmi">2582.0</field>
+
 <field name="latd">latd=28</field>
 <field name="population">5676</field>
 <field name="state">Texas</field>
@@ -9057,7 +9057,7 @@
 <field name="latd">latd=34</field>
 <field name="population">517</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="postalcode">76357</field>
 <field name="county">Clay</field>
 <field name="latm">latm=4</field>
@@ -9528,7 +9528,7 @@
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="state">Texas</field>
 <field name="county">San Patricio</field>
 </doc>
@@ -10833,7 +10833,7 @@
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=12</field>
 <field name="longs">longs=49</field>
-<field name="populationtotal2006">16058</field>
+
 <field name="leader">Mayor  Kenny Weldon Joe E. Cude Malcolm L. Cross Doug Svien Russ McDanel Alan Nash Alan Nix Martha Taylor Scott Evans</field>
 <field name="name">Stephenville, Texas</field>
 <field name="area">11.89</field>
@@ -10909,7 +10909,7 @@
 <field name="caption">Robert Lee State Bank</field>
 <field name="latd">latd=31</field>
 <field name="population">1049</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="state">Texas</field>
 <field name="postalcode">76945</field>
 <field name="county">Coke</field>
@@ -11423,7 +11423,7 @@
 <field name="id">136335</field>
 <field name="type">places</field>
 <field name="longd">longd=95</field>
-<field name="sheriff">Gary Mathis</field>
+
 <field name="timezone">Central (CST)</field>
 <field name="longm">longm=57</field>
 <field name="longs">longs=52</field>
@@ -11437,7 +11437,7 @@
 <field name="latd">latd=28</field>
 <field name="postalcode">77404, 77414</field>
 <field name="latm">latm=58</field>
-<field name="presidentofchamberofcommerce">Mitch Thames</field>
+
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
@@ -11740,7 +11740,7 @@
 <field name="id">135551</field>
 <field name="type">places</field>
 <field name="longd">longd=95</field>
-<field name="flagsize">150px</field>
+
 <field name="timezone">Central Time Zone</field>
 <field name="longm">longm=42</field>
 <field name="longs">longs=0</field>
@@ -12547,7 +12547,7 @@
 <field name="id">135768</field>
 <field name="type">places</field>
 <field name="longd">longd=97</field>
-<field name="flagsize">125px</field>
+
 <field name="timezone">CST</field>
 <field name="longm">longm=7</field>
 <field name="longs">longs=45</field>
@@ -12564,12 +12564,12 @@
 <field name="latm">latm=12</field>
 <field name="establisheddate">1866-01-01T00:00:00Z</field>
 <field name="longew">longEW=W</field>
-<field name="sealalt">A 3D black and white star. The words "City of Denton Denton, Texas" encircle the star.</field>
+
 <field name="latns">latNS=N</field>
 <field name="website">www.cityofdenton.com</field>
 <field name="county">Denton</field>
-<field name="mapalt">A map showing the state of Texas divided into counties. Denton County is located in north-eastern Texas, two counties south of the Oklahoma–Texas border.</field>
-<field name="flagalt">A flag with a blue background. On the left is a white star surrounded by two white circles. The text "Denton County 1846" appears and a smaller red star is on the right side of the flag.</field>
+
+
 </doc>
 <doc>
 <field name="id">136787</field>
@@ -12631,7 +12631,7 @@
 <field name="populationdensity">1474.1</field>
 <field name="name">City of Wichita Falls</field>
 <field name="area">70.1</field>
-<field name="mapcapion1">Map of Wichita Falls in 1890</field>
+
 <field name="lats">lats=49</field>
 <field name="nickname">Falls Town</field>
 <field name="caption">The restored "Falls" of the  Wichita River  in Wichita Falls, Texas, off  Interstate 44</field>
@@ -13141,7 +13141,7 @@
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
-<field name="established">1844</field>
+
 <field name="state">Texas</field>
 <field name="county">Medina</field>
 </doc>
@@ -13174,7 +13174,7 @@
 <field name="timezone">CST</field>
 <field name="longm">longm=10</field>
 <field name="longs">longs=26</field>
-<field name="incorporated">Incorporated</field>
+
 <field name="leader">Johnny Isbell</field>
 <field name="name">City of Pasadena</field>
 <field name="area">44.5</field>
@@ -13182,7 +13182,7 @@
 <field name="nickname">"Strawberry Capital"</field>
 <field name="population">149043</field>
 <field name="latd">latd=29</field>
-<field name="imagelogo">City_of_Pasadena_Logo.gif</field>
+
 <field name="postalcode">77501-77506</field>
 <field name="motto">"Enriched by our Heritage. Inspired by our Future."</field>
 <field name="latm">latm=40</field>
@@ -13191,8 +13191,8 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">ci.pasadena.tx.us</field>
-<field name="incorporateddate">December 22, 1923 and December 26, 1928</field>
-<field name="established">Founded</field>
+
+
 <field name="state">Texas</field>
 <field name="county">Harris</field>
 </doc>
@@ -14525,7 +14525,7 @@
 <field name="latd">latd=26</field>
 <field name="population">1167</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="county">Hidalgo</field>
 <field name="latm">latm=13</field>
 </doc>
@@ -16012,7 +16012,7 @@
 <field name="longm">longm=4</field>
 <field name="longs">longs=14</field>
 <field name="leader">Mayor  John Lemon Dorella Elizondo Leonel (Leo) Escobar , Yvette Johnson , Michael Esparza</field>
-<field name="populationmicro">41,131</field>
+
 <field name="populationdensity">1640</field>
 <field name="name">City of Alice</field>
 <field name="area">12.3</field>
@@ -16237,7 +16237,7 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">www.cityofrockport.com</field>
-<field name="established">1870</field>
+
 <field name="state">Texas</field>
 <field name="county">Aransas</field>
 </doc>
@@ -16690,7 +16690,7 @@
 <field name="population">3024</field>
 <field name="postalcode">76950</field>
 <field name="latm">latm=34</field>
-<field name="timezonecst">Central Standard Time</field>
+
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
@@ -16881,7 +16881,7 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">WeslacoTX.gov/</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="state">Texas</field>
 <field name="county">Hidalgo</field>
 </doc>
@@ -17863,7 +17863,7 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">CityOfDenison.com</field>
-<field name="sistercity">Cognac, France</field>
+
 <field name="state">Texas</field>
 <field name="county">Grayson</field>
 </doc>
@@ -18010,7 +18010,7 @@
 <field name="populationdensity">1,350</field>
 <field name="lats">lats=5</field>
 <field name="nickname">Heart of Texas</field>
-<field name="eponymname">Wacoan</field>
+
 <field name="population">124,805</field>
 <field name="latd">latd=31</field>
 <field name="postalcode">76700-76799</field>
@@ -18571,7 +18571,7 @@
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="state">Texas</field>
-<field name="pushpinmapsize">--&gt;</field>
+
 <field name="county">Leon</field>
 </doc>
 <doc>
@@ -19064,7 +19064,7 @@
 <field name="postalcode">78611</field>
 <field name="latm">latm=45</field>
 <field name="longew">longEW=W</field>
-<field name="leaderlink">Alan Smith (politician)</field>
+
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">www.cityofburnet.com</field>
@@ -19904,7 +19904,7 @@
 <field name="longd">longd=99</field>
 <field name="timezone">CST</field>
 <field name="longm">longm=45</field>
-<field name="seat">Taylor County</field>
+
 <field name="leader">Mayor  Norm Archibald Shane Price Joe Spano Anthony Williams Robert O. Briley Kyle McAlister Kellie Miller</field>
 <field name="name">City of Abilene</field>
 <field name="area">110.6</field>
@@ -19914,12 +19914,12 @@
 <field name="postalcode">79600-79699</field>
 <field name="latm">latm=27</field>
 <field name="establisheddate">1881-01-01T00:00:00Z</field>
-<field name="nicknames">The Key City, The Friendly Frontier</field>
+<field name="nickname">.*</field>
 <field name="longew">longEW=W</field>
 <field name="country">United States</field>
 <field name="latns">latNS=N</field>
 <field name="website">abilenetx.com</field>
-<field name="seattype">County Seat</field>
+
 <field name="state">Texas</field>
 <field name="county">Taylor  &amp;  Jones</field>
 </doc>
