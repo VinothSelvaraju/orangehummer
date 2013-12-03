@@ -81,18 +81,28 @@ public class XMLWriter {
 				Iterator<Entry<String, String>> itr1 = page.infobox.entrySet().iterator();
 				Boolean nameFlag = false;
 				Boolean officialNameFlag = false;
+				Boolean emptyFlag = false;
+				
+				//Flag if the key is any of the following inside the hash map
 				while (itr1.hasNext()) {
 					Map.Entry pairs = (Map.Entry) itr1.next();
-					if(pairs.getKey().toString().toLowerCase().trim().contentEquals("name")){
+					String inputKey = pairs.getKey().toString().toLowerCase().trim();
+					inputKey = inputKey.replaceAll("_","");
+					if(inputKey.contentEquals("name")){
 						nameFlag = true;
 					
 					}
-					else if(pairs.getKey().toString().toLowerCase().trim().contentEquals("official_name")){
+					else if(inputKey.contentEquals("officialname")){
 						officialNameFlag = true;
+					}
+					else if(inputKey.contains("establisheddate")){
+						if(pairs.getValue().toString().trim().isEmpty()){
+							emptyFlag = true;
+						}
 					}
 				}
 				
-				if(nameFlag == true || officialNameFlag == true){
+				if((nameFlag == true || officialNameFlag == true) && emptyFlag == false){
 					Element document = doc.createElement("doc");
 					rootElement.appendChild(document);
 					Element field1 = doc.createElement("field");
@@ -152,7 +162,7 @@ public class XMLWriter {
 									"majorlanguages","founded","blankemblemsize","imageblankemblem","nativenamelang","governmentbody","arealandmi2","areatotalmi2",
 									"areawatermi2",	"blank3info","blank2info","blank3name","populationinternational","blank2name","areametrokm2","bridges",
 									"imageshield","populationdensitymetrosqmi",	"populationdensitymetrokm2","blankemblemtype","p5","p4","p3","p2","p1",	"partstype",
-									"blank4name","blank4info","blank3name","urbanpopulation","urbanlandsqmi","partsstyle"};
+									"blank4name","blank4info","blank3name","urbanpopulation","urbanlandsqmi","partsstyle","airportcode","mayor","imagedotmap","dotmapcaption"};
 							String tagName = newKey.toLowerCase();
 							for(int k = 0; k<matchTypes.length;k++){
 								if(matchTypes[k].equals(tagName)){
