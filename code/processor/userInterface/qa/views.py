@@ -56,6 +56,7 @@ def resultsPage(request):
     form = QuestionForm(dataDict)
     print "VALID"
     alternative_text = []
+    img_source=""
     try: 
         queryMapperParams.update(dataDict)
         open("docs/queryOutput.json","w").close()

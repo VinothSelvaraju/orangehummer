@@ -31,7 +31,7 @@ queryFacetParams.update({'cp':java_cp_arg})
 queryFacetCmd = "java %(cp)s %(filename)s %(destination_path)s %(qtype)s" 
 
 queryFacetFilename = {'person':queryMapperParams['destination_path']+'facetPerson.json',
-                      'places':queryMapperParams['destination_path']+'facetPlace.json',
+                      'places':queryMapperParams['destination_path']+'facetPlaces.json',
                       'film':queryMapperParams['destination_path']+'facetFilm.json'}
 
 
@@ -136,11 +136,30 @@ questionParams = {'person':
                             'budget':('what','was','budget'),
                     },
                     'places':{
+                            'leader':('who','is','leader'),
+                            'founder':('who','is','founder'),
+                            'state':('where','is','located'),
+                            'established':('where','is','established'),
+                            'settlementtype':('what','is','settlementtype'),
+                            'nativename':('what','is','nativename'),
+                            'nickname':('what','is','nickname'),
+                            'country':('what','is','country'),
+                            'county':('what','is','county'),
+                            'coordinates':('what','is','coordinates'),
+                            'area':('what','is','area'),
+                            'population':('what','is','population'),
+                            'populationdensity':('what','is','populationdensity'),
+                            'timezone':('what','is','timezone'),
+                            'postalcode':('what','is','postalcode'),
+                            'motto':('what','is','motto'),
+                            'website':('what','is','website'),
+                            
                     }
 
                     }
 
 facetBy = {'person':'occupation',
+           'places':'state',
            'film':'director',}
 
 
