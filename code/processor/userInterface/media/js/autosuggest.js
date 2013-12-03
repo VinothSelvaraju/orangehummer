@@ -4,7 +4,7 @@ $('input#id_noun').typeahead({
   //valueKey: "a.spellcheck.suggestions[1].suggestion",
   remote: {
     //url: "http://localhost:8983/solr/QACollection/suggest?q=name%3A%QUERY&wt=json&indent=true&json.wrf=callback",
-    url: "/suggest/q=%QUERY/qtype="+$('#id_qtype').val(),
+    url: "/suggest/q=%QUERY",
     dataType: "json",
     filter: function(data){
       //alert("Filtering results");

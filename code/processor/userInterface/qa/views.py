@@ -58,6 +58,7 @@ def resultsPage(request):
     alternative_text = []
     try: 
         queryMapperParams.update(dataDict)
+        open("docs/queryOutput.json","w").close()
         os.system(queryMapperCmd%queryMapperParams)
         with open("docs/queryOutput.json") as f:
             t = f.read()

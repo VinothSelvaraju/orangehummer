@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+     <style>
+.arrow_box {
+    position: relative;
+    background: #88b7d5;
+    border: 5px solid #c2e1f5;
+}
+.arrow_box:after, .arrow_box:before {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.arrow_box:after {
+    border-color: rgba(136, 183, 213, 0);
+    border-top-color: #88b7d5;
+    border-width: 60px;
+    margin-left: -60px;
+}
+.arrow_box:before {
+    border-color: rgba(194, 225, 245, 0);
+    border-top-color: #c2e1f5;
+    border-width: 67px;
+    margin-left: -67px;
+}
+
+      .img-circle{
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  float: center;
+
+  }
+  .row{
+    
+    background-color: #fff;
+    
+
+  }
+  .container{
+    max-width: 700px;
+   margin-top: 100px;
+    width: 100%;
+   
+  }
+  h3{
+    font-family: HelveticaNeue-UltraLight;
+    padding-lef:10px;
+  }
+  p.description-text{
+    display:none; 
+    font-family: HelveticaNeue-UltraLight;
+  }
+  .howitworks {
+  text-align:center;
+  } 
+  </style>
+
+    </head>
+
+    <body>
+
+      
+      
+      <div class="container">
+        
+        <div class="row">
+        </div>
+
+        <div class="row">
+          <div class="col-md-8 col-md-offset-3">
+              <div class="arrow_box">
+                  <div class="howitworks"> Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  Lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text
+                  </div>
+              </div>
+          
+          </div>
+        </div>
+     </div>
+{% endblock content %}
+

@@ -6,9 +6,9 @@ import traceback
 from django.http import HttpResponse
 from config import *
 
-def suggest(request, q, qtype):
+def suggest(request, q):
     qlow = q.lower()
-    url = "http://localhost:8983/solr/QACollection/suggest?q=%sname:%s&wt=json&indent=true"%(qtype, qlow)
+    url = "http://localhost:8983/solr/QACollection/suggest?q=name:%s&wt=json&indent=true"%qlow
     a = urllib.urlopen(url)
     resp = a.read()
     print type(resp)
@@ -39,6 +39,7 @@ def facetList(request):
     if not qtype:
         return HttpResponse("Error")
     queryFacetParams.update({'qtype':qtype}) 
+    open(queryFacetFilename[qtype], 'w').close()
     os.system(queryFacetCmd%queryFacetParams)
     with open(queryFacetFilename[qtype]) as f:
         t = f.read()
@@ -59,6 +60,7 @@ def facetExpansion(request):
     if (not qtype) or (not query):
         return HttpResponse("Error")
     queryFacetExpParams.update({'qtype':qtype, 'query':query})
+    open(queryFacetExpFilename, 'w').close()
     os.system(queryFacetExpCmd%queryFacetExpParams)
     with open(queryFacetExpFilename) as f:
         t = f.read()
@@ -84,6 +86,7 @@ def verticalSimilarity(request):
                                 'noun':noun,
                                 'last_col':last_col})
 
+    open(queryVerticalFilename, 'w').close()
     os.system(queryVerticalCmd%queryVerticalParams)
     with open(queryVerticalFilename) as f:
         t = f.read()
@@ -122,6 +125,7 @@ def horizontalSimilarity(request):
                                 'noun':noun,
                                 'last_col':last_col})
 
+    open(queryHorizontalFilename, 'w').close()
     os.system(queryHorizontalCmd%queryHorizontalParams)
     with open(queryHorizontalFilename) as f:
         t = f.read()
