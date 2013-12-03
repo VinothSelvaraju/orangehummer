@@ -168,10 +168,10 @@ public class XMLWriter {
 									"leaderlink","seat","seattype",	"populationdensityurbankm2",
 									"leadername5","blankemblemlink","populationdensityurbansqmi","sistercities",
 									"mapalt1","mapalt",	"coorpinpoint","dotmapalt",
-									"pushpinmaplabel","flagalt","doty","doty",
+									"pushpinmaplabel","flagalt","dotx","doty",
 									"foundedby","mainlenguages","populationdensityurbankm2","flagsize",
 									"populationblank3",	"flaglink",	"link","shieldlink",
-									"populationblank3title","populationprincetonarea","historywebsite"};
+									"populationblank3title","populationprincetonarea","historywebsite","leadertitle5","biggestcity"};
 						String tagName = newKey.toLowerCase();
 						for(int k = 0; k<matchTypes.length;k++){
 							if(matchTypes[k].equals(tagName)){
