@@ -20,7 +20,7 @@ public class QueryConstants {
 	static String UIDirc;
 	static String queryFile = "queryOutput.json";
 	static String facetPersonFile = "facetPerson.json";
-	static String facetPlaceFile = "facetPlace.json";
+	static String facetPlaceFile = "facetPlaces.json";
 	static String facetFilmFile = "facetFilm.json";
 	static String facetQueryExpansion = "facetExpansion.json";
 	static String mltVerticalExpansion = "mltVerExp.json";
