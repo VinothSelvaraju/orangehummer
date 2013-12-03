@@ -3,6 +3,7 @@ HOME Directory will be the one, where this file is located.
 Steps for executions for windows
 
 Parser:
+--------
 1. Traverse to the configuration file located at the below location;
 $Home\code\processor\parser\config\properties.config
 
@@ -10,7 +11,6 @@ $Home\code\processor\parser\config\properties.config
 input_file={wiki xml doc path}
 lookupconfig_file=$Home\code\processor\parser\config\.lookupProperties.config
 output_file=$Home\code\solr\OrangeHummer\solr\QACollection\data\docs\{outputfile.xml}
-
 
 3. Run the java file runner.java with following command for 3 catagories as follows,
 Person: 
@@ -22,11 +22,8 @@ java -cp $home\code\processor\parser\bin\ filmparser.Runner $Home\code\processor
 Places: 
 java -cp $home\code\processor\parser\bin\ settlementparser.Runner $Home\code\processor\parser\config\properties.config
 
-
-
-
 Solr Document upload:
-
+-------------------- 
 1) In the command prompt
 			a) Traverse to $HOME\Code\OrangeHummer\Solr. To launch the Jetty with the Solr WAR
 				java -jar start.jar
@@ -45,9 +42,12 @@ To delete the Solr Complete index
 UI Setup
 --------
 UI Set requires Python 2.7 with Django 1.4.2. 
-a) To run the web server, traverse to $HOME/code/processor/userInterface and type:
+1) To run the web server, traverse to $HOME/code/processor/userInterface and type:
     python manage.py runserver
-b) To visit the Orange Hummer website go to 
+2) Run the solr command in command prompt
+    Traverse to $HOME\Code\OrangeHummer\Solr. To launch the Jetty with the Solr WAR
+				java -jar start.jar
+3) To visit the Orange Hummer website go to 
     http://localhost:8000/
 
 
