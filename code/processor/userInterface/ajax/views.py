@@ -6,13 +6,14 @@ import traceback
 from django.http import HttpResponse
 from config import *
 
-def suggest(request, q):
+def suggest(request, q, qtype):
     qlow = q.lower()
-    url = "http://localhost:8983/solr/QACollection/suggest?q=name:%s&wt=json&indent=true"%qlow
+    url = "http://localhost:8983/solr/QACollection/suggest?q=%sname:%s&wt=json&indent=true"%(qtype, qlow)
     a = urllib.urlopen(url)
     resp = a.read()
     print type(resp)
     respPy = json.loads(resp)
+    print respPy
     try: 
         temp_resp = respPy['spellcheck']['suggestions'][1]['suggestion']
         print json.dumps(temp_resp)

@@ -22,6 +22,7 @@ button { width:100%!important;}
     border-top: 1px solid #eee;
 }
 #map-canvas { display:none; height:200px; width:200px; }
+#outer-canvas { display:none; height:200px; width:200px; }
 img.resize{
     width:atuo; /* you can use % */
         height: 200px;
@@ -89,8 +90,8 @@ img.resize{
     {% endif %}-->
     <div class="col-md-2 col-md-offset-1 top_buffer">
       <div id="outer-canvas">
-        <div id="map-canvas">
-        </div>
+      </div>
+      <div id="map-canvas">
       </div>
     </div>
     <div class="col-md-6" style="font-size: 20px;">
@@ -178,6 +179,7 @@ function getPoster(title){
                  posterURL = jsonResponse.Poster;
                  if(typeof posterURL != 'undefined' && posterURL!='N/A'){
                      $('#outer-canvas').html('<img class="resize" src="'+posterURL+'"/>');
+                     $('#outer-canvas').show();
                  }
                  else {
                      $('#outer-canvas').html('');
@@ -187,7 +189,14 @@ function getPoster(title){
            }
     });
 };
+
+function getPersonImage(source){
+  $('#outer-canvas').html('<img class="resize" src="{{img_source}}"/>');
+  $('#outer-canvas').show();
+
 //alert("Calling Poster");
+};
+
 $(document).ready(function(){
     var qtype = $('#id_qtype').val();
     var noun = $('#id_noun').val();
@@ -214,7 +223,8 @@ $(document).ready(function(){
         });
     }
     else {
-    console.log("Its just places :-)");
+        getPersonImage();
+    console.log("Its just persons :-)");
     }
         
 });

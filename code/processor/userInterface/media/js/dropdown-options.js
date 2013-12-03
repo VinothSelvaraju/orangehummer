@@ -45,18 +45,13 @@
                             "was": "was"
                             },
                     'where': {"Select--": "",
-                              "does": "does",
-                              "was": "was",
                               "is": "is"
                               },
                     'when': {"Select--": "",
                              "was": "was",
-                             "did": "did"
                              },
                     'what': {'Select--': '',
                              'is': 'is',
-                             'was': 'was',
-                             'are': 'are'
                              },
                     '':{'Please select in order': ''}
                     },
@@ -145,82 +140,51 @@
                                      }
                             },
                             'places': {'who':  {'': {'Please select in order': ''},
-                                  'is': {'spouse': 'spouse',
-                                         'partner': 'partner',
-                                         'employer': 'employer',
+                                  'is': {'leader': 'leader',
+                                         'mayor': 'leader',
+                                         'founder': 'founder',
                                          'Select--': ''
                                         },
-                                  'are': {'family':'family',
-                                          'children':'children',
-                                         'parents': 'parents',
+                                  'are': {'leaders':'leader',
+                                          'mayors':'leader',
+                                         'foudners': 'founder',
                                          'Select--':''},
-                                  "was": {'spouse': 'spouse',
-                                          'Select--':''},
-                                
-
+                                  "was": {  'leader': 'leader',
+                                         'mayor': 'leader',
+                                         'founder': 'founder',
+                                         'Select--': ''}
                                   },
                           'where': {'': {'Please select in order': ''},
-                                    "does": {'work':'work',
-                                             'live':'live',
-                                             'Select--':''
-                                            },
-                                    "was": {'born':'born',
-                                            'Select--':''
-                                           },
-                                    "is": {'from':'form',
-                                           'residence':'residence',
+                                    "is": {'located':'state',
                                            'Select--':''
                                           }
                                     },
                            
                            'when': {'': {'Please select in order': ''},
                                     'was': {"Select--": "",
-                                            "born": "born"
+                                            "established": "established",
+                                            "founded": "established",
                                            },
-                                    'did': {"Select--":"",
-                                            "die":"die"
-                                           }
                                    },
                     
                             'what': {'': {'Please select in order': ''},
                                      'is': {'known-for':'knownfor',
-                                            'birth-place':'birthplace',
-                                            'birth-name':'birthname',
-                                            'almamater':'almamater',
-                                            'salary': 'salary',
-                                            'ethnicity': 'ethnicity',
-                                            'caption': 'caption',
-                                            'nationality': 'nationality',
-                                            'height': 'height',
-                                            'occupation': 'occupation',
-                                            'active-years': 'yearsactive',
-                                            'weight': 'weight', 
-                                            'citizenship': 'citizenship',
-                                            'fame':'knownfor',
+                                            'settlement-type':'settlementtype',
+                                            'native-name':'nativename',
+                                            'nickname':'nickname',
+                                            'state': 'state',
+                                            'country': 'country',
+                                            'county': 'county',
+                                            'coordinates': 'coordinates',
+                                            'area': 'area',
+                                            'population': 'population',
+                                            'population-density': 'populationdensity',
+                                            'timezone': 'timezone', 
+                                            'postalcode': 'postalcode',
+                                            'zipcode': 'postalcode',
+                                            'motto':'motto',
                                             'website':'website',
-                                            'networth':'networth'
                                             },
-                                     'was': {'birth-place':'birthplace',
-                                             'known-for':'knownfor',
-                                             'almamater':'almamater',
-                                            'salary': 'salary',
-                                            'ethnicity': 'ethnicity',
-                                            'nationality': 'nationality',
-                                            'height': 'height',
-                                            'occupation': 'occupation',
-                                            'active-years': 'yearsactive',
-                                            'weight': 'weight', 
-                                            'citizenship': 'citizenship',
-                                            'fame':'knownfor',
-                                            'networth':'networth',
-                                            'website':'website',
-                                            
-                                             'Select--':''
-                                             },
-                                     'are': {'nicknames':'othernames',
-                                             'Select--':'', 
-                                             'awards':'awards'
-                                             }
                                      }
                             },
                             'film': {'who':  {'': {'Please select in order': ''},
