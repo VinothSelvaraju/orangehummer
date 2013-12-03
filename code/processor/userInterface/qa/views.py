@@ -4,8 +4,10 @@ from django.http import HttpResponse, HttpResponseRedirect
 from qa.forms import QuestionForm
 from django.views.generic.edit import FormView
 import os
+import md5
 import json
 import time
+import urllib
 import traceback
 from config import *
 
@@ -54,8 +56,10 @@ def resultsPage(request):
     form = QuestionForm(dataDict)
     print "VALID"
     alternative_text = []
+    img_source=""
     try: 
         queryMapperParams.update(dataDict)
+        open("docs/queryOutput.json","w").close()
         os.system(queryMapperCmd%queryMapperParams)
         with open("docs/queryOutput.json") as f:
             t = f.read()
@@ -63,22 +67,39 @@ def resultsPage(request):
         resp_data = json.loads(t)
         print resp_data
         if int(resp_data['response']['numFound'])<=0:
+            alternative_text=[]
+            img_source = ''
             response_text = responseMessages['noresults']
-            alternative_text = resp_data['spellcheck']['suggestions'][1]['suggestion'] if resp_data['spellcheck']['suggestions'] else []
+            collationList = resp_data['spellcheck']['suggestions'][3::2]
+            for each in collationList:
+                alternative_text.append(each[1].split(':')[1].replace('"',''))
+
+            #alternative_text = resp_data['spellcheck']['suggestions'][1]['suggestion'] if resp_data['spellcheck']['suggestions'] else []
         else:
             response_text = ""
-            for i in range(int(resp_data['response']['numFound'])):
+            img_source=""
+            for i in range(min(10, int(resp_data['response']['numFound']))):
                 keys = resp_data['response']['docs'][i].keys()
                 print keys
-                if len(keys)!=3:
-                    if len(keys)<3:
-                        #response_text = responseMessages['noresults']
-                        #break
-                        continue
-                    else: 
-                        raise Exception
+                if len(keys)<3:
+                    #response_text = responseMessages['noresults']
+                    #break
+                    continue
+                elif len(keys)>4:
+                    raise Exception
+                elif len(keys)==4:
+                    keys.remove('image')
+                    img_name = resp_data['response']['docs'][i]['image']
+                    img_name = img_name.replace(' ','_')
+                    m = md5.new(img_name).hexdigest()
+                    img_source = 'http://upload.wikimedia.org/wikipedia/commons/'
+                    rem_source = m[0]+'/'+m[0]+m[1]+'/'+urllib.quote(img_name)
+                    img_source+=rem_source
+
+
                 keys.remove('name')
                 keys.remove('id')
+
                 field_text = keys[0] 
                 if "highlighting" in resp_data:
                     name_text = ", ".join(resp_data['highlighting'][resp_data['response']['docs'][i]['id']]['name'])
@@ -106,7 +127,7 @@ def resultsPage(request):
         print traceback.format_exc()
         response_text = responseMessages['exception']
     template_name = "qa/results.html"
-    response = render(request, template_name, {'form': form,'json_resp':t, 'response_text':response_text, 'alternatives':alternative_text, 'dataDict':dataDict, 'recent':{}})
+    response = render(request, template_name, {'form': form,'json_resp':t, 'response_text':response_text, 'alternatives':alternative_text, 'dataDict':dataDict, 'recent':{}, 'img_source':img_source})
     response.delete_cookie('qtype')
     response.delete_cookie('fiveW')
     response.delete_cookie('col2')

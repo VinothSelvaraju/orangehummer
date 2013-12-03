@@ -13,6 +13,7 @@ def suggest(request, q):
     resp = a.read()
     print type(resp)
     respPy = json.loads(resp)
+    print respPy
     try: 
         temp_resp = respPy['spellcheck']['suggestions'][1]['suggestion']
         print json.dumps(temp_resp)
@@ -38,6 +39,7 @@ def facetList(request):
     if not qtype:
         return HttpResponse("Error")
     queryFacetParams.update({'qtype':qtype}) 
+    open(queryFacetFilename[qtype], 'w').close()
     os.system(queryFacetCmd%queryFacetParams)
     with open(queryFacetFilename[qtype]) as f:
         t = f.read()
@@ -58,6 +60,7 @@ def facetExpansion(request):
     if (not qtype) or (not query):
         return HttpResponse("Error")
     queryFacetExpParams.update({'qtype':qtype, 'query':query})
+    open(queryFacetExpFilename, 'w').close()
     os.system(queryFacetExpCmd%queryFacetExpParams)
     with open(queryFacetExpFilename) as f:
         t = f.read()
@@ -83,6 +86,7 @@ def verticalSimilarity(request):
                                 'noun':noun,
                                 'last_col':last_col})
 
+    open(queryVerticalFilename, 'w').close()
     os.system(queryVerticalCmd%queryVerticalParams)
     with open(queryVerticalFilename) as f:
         t = f.read()
@@ -121,6 +125,7 @@ def horizontalSimilarity(request):
                                 'noun':noun,
                                 'last_col':last_col})
 
+    open(queryHorizontalFilename, 'w').close()
     os.system(queryHorizontalCmd%queryHorizontalParams)
     with open(queryHorizontalFilename) as f:
         t = f.read()

@@ -1,4 +1,4 @@
-package settlementparser;
+package personparser;
 import java.io.BufferedWriter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -141,7 +141,7 @@ public class XMLContentHandler extends DefaultHandler {
 			xmlPage.setText(sb.toString());
 			//System.out.println("AFTER SAX PARSING: "+xmlPage.getText());
 			
-			String regex = "\\{\\{Infobox settlement(.*)\\}\\}";
+			String regex = "\\{\\{Infobox person(.*)\\}\\}";
 			Pattern p1 = Pattern.compile(regex, Pattern.DOTALL);
 			Matcher m1 = p1.matcher(xmlPage.getText());
 			String workgroup = "";
@@ -176,7 +176,7 @@ public class XMLContentHandler extends DefaultHandler {
 			}
 			String afterExtract = newStringBuf.toString();
 			
-			Pattern p2 = Pattern.compile("(?i)\\{\\{Infobox settlement(.*)\\}X", Pattern.DOTALL);
+			Pattern p2 = Pattern.compile("(?i)\\{\\{Infobox person(.*)\\}X", Pattern.DOTALL);
 			Matcher m2 = p2.matcher(afterExtract);
 			String workgroup1 = "";
 			while (m2.find()) {
@@ -186,44 +186,28 @@ public class XMLContentHandler extends DefaultHandler {
 			
 			System.out.println("AFTER PARSING: "+afterExtract);
 			
-			if(infoboxCount ==1200){
+			if(infoboxCount ==2000){
 				System.exit(0);
 			}
 			
-		
-			
 			MarkupRemover mk = new MarkupRemover();
-			//removing the {{Collapsible list...}}
-			
 			String formattedText = mk.markupRemover(afterExtract);
-			//System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
-			
+			System.out.println("AFTER FORMATTING MARKUP REMOVAL: "+formattedText);
 			formattedText = mk.unwantedTextRemoval(formattedText);
 			//System.out.println("AFTER FORMATTING UNWANTED TEXT: "+formattedText);
-			
-			//formattedText = mk.parseSettlementDate(formattedText);
-			
-			formattedText = mk.parseCollapsibleList(formattedText);
-			//System.out.println("AFTER REMOVING COLLAPSIBLE"+ formattedText);
-			
-			
-			//formattedText = mk.parseBirthdate(formattedText);
+			formattedText = mk.parseBirthdate(formattedText);
 			//System.out.println("AFTER FORMATTING BIRTHDATE: "+formattedText);
-			
-			//formattedText = mk.parseDeathdate(formattedText);
+			formattedText = mk.parseDeathdate(formattedText);
 			//System.out.println("AFTER FORMATTING DEATHDATE: "+formattedText);
-			
 			formattedText = mk.parseAwards(formattedText);
 			//System.out.println("BEFORE PARSING BRACKETS: "+formattedText);
 			
 			formattedText =mk.parsePartner(formattedText);
 			//System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
-			
 			formattedText = mk.parseNationality(formattedText);
 			//System.out.println("AFTER FORMATTING PARTNER: "+formattedText);
-			
 			formattedText = mk.parseBrackets(formattedText);
-			//System.out.println("AFTER FORMATTING TEXT: "+formattedText);
+			System.out.println("AFTER FORMATTING TEXT: "+formattedText);
 			
 			String[] entry = formattedText.split(" *\\| *");
 			
@@ -235,39 +219,28 @@ public class XMLContentHandler extends DefaultHandler {
 			HashMap<String, String> entryMap = new HashMap<String, String>();
 			int itr = 0;
 			while (itr < entry.length) {
+				//bw.append(entry[itr]);
 				String[] splitKeyValue = entry[itr].split("=");
 				if (splitKeyValue.length == 2) {
 					//System.out.println("PRINTING KEY VALUE BEFORE ADDING TO MAP: "+splitKeyValue[0].trim() +"====="+splitKeyValue[1].trim());
 					if (splitKeyValue[0].trim().length() != 0 && splitKeyValue[1].trim().length() != 0) {
-						String cleanedKey = splitKeyValue[0].trim();
 						String cleanedValue = splitKeyValue[1].trim();
 						cleanedValue = cleanedValue.replaceAll("\\[|\\]", "");
-						if (!cleanedValue.isEmpty()) {			
-							if (cleanedKey.toLowerCase().contentEquals("name")) {
-								infoboxCount++;
-							}
-							if(cleanedKey.toLowerCase().contentEquals("lats") || cleanedKey.toLowerCase().contentEquals("latm") || cleanedKey.toLowerCase().contentEquals("latd") || cleanedKey.toLowerCase().contentEquals("longs")||cleanedKey.toLowerCase().contentEquals("longm")||cleanedKey.toLowerCase().contentEquals("longd")|| cleanedKey.toLowerCase().contentEquals("longew")|| cleanedKey.toLowerCase().contentEquals("latns")|| cleanedKey.toLowerCase().contentEquals("latm")){
-								String newCleanedValue = cleanedKey.concat("=").concat(cleanedValue);
-								entryMap.put(cleanedKey, newCleanedValue);
-							}
-							else{
-								int size = cleanedValue.length();
-								if (cleanedValue.charAt(0) == ',') {
-									cleanedValue = cleanedValue.substring(1);
-								} else if (cleanedValue.charAt(size - 1) == ',') {
-									cleanedValue = cleanedValue.substring(0,
-											size - 2);
-								}
-								if(cleanedKey.toLowerCase().contains("established_date")){
-									cleanedValue=mk.parseSettlementDate(cleanedValue).trim();
-									System.out.println("CLEANED KEY" + cleanedKey);
-									System.out.println("CLEANED VALUE" + cleanedValue);
-								}
-								entryMap.put(cleanedKey, cleanedValue);
-							}	
+						String cleanedKey = splitKeyValue[0].trim();
+						if(cleanedKey.contentEquals("name")){
+							infoboxCount++;
 						}
+						int size = cleanedValue.length();
+						if(cleanedValue.charAt(0) == ','){
+							cleanedValue = cleanedValue.substring(1);
+						}
+						else if(cleanedValue.charAt(size-1) == ','){
+							cleanedValue = cleanedValue.substring(0, size-2);
+						}
+						entryMap.put(cleanedKey,cleanedValue);
 					}
 				}
+				//bw.append("\n");
 				itr++;
 			}
 			System.out.println("INFOBOX COUNT AFTER ADDING TO THE MAP: "+infoboxCount);

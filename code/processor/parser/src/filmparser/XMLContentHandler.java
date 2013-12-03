@@ -221,6 +221,7 @@ public class XMLContentHandler extends DefaultHandler {
 					if (splitKeyValue[0].trim().length() != 0 && splitKeyValue[1].trim().length() != 0) {
 	
 						String cleanedValue = splitKeyValue[1].trim();
+						cleanedValue = cleanedValue.replaceAll("\\[|\\]", "");
 						int size = cleanedValue.length();
 						if(cleanedValue.charAt(0) == ','){
 							cleanedValue = cleanedValue.substring(1);

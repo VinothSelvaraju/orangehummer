@@ -31,7 +31,7 @@ queryFacetParams.update({'cp':java_cp_arg})
 queryFacetCmd = "java %(cp)s %(filename)s %(destination_path)s %(qtype)s" 
 
 queryFacetFilename = {'person':queryMapperParams['destination_path']+'facetPerson.json',
-                      'places':queryMapperParams['destination_path']+'facetPlace.json',
+                      'places':queryMapperParams['destination_path']+'facetPlaces.json',
                       'film':queryMapperParams['destination_path']+'facetFilm.json'}
 
 
@@ -105,7 +105,7 @@ questionParams = {'person':
                              'role':('what','is','role'),
                              'networth':('what','is','networth'),
                              'credits':('what','is','credits'),
-                             'othernames':('what','are','nicknames'),
+                             'othernames':('what','are','othernames'),
                              'party':('what','is','party'),
                              'family':('who','are','family'),
                              'successor':('who','is','successor'),
@@ -116,13 +116,50 @@ questionParams = {'person':
                              'tribe':('what','is','tribe'),
                              },
                     'film':{
+                            'director':('who','is','director'),
+                            'producer':('who','is','producer'),
+                            'writer':('who','is','writer'),
+                            'scriptwriter':('who','is','scriptwriter'),
+                            'editor':('who','is','editor'),
+                            'narrator':('who','is','narrator'),
+                            'distributor':('who','is','distributor'),
+                            'cinematographer':('who','is','cinematographer'),
+                            'filmeditor':('who','is','filmeditor'),
+                            'music':('who','is','music'),
+                            'starring':('who','all','starring'),
+                            'story':('what','is','story'),
+                            'basedon':('what','was','basedon'),
+                            'studio':('where','was','shot'),
+                            'language':('what','is','language'),
+                            'releasedate':('when','was','released'),
+                            'gross':('what','was','revenue'),
+                            'budget':('what','was','budget'),
                     },
                     'places':{
+                            'leader':('who','is','leader'),
+                            'founder':('who','is','founder'),
+                            'state':('where','is','located'),
+                            'established':('where','is','established'),
+                            'settlementtype':('what','is','settlementtype'),
+                            'nativename':('what','is','nativename'),
+                            'nickname':('what','is','nickname'),
+                            'country':('what','is','country'),
+                            'county':('what','is','county'),
+                            'coordinates':('what','is','coordinates'),
+                            'area':('what','is','area'),
+                            'population':('what','is','population'),
+                            'populationdensity':('what','is','populationdensity'),
+                            'timezone':('what','is','timezone'),
+                            'postalcode':('what','is','postalcode'),
+                            'motto':('what','is','motto'),
+                            'website':('what','is','website'),
+                            
                     }
 
                     }
 
 facetBy = {'person':'occupation',
+           'places':'state',
            'film':'director',}
 
 

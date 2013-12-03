@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<add>
+<doc>
+<field name="id">138367</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=49</field>
+<field name="longs">longs=6</field>
+<field name="area">7.07</field>
+<field name="name">Madison, West Virginia</field>
+<field name="populationdensity">438.8</field>
+<field name="lats">lats=43</field>
+<field name="nickname">The Gateway to the Coal Fields</field>
+<field name="caption">Main Street in Madison in 2007</field>
+<field name="population">3076</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25130</field>
+<field name="latm">latm=3</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Boone</field>
+</doc>
+<doc>
+<field name="id">138538</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=58</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=28</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Westover, West Virginia</field>
+<field name="area">1.51</field>
+<field name="populationdensity">2637.7</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=6</field>
+<field name="latd">latd=39</field>
+<field name="population">3983</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26501-26502</field>
+<field name="county">Monongalia</field>
+<field name="latm">latm=38</field>
+</doc>
+<doc>
+<field name="id">138399</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=7</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=36</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Petersburg, West Virginia</field>
+<field name="area">1.62</field>
+<field name="populationdensity">1522.8</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=36</field>
+<field name="latd">latd=38</field>
+<field name="population">2467</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26847</field>
+<field name="county">Grant</field>
+<field name="latm">latm=59</field>
+</doc>
+<doc>
+<field name="id">138560</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=41.1</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Kingwood, West Virginia</field>
+<field name="area">2.43</field>
+<field name="populationdensity">1209.5</field>
+<field name="latns">latNS=N</field>
+<field name="latd">latd=39</field>
+<field name="population">2939</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26519, 26537</field>
+<field name="county">Preston</field>
+<field name="latm">latm=28.3</field>
+</doc>
+<doc>
+<field name="id">138492</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=44</field>
+<field name="longs">longs=22</field>
+<field name="area">3.36</field>
+<field name="name">Moundsville, West Virginia</field>
+<field name="populationdensity">3202.1</field>
+<field name="lats">lats=17</field>
+<field name="caption">Jefferson Avenue in downtown Moundsville in 2006</field>
+<field name="population">9318</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26041</field>
+<field name="latm">latm=55</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofmoundsville.com/</field>
+<field name="state">West Virginia</field>
+<field name="county">Marshall</field>
+</doc>
+<doc>
+<field name="id">151289</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=49</field>
+<field name="longs">longs=52</field>
+<field name="leader">Bryan Faber</field>
+<field name="area">4.67</field>
+<field name="name">City of Nitro</field>
+<field name="populationdensity">1677.1</field>
+<field name="lats">lats=55</field>
+<field name="knownfor">(Official site is undergoing a complete redesign, which may limit access. The sites redesign is expected to be complete by November 2012.)</field>
+<field name="population">7178</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25143</field>
+<field name="motto">Living Memorial to World War I</field>
+<field name="latm">latm=24</field>
+<field name="longew">longEW=W</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofnitro.org/</field>
+<field name="county">Kanawha ,  Putnam</field>
+</doc>
+<doc>
+<field name="id">138491</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=43</field>
+<field name="longs">longs=53</field>
+<field name="leader">Michael Gracik</field>
+<field name="area">0.84</field>
+<field name="name">McMechen, West Virginia</field>
+<field name="populationdensity">3378.9</field>
+<field name="lats">lats=14</field>
+<field name="population">1926</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26040</field>
+<field name="latm">latm=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Marshall</field>
+</doc>
+<doc>
+<field name="id">138618</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=59</field>
+<field name="longs">longs=52</field>
+<field name="area">0.53</field>
+<field name="name">Sistersville, West Virginia</field>
+<field name="populationdensity">2634.0</field>
+<field name="lats">lats=42</field>
+<field name="caption">Wells Street in downtown Sistersville in 2006</field>
+<field name="population">1396</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26175</field>
+<field name="latm">latm=33</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Tyler</field>
+</doc>
+<doc>
+<field name="id">138445</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=44</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=22</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Terry Greenlee</field>
+<field name="name">City of Dunbar</field>
+<field name="area">2.81</field>
+<field name="populationdensity">2823.9</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=52</field>
+<field name="latd">latd=38</field>
+<field name="population">7907</field>
+<field name="postalcode">25064</field>
+<field name="county">Kanawha</field>
+<field name="latm">latm=21</field>
+</doc>
+<doc>
+<field name="id">138642</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=23</field>
+<field name="longs">longs=5</field>
+<field name="area">1.85</field>
+<field name="name">Mullens, West Virginia</field>
+<field name="populationdensity">866.1</field>
+<field name="lats">lats=5</field>
+<field name="caption">Howard Avenue in downtown Mullens in 2007</field>
+<field name="population">1559</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25882</field>
+<field name="latm">latm=35</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Wyoming</field>
+</doc>
+<doc>
+<field name="id">138482</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=8</field>
+<field name="longs">longs=57</field>
+<field name="leader">Barbara Metcalfe</field>
+<field name="area">3.41</field>
+<field name="name">Pleasant Valley, West Virginia</field>
+<field name="populationdensity">974.9</field>
+<field name="lats">lats=5</field>
+<field name="population">3149</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26554-26555</field>
+<field name="latm">latm=27</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Marion</field>
+</doc>
+<doc>
+<field name="id">138614</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=40</field>
+<field name="longs">longs=46</field>
+<field name="area">1.20</field>
+<field name="name">Parsons, West Virginia</field>
+<field name="populationdensity">1337.8</field>
+<field name="lats">lats=45</field>
+<field name="caption">Central Parsons, with the Tucker County Courthouse visible on the left</field>
+<field name="population">1485</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26287</field>
+<field name="latm">latm=5</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Tucker</field>
+</doc>
+<doc>
+<field name="id">138615</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=29</field>
+<field name="longs">longs=50</field>
+<field name="area">4.51</field>
+<field name="name">Thomas, West Virginia</field>
+<field name="populationdensity">131.4</field>
+<field name="lats">lats=53</field>
+<field name="caption">East Avenue in Thomas in 2006</field>
+<field name="population">586</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26292</field>
+<field name="latm">latm=8</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Tucker</field>
+</doc>
+<doc>
+<field name="id">138604</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=58</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=2</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Pennsboro, West Virginia</field>
+<field name="area">2.73</field>
+<field name="populationdensity">433.7</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=1</field>
+<field name="latd">latd=39</field>
+<field name="population">1171</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26415</field>
+<field name="county">Ritchie</field>
+<field name="latm">latm=17</field>
+</doc>
+<doc>
+<field name="id">138412</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=33</field>
+<field name="longs">longs=46</field>
+<field name="leader">Ken Morris</field>
+<field name="area">1.00</field>
+<field name="name">Chester, West Virginia</field>
+<field name="populationdensity">2585.0</field>
+<field name="lats">lats=46</field>
+<field name="caption">City Hall</field>
+<field name="population">2585</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">26034</field>
+<field name="latm">latm=36</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City website</field>
+<field name="state">West Virginia</field>
+<field name="county">Hancock</field>
+</doc>
+<doc>
+<field name="id">138451</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=34</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=3</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Billy L. Pauley ( D )</field>
+<field name="name">City of Marmet</field>
+<field name="area">1.41</field>
+<field name="populationdensity">1183.5</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=43</field>
+<field name="latd">latd=38</field>
+<field name="population">1503</field>
+<field name="postalcode">25315, 25365</field>
+<field name="county">Kanawha</field>
+<field name="latm">latm=14</field>
+</doc>
+<doc>
+<field name="id">138607</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=21</field>
+<field name="longs">longs=6</field>
+<field name="area">1.28</field>
+<field name="name">Spencer, West Virginia</field>
+<field name="populationdensity">1842.9</field>
+<field name="lats">lats=6</field>
+<field name="caption">Skyline of Spencer from a nearby park</field>
+<field name="population">2322</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25276</field>
+<field name="latm">latm=48</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Roane</field>
+</doc>
+<doc>
+<field name="id">138552</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=15</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=33</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Belmont, West Virginia</field>
+<field name="area">0.41</field>
+<field name="populationdensity">2202.4</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=49</field>
+<field name="latd">latd=39</field>
+<field name="population">903</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26134</field>
+<field name="county">Pleasants</field>
+<field name="latm">latm=22</field>
+</doc>
+<doc>
+<field name="id">151292</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=56</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=1</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Paden City, West Virginia</field>
+<field name="area">0.85</field>
+<field name="populationdensity">3097.6</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=13</field>
+<field name="latd">latd=39</field>
+<field name="population">2633</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26159</field>
+<field name="county">Wetzel ,  Tyler</field>
+<field name="latm">latm=36</field>
+</doc>
+<doc>
+<field name="id">138391</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=10</field>
+<field name="longs">longs=4</field>
+<field name="leader">Michael Martin</field>
+<field name="area">1.33</field>
+<field name="name">Mount Hope, West Virginia</field>
+<field name="populationdensity">1063.2</field>
+<field name="lats">lats=33</field>
+<field name="caption">Main Street ( West Virginia Route 211 ) in Mount Hope in 2007</field>
+<field name="population">1414</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25880</field>
+<field name="motto">Gateway to the Summit</field>
+<field name="latm">latm=53</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Fayette</field>
+</doc>
+<doc>
+<field name="id">138428</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=18</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=36</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Stonewood, West Virginia</field>
+<field name="area">0.85</field>
+<field name="populationdensity">2124.7</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=7</field>
+<field name="latd">latd=39</field>
+<field name="population">1806</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26301</field>
+<field name="county">Harrison</field>
+<field name="latm">latm=15</field>
+</doc>
+<doc>
+<field name="id">138504</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=26</field>
+<field name="longs">longs=46</field>
+<field name="leader">Dennis Robertson</field>
+<field name="area">0.32</field>
+<field name="name">Keystone, West Virginia</field>
+<field name="populationdensity">881.3</field>
+<field name="lats">lats=54</field>
+<field name="population">282</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24852</field>
+<field name="latm">latm=24</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">City of Keystone</field>
+<field name="state">West Virginia</field>
+<field name="county">McDowell</field>
+</doc>
+<doc>
+<field name="id">138455</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=43</field>
+
+<field name="leader">Frank A. Mullens, Jr. ( R )</field>
+<field name="area">8.51</field>
+<field name="name">City of South Charleston</field>
+<field name="populationdensity">1767.4</field>
+<field name="lats">lats=9</field>
+<field name="caption">The  Criel Mound  in South Charleston.</field>
+<field name="population">13450</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25303, 25309</field>
+<field name="latm">latm=21</field>
+<field name="longew">longEW=W</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.southcharlestonwv.org/</field>
+<field name="county">Kanawha</field>
+</doc>
+<doc>
+<field name="id">86739</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=36</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=34</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">2862.2</field>
+<field name="name">Wellsburg, West Virginia</field>
+<field name="area">1.34</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=39</field>
+<field name="latd">latd=40</field>
+<field name="population">2805</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26070</field>
+<field name="county">Brooke</field>
+<field name="latm">latm=16</field>
+</doc>
+<doc>
+<field name="id">138490</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=18</field>
+<field name="area">1.20</field>
+<field name="name">Glen Dale, West Virginia</field>
+<field name="populationdensity">1795.3</field>
+<field name="lats">lats=55</field>
+<field name="population">1526</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26038</field>
+<field name="motto">Montani Semper Liberi</field>
+<field name="latm">latm=56</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Marshall</field>
+</doc>
+<doc>
+<field name="id">138407</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=28</field>
+<field name="longs">longs=12</field>
+<field name="leader">Gail White</field>
+<field name="area">1.73</field>
+<field name="name">Ronceverte, West Virginia</field>
+<field name="populationdensity">1038.2</field>
+<field name="lats">lats=54</field>
+<field name="nickname">The Friendly River City</field>
+<field name="population">1765</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24970</field>
+<field name="latm">latm=44</field>
+<field name="establisheddate">1882-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Greenbrier</field>
+</doc>
+<doc>
+<field name="id">138419</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=15</field>
+<field name="longs">longs=5</field>
+<field name="leader">A. Kim Haws</field>
+<field name="area">10.56</field>
+<field name="name">Bridgeport, West Virginia</field>
+<field name="populationdensity">774.6</field>
+<field name="lats">lats=48</field>
+<field name="population">8149</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26330</field>
+<field name="latm">latm=17</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.bridgeportwv.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Harrison</field>
+</doc>
+<doc>
+<field name="id">138608</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=53</field>
+<field name="longs">longs=12</field>
+<field name="leader">Joe Blankenship</field>
+<field name="area">3.03</field>
+<field name="name">Hinton, West Virginia</field>
+<field name="populationdensity">1205.4</field>
+<field name="lats">lats=1</field>
+<field name="caption">Temple Street in downtown Hinton in 2007</field>
+<field name="population">2676</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25951</field>
+<field name="motto">Where friends and rivers meet</field>
+<field name="latm">latm=40</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">hintonwva.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Summers</field>
+</doc>
+<doc>
+<field name="id">138629</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=34</field>
+<field name="leader">Lucille Blum</field>
+<field name="area">2.71</field>
+<field name="name">New Martinsville, West Virginia</field>
+<field name="populationdensity">2009.7</field>
+<field name="lats">lats=27</field>
+<field name="population">5366</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26155</field>
+<field name="latm">latm=39</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Wetzel</field>
+</doc>
+<doc>
+<field name="id">138639</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=32</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=34</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Vienna, West Virginia</field>
+<field name="area">3.79</field>
+<field name="populationdensity">2836.1</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=31</field>
+<field name="latd">latd=39</field>
+<field name="population">10749</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26101, 26105</field>
+<field name="county">Wood</field>
+<field name="latm">latm=19</field>
+</doc>
+<doc>
+<field name="id">138426</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=33</field>
+<field name="longs">longs=46</field>
+<field name="area">1.34</field>
+<field name="name">Salem, West Virginia</field>
+<field name="populationdensity">1183.6</field>
+<field name="lats">lats=0</field>
+<field name="caption">Main Street in Salem in 2006</field>
+<field name="population">1586</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26426</field>
+<field name="latm">latm=17</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Harrison</field>
+</doc>
+<doc>
+<field name="id">138468</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=59</field>
+<field name="longs">longs=16</field>
+<field name="area">1.24</field>
+<field name="name">Logan, West Virginia</field>
+<field name="populationdensity">1547.0</field>
+<field name="lats">lats=54</field>
+<field name="caption">Logan in 1974</field>
+<field name="population">1779</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25601</field>
+<field name="latm">latm=50</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Logan</field>
+</doc>
+<doc>
+<field name="id">138508</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=34</field>
+<field name="longs">longs=44</field>
+<field name="area">6.04</field>
+<field name="name">Welch, West Virginia</field>
+<field name="populationdensity">400.3</field>
+<field name="lats">lats=14</field>
+<field name="caption">McDowell County Courthouse</field>
+<field name="population">2406</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24801</field>
+<field name="latm">latm=26</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">McDowell</field>
+</doc>
+<doc>
+<field name="id">138620</field>
+<field name="type">places</field>
+<field name="longd">longd=82</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=33</field>
+<field name="longs">longs=37</field>
+<field name="area">2.26</field>
+<field name="name">Ceredo, West Virginia</field>
+<field name="populationdensity">947.7</field>
+<field name="lats">lats=36</field>
+<field name="caption">Looking east along U.S. Route 60 from C Street</field>
+<field name="population">1450</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25507</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Wayne</field>
+</doc>
+<doc>
+<field name="id">138530</field>
+<field name="type">places</field>
+<field name="longd">longd=82</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=16</field>
+<field name="longs">longs=47</field>
+<field name="leader">Darrin McCormick</field>
+<field name="area">3.26</field>
+<field name="name">Williamson, West Virginia</field>
+<field name="populationdensity">978.8</field>
+<field name="lats">lats=26</field>
+<field name="caption">Williamson, West Virginia; view looking down East 2nd Ave.</field>
+<field name="population">3191</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25661</field>
+<field name="latm">latm=40</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Mingo</field>
+</doc>
+<doc>
+<field name="id">138488</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=44</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=2</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">1092.3</field>
+<field name="name">Benwood, West Virginia</field>
+<field name="area">1.86</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=46</field>
+<field name="latd">latd=40</field>
+<field name="population">1420</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26031</field>
+<field name="county">Marshall</field>
+<field name="latm">latm=0</field>
+</doc>
+<doc>
+<field name="id">138460</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=28</field>
+<field name="longs">longs=12</field>
+<field name="leader">Julia Spelsberg</field>
+<field name="area">2.00</field>
+<field name="name">Weston, West Virginia</field>
+<field name="populationdensity">2107.7</field>
+<field name="lats">lats=31</field>
+<field name="caption">Main Avenue</field>
+<field name="population">4110</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26452</field>
+<field name="latm">latm=2</field>
+<field name="establisheddate">1818-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Lewis</field>
+</doc>
+<doc>
+<field name="id">151286</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=18</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Smithers, West Virginia</field>
+<field name="area">0.50</field>
+<field name="populationdensity">1626.0</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=39</field>
+<field name="latd">latd=38</field>
+<field name="population">813</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">25186</field>
+<field name="county">Fayette ,  Kanawha</field>
+<field name="latm">latm=10</field>
+</doc>
+<doc>
+<field name="id">138434</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=42</field>
+<field name="longs">longs=51</field>
+<field name="leader">Carolyn L. Rader</field>
+<field name="area">3.28</field>
+<field name="name">Ripley, West Virginia</field>
+<field name="populationdensity">1025.9</field>
+<field name="lats">lats=16</field>
+<field name="caption">North Court Street in downtown Ripley in 2007</field>
+<field name="population">3252</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25271</field>
+<field name="latm">latm=49</field>
+<field name="longew">longEW=W</field>
+<field name="latns">latNS=N</field>
+<field name="county">Jackson</field>
+</doc>
+<doc>
+<field name="id">138502</field>
+<field name="type">places</field>
+<field name="establisheddate">1902-01-01T00:00:00Z</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=32</field>
+<field name="longs">longs=11</field>
+<field name="longew">longEW=W</field>
+<field name="name">Gary, West Virginia</field>
+<field name="leader">Larry Heizer</field>
+<field name="country">United States</field>
+<field name="populationdensity">1,152.4</field>
+<field name="area">0.87</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=41</field>
+<field name="population">968</field>
+<field name="latd">latd=37</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">24836</field>
+<field name="county">McDowell</field>
+<field name="timezone">EST</field>
+<field name="latm">latm=21</field>
+</doc>
+<doc>
+<field name="id">138515</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=5</field>
+<field name="longs">longs=45</field>
+<field name="area">3.05</field>
+<field name="name">Princeton, West Virginia</field>
+<field name="populationdensity">2136.9</field>
+<field name="lats">lats=5</field>
+<field name="caption">Mercer Street ( West Virginia Route 20 ) in downtown Princeton in 2007</field>
+<field name="population">6432</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24740 &amp; 24739</field>
+
+<field name="latm">latm=22</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofprinceton.org/</field>
+<field name="state">West Virginia</field>
+<field name="county">Mercer</field>
+</doc>
+<doc>
+<field name="id">138409</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=18</field>
+<field name="longs">longs=13</field>
+<field name="leader">Thomas D. Tayler</field>
+<field name="area">1.98</field>
+<field name="name">White Sulphur Springs, West Virginia</field>
+<field name="populationdensity">1253.3</field>
+<field name="lats">lats=38</field>
+<field name="nickname">The Spa City</field>
+<field name="population">2444</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24986</field>
+<field name="latm">latm=47</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Greenbrier</field>
+</doc>
+<doc>
+<field name="id">138544</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=32</field>
+<field name="longs">longs=12</field>
+<field name="leader">Robert C. "Bob" Johnson</field>
+<field name="area">1.67</field>
+<field name="name">Richwood, West Virginia</field>
+<field name="populationdensity">1273.9</field>
+<field name="lats">lats=25</field>
+<field name="nickname">The Ramp Capital of the World," "The Gateway to the Monongahela National Forest</field>
+<field name="population">2051</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">26261</field>
+<field name="motto">The city merry on the banks of the Cherry.</field>
+<field name="latm">latm=13</field>
+<field name="establisheddate">1901-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.richwoodwv.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Nicholas</field>
+</doc>
+<doc>
+<field name="id">138420</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=21</field>
+<field name="leader">Patsy Trecost</field>
+<field name="area">9.74</field>
+<field name="name">City of Clarksburg</field>
+<field name="populationdensity">1702.1</field>
+<field name="nickname">Jewel of the Hills</field>
+<field name="caption">Downtown Clarksburg in 2006</field>
+<field name="population">16578</field>
+<field name="latd">latd=39</field>
+<field name="motto">Proud Past....Unlimited Future</field>
+<field name="latm">latm=17</field>
+<field name="establisheddate">1785-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.cityofclarksburgwv.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Harrison</field>
+</doc>
+<doc>
+<field name="id">138610</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=1</field>
+<field name="longs">longs=11</field>
+<field name="leader">G. Thomas Bartlett III</field>
+<field name="area">3.80</field>
+<field name="name">Grafton, West Virginia</field>
+<field name="populationdensity">1407.1</field>
+<field name="lats">lats=30</field>
+<field name="population">5164</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26354</field>
+<field name="latm">latm=20</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Taylor</field>
+</doc>
+<doc>
+<field name="id">138456</field>
+<field name="type">places</field>
+
+<field name="longd">longd=81</field>
+<field name="longm">longm=49</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=11</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Dick Calloway</field>
+<field name="name">City of St. Albans</field>
+<field name="area">3.70</field>
+<field name="populationdensity">3050.8</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=49</field>
+<field name="website">www.stalbanswv.com</field>
+<field name="latd">latd=38</field>
+<field name="population">11044</field>
+<field name="county">Kanawha</field>
+<field name="latm">latm=22</field>
+</doc>
+<doc>
+<field name="id">138570</field>
+<field name="type">places</field>
+<field name="longd">longd=82</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=1</field>
+<field name="longs">longs=11</field>
+<field name="leader">Scott Edwards</field>
+<field name="area">3.77</field>
+<field name="name">Hurricane, West Virginia</field>
+<field name="populationdensity">1680.2</field>
+<field name="lats">lats=57</field>
+<field name="caption">Main Street in Hurricane in 2007</field>
+<field name="population">6284</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25526</field>
+<field name="latm">latm=25</field>
+<field name="establisheddate">1888-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.hurricanewv.com/</field>
+<field name="state">West Virginia</field>
+<field name="county">Putnam</field>
+</doc>
+<doc>
+<field name="id">138480</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=20</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">Mannington, West Virginia</field>
+<field name="area">1.15</field>
+<field name="populationdensity">1875.5</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=38</field>
+<field name="latd">latd=39</field>
+<field name="population">2063</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26582</field>
+<field name="county">Marion</field>
+<field name="latm">latm=31</field>
+</doc>
+<doc>
+<field name="id">138553</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=11</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">1823.5</field>
+<field name="name">St. Marys, West Virginia</field>
+<field name="area">1.02</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=47</field>
+<field name="caption">2nd Street in the central business district of St. Marys in 2006</field>
+<field name="latd">latd=39</field>
+<field name="population">1860</field>
+<field name="state">West Virginia</field>
+<field name="county">Pleasants</field>
+<field name="latm">latm=23</field>
+</doc>
+<doc>
+<field name="id">138413</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=36</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=29</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="name">New Cumberland, West Virginia</field>
+<field name="area">1.86</field>
+<field name="populationdensity">904.1</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=57</field>
+<field name="latd">latd=40</field>
+<field name="population">1103</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26047</field>
+<field name="county">Hancock</field>
+<field name="latm">latm=29</field>
+</doc>
+<doc>
+<field name="id">151282</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=35</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="populationdensity">1094.0</field>
+<field name="name">City of Weirton</field>
+<field name="area">19.26</field>
+<field name="latns">latNS=N</field>
+<field name="website">cityofweirton.com</field>
+<field name="nickname">"Gateway To The Valley"</field>
+<field name="latd">latd=40</field>
+<field name="population">19746</field>
+<field name="state">West Virginia</field>
+<field name="postalcode">26062</field>
+<field name="county">Hancock ,  Brooke</field>
+<field name="latm">latm=25</field>
+</doc>
+<doc>
+<field name="id">138436</field>
+<field name="type">places</field>
+<field name="longd">longd=77</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=22</field>
+<field name="leader">Peggy Smith</field>
+<field name="populationdensity">905.2</field>
+<field name="name">City of Charles Town, West Virginia</field>
+<field name="area">5.81</field>
+<field name="lats">lats=3</field>
+<field name="population">5259</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">25414</field>
+<field name="latm">latm=17</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.charlestownwv.us/</field>
+<field name="state">West Virginia</field>
+<field name="county">Jefferson</field>
+</doc>
+<doc>
+<field name="id">138430</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=41</field>
+<field name="area">1.90</field>
+<field name="name">Ravenswood, West Virginia</field>
+<field name="populationdensity">2118.0</field>
+<field name="lats">lats=11</field>
+<field name="nickname">Red Devils</field>
+<field name="knownfor">Colors are Red,Black,and White</field>
+<field name="population">3876</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">26164</field>
+<field name="latm">latm=57</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://ravenswoodwv.org/</field>
+<field name="state">West Virginia</field>
+<field name="county">Jackson</field>
+</doc>
+<doc>
+<field name="id">138622</field>
+<field name="type">places</field>
+<field name="longd">longd=82</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=34</field>
+<field name="longs">longs=43</field>
+<field name="leader">Ric Griffith</field>
+<field name="area">1.60</field>
+<field name="name">Kenova, West Virginia</field>
+<field name="populationdensity">2552.4</field>
+<field name="lats">lats=59</field>
+<field name="population">3216</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25530</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofkenova.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Wayne</field>
+</doc>
+<doc>
+<field name="id">138619</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=13</field>
+<field name="longs">longs=27</field>
+<field name="leader">Kenneth Davidson</field>
+<field name="area">2.83</field>
+<field name="name">Buckhannon, West Virginia</field>
+<field name="populationdensity">1992.6</field>
+<field name="lats">lats=21</field>
+<field name="caption">East Main Street in Buckhannon in 2006</field>
+<field name="population">5639</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">26201</field>
+<field name="latm">latm=59</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Upshur</field>
+</doc>
+<doc>
+<field name="id">138362</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=2</field>
+<field name="longs">longs=36</field>
+<field name="area">2.95</field>
+<field name="name">Philippi, West Virginia</field>
+<field name="populationdensity">1037.1</field>
+<field name="lats">lats=6</field>
+<field name="population">2966</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26416</field>
+<field name="latm">latm=9</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Barbour</field>
+</doc>
+<doc>
+<field name="id">138437</field>
+<field name="type">places</field>
+<field name="longd">longd=77</field>
+<field name="longm">longm=51</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=40</field>
+<field name="longew">longEW=W</field>
+<field name="leader">A. David Hamill</field>
+<field name="country">United States</field>
+<field name="populationdensity">551.6</field>
+<field name="name">Ranson, West Virginia</field>
+<field name="area">8.05</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=55</field>
+<field name="latd">latd=39</field>
+<field name="population">4440</field>
+<field name="state">West Virginia</field>
+<field name="county">Jefferson</field>
+<field name="latm">latm=17</field>
+</doc>
+<doc>
+<field name="id">138519</field>
+<field name="type">places</field>
+<field name="longd">longd=78</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=58</field>
+<field name="longs">longs=58</field>
+<field name="area">1.92</field>
+<field name="name">Keyser, West Virginia</field>
+<field name="populationdensity">2832.8</field>
+<field name="lats">lats=20</field>
+<field name="population">5439</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26726</field>
+<field name="latm">latm=26</field>
+<field name="establisheddate">1852-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Mineral</field>
+</doc>
+<doc>
+<field name="id">138376</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=35</field>
+<field name="longs">longs=39</field>
+<field name="leader">David Velegol</field>
+<field name="area">2.09</field>
+<field name="name">Follansbee, West Virginia</field>
+<field name="populationdensity">1622.8</field>
+<field name="lats">lats=59</field>
+<field name="nickname">City of Pride, Yokie</field>
+<field name="population">2986</field>
+<field name="latd">latd=40</field>
+<field name="postalcode">26037</field>
+<field name="motto">Follansbee Never Fails</field>
+<field name="latm">latm=19</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityoffollansbee.net   http://www.cityoffollansbee.net</field>
+<field name="state">West Virginia</field>
+<field name="county">Brooke</field>
+</doc>
+<doc>
+<field name="id">138365</field>
+<field name="type">places</field>
+<field name="longd">longd=77</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=58</field>
+<field name="longs">longs=4</field>
+<field name="leader">George Karos</field>
+<field name="area">6.67</field>
+<field name="officialname">City of Martinsburg</field>
+<field name="populationdensity">2590.5</field>
+<field name="lats">lats=33</field>
+<field name="nickname">Cuntztown</field>
+<field name="caption">Martinsburg Historic District</field>
+<field name="population">17227</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">25401–25405</field>
+<field name="latm">latm=27</field>
+<field name="establisheddate">1778-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="name">Martinsburg, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.cityofmartinsburg.org/</field>
+<field name="state">West Virginia</field>
+<field name="county">Berkeley</field>
+</doc>
+<doc>
+<field name="id">138402</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=26</field>
+<field name="longs">longs=25</field>
+<field name="leader">John Manchester</field>
+<field name="area">3.81</field>
+<field name="name">Lewisburg, West Virginia</field>
+<field name="populationdensity">1007.9</field>
+<field name="lats">lats=15</field>
+<field name="population">3830</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24901</field>
+<field name="latm">latm=48</field>
+<field name="establisheddate">1782-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Greenbrier</field>
+</doc>
+<doc>
+<field name="id">138575</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=10</field>
+<field name="longs">longs=59</field>
+<field name="leader">Emmett Pugh  ( D )</field>
+<field name="area">9.50</field>
+<field name="name">City of Beckley, West Virginia</field>
+<field name="populationdensity">1856.1</field>
+<field name="lats">lats=47</field>
+<field name="caption">Main Street in downtown Beckley in 2007.</field>
+<field name="population">17614</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25801, 25802, 25926</field>
+<field name="motto">The Gateway to Southern West Virginia</field>
+<field name="latm">latm=46</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.beckley.org/</field>
+<field name="state">West Virginia</field>
+<field name="county">Raleigh</field>
+</doc>
+<doc>
+<field name="id">138498</field>
+<field name="type">places</field>
+<field name="longd">longd=82</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=7</field>
+<field name="longs">longs=43</field>
+<field name="area">3.10</field>
+<field name="name">Point Pleasant, West Virginia</field>
+<field name="populationdensity">1812.5</field>
+<field name="lats">lats=27</field>
+<field name="caption">Point Pleasant (foreground) at the confluence of the Kanawha and Ohio Rivers.  Gallipolis, Ohio  is in the background right.</field>
+<field name="population">4350</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25550</field>
+<field name="latm">latm=51</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.ptpleasantwv.org</field>
+<field name="state">West Virginia</field>
+<field name="county">Mason</field>
+</doc>
+<doc>
+<field name="id">138392</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=8</field>
+<field name="longs">longs=43</field>
+<field name="area">4.89</field>
+<field name="name">Oak Hill, West Virginia</field>
+<field name="populationdensity">1584.0</field>
+<field name="lats">lats=58</field>
+<field name="caption">Main Street ( West Virginia Route 16 ) in downtown Oak Hill in 2007</field>
+<field name="population">7730</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">25901</field>
+<field name="latm">latm=58</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Fayette</field>
+</doc>
+<doc>
+<field name="id">57861</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=38</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=0</field>
+
+<field name="leader">Danny Jones ( R )</field>
+
+<field name="officialname">City of Charleston</field>
+<field name="area">32.66</field>
+<field name="populationdensity">1630.7</field>
+<field name="lats">lats=50</field>
+<field name="nickname">Charlie West, Capital City</field>
+<field name="caption">Downtown Charleston, West Virginia in August 1992.</field>
+<field name="population">51400</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">25301-25306, 25309, 25311-25315, 25317, 25320-25339, 25350, 25356-25358, 25360-25362, 25364-25365, 25375, 25387, 25389, 25392, 25396, 25064</field>
+<field name="latm">latm=20</field>
+<field name="longew">longEW=W</field>
+<field name="name">Charleston, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">cityofcharleston.org</field>
+<field name="state">West Virginia</field>
+<field name="county">Kanawha</field>
+</doc>
+<doc>
+<field name="id">138476</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=8</field>
+<field name="longs">longs=36</field>
+<field name="leader">Ron Straight</field>
+<field name="name">Fairmont, West Virginia</field>
+<field name="area">9.00</field>
+<field name="populationdensity">2169.8</field>
+<field name="lats">lats=53</field>
+<field name="nickname">"Friendly City"</field>
+<field name="caption">Downtown Fairmont and the  Monongahela River  in 2006</field>
+<field name="population">18704</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26554-26555</field>
+<field name="motto">"Spend a Day... Spend a Lifetime"</field>
+<field name="latm">latm=28</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">fairmontwv.gov</field>
+<field name="state">West Virginia</field>
+<field name="county">Marion</field>
+</doc>
+<doc>
+<field name="id">138593</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=51</field>
+<field name="longs">longs=3</field>
+<field name="leader">Van Broughton</field>
+<field name="area">3.43</field>
+<field name="name">Elkins, West Virginia</field>
+<field name="populationdensity">2068.2</field>
+<field name="lats">lats=17</field>
+<field name="caption">Davis Avenue in downtown Elkins in 2006</field>
+<field name="population">7094</field>
+<field name="latd">latd=38</field>
+<field name="postalcode">26241</field>
+<field name="latm">latm=55</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.CityOfElkinsWV.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Randolph</field>
+</doc>
+<doc>
+<field name="id">151290</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="longm">longm=41</field>
+<field name="timezone">Eastern</field>
+<field name="longs">longs=55</field>
+<field name="leader">Andy McKenzie (2008-)</field>
+<field name="name">City of Wheeling, West Virginia</field>
+<field name="area">16.01</field>
+<field name="populationdensity">2065.7</field>
+<field name="lats">lats=13</field>
+<field name="nickname">The Friendly City, Your Place to Play</field>
+<field name="caption">Downtown Wheeling and the  Ohio River  as viewed from  Wheeling Island  in 2006</field>
+<field name="latd">latd=40</field>
+<field name="population">28486</field>
+<field name="postalcode">26003</field>
+<field name="latm">latm=4</field>
+<field name="establisheddate">1769-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.wheelingwv.gov/</field>
+<field name="state">West Virginia</field>
+<field name="county">Ohio ,  Marshall</field>
+</doc>
+<doc>
+<field name="id">138489</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=33</field>
+<field name="longs">longs=58</field>
+<field name="area">0.87</field>
+<field name="name">Cameron, West Virginia</field>
+<field name="populationdensity">1100.0</field>
+<field name="lats">lats=36</field>
+<field name="nickname">Dragon country</field>
+<field name="caption">Front of the Curved Building, a local landmark</field>
+<field name="population">946</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26033</field>
+<field name="latm">latm=49</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Marshall</field>
+</doc>
+<doc>
+<field name="id">138641</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=27</field>
+<field name="longs">longs=2</field>
+<field name="area">1.79</field>
+<field name="name">Williamstown, West Virginia</field>
+<field name="populationdensity">2107.2</field>
+<field name="lats">lats=58</field>
+<field name="caption">Highland Avenue in Williamstown in 2007, as viewed from the south end of the  Williamstown Bridge</field>
+<field name="population">2908</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26187</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Wood</field>
+</doc>
+<doc>
+<field name="id">138638</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=32</field>
+<field name="longs">longs=32</field>
+<field name="leader">Robert Newell</field>
+<field name="area">12.35</field>
+<field name="name">City of Parkersburg</field>
+<field name="populationdensity">2664.3</field>
+<field name="lats">lats=58</field>
+<field name="nickname">The Burg, P-Burg, The Savings Bond Capital of America, The World of the Burg, Burgland, Marble Capital of the World</field>
+<field name="caption">Downtown Parkersburg as viewed from Fort Boreman Historical Park in 2006</field>
+<field name="population">31492</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26101, 26102, 26103, 26104, 26105, 26106</field>
+<field name="motto">Where West Virginia Began</field>
+<field name="latm">latm=15</field>
+<field name="establisheddate">1810-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.parkersburg-wv.com/</field>
+<field name="state">West Virginia</field>
+<field name="county">Wood</field>
+</doc>
+<doc>
+<field name="id">138536</field>
+<field name="type">places</field>
+<field name="longd">longd=79</field>
+<field name="longm">longm=57</field>
+<field name="timezone">EST</field>
+<field name="longs">longs=2</field>
+<field name="name">City of Morgantown, West Virginia</field>
+<field name="area">10.62</field>
+<field name="populationdensity">2916.4</field>
+<field name="lats">lats=1</field>
+<field name="caption">Downtown Morgantown from Fife Avenue</field>
+<field name="population">29660</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26501-26508</field>
+<field name="motto">Regina Monongahelae — Vestigia Nulla Retrorsum</field>
+<field name="latm">latm=38</field>
+<field name="establisheddate">1772-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.morgantown.com</field>
+<field name="state">West Virginia</field>
+<field name="county">Monongalia</field>
+</doc>
+<doc>
+<field name="id">138427</field>
+<field name="type">places</field>
+<field name="longd">longd=80</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longm">longm=18</field>
+<field name="longs">longs=1</field>
+<field name="leader">Debra Herndon</field>
+<field name="name">Shinnston, West Virginia</field>
+<field name="area">1.73</field>
+<field name="populationdensity">1272.3</field>
+<field name="lats">lats=39</field>
+<field name="caption">Pike Street ( U.S. Route 19 ) in downtown Shinnston in 2006</field>
+<field name="population">2201</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26431</field>
+<field name="latm">latm=23</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Harrison</field>
+</doc>
+<doc>
+<field name="id">138507</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=41</field>
+<field name="longs">longs=3</field>
+<field name="leader">Carolyn Cempela</field>
+<field name="area">0.92</field>
+<field name="name">City of War, West Virginia</field>
+<field name="populationdensity">968.5</field>
+<field name="lats">lats=4</field>
+<field name="nickname">West Virginia's most southern city</field>
+<field name="population">862</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24892</field>
+<field name="latm">latm=18</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://www.warwestvirginia.com//</field>
+<field name="state">West Virginia</field>
+<field name="county">McDowell</field>
+</doc>
+<doc>
+<field name="id">138411</field>
+<field name="type">places</field>
+<field name="longd">longd=78</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=45</field>
+<field name="longs">longs=25</field>
+<field name="leader">Daniel O. Hileman</field>
+<field name="populationdensity">1925.0</field>
+<field name="officialname">City of Romney</field>
+<field name="area">0.96</field>
+<field name="lats">lats=42</field>
+<field name="nickname">West Virginia's Oldest Town</field>
+<field name="population">1848</field>
+<field name="latd">latd=39</field>
+<field name="postalcode">26757</field>
+<field name="latm">latm=20</field>
+<field name="longew">longEW=W</field>
+<field name="name">Romney, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">http://cityofromney.com/</field>
+<field name="state">West Virginia</field>
+<field name="county">Hampshire</field>
+</doc>
+<doc>
+<field name="id">151285</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="longm">longm=19</field>
+<field name="timezone">Eastern (EST)</field>
+<field name="longs">longs=36</field>
+<field name="longew">longEW=W</field>
+<field name="leader">Chris Martin</field>
+<field name="name">City of Montgomery</field>
+<field name="area">1.59</field>
+<field name="populationdensity">1043.3</field>
+<field name="latns">latNS=N</field>
+<field name="lats">lats=48</field>
+<field name="latd">latd=38</field>
+<field name="population">1638</field>
+<field name="postalcode">25136</field>
+<field name="county">Fayette ,  Kanawha</field>
+<field name="latm">latm=10</field>
+</doc>
+<doc>
+<field name="id">93552</field>
+<field name="type">places</field>
+<field name="longd">longd=82</field>
+<field name="longm">longm=25</field>
+<field name="timezone">Eastern Standard Time</field>
+<field name="longs">longs=25</field>
+<field name="leader">Steve Williams  ( D )</field>
+<field name="name">Huntington</field>
+<field name="area">18.46</field>
+<field name="populationdensity">3029.5</field>
+<field name="lats">lats=15</field>
+<field name="nickname">The Jewel City / The River City / The River &amp; Rail City / Train City / Hollerwood, USA</field>
+<field name="caption">Clockwise: the Paul Ambrose Trail for Health (PATH), Fourth Avenue, the downtown skyline as seen from across the  Ohio River ,  Harris Riverfront Park , and the Huntington Welcome Center at Heritage Station.</field>
+<field name="latd">latd=38</field>
+<field name="population">49138</field>
+<field name="postalcode">25701-25729, 25755, 25770-25779</field>
+<field name="latm">latm=25</field>
+<field name="establisheddate">1775-01-01T00:00:00Z</field>
+<field name="longew">longEW=W</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="website">www.cityofhuntington.com</field>
+
+<field name="state">West Virginia</field>
+<field name="county">Cabell ,  Wayne</field>
+</doc>
+<doc>
+<field name="id">138510</field>
+<field name="type">places</field>
+<field name="longd">longd=81</field>
+<field name="timezone">EST</field>
+<field name="longm">longm=13</field>
+<field name="longs">longs=7</field>
+<field name="leader">Tom Cole</field>
+<field name="area">8.86</field>
+<field name="officialname">City of Bluefield</field>
+<field name="populationdensity">1179.1</field>
+<field name="lats">lats=44</field>
+<field name="nickname">Nature's Air Conditioned City</field>
+<field name="image">300px</field>
+<field name="population">10447</field>
+<field name="latd">latd=37</field>
+<field name="postalcode">24701</field>
+<field name="latm">latm=15</field>
+<field name="longew">longEW=W</field>
+<field name="name">Bluefield, West Virginia</field>
+<field name="country">United States</field>
+<field name="latns">latNS=N</field>
+<field name="state">West Virginia</field>
+<field name="county">Mercer</field>
+</doc>
+</add>

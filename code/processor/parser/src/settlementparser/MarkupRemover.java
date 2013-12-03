@@ -31,6 +31,7 @@ public class MarkupRemover {
 				} catch (ParseException ignore) {
 				}
 			}
+			System.out.println("DATE FORMAT NOT MATCHED!!!");
 			return "";
 			//throw new IllegalArgumentException("Invalid date: " + dateStr);
 		}

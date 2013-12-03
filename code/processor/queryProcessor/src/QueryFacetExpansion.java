@@ -17,6 +17,7 @@ public class QueryFacetExpansion {
 				query = new Query();
 				queryStr = QueryConstants.facettagger.get(facetStr[0].toLowerCase())+":\""+facetStr[1]+"\"";
 				query.setQueryStr(queryStr);
+				query.setRows(100);
 				query.addField(QueryConstants.queryMainTag);
 				query.addField(QueryConstants.facettagger.get(facetStr[0].toLowerCase()));
 				query.addFilterQuery(QueryConstants.queryTypeTag, facetStr[0].toLowerCase());
